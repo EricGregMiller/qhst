@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>Questions God Asks</Name>
+    <TagLine>We ask God a lot of questions. What questions does he ask us?</TagLine>
+    <Description>Twelve messages delivered Sunday mornings by Pastor Don Patterson July 29 through October 28, 2007. Messages 3, 10, 11 and 12 were lost because our microphone and computer stopped talking to each other.</Description>
+  </SeriesInfo>
+  <Message>
+    <Name>Adam, Where Are You?</Name> 
+    <Link>http://www.youtube.com/v/Sl_QPR7oE8E</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>1</Number>
+    <Date>July 29, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Where Is Your Brother?</Name>
+    <Link>http://www.youtube.com/v/v-5OpPRr7hw</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>2</Number>
+    <Date>August 5, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Who Darkens My Counsel?</Name>
+    <Link>http://www.youtube.com/v/DOTMji8mbZ8</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>4</Number>
+    <Date>August 26, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Is It Right to Neglect God?</Name>
+    <Link>http://www.youtube.com/v/3MHRMKPLDUQ</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>5</Number>
+    <Date>September 2, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Do You Believe?</Name>
+    <Link>http://www.youtube.com/v/h0QVhSE9Kv4</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>6</Number>
+    <Date>September 9, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Which is Easier to Say?</Name>
+    <Link>http://www.youtube.com/v/Io4b8A7lzmA</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>7</Number>
+    <Date>September 16, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Why Were You Searching For Me?</Name>
+    <Link>http://www.youtube.com/v/-JUz9VI08qg</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>8</Number>
+    <Date>September 23, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+    <ExtraInfo>The first two and a half minutes of this message have poor sound quality. It gets much better after that, at the start of the actual message.</ExtraInfo>
+  </Message>
+  <Message>
+    <Name>Don't You Understand?</Name>
+    <Link>http://www.youtube.com/v/vHV9B4WYJ0U</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>9</Number>
+    <Date>September 30, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+</MessageSeries>

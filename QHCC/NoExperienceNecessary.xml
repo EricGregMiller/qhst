@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>No Experience Necessary</Name>
+    <TagLine>We think of the displines as holy and special. In reality they were people like us and just as unqualified to serve God as we are.</TagLine>
+    <Description>A Sunday morning series delivered by Pastor Don Patterson which started November 18, 2007. The first message was lost because our microphone and computer stopped talking to each other. Messages 4 and 7 are also missing.</Description>
+  </SeriesInfo>
+  <Message>
+    <Name>Peter</Name> 
+    <Link>http://www.youtube.com/v/m3r12d4WBZk</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>2</Number>
+    <Date>November 25, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Andrew</Name>
+    <Link>http://www.youtube.com/v/V17xy---WVU</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>3</Number>
+    <Date>December 2, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Philip</Name>
+    <Link>http://www.youtube.com/v/SM6hxOET2KE</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>5</Number>
+    <Date>December 16, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Bartholomew/Nathaniel</Name>
+    <Link>http://www.youtube.com/v/LJhdJbvwNPs</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>6</Number>
+    <Date>December 23, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Thomas</Name>
+    <Link>http://www.youtube.com/v/mtHgxHxSxzA</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>8</Number>
+    <Date>January 6, 2008</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+</MessageSeries>

@@ -1,0 +1,190 @@
+<HTML>
+<HEAD>
+<TITLE>Logic: Propositions</TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" text="#000080">
+<font face=arial, helvetica,swiss size=2>
+<P>
+ <b> 2. Propositions</b>
+<P>
+   a. opposition
+<P>
+ The traditional logic of propositions or judgments is chiefly
+concerned with the classification and simpler interrelations of
+propositions formed from terms (for example, &quot;No men are
+liars&quot;).
+<P>
+ Propositions not compounded of other propositions are called &quot;categorical&quot;.
+ This word has the force of &quot;unconditional,&quot; the implied
+contrast being with forms like &quot;<I>If</I> all that the Bible
+says is true, all men are mortal&quot; or &quot;<I>Either</I>
+not all that the Bible says is true, <I>or</I> all men are mortal.&quot;
+ 
+<P>
+ Categoricals have a <I>subject term</I> and a <I>predicate term</I>
+(&quot;men&quot; is the subject term and &quot;mortal&quot; is
+the predicate term of &quot;All men are mortal&quot;) and are
+subdivided in two main ways: according to <I>quantity</I>, into
+<I>universals</I> (&quot;All men are mortal,&quot; &quot;No men
+are mortal&quot;) and <I>particulars</I> (&quot;Some men are mortal,&quot;
+&quot;Some men are not mortal&quot;), and according to <I>quality</I>,
+into <I>affirmatives</I> (&quot;All men are mortal,&quot; &quot;Some
+men are mortal&quot;) and <I>negatives</I> (&quot;No men are mortal,&quot;
+&quot;Some men are not mortal&quot;).  Universals are at the top, particulars at the bottom,
+affirmatives on the left and negatives on the right:
+<P>
+All X's are Y's       No X's are Y's
+<P>
+All X's are Y's       Some X's are not Y's
+<P>
+ Universal affirmatives are called A-propositions, particular
+affirmatives I-propositions, universal negatives E-propositions,
+and particular negatives )-propositions (the vowels being taken
+from the words <I>affirmo</I> and <I>nego</I>).  Two other &quot;quantities
+are commonly mentioned, namely <I>singular</I> and <I>indefinite</I>.
+ Singular propositions, such as &quot;Socrates is mortal,&quot;
+are a genuinely distinct type, which we shall touch upoon at appropriate
+points; indefinites, such as &quot;Men are mortal,&quot; seem
+merely to be universals or particulars in which the quantity is
+left unstateed.  The expressions other than terms which enter
+into these forms are called &quot;syncategorematic&quot;; they
+are divided into the signs of quantity &quot;all&quot; and &quot;some&quot;
+and the copulas &quot;is&quot; or &quot;are&quot; and &quot;is
+not&quot; or &quot;are not.&quot;  (&quot;No&quot; is both a sighn
+of quantity and a sign of negation.)
+<P>
+ These types of propositions -- A, E, I, and O -- are the traditional
+&quot;four forms&quot;, and as a preliminary to logical manipulation
+it is customary to restate given sentences in some standard way
+that will make their quanityt and quality immediately evident.
+ The forms given above, with &quot;all,&quot; etc., and with plural
+common nouns for terms, are the most widely used, but it is in
+some ways less misleading to use &quot;every,&quot; etc., and
+the terms in the singular -- &quot;Every X is a Y,&quot; &quot;No
+X is a Y,&quot; &quot;Some X is a Y,&quot; &quot;Some X is not
+a Y.&quot; What is important is to understand that &quot;some&quot;
+means simply &quot;at least one&quot;; &quot;Some men are mortals&quot;
+or &quot;Some man is a mortal&quot; must be understood as neither
+affirming nor denying that more than one man is mortal and as
+neither affirming nor denying that all men are (i.e., &quot;some&quot;
+does NOT mean &quot;only some&quot;).
+<P>
+ A square of the type shown above is called a <I>square of opposition</I>,
+and propositions with the same terms in the same order may be
+&quot;opposed&quot; in four ways.  Universals of opposite quality
+(&quot;Every X is a Y,&quot; &quot;No X is a Y&quot;) are said
+to be <I>contraries</I>; these cannot be jointly true.  Particulars
+of opposite quality (&quot;Some X is a Y,&quot; &quot;Some X is
+not a Y&quot;) are said to be <I>subcontraries</I>; these cannot
+be jointly false.  Propositions opposed only in quantity are said
+to be <I>subalterns</I>, the <I>subalternant</I> universal implying
+(without being implied by) the <I>subalternate</I> particular
+(&quot;Every X is a Y&quot; implies &quot;Some X is a Y,&quot;
+and &quot;No X is a Y&quot; implies &quot;Some X is not a Y&quot;).
+ Propositions opposed in both quantity and quality (&quot;Every
+X is a Y' and &quot;Some X is not a Y,&quot; and &quot;No X is
+a Y&quot; and &quot;Some X is a Y&quot;) are <I>contradictories</I>;
+they cannot be jointly true or jointly false -- the truth of a
+given proposition implies the falsehood of its contradictory;its
+falsehood implies the contradictory's truth.
+<P>
+   b. Equipolence
+<P>
+ Closely connected with the theory of opposition is that of the
+<I>equipollence</I> of propositions with the same terms in the
+same order but with negative particles variously placed within
+them.  Since contraictories are true and false under reveresed
+conditions, any proposiltion may be equated with the simple denial
+of its contradictory.  Thus, &quot;Som X is not a Y&quot; has
+the same logical force as &quot;Not every X is a Y,&quot; and
+vconversely, &quot;Every X is a Y&quot; has the force of &quot;Not
+(some X is not a Y),&quot; or, to give it a more normal English
+expression, &quot;Not any X is not a Y&quot;.  Similarly, &quot;Some
+X is a Y&quot; has the force of &quot;Not (no X is a Y)&quot;
+and &quot;No X is a Y&quot; that of &quot;Not (some X is a Y)&quot;
+-- i.e. &quot;Not any X is a Y.&quot;  Also, since &quot;no&quot;
+conveys universality and negativeness at once, &quot;No X is a
+Y&quot; has the force of &quot;Every X is not-a-Y&quot;, and,
+conversely, &quot;Every X is a Y&quot; has the force of &quot;No
+X is not-a-Y.&quot;  Writers with an interest in simplification
+have seen in these equivalences a means of dispensing with all
+but one of the signs &quot;every&quot;, &quot;Some&quot;, and
+&quot;no.&quot;  thus the four forms may all be expressed in terms
+of &quot;every&quot;, as follows:
+<P>
+ Every X is a Y (A)
+<P>
+ Every X is not-a-Y (E)
+<P>
+ Not every X is not-a-Y (I)
+<P>
+ Not every X is a Y (O)
+<P>
+ Of singular propositions all that need be said at this point
+is that they divide into affirmatives (&quot;Socarates is mortal,&quot;
+&quot;this is a man&quot;, &quot;this man is mortal&quot;) and
+negatives (&quot;Socrates is not a mortal,&quot; etc.) and that
+when their subject is formed by prefixing &quot;this&quot;to a
+common noun (as in &quot;This man is mortal&quot;), the singular
+form is implied by the corresponding universal (&quot;Every man
+is mortal&quot;) and implies the corresponding particular (&quot;Some
+man is mortal&quot;).  Some of the traditional logicians attempted
+to assimilate singular propositions to particulars, some to assimilate
+them to universals, but these attempts are not very impressive,
+and it is one of the few merits of the Renaissance logician Peter
+Ramus that he and his followers treated them consistently as a
+type of their own.
+<P>
+   c. Conversion of Propositions
+<P>
+ With regard to pairs of propositions of the same form and with
+the same terms, but in reverse order -- for example &quot;No X
+is a Y&quot; and &quot;No Y is an X&quot; -- these are sometimes
+equivalent and sometimes not.  Where they are, as in the case
+just given, they are said to be converses of one another, and
+the forms are said to be convertible.  E and I are convertible;
+A and O are not.  
+<P>
+ That every man is an animal, for example, does not imply that
+every animal is a man, and that some animal is not a horse does
+not imply that some horse is not an animal.    Conversion, the
+inference from a given proposition to its converse (Some men are
+liars; therefore, some liars are men), is a type of immediate
+inference -- that is, inference involving only one premise (as
+opposed, for instance, to syllogisms, which have two).  Other
+immediate inferences are those from a given proposition to an
+&quot;equipollent&quot; form in the sense of the preceding section
+(for example, &quot;Every man is mortal; therefore not any man
+is not&quot;) and from a subalternant universal to its subalternate
+particular (&quot;Every man is mortal; therefore, some man is
+mortal&quot;).
+<P>
+ The conversion just described is &quot;simple&quot; conversion;
+with universals (even A, though it is not &quot;simply&quot; convertible)
+there is also a conversion <I>per accidens</I> or <I>subaltern</I>
+conversion -- that is, a legitimate inference to the corresponding
+particular form with its terms transposed.  Thus, althought &quot;Every
+man is an animal&quot; does not impmly that every animal is a
+man, it does imply that some animal is.
+<P>
+ Other forms of immediate inference arise when negative terms
+are introduced.  The simultaneous interchange and negation of
+subject and predicate is called <I>conversion by contraposition</I>
+or simply contrapoisition.  It is a valid process with A's and
+O's, not with E's and I's (&quot;Every man is an animal&quot;
+immplies &quot;Every non-animal is a non-man&quot; -- whatever
+is not an animal is not a man -- and &quot;Not every animal is
+a man&quot; implies &quot;Not every non-man is a non-animal,&quot;
+but &quot;No horse is a man&quot; does not imply &quot;No non-man
+is a non-horse&quot;; &quot;Some X is a Y&quot; is true and &quot;Some
+non-Y is a non-X&quot; false if the X's and the Y's overlap and
+between them exhaust the universe.)  All of the four forms may
+be &quot;obverted&quot; -- that is have their quality changed
+and the predicate negated (&quot;Every X is a Y&quot; implies
+&quot;No X is a non-Y&quot;, &quot;No X is a Y&quot; implies &quot;Every
+X is a non-Y,&quot; and similarly with the particulars).  A variety
+of names are given to the results of repeated successive obversion
+and conversion.
+</BODY>
+
+</HTML>

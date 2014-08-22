@@ -1,0 +1,12 @@
+div.AdWrap
+{
+  width: 100%;
+  background-color: #222222;
+}
+
+div.AdSense
+{
+  width: 728px;
+  height: 90px;
+  margin:0 auto;
+}

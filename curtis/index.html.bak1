@@ -1,0 +1,53 @@
+<!-- The Curtis Design Group (c)1997 rick@curtis.net-->
+
+<HTML>
+<HEAD>
+<TITLE>The Curtis Design Group</TITLE>
+<META CONTENT="An Internet Based Advertising and Creative Marketing Agency" NAME="Description">
+<META CONTENT="The Curtis Design Group" NAME="Company">
+<META CONTENT="design, homepages, business presence, photography, advertising, internet, email" NAME="keyword">
+<META NAME="Author" CONTENT="Rick Curtis -- rick@curtis.net">
+  <link rel="shortcut icon" href="/Master/qhst.ico" />
+  <link rel="stylesheet" type="text/css" href="/Master/QHST.css" />
+  <script src="/Master/NavigateButtonSupport.js"></script>
+</HEAD>
+
+<body>
+  <script src="/Master/QHSTPageBegin.js"></script>
+<TABLE width=600 cellspacing=0 cellpadding=0>
+
+<TR VALIGN="top">
+<TD COLSPAN=4><IMG SRC="top.jpg" BORDER=0 USEMAP="#map0">
+<MAP NAME="map0"><AREA SHAPE="rect" ALT="Information" COORDS="455,36,535,52" HREF="information.html">
+<AREA SHAPE="rect" ALT="Return" COORDS="538,36,586,52" HREF="/">
+</MAP></TD>
+</TR>
+
+
+<tr valign="center"><td colspan=4 background="clouds.jpg" height=300>
+
+<center><b> <p>
+
+<font face=arial size=3>
+
+Another quality web site provided for by: The Curtis Design Group. 
+If you are looking for your own domain, we offer domains from $30.00 
+per month. 20% of that will go to benefit this school: Quartz Hill School of Theology. 
+If you are interested in having your own domain, please contact us by clicking on the <i>Information</i> 
+link above. To return to the school's homepage, click on <i>Return</i><p>
+Domain Information:<br>Monthly Fee: $30<br>10 Email Address ($2 each additional)<br>FTP/Telnet Access
+</font><p>
+<font face=arial size=5>20% of your monthly domain fee will go to benefit Quartz Hill School of Theology!</font><p>
+
+
+
+</b></td></tr>
+<!--<tr valign="top"><td colspan=4 height=7 bgcolor="#000000"></td></tr>-->
+<tr valign="top"><td colspan=4 height=7 ></td></tr>
+
+
+</TABLE>
+  <script src="/Master/QHSTPageEnd.js"></script>
+</BODY>
+</HTML>
+

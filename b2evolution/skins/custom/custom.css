@@ -1,0 +1,317 @@
+/* Designed by François PLANQUE - http://fplanque.net/ */
+
+@import url(../../rsc/basic.css);	/* Import basic styles */
+@import url(../../rsc/img.css);	/* Import standard image styles */
+@import url(../../rsc/blog_elements.css);	/* Import standard blog elements styles */
+@import url(../../rsc/forms.css);	/* Import default form styles */
+@import url(../../rsc/comments.css);	/* Import default comment styles */
+
+body {
+	background: #fff url(img/bg.png) repeat-y 50% 0;
+	padding: 0px;
+	margin: 0px;
+	color: #000;
+	font: 84% Arial, Helvetica, sans-serif;
+}
+
+a {
+	color: #569;
+}
+a:visited {
+	color: #000;
+}
+a:hover {
+	color: #9ae;
+}
+
+h2 {
+	color: #78a;
+	font-size: 180%;
+	margin: 0;
+}
+h3 {
+	color: #78a;
+	font-size: 120%;
+}
+h4 {
+	color: #78a;
+	font-size: 110%;
+}
+
+table.invisible
+{
+	margin: 1ex;
+	border-collapse: collapse
+}
+table.invisible td
+{
+	padding: 0ex 1ex;
+}
+td.right
+{
+	text-align: right;
+}
+div#pageFooter {
+	clear: both;
+	background-color: #fff;
+	width: 738px;
+	margin: 0 auto;
+	padding: 0 0 1ex 0;
+}
+p.baseline {
+	border-top: 1px solid #ddd;
+	text-align: center;
+	font-size: 74%;
+	color: #999;
+	padding: 1ex;
+	margin: 0;
+}
+hr {
+	height: 0;
+	border: 0;
+	border-top: 1px solid #78a;
+}
+
+div#wrapper {
+	background: #fff url(img/bg_content.gif) repeat-y 0 0;
+	width: 740px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+div.pageHeader {
+	padding: 1ex;
+	margin: 0 1px 1ex 1px;
+	border-bottom: 1px solid #ddd;
+	text-align: center;
+	background: #78a;
+}
+
+h1#pageTitle {
+	color: #fff;
+	font-size: 270%;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+}
+
+ul#bloglist {
+	background-color: #fff;
+	border-bottom: 1px solid #000;
+	margin: 0 1px;
+	padding: 0;
+	list-style-type:none;
+	padding: .5ex 0;
+}
+ul#bloglist li {
+	border-right: 1px solid #000;
+	display: inline;
+	padding: .5ex 1em;
+}
+
+a.BlogButton,
+a.BlogButtonCurr {
+	font-weight: bold;
+	text-decoration: none;
+}
+a.BlogButton {
+	color: #000;
+}
+a.BlogButton:hover {
+	text-decoration: underline;
+	color: #9ae;
+}
+a.BlogButtonCurr,
+a.BlogButtonCurr:visited {
+	color: #78a;
+}
+a.BlogButtonCurr:hover {
+	text-decoration: underline;
+	color: #9ae;
+}
+
+
+.pageSubTitle {
+	color: #fff;
+	letter-spacing: 4px;
+	text-align: center;
+	vertical-align: middle;
+	border: 0px;
+	padding-right: 6px;
+	padding-top: 6px;
+	padding-bottom: 4px;
+	padding-left: 6px;
+	font: 109% Arial, Helvetica, sans-serif;
+
+}
+div.stats{
+	float: right;
+	padding-right: 1px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 0px;
+}
+
+/* Styles for main area (left) */
+h2 {
+	margin: 1ex;
+	border-bottom: 1px solid #78a;
+}
+
+/* Styles for posts */
+.bPosts {
+	float: left;
+	width: 480px;
+	overflow: hidden;
+	/* background: #090;*/
+}
+.bPost, .bPostpublished
+{
+	clear: both;
+	margin: 0 2.5ex;
+	padding: 0;
+	border-bottom: 1px solid #ddd;
+	/* border: 1px solid #78a; */
+}
+.bSmallHead {
+	font-size: 80%;
+	color: #999;
+	margin: 2ex 0 1ex 0;
+}
+.bTitle {
+	color: #78a;
+	margin: 1ex 0;
+}
+.bText {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.bSmallPrint
+{
+	clear: both;
+	color: #999;
+	font-size: 80%;
+	margin: 1ex 0 2ex 0;
+}
+
+input.bComment, 
+textarea.bComment
+{
+	background-color: #eee;
+	border: 1px solid #ccc;
+	width: 97%;
+	padding: 2px;
+	margin: 0ex;
+}
+select.bComment		/* Used by the profile form */
+{
+	background-color: #eee;
+	border: 1px solid #ccc;
+	padding: 1px;
+	margin: 0ex;
+}
+
+
+/* Styles for stats */
+div.statbloc
+{
+	float: left;
+	width: 44%;
+	margin: 0 0 2ex 1.5ex; 
+	border: 1px solid #78a;
+}
+div.statbloc h3
+{
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #FFFFFF;
+	text-align: center;
+	background: #78a;
+	padding: 1ex;
+}
+
+input.submit,
+input.reset {
+	background-color: #ddd;
+	color: #78a;
+	border: 1px solid #000;
+	font-weight: bold;
+	padding: 1px;
+}
+
+input.submit:hover {
+	color: #000;
+	text-decoration: underline;
+}
+
+/* Styles for sidebar (right) */
+.bSideBar {
+	width: 259px;	
+	float: right;
+	overflow: hidden;
+	/* background: #900; */
+}
+.bSideItem {
+	margin: 2ex;
+	padding: 0 0 2ex 0;
+	border-bottom: 1px solid #ddd;
+}
+.bSideItem ul {
+	margin-left: 8px;
+	padding-left: 8px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	list-style-type:square;
+}
+.bSideItem ul ul{
+	margin-left: 8px;
+	padding-left: 8px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.bSideItem form {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.dimmed
+{
+	color: #aaa;
+	font-size: 84%;
+}
+input.SearchField
+{
+	background-color: #eee;
+	border: 1px solid #ccc;
+	padding: .5ex;
+	width: 96%;
+	margin: 0ex;
+}
+
+/* Calendar: */
+caption.bCalendarCaption {
+	border: 1px solid #ccc;
+	background-color: #eee;
+	border-bottom: 0;
+}
+table.bCalendarTable {
+	border: solid 1px #ccc;
+	border-collapse: separate; 
+}
+table.bCalendarTable tfoot td {
+	background-color: #eee;
+	border-top: 1px solid #ccc;
+}
+table.bCalendarTable tfoot a {
+	text-decoration: none;
+}
+table.bCalendarTable tfoot a:hover {
+	background-color: #78a;
+	color: #fff;
+}
+th.bCalendarHeaderCell {
+	color: #abc;
+}
+#bCalendarToday {
+	background-color: #bce;
+}

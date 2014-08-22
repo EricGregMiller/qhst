@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeriesList>
+  <MessageSeries>
+    <Name>No Experience Necessary</Name>
+    <Link>NoExperienceNecessary.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Questions God Asks</Name>
+    <Link>QuestionsGodAsks.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Other Messages of 2007</Name>
+    <Link>OtherMessages2007.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Islam Theology and History</Name>
+    <Link>IslamTheologyAndHistory.xml</Link>
+  </MessageSeries>
+</MessageSeriesList>

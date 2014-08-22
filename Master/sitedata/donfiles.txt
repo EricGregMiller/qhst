@@ -1,0 +1,16 @@
+QHCC/church.htm
+QHCC/location.html
+cartoons.htm
+church.htm
+journal/cartoons/cartoons.htm
+journal/cartoons/pix1.htm
+journal/cartoons/pix2.htm
+journal/cartoons/pix3.htm
+journal/cartoons/pix4.htm
+journal/cartoons/pix5.htm
+location.html
+pix1.htm
+pix2.htm
+pix3.htm
+pix4.htm
+pix5.htm

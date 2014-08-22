@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>Other Messages of 2013</Name>
+    <TagLine>Message given in 2013 that are not part of a series.</TagLine>
+    <Description></Description>
+  </SeriesInfo>
+  <Message>
+    <Name>Our Mission: Matthew 28:16-20</Name> 
+    <Link>http://www.youtube.com/v/IR_ruDt9SBA</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>1</Number>
+    <Date>January 20, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Easter: The Garden Tomb</Name> 
+    <Link>http://www.youtube.com/v/2FmCuSWdcQQ</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>2</Number>
+    <Date>March 31, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+</MessageSeries>

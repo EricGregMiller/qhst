@@ -1,0 +1,99 @@
+Keyboard Map of SPEdessa, a public domain Syriac (Estrangela) font
+Created by: Jimmy Adair, Scholars Press
+Last modified: 19 February 1996
+
+Description: SPEdessa exists in both Macintosh and Windows 
+versions, both with the same character and keyboard maps.  By 
+design, all characters in the font lie between decimal 32 and 127 
+(20x-7Fx, 040-0177), so they should transfer without problem over 
+the Internet.  The font is designed to follow the Michigan-
+Claremont encoding scheme (see http://scholar.cc.emory.edu/scripts 
+/societies/RSN/Offline/off1.html#transliteration) to as great an 
+extent as possible (the Michigan-Claremont scheme is designed for Hebrew).
+
+The consonants are listed first in alphabetical order, followed by vowels
+and other signs.  Please note the distinction between upper and lower case
+in "key to push"; all shifted keys are so indicated.  Also, note that
+unjoined forms and forms joined only on the right side are unshifted,
+whereas forms that are joined on the left (and possibly on the right as
+well) are shifted (nun joined on the right is a special case).  Although
+spacing between joined letters should be adequate for most purposes, a
+special joiner character is included for increasing the space between two
+joined letters.  A few differences may exist among keyboards for some
+shifted keys (e.g., is " shift-' or shift-2 ?), so people with different
+keyboards will have to make the proper adjustments. 
+
+character description                     key to push
+
+alaph                                     )   (shift-0)
+beth (unjoined/joined on right)           b
+beth (joined on left/joined on both)      B   (shift-b)
+gamal (unjoined/joined on right)          g
+gamal (joined on left/joined on both)     G   (shift-g)
+dalath                                    d
+he                                        h
+waw                                       w
+zayn                                      z
+heth (unjoined/joined on right)           x
+heth (joined on left/joined on both)      X   (shift-x)
+teth (unjoined/joined on right)           =
+teth (joined on left/joined on both)      +   (shift-=)
+yudh (unjoined/joined on right)           y
+yudh (joined on left/joined on both)      Y   (shift-y)
+kaph (unjoined/joined on right)           k
+kaph (joined on left/joined on both)      K   (shift-k)
+lamadh (unjoined/joined on right)         l
+lamadh (joined on left/joined on both)    L   (shift-l)
+mim (unjoined/joined on right)            m
+mim (joined on left/joined on both)       M   (shift-m)
+nun (unjoined)                            n
+nun (joined on left/joined on both)       N   (shift-n)
+nun (joined on right)                     o
+semkath (unjoined/joined on right)        s
+semkath (joined on left/joined on both)   S   (shift-s)
+e (unjoined/joined on right)              9
+e (joined on left/joined on both)         (   (shift-9)
+pe (unjoined/joined on right)             p
+pe (joined on left/joined on both)        P   (shift-p)
+tsadhe                                    c
+qoph (unjoined/joined on right)           q
+qoph (joined on left/joined on both)      Q   (shift-q)
+rish                                      r
+shin (unjoined/joined on right)           4
+shin (joined on left/joined on both)      $   (shift-4)
+taw                                       t
+
+ptaha (short a, wide character)           a
+ptaha (short a, narrow character)         A
+ptaha (short a, with lamadh)              0   (zero)
+zqapa (long a, wide character)            f
+zqapa (long a, narrow character)          F
+zqapa (long a, with lamadh)               1   (one)
+hbatsa (i, wide character)                i
+hbatsa (i, narrow character)              I
+hbatsa (i, with lamadh)                   2
+rbatsa (e, wide character)                e
+rbatsa (e, narrow character)              E
+rbatsa (e, with lamadh)                   3
+utsatsa (u, wide character)               u
+utsatsa (u, narrow character)             U
+utsatsa (u, with lamadh)                  6
+
+four dots in diamond                      :   (colon, shift-;)
+period                                    .   (period)
+raised dot                                &   (ampersand, shift-7)
+two diagonal dots                         ;   (semicolon)
+two vertical dots                         !   (exclamation point, shift-1)
+
+seyame (wide character)                   8
+seyame (narrow character)                 *   (asterisk, shift-8)
+seyame (with lamadh)                      ^   (caret, shift-6)
+superdot (wide character)                 [   (left bracket)
+superdot (narrow character)               {   (left brace, shift-[)
+subdot (wide character)                   ]   (right bracket)
+subdot (narrow character)                 }   (right brace, shift ])
+underline (wide character)                \   (back slash)
+underline (narrow character)              |   (virgule, shift-\)
+joiner                                    _   (underscore, shift--)
+non-breaking space                        7
+space                                     space

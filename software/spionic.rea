@@ -1,0 +1,134 @@
+Keyboard Map of SPIonic, a public domain Greek font
+Created by: Jimmy Adair, Scholars Press
+Last modified: 12 April 1996
+Modification 95NOV08: add macrons to indicate long vowels
+Modification 96APR12: add elision character
+
+Description: SPIonic exists in both Macintosh and Windows 
+versions, both with the same character and keyboard maps.  By 
+design, all characters in the font lie between decimal 32 and 127 
+(20x-7Fx, 040-0177), so they should transfer without problem over 
+the Internet.  The font is designed to follow the Thesaurus 
+Linguae Graecae encoding scheme (see http://scholar.cc.emory.edu 
+/scripts/societies/RSN/Offline/off1.html#transliteration) to as 
+great an extent as possible, with a few exceptions.  The most 
+important exception is that upper and lower case letters have 
+separate code points, unlike the TLG standard which requires an 
+asterisk to indicate an uppercase letter (however, the asterisk is 
+also part of the font).  A second major variation is that 
+breathing marks, accents, and other diacriticals exist in two 
+forms: one for use with narrow characters and one for use with 
+wide characters.
+
+The uppercase letters are listed first in alphabetical order, 
+followed by lowercase letters, then breathing mark and accent 
+combinations, and then by other symbols.  Please note the 
+distinction between upper and lower case in "key to push"; all 
+shifted keys are so indicated.  Also, note that diacriticals that 
+are designed for narrow characters are generally unshifted, 
+whereas the corresponding diacriticals for wide characters are 
+shifted (the standalone dieresis, following TLG, is the 
+exception).  Standalone vowels (e.g., before an uppercase letter 
+at the beginning of a word) may be simulated by typing a non-
+breaking space (7) followed by the narrow breathing mark/accent 
+combination.
+
+A few differences may exist among keyboards for some shifted keys 
+(e.g., is " shift-' or shift-2 ?), so people with different 
+keyboards will have to make the proper adjustments.
+
+character description              key to push
+
+alpha (uppercase)                  A   (shift-a)
+beta (uppercase)                   B   (shift-b)
+gamma (uppercase)                  G   (shift-g)
+delta (uppercase)                  D   (shift-d)
+epsilon (uppercase)                E   (shift-e)
+zeta (uppercase)                   Z   (shift-z)
+eta (uppercase)                    H   (shift-h)
+vau/digamma (uppercase)            V   (shift-v)
+theta (uppercase)                  Q   (shift-q)
+iota (uppercase)                   I   (shift-i)
+kappa (uppercase)                  K   (shift-k)
+lambda (uppercase)                 L   (shift-l)
+mu (uppercase)                     M   (shift-m)
+nu (uppercase)                     N   (shift-n)
+xi (uppercase)                     C   (shift-c)
+omicron (uppercase)                O   (shift-o)
+pi (uppercase)                     P   (shift-p)
+qoppa (uppercase)                  J   (shift-j)
+rho (uppercase)                    R   (shift-r)
+sigma (uppercase)                  S   (shift-s)
+tau (uppercase)                    T   (shift-t)
+upsilon (uppercase)                U   (shift-u)
+phi (uppercase)                    F   (shift-f)
+chi (uppercase)                    X   (shift-x)
+psi (uppercase)                    Y   (shift-y)
+omega (uppercase)                  W   (shift-w)
+sampi (uppercase)                  `   (grave accent)
+alpha (lowercase)                  a
+beta (lowercase)                   b
+gamma (lowercase)                  g
+delta (lowercase)                  d
+epsilon (lowercase)                e
+vau/digamma (lowercase)            v
+zeta (lowercase)                   z
+eta (lowercase)                    h
+theta (lowercase)                  q
+iota (lowercase)                   i
+iota subscript                     |   (virgule, shift-\)
+kappa (lowercase)                  k
+lambda (lowercase)                 l
+mu (lowercase)                     m
+nu (lowercase)                     n
+xi (lowercase)                     c
+omicron (lowercase)                o
+pi (lowercase)                     p
+rho (lowercase)                    r
+sigma initial/medial (lowercase)   s
+sigma final (lowercase)            j
+tau (lowercase)                    t
+upsilon (lowercase)                u
+phi (lowercase)                    f
+chi (lowercase)                    x
+psi (lowercase)                    y
+omega (lowercase)                  w
+smooth breathing (narrow char)     0   (zero)
+smooth breathing (wide char)       )   (shift-0)
+rough breathing (narrow char)      9
+rough breathing (wide char)        (   (shift-9)
+acute accent (narrow char)         /   (forward slash)
+acute accent (wide char)           &   (ampersand, shift-7)
+grave accent (narrow char)         \   (backslash)
+grave accent (wide char)           _   (underscore, shift--)
+circumflex accent (narrow char)    =   (equal sign)
+circumflex accent (wide char)      ~   (tilde, shift-`)
+smooth+acute (narrow char)         1   (one)
+smooth+acute (wide char)           !   (exclamation mark, shift-1)
+smooth+grave (narrow char)         2
+smooth+grave (wide char)           @   ("at" sign, shift-2)
+smooth+circumflex (narrow char)    ]   (right bracket)
+smooth+circumflex (wide char)      }   (right brace, shift-])
+rough+acute (narrow char)          3
+rough+acute (wide char)            #   (number sign, shift-3)
+rough+grave (narrow char)          4   
+rough+grave (wide char)            $   (dollar sign, shift-4)
+rough+circumflex (narrow char)     [   (left bracket)
+rough+circumflex (wide char)       {   (left brace, shift-[)
+dieresis (narrow char)             +   (plus, shift-=)
+dieresis (wide char)               "   (double quote, shift-')
+dieresis+acute (narrow char)       5
+dieresis+acute (wide char)         %   (percent, shift-5)
+dieresis+grave (narrow char)       6
+dieresis+grave (wide char)         ^   (caret, shift-6)
+macron (narrow char)               <   (less than, shift-,)
+macron (wide char)                 >   (greater than, shift-.)
+comma                              ,   (comma)
+colon (raised dot)                 :   (colon, shift-;)
+full stop (period)                 .   (period)
+question mark                      ;   (semi-colon)
+dash                               -   (hyphen)
+elision mark                       '   (single quote)
+sub-linear dot (uncertainty)       ?   (question mark)
+non-breaking space                 7
+space                              space

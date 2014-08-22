@@ -1,0 +1,962 @@
+<HTML>
+<HEAD>
+<TITLE>Logic: Syllogisms</TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" text="#000080">
+<font face=arial, helvetica,swiss size=2>
+<P>
+3. Syllogisms
+<P>
+a. Introduction
+<P>
+A categorical syllogism is the inference of one categorical proposition,
+the conclusion, from two others, the premises, each premise having
+one term in common with the conclusion and one term in common
+with the other premises -- for example:
+<P>
+Every animal is mortal;
+<P>
+Every man is an animal;
+<P>
+Therefore, every man is mortal.
+<P>
+The predicate of the conclusion (here, &quot;mortal&quot;) is
+called the <I>major</I> term, and the premise which contains it
+(here written first) the major premise. The subject of the conclusion
+(&quot;man&quot;) is the <I>minor</I> term, and the premise which
+contains it (here written second) the minor premise. The term
+common to the two premises (&quot;animal&quot;) is the <I>middle</I>
+term.
+<P>
+b. Figures and moods
+<P>
+Syllogisms are divided into four <I>figures</I>, according to
+the placing of the middle term in the two premises.
+<P>
+In the first figure the middle term is subject in the major premise
+and predicate in the minor.
+<P>
+In the second figure the middle term is predicate in both.
+<P>
+In the third figure the middle term is subject in both.
+<P>
+In the fourth figure the middle term is predicate in the major
+premise and subject in the minor.
+<P>
+The following schemata, with <I>P</I> for the major term, <I>S</I>
+for the minor, and <I>M</I> for the middle, sum up these distinctions:
+<P>
+<B>Figure 1 Figure 2 Figure 3 Figure 4</B> 
+<P>
+M - P P - M M - P P - M
+<P>
+S - M S - M M - S M - S
+<P>
+----- ----- ----- -----
+<P>
+S - P S - P S - P S - P
+<P>
+Within each figure, syllogisms are further divided into <I>moods</I>,
+according to the quantity and quality of the propositions they
+contain.
+<P>
+Not all of the theoretically possible combinations of propositions
+related as above constitute VALID syllogisms, sequences in which
+the third proposition really follows from the other two.
+<P>
+For example:
+<P>
+Every man is an animal
+<P>
+Some horse is an animal
+<P>
+Therefore,
+<P>
+No man is a horse
+<P>
+(mood AIE in figure 2)
+<P>
+The above is completely inconsequent, even though all three propositions
+happen in this case to be true. During the Middle Ages, those
+syllogistic moods that are valid acquired certain short names,
+with the mood indicated by the vowels, and all of them were put
+together in a piece of mnemonic doggerel, of which one of the
+later versions is the following:
+<P>
+Barbara, Celarent, Darii, Ferioque <I>prioris</I>;
+<P>
+Cesare, Camestres, Festino, Baroco <I>secundae</I>;
+<P>
+<I>Tertia</I> Darapti, Disamis, Datisi, Felapton,
+<P>
+Bocardo, Ferison <I>habet. Quarta insuper addit</I> 
+<P>
+Bramantip, Camenes, Dimaris, Fesapo, Fresison.
+<P>
+So, Bocardo, for example, means the mood OAO in figure 3, of which
+an illustration would be:
+<P>
+Some patriarch is not mortal;
+<P>
+Every patriarch is a man;
+<P>
+Therefore,
+<P>
+Some man is not mortal.
+<P>
+Without the cute words, the valid moods for each figure are:
+<P>
+Figure 1
+<P>
+AAA, EAE, AII, EIO
+<P>
+Figure 2
+<P>
+EAE, AEE, EIO, AOO
+<P>
+Figure 3
+<P>
+AAI, IAI, AII, EAO, OAO, EIO
+<P>
+Figure 4
+<P>
+AAI, AEE, IAI, EAO, EIO
+<P>
+There is also a group of moods (Barbari and Celaront in Figure
+1, Cesaro and Camestrop in Figure 2, and Camenop in Figure 4)
+in which a merely particular conclusion is drawn although the
+premises would warrant our going further and making the conclusion
+universal (the &quot;subaltern&quot; moods). The Ramists added
+special moods involving singulars (if we write S and N for affirmative
+and negative singulars, we have ASS and ESN in Figure 1, ANN and
+ESN in Figure 2 and SSI and NSO in Figure 3).
+<P>
+It may be noted that every syllogism must have at least one universal
+premise, except for SSI and NSO in Figure 3 -- the so-called &quot;expository
+syllogisms&quot;. Example:
+<P>
+Enoch is not mortal
+<P>
+Enoch is a patriarch,
+<P>
+Therefore,
+<P>
+Not every patriarch is mortal.
+<P>
+Moreover, every syllogism must have at least one affirmative premise,
+and if either premise is negative or particular, the conclusion
+must be negative or particular, as the case may be. &quot;The
+conclusion follows the weaker premise&quot;, as Theophratus put
+it; negatives and particulars are considered weaker than affirmatives
+and universals.
+<P>
+c. Reduction
+<P>
+The mnemonic verses serve to indicate how the valid moods of the
+later figures may be &quot;reduced&quot; to those of Figure 1
+-- that is, how we may derive their conclusions from their premises
+without using any syllogistic reasoning of other than the first-figure
+type. (This amounts, in modern terms, to proving their validity
+from that of the first-figure moods, taken as axiomatic).
+<P>
+In the second figure mood Cesare, for example, the letter <I>s</I>
+after the first <I>e</I> indicates that if we <I>simply convert</I>
+the major premise we will have a pair of premises from which we
+can deduce the required conclusion in Figure 1, and the initial
+letter <I>C</I> indicates that the first-figure mood employed
+will be Celarent. An example of a syllogism in Cesare (EAE in
+Figure 2) would be:
+<P>
+No horse is a man;
+<P>
+Every psychopath is a man;
+<P>
+Therefore,
+<P>
+No pyschopath is a horse.
+<P>
+This conclusion may eqully be obtained from these premises by
+proceeding as follows:
+<P>
+No horse is a man <I>s</I> No man is a horse;
+<P>
+Every psychopath is a man Every psychopath is a man;
+<P>
+Therefore,
+<P>
+No psychopath is a horse.
+<P>
+Here the right-hand syllogism, in which the first premise is obtained
+from the given major by simple conversion and the second is just
+the given minor unaltered, is in the mood Celarent in the first
+figure. Festino &quot;reduces&quot; similarly to Ferio and Datisi
+and Ferison (in the third figure) reduce to Darii and Ferio, though
+in the third figure cases it is the minor premise that must be
+simply converted. Darapti and Felapton reduce to Darii and Ferio
+by conversion of the minor premise, not simply, but <I>per accidens</I>
+(this is indicated by the <I>s</I> of the other moods being changed
+to <I>p</I>).
+<P>
+Camestres (Figure 2) and Disamis (Figure 3) are a little more
+complicated. Here we have not only an <I>s</I>, for the simple
+conversion of a premise, but also an <I>m</I>, indicated that
+the premises must be transposed, and a further s at the end because
+the transposed premises yield, in Figure 1, not the required condlusion
+but rather its converse, from which the required conclusion must
+be obtained by a further conversion at the end of the process.
+An example of Disamis would be the following:
+<P>
+Some men are liars;
+<P>
+All men are automata;
+<P>
+Therefore,
+<P>
+Some automata are liars.
+<P>
+If we convert the major premise and transpose the two, we obtain
+the new pair:
+<P>
+All men are automata;
+<P>
+Some liars are men.
+<P>
+From these we may obtain in the first-figure mood Darii not immediately
+the conclusion &quot;Some automata are liars&quot; but rather,
+&quot;Some liars are automata,&quot; from which, however, &quot;some
+automata are liars&quot; does follow by simple conversion.
+<P>
+Baroco and Bocardo are different again. In both of them neither
+premise is capable of simple conversion, and if we convert the
+A premises per accidens we obtain pairs IO and OI, and there are
+no valid first-figure moods with such premises -- in fact, no
+valid moods at all with two particular premises. We therefore
+show that the conclusion follows from the premises by the device
+called <I>reductio ad absurdum</I>. That is, we assume for the
+sake of argument that the conclusion does NOT follow from the
+premises -- i.e., that the premises can be true and the conclusion
+false -- and from this assumption, using first figure reasoing
+alone, we deduce impossible consequences. The assumption, therefore,
+cannot stand, so the conclusion does after all follow from its
+premises.
+<P>
+Take, for example, the following syllogism in Baroco (AOO in Figure
+2):
+<P>
+Every man is mortal;
+<P>
+Some patriarch (viz., Enoch) is not mortal;
+<P>
+Therefore,
+<P>
+Some patriarch is not a man.
+<P>
+Suppose the premises are true and the conclusion is not true.
+Then we have:
+<P>
+1) Every man is mortal;
+<P>
+2) Some patriarch is not mortal;
+<P>
+3) Every patriarch is a man.
+<P>
+This is contradictory of the conclusion. But from 1) and 3), in
+the first-figure mood Barbara, we may infer
+<P>
+4) Every patriarch is mortal.
+<P>
+However, the combination of 2) and 4) is impossible. Hence, we
+can have both 1) and 2) only if we drop 3) -- that is, if we accept
+the conclusion of the given second-figure syllogism.
+<P>
+It is possible to &quot;reduce&quot; all the second figure and
+third-figure moods to Figure 1 by this last method, and although
+this procedure is a little complicated, it brings out better than
+the other reductions the essential character of second-figure
+and third-figure reasoning. Figure 1 is governed by what is called
+the <I>dictum de omni et nullo</I>, the principle that what applies
+to all or none of the objects in a given class will apply or not
+apply (as the case may be) to any member or subclass of this class.
+As Kant preferred to put it, first-figure reasoning expresses
+the <I>subsumption</I> of <I>cases</I> under a <I>rule</I> --
+the major premise states some affirmative or negative rule (&quot;Every
+man is mortal&quot;, &quot;No man will live forever&quot;), the
+minor asserts that something is a case or some things are cases,
+to which this rule applies (&quot;Enoch and Elijah are men&quot;),
+and the conclusion states the result of applying the rule to the
+given case or cases (&quot;Enoch and Elijah are mortal,&quot;
+&quot;Enoch and Elijah will not live forever&quot;). Hence, in
+Figure 1 the mjor premise is always universal (that being how
+rules are expressed) and the minor affirmative (&quot;Something
+IS a case&quot;).
+<P>
+Second-figure reasoning also begins with the statement of a rule
+(&quot;Every man is mortal&quot;) but in the minor premise DENIES
+that we have with a given example the result which the rule prescribes
+(&quot;Enoch and Elijah are NOT mortal,&quot; &quot;Enoch and
+Elijah WILL live forever&quot;) and concludes that we do NOT have
+a case to which the rule applies (&quot;Enoch and Elijah cannot
+be men&quot;). It combines, in effect, the first-figure major
+with the contradictory of the first figure conclusion to obtain
+the contradictory of the first-figure minor (compare the &quot;reduction&quot;
+of Baroco). A second-figure syullogism, in consequence, must have
+a universal major, premises opposed in quality, and a negative
+conclusion. Its practical uses are in refuting hypotheses, as
+in medicine or detection (&quot;Whowever has measles has spots,
+and thich child has no spots, so he does not have measles&quot;;
+&quot;Whoever killed X was a person of great strength and Y is
+not such a person, so Y did not kill X&quot;).
+<P>
+In the third figure we begin by asserting that something or other
+does not exhibit the result which a proposed rule would give (&quot;Enoch
+and Elijah are NOT mortal,&quot; &quot;Enoch and Elijah WILL live
+forever&quot;), go on to say that we nevertheless DO have here
+a case or cases to which the rule would apply if true (&quot;Enoch
+and Elijah ARE mn&quot;), and conlcude that the rule is not true
+(&quot;Not all men are mortal,&quot; &quot;Some men do live forever&quot;).
+A third-figure syllogism, consequently, has an affirmative minor
+(the thing IS a case) and a particular conclusion (the contradictory
+of a universal being a particular); its use is to confute rashly
+assumed rules, such as proposed scientific laws.
+<P>
+This rather neat system of interrelations (first clearly brought
+out by C.S. Peirce) concerns ONLY the first three figures; it
+was not until the later Middle Ages, in fact, that a distict fourth
+figure was recognized. The common division of figures assumes
+that we are considering completed syllogisms, with the conclusion
+(and its subject and predicate) already before us; however, the
+question Aristotle originally put to himself was not &quot;Which
+completed syllogisms are valid?&quot; but &quot;Which pairs of
+premises will yield a syllogistic conclusion?&quot;
+<P>
+Starting at this end, we cannot distinguish major and minor premises
+as those containing, respectively, the predicate and subject of
+the conclusion. Artistotle distinguished them, in the first figure,
+by their comparative comprehensiveness and mentioned what we now
+call the fourth-figure moods as ood cases in which first-figure
+premises will yield a conclusion wherein the &quot;minor&quot;
+term is predicated of the &quot;major&quot;. Earlier versions
+of the mnemonic lines accordingly list the fourth-figure moods
+with the first-figure ones and (since the premises are thought
+of as being in the first figure order) give them slightly different
+names (Baralipton, Celantes, Dabitis, Fapesmo, Frisesomorum).
+<P>
+d. Distribution of Terms
+<P>
+Terms may occur in A-, E- , I- , and O-propostions as <I>distributed</I>
+or as <I>undistributed</I>. The rule is that universals distribute
+their subjects and particulars distribute their predicates, but
+what this means is seldom very satisfactorily explained.
+<P>
+It is often said, for example, that a distributed term refers
+to all, and an undistributed term to only a part, of its extension.
+BGut in what way does &quot;Some men are mortal,&quot; for example,
+refer to only a part of the class of men? Any man whatever will
+do to verify it; if any man whatever turns out to be mortal, &quot;Some
+men are mortal&quot; is true. What the traditional writers were
+trying to express seems to be something of the following sort:
+a term <I>t</I> is distributed in a proposition <I>f(t)</I> if
+and only if it is replaceable in <I>f(t)</I>, without loss of
+truth, by any term &quot;falling under it&quot; in the way that
+a species falls under a genus. Thus, &quot;man&quot; is distributed
+in:
+<P>
+Every man is an animal;
+<P>
+No man is a horse;
+<P>
+No horse is a man;
+<P>
+Some animal is not a man.
+<P>
+Why? Because these respectively imply, say,
+<P>
+Every blind man is an animal;
+<P>
+No blind man is a horse;
+<P>
+No horse is a blind man;
+<P>
+Some animal is not a blind man.
+<P>
+On the other hand, it is undistributed in:
+<P>
+Some man is keen-sighted;
+<P>
+Some man is not disabled;
+<P>
+Every Frenchman is a man;
+<P>
+Some keen-sighted animal is a man,
+<P>
+since these do NOT respectively imply
+<P>
+Some blind man is keen-sighted;
+<P>
+Some blind man is not disabled;
+<P>
+Every Frenchman is a blind man;
+<P>
+Some keen-sighted animal is a blind man.
+<P>
+In this sense A- and E-propositions do distribute their subjects
+and E- and O-propositions their predicates. John Anderson pointed
+out that the four positive results above may be established syllogistically,
+given that all the members of a speices (using the term widely)
+are members of its genus -- in the given case, that all blind
+men are men. From &quot;Every man is an animal&quot; and &quot;Every
+blind man is a man&quot;, Every blind man is an animal&quot; follows
+in Barbara; with the second example the syllogism is in Celarent,
+with the third in Camestres, with the fourth in Baroco. Note,
+however, that the mere prefixing of &quot;every&quot; to a term
+is not in itself sufficient to secure its &quot;distribution&quot;
+in the above sense; for example &quot;man&quot; is not distributed
+in &quot;Not every man is disabled,&quot; since this does not
+imply &quot;Not every blind man is disabled.&quot;
+<P>
+For a syllogism to be valid the middle term must be distributed
+at least once, and any term distributed in the conclusion must
+be distributed in its premise (although there is no harm in a
+term's being distributed in its premise but not in the conclusion).
+Many syllogisms can quickly be shown to be fallacious by the applications
+of these rules.
+<P>
+Every man is an animal;
+<P>
+Every horse is an animal;
+<P>
+Therefore,
+<P>
+Every horse is a man.
+<P>
+The above syllogism fails to distribute the middle term &quot;animal,&quot;
+and it is clear that any second figure syllogism with two affirmative
+premises would have the same fault (since in the second figure
+the middle term is predicate twiche, and affirmatives do not distribute
+their predicates).
+<P>
+Oteher special rules for the different figures, such as that in
+Figures 1 and 3, the minor premise must be affirmative, can be
+similarly proved from the rules of distribution together with
+the rules of quality (that a valid syllogism does not have two
+negative premises and that a conclusion is negative if and only
+if one premise is). Logicians have endeavored to prove some of
+these rules from others and to reduce the number of unproved rules
+to a minimum.
+<P>
+e. Euler's diagrams
+<P>
+One device for checking the validity of syllogistic inferences
+is the use of certain diagrams attributed to the seventeenth-centruy
+mathematician Leonhard Euler, although their accurate employment
+seems to date rather from J.D. Gergonne, in the early nineteenth
+century.
+<P>
+From the traditional laws of opposition and conversion it can
+be shown that the extensions of any pair of terms X, Y will be
+related in one or another of five ways:
+<P>
+Alpha: every X is a Y and every Y is an X. That is, their extensions
+coincide
+<P>
+Beta: every X is a Y, but not every Y is an X. That is, the X's
+form a proper part of the Y's.
+<P>
+Gamma: every Y is an X, but not every X is a Y. That is, the Y's
+form a proper part of the X's.
+<P>
+Delta: Some, but not all, X's are Y's and some, but not all Y's
+are X's. That is, the X's and Y's overlap.
+<P>
+Epsilon: No X's are Y's and so no Y's are X's. That is, the Sy's
+and Y's are mutually exclusive.
+<P>
+X, Y X Y Y X
+<P>
+X Y X Y
+<P>
+&quot;Every X is a Y&quot; (A) is true if and only if we have
+either Alpha or Beta.
+<P>
+&quot;Some X is not a Y&quot; (O) if and only if we have either
+Gamma or Delta or Epsilon.
+<P>
+&quot;No X is a Y&quot; (E) if and only if we have Epsilon.
+<P>
+&quot;Some X is a Y&quot; (I) if and only if we have either Alpha
+or Beta or Gamma or Delta.
+<P>
+From these facts it follows that A andO are in no case true together
+and in no case false together, and similarly for E and I; that
+I si true in every case in which A is and also in two cases in
+which A is not, and similarly for O and E; that A and E are in
+no case true togethert but in two cases are both false; and that
+O and I are in no case both fasle but in two cases are both true.
+After working out analogous truth conditions for the forms with
+reversed terms, we will see that they are the same for the two
+I's and the two E's (showing that these are simply convertible)
+but not for th two A's and the two O's (showing that these are
+not).
+<P>
+Given which of the five relations holds between X and Y and which
+between Y and Z, we can work out by compounding diagrams what
+will be the possible relations between X and Z. For example, if
+we know that every X is a Y and every Y a Z, then we must have
+either (Alpha)XY and (Alpha)YZ or (Alpha)XY and (Beta)YZ or (Beta)XY
+and (Alpha)YZ or (Beta)XY and (Beta)Yz; that is we must have:
+<P>
+X,Y,Z Z
+<P>
+or X,Y
+<P>
+(i) (ii)
+<P>
+Y,Z Z
+<P>
+or X or X Y
+<P>
+(iii) (iv)
+<P>
+Inspection will show that for X and Z we have in every case either
+<P>
+X,Z Z
+<P>
+or X
+<P>
+so in every case every X is Z. Hence, Barbara is valid.
+<P>
+When employing this procedure it is essential to consider all
+the possible cases involved. Barbara is not validated, for example,
+by donsidering case (iv) alone, as popular expositions of this
+method sometimes suggest.
+<P>
+f. Polysyllogisms, enthymemes, and induction
+<P>
+1) Polysyllogisms
+<P>
+In an extended argument the conclusion of one inference may be
+used as a premise of another, and the conclusion of that as premise
+of a third, and so on. In presenting such an argument we may simply
+omit the intermediate steps and list all the premises together.
+<P>
+For example, the sequence of categorical syllogisms:
+<P>
+Every X is a Y
+<P>
+Every Y is a Z
+<P>
+Therefore
+<P>
+Every X is a Z
+<P>
+Every Z is a T
+<P>
+Therefore
+<P>
+Every X is a T
+<P>
+may be condensed to
+<P>
+Every X is a Y
+<P>
+Every Y is a Z
+<P>
+Every Z is a T
+<P>
+Therefore
+<P>
+Every X is a T
+<P>
+Such a condensed chain of syllogisms is called a polysyllogism
+or sorites.
+<P>
+The theory of chains of two syllogisms was thoroughly studied
+by Galen, as reported in an ancient passage recently unearthed
+by Jan Lukasiewicz. Galen showed that the only combinations of
+the Aristotelian three figrues that could be thus used were 1
+and 1, 1 and 2, and 1 and 3, and 2 and 3. His discovery of these
+four types of compound syllogism was misunderstood by later writers
+as an anticipation of the view that SINGLE syllogisms may be of
+four figures.
+<P>
+2) Enthymemes
+<P>
+Even when it is not a conclusion from other premises already stated,
+one of the premises of an inference may often be informally omitted
+(for example:
+<P>
+Enoch and Elijah are men,
+<P>
+Therefore
+<P>
+Enoch and Elijah are mortals.
+<P>
+Such a truncated inference is often called an enthymeme. This
+is not Aristotle's own use of the term, though he did mention
+that a premise is often omitted in the statement of an enthymeme
+in his sense. An Aristotelian enthymeme is a merely probable argument
+-- this is, one in which the conclusion does not strictly follow
+from the premises but is merely made more likely by them. When
+the claim made for an argument is thus reduced, the normal rules
+may be relaxed in certain directions; in particular, the second
+and third figures may be used to yield more than merely negative
+results. Thus Figure 2 may be used not only to prove that something
+is not a case falling under a given rule but also to suggest that
+it is one --to use a modern example:
+<P>
+Any collection of particles whose movement is accelerated will
+occupy more space that it did;
+<P>
+A heated gase will occupy more space than it did;
+<P>
+Therefore:
+<P>
+A heated gas may be a collection of particles whose movement is
+accelerated.
+<P>
+Figure 3 may be similarly used not only to prove that some rule
+does not hold universally but also to suggest that it does hold
+universally -- for instance:
+<P>
+X,Y,Z are all of them white;
+<P>
+X,Y,Z are all of them snowflakes;
+<P>
+Therefore, perhaps all snowflakes are white.
+<P>
+If the second premise here is strengthened to &quot;X,Y,Z are
+all the snowflakes there are&quot;, the conclusion will follow
+without any &quot;perhaps&quot; (of course, the new premise in
+this case is a false one, and the conclusion is also false). The
+form of inference:
+<P>
+X,Y,Z, etc., are all of the P's;
+<P>
+X,Y,Z, etc., are all the S's there are;
+<P>
+Therefore all S's are P's
+<P>
+was called by Aristotle &quot;induction&quot;; more accurately,
+he used this term for a similar passage from all the subspecies
+to their genus (&quot;The X's the Y's and the Z's are all of the
+P's and are all the S's; therefore...&quot;). He observed that
+the &quot;conversion&quot; of the second premise to &quot;All
+the S's are the X's, the Y's, and the Z's&quot; will turn such
+an induction into a syllogism in Barbara.
+<P>
+The term &quot;induction&quot; being extended in the more recent
+tradition to cover the merely probable inference given just previously,
+we distinguish Aristotelian induction by calling it &quot;formal&quot;
+or &quot;perfect&quot; induction or (as W.E. Johnson called it)
+&quot;summary&quot; induction. The Figure 2 type of merely probable
+inference is one of the things meant by the term &quot;argument
+from&quot; -- or &quot;by&quot; -- &quot;analogy&quot; (or just
+&quot;analogy&quot;). C.S. Peirce called it &quot;hypothesis&quot;.
+<P>
+<B>Summary</B> 
+<P>
+The nineteen fundamental types of logical arguments have been
+given names to make them easier to remember. As a further memory
+aid, they have been incorporated into a Latin verse:
+<P>
+<I>Barbara, Celarent, Darii, Ferioque,</I> prioris;
+<P>
+<I>Cesare, Camestres, Festino, Baroco,</I> secundae;
+<P>
+Tertia, <I>Darapti, Disamis, Datisi, Felapton, Bocardo, Ferison,</I>
+habet;
+<P>
+Quaera insuper addit <I>Bramantip, Camenes, Dimaris, Fesapo, Fresison.</I>
+
+<P>
+It should be noted that when dealing with <I>Darapti, Felapton,
+Bramantip</I> and <I>Fesapo</I>, we must examine the question
+of <I>existential import</I> before deciding the validity or invalidity
+of the syllogism in question.
+<P>
+Rule One: A valid standard-form categorical syllogism must contain
+exactly three terms, each of which is used in the same sense throughout
+the argument.
+<P>
+Rule Two: In a valid standard-form categorical syllogism, the
+middle term must be distributed in at least one premise.
+<P>
+Rule Three: In a valid standard-form categorical syllogism, if
+either term is distributed in the conclusion, then it must be
+distributed in the premises.
+<P>
+Rule Four: No standard-form categorical syllogism is valid which
+has two negative premises.
+<P>
+Rule Five: If either premise of a valid standard-form categorical
+syllogism is negative, the conclusion must be negative.
+<P>
+Rule Six: No valid standard-form categorical syllogism with a
+particular conclusion can have two universal premises.
+<P>
+Rule Seven: From two premises beginning with &quot;some&quot;,
+no conclusion can be drawn.
+<P>
+g. Skeptical criticism of syllogistic reasoning
+<P>
+In the latter part of the nineteenth century, under the influence
+of J.S. Mill, textbooks of the traditional type came to have two
+main divisions, &quot;formal&quot; or &quot;deductive&quot; logic
+(dealt with more or less as above) and &quot;inductive&quot; logic
+or &quot;scientific method&quot;. With the details of inductive
+logic we are not concerned here, but we may glance at the view
+of some writers that merely probable induction and analogy are
+the only genuine types of reasoning, &quot;formal&quot; or syllogistic
+reasoning being useless or spurious because it is inevitably circular,
+assuming in the premises what it sets out to prove as the conclusion.
+<P>
+The second-century skeptic Sextus Empiricus suggested that, in
+the syllogism
+<P>
+Every man is an animal
+<P>
+Socrates is a man
+<P>
+therefore
+<P>
+Socrates is an animal
+<P>
+the only way to establish the major premise is by induction. However,
+if the induction is incomplete the examination of a new instance
+-- e.g. of Socrates -- might prove it false, and if it is complete
+the conclusion (&quot;Socrates is an animal&quot;) must already
+have been used in establishing it. This argument was repeated
+by such writers as George Campbell, in the eighteenth century,
+who supplemented it with another, to cover the case in which the
+major is established not by induction but simply by definition
+or linguistic convention:
+<P>
+&quot;Of course every man is an animal, for bein an animal is
+part of what we mean by being a man.&quot; In this case it is
+the minor premise, &quot;Socrates is a man,&quot; that cannot
+be established without first establishing the conclusion (that
+he is an animal). The same point was urged by another Scottish
+philosopher, Thomas Brown. It is allied to an argument used by
+Sextus to show not that syllogism is circular but that the major
+premise is superfluous. If, he said, every man is an animal because
+it FOLLOWS from an object's being a man that it is an animal,
+then the allegedly enthymematic &quot;Socrates is a man; therefore,
+Socrates is an animal&quot; must be valid as it stands.
+<P>
+Richard Whately, answering Campbell's arguments in the early nineteenth
+century, complained that Campbell had confined himself to examples
+in which the syllogistic argument was indeed superfluous and countered
+them with some in which it was not -- for example, the case of
+some laborers, ignorant of the fact that all horned animals are
+ruminant, digging up a skeleton whicch they, but not a distant
+naturalist, coulsd see to be horned, the laaborers and the naturalist
+thus separately providing premises which were both required to
+obtain the conclusion that the skeleton was of a ruminant animal.
+Whately admitted that the sense in which we may make a &quot;discovery&quot;
+by drawing a syllogistic conclusion is different from that in
+which we make a discovery by observation, but it can be a genuine
+discovery none the less; there are &quot;logical&quot; as well
+as &quot;physical&quot; discoveries.
+<P>
+After Whately, J.S. Mill took up the argument, but it is not entirely
+clear what side he was on. Sometimes he treated a universal major
+as already asserting, among other things, the conclusion:
+<P>
+Whoever pronounces the words, All men are mortal, has affirmed
+that Socrates is mortal, though he may never have heard of Socrates;
+for since Socrates, whether known to be so or not, really is a
+man, he is included in the words, All men, and in every assertion
+of which they are the subject (<I>System of Logic</I>, Book II,
+Ch. 3, p. 8, note) <BR>
+&quot;Included in the <I>meaning</I> of the words,&quot; he must
+have meant (for it is obvious that neither Socrates the man nor
+&quot;Socrates&quot;, his name, forms any part of the words &quot;All
+men&quot;), but this contradicts Mill's own insistence that the
+meaning of general terms like &quot;men&quot; lies wholly in their
+&quot;connotation&quot; and that &quot;All men are mortal&quot;
+means that wherever the <I>attributes</I> of humanity are present,
+mortality is present, too.  He rightly chided Brown, who thought
+that the meaning of &quot;Socrates is mortal&quot; (like that
+of &quot;Socrates is an animal&quot;) is already contained in
+the minor premise &quot;Socrates is a man,&quot; for failing to
+distinguish the actual connotation of &quot;man&quot; (i.e., the
+attributes by which its application is determined) from other
+attributes (such as mortality) which we may empirically discover
+these to be attended with, but his own view in the passage cited
+is similarly negligent. <BR>
+Mill's main point, however, is different and more defensible.
+ When careful and extensive observation warrants the conclusion
+that, say, all men are mortal, and we then observe that the duke
+of Wellingtonis a man and conclude that he is therefore mortal,
+we have in effect an induction followed by a syllogism.  Mill
+pointed out that if this procedure is justified at all, the introduction
+of the syllogistic major is superfluous.  For if the original
+body of evidence really does warrant the inference that all men
+are mortal, it is certainly sufficient to warrant the inference
+that the duke of Wellington is mortal, given that he is a man.
+ In other words, if we really are justified in the move from particular
+observations to the general proposition, and from there to new
+particulars, we would be equally justified in moving directly
+&quot;from particulars to particulars.&quot;  What the syllogistic
+major does, Mill argued, is simply to sum up in a single formula
+the entire class of inferences to new particulars which the evidence
+warrants.  That is, &quot;All men are mortal&quot; means, in effect,
+that if we ever find anyone to be a man we are justified in inferring,
+from the observations we have previously amassed, that he is mortal.
+ &quot;The conclulsion is not an inference drawn <I>from</I> the
+formula&quot; --i.e., from &quot;All men are mortal&quot; thus
+understood -- &quot;but an inference drawn <I>according to</I>
+the formula (ibid., p. 4).  Mill here anticipated Gilbert Ryle's
+treatment of &quot;lawlike statements&quot; as &quot;inference
+licenses&quot; and echoed Sextus' point that it is inconsistent
+to require that such licenses be added to the premises of the
+inferences they permit, since what they license is precisely the
+drawing of the conclusion from <I>those</I> premises. <BR>
+Mill in fact here shifted the discussion from Sextus' first skeptical
+&quot;topic&quot; to his second -- from the charge of circularity
+to the question of what distinguishes a rule of inference from
+a premise.  On this point more was said later in the nineteenth
+century by C.S. Peirce. Peirce, like Mill, distinguished sharply
+between the premise or premises from which, and the &quot;leading
+principle&quot; according to which, a conclusion is drawn.  He
+also noted, as did Mill, that what is traditionally counted as
+a premise may function in practice as a &quot;leading principle&quot;.
+ But it need not, and, indeed what is traditionally counted as
+a &quot;leading principle&quot; (say the <I>dictum de omni et
+nullo</I> may sometimes be, conversely, treated in practice as
+a premise.  Certainly, since <I>all men are mortal</I> (leading
+principle 1), we are justified in inferrint the mortality of Socrates
+(or the duke of Wellington, or Elijah) from his humainty.  But
+equally, since <I>all members of any class are also members of
+any class that contains the former as a subclass</I> (leading
+principle 2), we are justified in inferring the mortality of Socrates
+from his being a man AND from men's being a subclass of mortals.
+ For the very same reason (that all members of any class are also
+members of any class that contains the former as a subclass) we
+are justified in infering the mortality of Socrates from his being
+a member of a subclass of the class of mortals AND from the membership
+of any member of a class in all classes of which it is a subclass.
+ In this last example we have one and the same proposition functioning
+as a premise and as a leading principle in the same inference
+(not mmerely, like &quot;All men are mortal&quot; in the preceding
+two examples, as a leading principle in one and a premise in another);
+to be capable of this, Peirce thought, is the mark of a &quot;logical&quot;
+leading principle. <BR>
+It is not certain that Peirce's method of distinguishing &quot;logical&quot;
+from other sorts of &quot;leading principles&quot; will bear inspection.
+ However, he seems to have established his basic point, that what
+it would be fatal to require in all cases -- the treatment of
+a leading principle as a premise -- we may safely permit in some.
+ There may be useful and valid reasoning about subjects of all
+degrees of abstraction, including logic itself.   <BR>
+h. Hypothetical and disjunctive syllogisms <BR>
+Traditional textbooks, aside from developing the theory of categorical
+propositions and syllogisms, have a brief appendix mentioning
+&quot;hypothetical&quot; (or &quot;conditional&quot;) and &quot;disjunctive&quot;
+propositions and certain &quot;syllogisms&quot; to which they
+give rise. <BR>
+&quot;Hypothetical&quot; syllogisms are divided into &quot;pure&quot;,
+in which premises and conclusion are all of the form &quot;If
+<I>p</I> then <I>q</I>, and if <I>q</I> then <I>r</I>; therefore,
+if <I>p</I> then <I>r</I>,&quot; analogous to Barbara) <BR>
+And &quot;mixed&quot; in which only one premise is hypothetical
+and the other premise and the conclusion are categorical.  The
+mixed hypothetical syllogism has two valid &quot;moods&quot;:
+<BR>
+1. Modus ponendo ponens: <BR>
+If p then q, and p; therefore, q.<BR>
+2. Modus ponendo tollens: <BR>
+If p then q, but not p; therefore, not q. <BR>
+In both these moods the hypothetical premise is called the major,
+the categorical the minor.  <I>Ponere</I>, in the mood names,
+means to affirm, <I>tollere</I> to deny.  In (1), by afffirming
+the antecedent of the hypothetical we are led to affirm its consequent;
+in (2), by denying its consequent we are led to deny its antecedent.
+ The fallacies of &quot;affirming the consequent&quot; and &quot;denying
+the antecedent&quot; (i.e., of doing these things <I>to start
+with</I>, in the minor premise) consist in reversing these procedures
+-- that is, in arguing &quot;If <I>p</I> then <I>q</I>, and <I>q</I>;
+therefore, <I>p</I>&quot; and &quot;If <I>p</I> then <I>q</I>,
+but not <I>q</I>; therefore, not <I>p</I>.&quot; <BR>
+ <BR>
+&quot;Disjunctive&quot; syllogisms -- i.e., ones involving &quot;Either-or&quot;
+propositions -- have the following two &quot;mixed&quot; moods.
+<BR>
+3. Modus tollendo ponens: <BR>
+Either <I>p</I> or <I>q</I>, but not <I>p</I>; <BR>
+therefore, <I>q</I> (or, butn not <I>q</I>; therefore <I>p</I>).
+<BR>
+4. Modus ponendo tollens: <BR>
+Either <I>p</I> or <I>q</I>, and <I>p</I>; <BR>
+therefore, not <I>q</I> (or, and <I>q</I>; therefore, not <I>p</I>).
+<BR>
+Mood (4) is valid only if &quot;Either <I>p</I> or <I>q</I> is
+interpreted &quot;exclusively&quot; -- i.e., as meaning &quot;Either
+<I>p</I> or <I>q</I> but not both&quot; -- whereas (3) is valid
+even if it is interpreted as &quot;Either <I>p</I> or <I>q</I>
+or both.&quot;  There is also a <I>modus tollendo ponens</I> with
+the simple &quot;Not both <I>p</I> and <I>q</I>&quot; as major
+and the rest as in (4).<BR>
+   <BR>
+i. Dilemmas <BR>
+Hypothetical and disjunctive premises may combine to yield a categorical
+conclusion in the <I>dilemma</I>, or &quot;horned&quot; syllogism
+(<I>syllogismus cornutus</I>, with its two forms:<BR>
+5. Constructive: <BR>
+If <I>p</I> then <I>r</I>, and if <I>q</I> then <I>r</I>, but
+either <I>p</I> or <I>q</I>; therefore, <I>r</I>.<BR>
+6. Destructive: <BR>
+If <I>p</I> then <I>q</I>, and if <I>p</I> then <I>r</I>, but
+either not <I>q</I> or not <I>r</I>; therefore, not <I>p</I>.
+<BR>
+These basic forms have a number of variations; for instance, <I>q</I>
+in (5) may be simply &quot;not <I>p,</I>&quot; making the disjunctive
+premise the logical truism &quot;Either <I>p</I> or not <I>p</I>&quot;;
+or <I>p</I> may imply <I>r</I> and <I>q</I> imply <I>s</I>, giving
+as conclusion &quot;Either <I>r</I> or <I>s</I>&quot; rather than
+the categorical <I>r</I>; or the disjunctive premise may be conditionalized
+to &quot;If <I>s</I> then either <I>p</I> or <I>q</I>,&quot; making
+the conclusion &quot;If <I>s</I> then <I>r</I>.&quot; <BR>
+A typical dilemma is that put by Protagoras to Euathlus, whom
+he had trained as a lawyer on the understanding that he would
+be paid a fee as soon as his pupil won a case.  When the pupil
+simply engaged in no litigation at all, Protagoras sued him for
+the fee.  His argument was &quot;If Euathlus wins this case, he
+must pay my fee by our agreement, and if he loses it he must pay
+it by the judge's decision (for that is what losing this case
+would mean), but he must either win or lose the case; therefore,
+in either case he must pay.&quot; <BR>
+&quot;Escaping betweenthe horns&quot; of a dilemma is denying
+the disjunctive premise; for example, Euathlus might have argued
+that he would neither win nor lose the case if the judge refused
+to make any decision.  &quot;Taking a dilemma by the horns&quot;
+is admitting the disjunction but denying one of the implications,
+as Euathlus might have done by arguing that if he won he would
+still not be bound by the agreement to pay Protagoras, because
+this was not the sort of case intended in the agreement.  &quot;Rebutting&quot;
+a dilemma is constructing another dilemma drawing upon the same
+body of facts but leading to an opposite conclusion.  This is
+what Euathlus did, arguing that if he won the case he would be
+dispensed from paying by the judge's decision, and if he lost
+it the agreement would dispense him, so either way he was dispensed
+from paying.  Rebuttal, however, is possible only if one of the
+other moves (though it may not be clear which) is also possible,
+for a single set of prremises can lead by equally valid arguments
+to contradictroy conclusions only if they contain some fault in
+themselves. <BR>
+Dilemmatic reasoning obtains a categorical conclusion from hypothetical
+and disjuctive premises; the Port-Royalists pointed out that we
+may also obtain hypothetical conclusions from categorical premises.
+ For in any categorical syllogism we may pass directly from one
+of the premises to the conclusion stated not categorically but
+conditionally on the truth of the other premise; for instance,
+from &quot;Every man is mortal&quot; we may infer that IF Socrates
+is a man he is mortal, and from &quot;Socrates is a man&quot;
+that if every man is mortal Socrates is, and similarly with all
+other syllogisms.  This &quot;rule of conditionalization&quot;
+is much used in certain modern logical systems.
+<P>
+ 
+</BODY>
+
+</HTML>

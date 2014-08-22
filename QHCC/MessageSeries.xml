@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeriesList>
+  <MessageSeries>
+    <Name>Gospel of John</Name>
+    <Link>John.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Other Messages of 2014</Name>
+    <Link>OtherMessages2014.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Parables of Jesus</Name>
+    <Link>ParablesOfJesus.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Esther: For Such a Time as This</Name>
+    <Link>Esther.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Titus: Building the Body</Name>
+    <Link>Titus.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Other Messages of 2013</Name>
+    <Link>OtherMessages2013.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Hebrews: Our Eternal High Priest</Name>
+    <Link>Hebrews.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Other Messages of 2012</Name>
+    <Link>OtherMessages2012.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Sermon on the Mount: Dual Citizenship</Name>
+    <Link>SermonOnTheMount.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Into the New Year, 2012</Name>
+    <Link>IntoTheNewYear2012.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Christmas In The Air</Name>
+    <Link>ChristmasInTheAir.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Jonah: The Art of Kicking Against the Goads</Name>
+    <Link>Jonah.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Ephesians: The Wonder of Being in Christ</Name>
+    <Link>Ephesians.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>No Experience Necessary</Name>
+    <Link>NoExperienceNecessary.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Questions God Asks</Name>
+    <Link>QuestionsGodAsks.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Other Messages of 2007</Name>
+    <Link>OtherMessages2007.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
+    <Name>Islam Theology and History</Name>
+    <Link>IslamTheologyAndHistory.xml</Link>
+  </MessageSeries>
+</MessageSeriesList>

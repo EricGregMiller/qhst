@@ -1,0 +1,46 @@
+<html>
+<head>
+  <title>QHCC Announcements</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <link rel="stylesheet" type="text/css" href="./announcements.css" />
+</head>
+
+<body>
+  <h1>Announcements</h1><br/>
+  <div class="announcements">
+  <div class="calendar">
+<iframe src="http://www.google.com/calendar/embed?src=qhccadmin%40gmail.com&mode=AGENDA&height=600&epr=1&bgcolor=%236f7a9e" style="border: solid 1px #000000" width="320" frameborder="0" height="600"></iframe>
+  </div>
+  <div class="events">
+    <div class="annThumb">
+      <a title="What's happening with our Rummage Sale." href="RummageSale.html">
+      <img src="RummageSale.jpg" alt="Rummage Sale" class="Thumb"><br />Rummage Sale</a>
+    </div>
+    <div class="annThumb">
+      <a title="We're passing out fliers to our neighbors." href="Outreach.html">
+      <img src="PeopleFlierFront.jpg" alt="Outreach" class="Thumb"><br />Outreach</a>
+    </div>
+    <div class="annThumb">
+      <a title="Information about practice hikes and hiking Half Dome." href="HalfDomeHike.html">
+      <img src="HalfDome.jpg" alt="Half Dome Hike" class="Thumb"><br />Half Dome Hike</a>
+    </div>
+    <div class="annThumb">
+      <a title="This month's donations to Grace Resources." href="GraceResources.html">
+      <img src="GraceResources.jpg" alt="Grace Resources" class="Thumb"><br />Grace Resources</a>
+    </div>
+    <div class="annThumb">
+      <a title="Who is cleaning the church when. How to clean the church." href="Cleaning.html">
+      <img src="Cleaning.jpg" alt="Cleaning the Church" class="Thumb"><br />Church Cleaning</a>
+    </div>
+    <div class="annThumb">
+      <a title="How to get involved in the ministry of our church." href="Ministry.html">
+      <img src="Ministry.jpg" alt="Ministry Opportunities" class="Thumb"><br />Ministry</a>
+    </div>
+  </div>
+  </div>
+  <div class="adate">
+    <p>January 6, 2008.</p>
+  </div>
+</body>
+</html>
+ 

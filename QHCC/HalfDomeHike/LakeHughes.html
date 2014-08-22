@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<HEAD>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+  <TITLE>Lake Hughes Hike Information</TITLE>
+  <style type="text/css">
+    v\:* {
+      behavior:url(#default#VML);
+    }
+  </style>
+  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAVuUD8Ye7uzPIb5Mx3jdMVhTXbhnmk4zPj9uwejwoA7EINiOXQBQoWc8Ue4mCTG8usO7a7Sou07j1Ug" type="text/javascript"></script>
+  <script src="GoogleMapEncode.js" type="text/javascript"></script>
+  <script src="EricGoogleMap.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    var gMap;
+    var gHikeRouteData;
+    var gFireRoadData;
+
+    function LoadEricGoogleMap() 
+    {
+      if (GBrowserIsCompatible()) 
+      {
+        gMap = InitializeMap("map", 34.70647, -118.55536, 12);
+        //DebugObjectTable("Map", gMap)
+        var routePoints = LoadRoute("LakeHughes.xml");
+        gHikeRouteData = CreateRoute(routePoints);
+        SetRoute("HikeRouteOnCheck", gMap, gHikeRouteData);
+      }
+    }
+  </script>
+</HEAD>
+<body onload="LoadEricGoogleMap()" onunload="GUnload()">
+  <h1>Lake Hughes Hike Information</h1>
+  <div style="position: relative; clear: both;">
+  <p>
+  Sunday afternoon, May 20 we hiked along the Pacific Crest Trail starting near Lake Hughes. Here are  <a href="http://picasaweb.google.com/qhccadmin/LakeHughesHike">photos from the hike</a>.
+  </p>
+  </div>
+  <h2>Map</h2>
+  <p> Here is the the trail we hiked. 
+  The plot is from <a href="http://www.gmap-pedometer.com/?r=630815">Gmaps Pedometer</a>.
+  </p>
+  <div style="position: relative;">
+  <form>
+    <input type="checkbox" name="HikeRouteOn" id="HikeRouteOnCheck" checked onclick="SetRoute(this, gMap, gHikeRouteData)">Show Hike Route</input>
+  </form>
+  </div>
+  <div id="map" style="border:1px solid black; position: relative; width: 700px; height: 500px;">
+  </div>
+  <div style="position: relative; clear: both">
+  <p>
+  Here is a link to <a href="http://maps.google.com/maps?daddr=PCT+Lake+Hughes+%4034.73963764409257,-118.65680694580078&saddr=43543+51st+St+W,+Lancaster,+California+93536+(QHCC)&f=d&hl=en&sll=34.783074,-118.641701&sspn=0.113637,0.225563&layer=&ie=UTF8&z=11&om=1&msid=107500401730234667445.00000111f7e3bcdb2d493&msa=0">Google Maps</a> driving route.
+  </p>
+  <hr/>
+  </div>
+  <br>
+  <br>
+</BODY>
+</HTML>

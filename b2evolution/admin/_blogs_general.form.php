@@ -1,0 +1,93 @@
+<?php
+	/**
+	 * Displays blog properties form
+	 *
+	 * b2evolution - {@link http://b2evolution.net/}
+	 * Released under GNU GPL License - {@link http://b2evolution.net/about/license.html}
+	 * @copyright (c)2003-2004 by Francois PLANQUE - {@link http://fplanque.net/}
+	 *
+	 * @package admin
+	 */
+	if( !defined('DB_USER') ) die( 'Please, do not access this page directly.' );
+?>
+<form action="b2blogs.php" class="fform" method="post">
+	<input type="hidden" name="action" value="<?php echo $next_action ?>" />
+	<input type="hidden" name="blog" value="<?php echo $blog; ?>" />
+
+	<fieldset>
+		<legend><?php echo T_('General parameters') ?></legend>
+		<?php
+			form_text( 'blog_name', $blog_name, 50, T_('Full Name'), T_('Will be displayed on top of the blog.') );
+			form_text( 'blog_shortname', $blog_shortname, 12, T_('Short Name'), T_('Will be used in selection menus and throughout the admin interface.') );
+			form_select( 'blog_locale', $blog_locale, 'locale_options', T_('Main Locale'), T_('Determines the language of the navigation links on the blog.') );
+		?>
+	</fieldset>
+	
+	<fieldset>
+		<legend><?php echo T_('Access parameters') ?></legend>
+	
+		<?php
+			if( $Settings->get('default_blog_ID') && ($Settings->get('default_blog_ID') != $blog) )
+			{
+				if( $default_Blog = $BlogCache->get_by_ID($Settings->get('default_blog_ID'), false) )
+        { // Default blog exists
+  				$defblog = $default_Blog->dget('shortname');
+        }
+			}
+			form_radio( 'blog_access_type', $blog_access_type,
+					array(  array( 'default', T_('Default blog on index.php'), $baseurl.'/index.php'.
+													( isset($defblog) ? '  ['. /* TRANS: current default blog */ 
+													T_('Current default is:').' '.$defblog.']' : '' ) ),
+									array( 'index.php', T_('Other blog through index.php'), 
+													$baseurl.'/index.php'.( 
+													($Settings->get('links_extrapath')) ? '/'.$blog_stub : '?blog='.$blog) ),
+									array( 'stub', T_('Other blog through stub file (Advanced)'), $baseurl.'/'.$blog_stub.' &nbsp; '.T_('You MUST create a stub file for this to work.') ),
+								), T_('Preferred access type'), true );
+		?>
+		
+		<fieldset>
+			<div class="label"><label for="blog_siteurl"><?php echo T_('Blog Folder URL') ?>: </label></div>
+			<div class="input"><code><?php echo $baseurl ?></code><input type="text" name="blog_siteurl" id="blog_siteurl" size="40" maxlength="120" value="<?php echo format_to_output($blog_siteurl, 'formvalue') ?>"/>
+			<span class="notes"><?php echo T_('No trailing slash. (If you don\'t know, leave this field empty.)') ?></span></div>
+		</fieldset>
+	
+	
+		<?php
+			form_text( 'blog_stub', $blog_stub, 20, T_('URL blog name / Stub name'), T_('Used in URLs to identify this blog. This should be the stub filename if you use stub file access.'), 30 );
+		?>
+	</fieldset>
+				
+	<fieldset>
+		<legend><?php echo T_('Default display options') ?></legend>
+		<?php
+			form_select( 'blog_default_skin', $blog_default_skin, 'skin_options', T_('Default skin') , T_('This is the default skin that will be used to display this blog.') );
+
+			form_checkbox( 'blog_force_skin', 1-$blog_force_skin, T_('Allow skin switching'), T_('Users will be able to select another skin to view the blog (and their prefered skin will be saved in a cookie).') );
+
+			form_checkbox( 'blog_disp_bloglist', $blog_disp_bloglist, T_('Display public blog list'), T_('Check this if you want to display the list of all blogs on your blog page (if your skin supports this).') );
+
+			form_checkbox( 'blog_in_bloglist', $blog_in_bloglist, T_('Include in public blog list'), T_('Check this if you want to this blog to be displayed in the list of all public blogs.') );
+		
+			form_select_object( 'blog_linkblog', $blog_linkblog, $BlogCache, T_('Default linkblog'), T_('Will be displayed next to this blog (if your skin supports this).'), true );
+		?>
+	</fieldset>
+
+	<fieldset>
+		<legend><?php echo T_('Description') ?></legend>
+		<?php
+			form_text( 'blog_tagline', $blog_tagline, 50, T_('Tagline'), T_('This is diplayed under the blog name on the blog template.'), 250 );
+
+			form_textarea( 'blog_longdesc', $blog_longdesc, 8, T_('Long Description'), T_('This is displayed on the blog template.'), 50, 'large' );
+
+			form_text( 'blog_description', $blog_description, 60, T_('Short Description'), T_('This is is used in meta tag description and RSS feeds. NO HTML!'), 250, 'large' );
+
+			form_text( 'blog_keywords', $blog_keywords, 60, T_('Keywords'), T_('This is is used in meta tag keywords. NO HTML!'), 250, 'large' );
+
+			form_textarea( 'blog_notes', $blog_notes, 8, T_('Notes'), T_('Additional info.'), 50, 'large' );
+
+		?>
+	</fieldset>
+
+	<?php form_submit(); ?>	
+
+</form>

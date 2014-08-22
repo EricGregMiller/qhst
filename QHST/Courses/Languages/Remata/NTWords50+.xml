@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CardList>
+  <Setup>  
+    <FrontClue>
+      <Name>Lemma</Name>
+    </FrontClue>
+    <FrontHint>
+      <Name>GreekHint</Name>
+      <DisplayName>Hint</DisplayName>
+    </FrontHint>
+    <FrontData>
+      <Name>Lexical</Name>
+    </FrontData>
+    <BackData>
+      <Name>Gloss</Name>
+    </BackData>
+    <BackData>
+      <Name>WordType</Name>
+      <DisplayName>Word Type</DisplayName>
+    </BackData>
+    <BackData>
+      <Name>VerbStem</Name>
+      <DisplayName>Verb Stem</DisplayName>
+    </BackData>
+    <AdditionalData>
+      <Name>Frequency</Name>
+    </AdditionalData>
+  </Setup>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>avbraa,m</Lemma>
+		<Lexical>VAbraa,m( o`</Lexical>
+		<Gloss>Abraham</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>avgaqo,j</Lemma>
+		<Lexical>avgaqo,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>good</Gloss>
+		<Frequency>131</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avgapa,w</Lemma>
+		<Lexical>avgapa,w</Lexical>
+		<Gloss>to love </Gloss>
+		<Frequency>147</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>avga,ph</Lemma>
+		<Lexical>avga,ph( &amp;hj( h`</Lexical>
+		<Gloss>love</Gloss>
+		<Frequency>116</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>avgaphto,j</Lemma>
+		<Lexical>avgaphto,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>beloved</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>a;ggeloj</Lemma>
+		<Lexical>a;ggeloj( &amp;ou( o`</Lexical>
+		<Gloss>an angel</Gloss>
+		<Frequency>175</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>a[gioj</Lemma>
+		<Lexical>a[gioj( &amp;a( &amp;on</Lexical>
+		<Gloss>holy; saints (plural noun)</Gloss>
+		<Frequency>233</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>a;gw</Lemma>
+		<Lexical>a;gw</Lexical>
+		<Gloss>to lead</Gloss>
+		<Frequency>69</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>avdelfo,j</Lemma>
+		<Lexical>avdelfo,j( &amp;ou/( o`</Lexical>
+		<Gloss>brother</Gloss>
+		<Frequency>343</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ai-ma</Lemma>
+		<Lexical>ai-ma( &amp;toj( to,</Lexical>
+		<Gloss>blood</Gloss>
+		<Frequency>97</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ai;rw</Lemma>
+		<Lexical>ai;rw</Lexical>
+		<Gloss>to take up, take away</Gloss>
+		<Frequency>101</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>aivte,w</Lemma>
+		<Lexical>aivte,w</Lexical>
+		<Gloss>to ask</Gloss>
+		<Frequency>70</Frequency>
+		<BBG>25</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>aivw,n</Lemma>
+		<Lexical>aivw,n( &amp;w/noj( o`</Lexical>
+		<Gloss>an age</Gloss>
+		<Frequency>122</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>aivw,nioj</Lemma>
+		<Lexical>aivw,nioj( &amp;on</Lexical>
+		<Gloss>eternal</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avkolouqe,w</Lemma>
+		<Lexical>avkolouqe,w</Lexical>
+		<Gloss>to follow</Gloss>
+		<Frequency>90</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avkou,w</Lemma>
+		<Lexical>avkou,w</Lexical>
+		<Gloss>to hear</Gloss>
+		<Frequency>428</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>avlh,qeia</Lemma>
+		<Lexical>avlh,qeia( &amp;aj( h`</Lexical>
+		<Gloss>truth</Gloss>
+		<Frequency>109</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>avlla,</Lemma>
+		<Lexical>avlla,</Lexical>
+		<Gloss>but, yet, except</Gloss>
+		<Frequency>638</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>avllh,lwn</Lemma>
+		<Lexical>avllh,lwn( &amp;ouj( &amp;ouj</Lexical>
+		<Gloss>of one another</Gloss>
+		<Frequency>100</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>a;lloj</Lemma>
+		<Lexical>a;lloj( &amp;h( &amp;o</Lexical>
+		<Gloss>other, another</Gloss>
+		<Frequency>155</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>a`marti,a</Lemma>
+		<Lexical>a`marti,a( &amp;aj( h`</Lexical>
+		<Gloss>a sin, sin</Gloss>
+		<Frequency>173</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>avmh,n</Lemma>
+		<Lexical>avmh,n</Lexical>
+		<Gloss>verily, truly, amen</Gloss>
+		<Frequency>129</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>a;n</Lemma>
+		<Lexical>a;n</Lexical>
+		<Gloss>untranslatable particle - makes a statement contingent</Gloss>
+		<Frequency>166</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avnabai,nw</Lemma>
+		<Lexical>avnabai,nw</Lexical>
+		<Gloss>to go up</Gloss>
+		<Frequency>82</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>avnh,r</Lemma>
+		<Lexical>avnh,r( avndro,j( o`</Lexical>
+		<Gloss>a man, husband</Gloss>
+		<Frequency>216</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>a;nqrwpoj</Lemma>
+		<Lexical>a;nqrwpoj( &amp;ou( o`</Lexical>
+		<Gloss>a man</Gloss>
+		<Frequency>550</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avni,sthmi</Lemma>
+		<Lexical>avni,sthmi</Lexical>
+		<Gloss>to cause to arise, arise</Gloss>
+		<Frequency>110</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avnoi,gw</Lemma>
+		<Lexical>avnoi,gw</Lexical>
+		<Gloss>to open</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avpe,rcomai</Lemma>
+		<Lexical>avpe,rcomai</Lexical>
+		<Gloss>to depart, go away</Gloss>
+		<Frequency>117</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>avpo,</Lemma>
+		<Lexical>avpo,</Lexical>
+		<Gloss>from (gen)</Gloss>
+		<Frequency>646</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avpoqnh,|skw</Lemma>
+		<Lexical>avpoqnh,|skw</Lexical>
+		<Gloss>to die</Gloss>
+		<Frequency>111</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avpokri,nomai</Lemma>
+		<Lexical>avpokri,nomai</Lexical>
+		<Gloss>to answer</Gloss>
+		<Frequency>231</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avpoktei,nw</Lemma>
+		<Lexical>avpoktei,nw</Lexical>
+		<Gloss>to kill</Gloss>
+		<Frequency>74</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avpo,llumi</Lemma>
+		<Lexical>avpo,llumi</Lexical>
+		<Gloss>to destroy; to perish (middle)</Gloss>
+		<Frequency>90</Frequency>
+		<BBG>33</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avpolu,w</Lemma>
+		<Lexical>avpolu,w</Lexical>
+		<Gloss>to release</Gloss>
+		<Frequency>66</Frequency>
+		<BBG>33</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avposte,llw</Lemma>
+		<Lexical>avposte,llw</Lexical>
+		<Gloss>to send</Gloss>
+		<Frequency>132</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>avpo,stoloj</Lemma>
+		<Lexical>avpo,stoloj( &amp;ou( o`</Lexical>
+		<Gloss>an Apostle</Gloss>
+		<Frequency>80</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>a;rtoj</Lemma>
+		<Lexical>a;rtoj( &amp;ou( o`</Lexical>
+		<Gloss>bread, a loaf</Gloss>
+		<Frequency>97</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>avrch,</Lemma>
+		<Lexical>avrch,( &amp;h/j( h`</Lexical>
+		<Gloss>a beginning</Gloss>
+		<Frequency>55</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>avrciereu,j</Lemma>
+		<Lexical>avrciereu,j( &amp;e,wj( o`</Lexical>
+		<Gloss>chief priest, high priest</Gloss>
+		<Frequency>122</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>a;rcw</Lemma>
+		<Lexical>a;rcw</Lexical>
+		<Gloss>to rule </Gloss>
+		<Frequency>86</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avspa,zomai</Lemma>
+		<Lexical>avspa,zomai</Lexical>
+		<Gloss>to greet, salute</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>auvto,j</Lemma>
+		<Lexical>auvto,j( &amp;h,( &amp;o,</Lexical>
+		<Gloss>himself, herself, itself, same; he, she, it</Gloss>
+		<Frequency>5645</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avfi,hmi</Lemma>
+		<Lexical>avfi,hmi</Lexical>
+		<Gloss>to let go, permit, forgive</Gloss>
+		<Frequency>143</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ba,llw</Lemma>
+		<Lexical>ba,llw</Lexical>
+		<Gloss>to throw, put, cast</Gloss>
+		<Frequency>122</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>bapti,zw</Lemma>
+		<Lexical>bapti,zw</Lexical>
+		<Gloss>to baptize</Gloss>
+		<Frequency>77</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>basilei,a</Lemma>
+		<Lexical>basilei,a( &amp;aj( h`</Lexical>
+		<Gloss>a kingdom</Gloss>
+		<Frequency>162</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>basileu,j</Lemma>
+		<Lexical>basileu,j( &amp;e,wj( o`</Lexical>
+		<Gloss>a king</Gloss>
+		<Frequency>115</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ble,pw</Lemma>
+		<Lexical>ble,pw</Lexical>
+		<Gloss>to see</Gloss>
+		<Frequency>136</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>galilai,a</Lemma>
+		<Lexical>Galilai,a( &amp;aj( h`</Lexical>
+		<Gloss>Galilee</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ga,r</Lemma>
+		<Lexical>ga,r</Lexical>
+		<Gloss>for</Gloss>
+		<Frequency>1041</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>genna,w</Lemma>
+		<Lexical>genna,w</Lexical>
+		<Gloss>to beget</Gloss>
+		<Frequency>97</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>gh/</Lemma>
+		<Lexical>gh/( gh/j( h`</Lexical>
+		<Gloss>the earth, land</Gloss>
+		<Frequency>254</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>gi,nomai</Lemma>
+		<Lexical>gi,nomai</Lexical>
+		<Gloss>to become, be</Gloss>
+		<Frequency>669</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ginw,skw</Lemma>
+		<Lexical>ginw,skw</Lexical>
+		<Gloss>to come to know, learn, know, realize</Gloss>
+		<Frequency>242</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>glw/ssa</Lemma>
+		<Lexical>glw/ssa( &amp;hj( h`</Lexical>
+		<Gloss>a tongue, language</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>grammateu,j</Lemma>
+		<Lexical>grammateu,j( &amp;e,wj( o`</Lexical>
+		<Gloss>a scribe</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>grafh,</Lemma>
+		<Lexical>grafh,( &amp;h/j( h`</Lexical>
+		<Gloss>a writing, Scripture</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>gra,fw</Lemma>
+		<Lexical>gra,fw</Lexical>
+		<Gloss>to write</Gloss>
+		<Frequency>191</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>gunh,</Lemma>
+		<Lexical>gunh,( &amp;aiko,j( h`</Lexical>
+		<Gloss>a woman, wife</Gloss>
+		<Frequency>215</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>daimo,nion</Lemma>
+		<Lexical>daimo,nion( &amp;ou( to,</Lexical>
+		<Gloss>a demon</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>daui,d</Lemma>
+		<Lexical>Daui,d( o`</Lexical>
+		<Gloss>David</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>de,</Lemma>
+		<Lexical>de,</Lexical>
+		<Gloss>but, and</Gloss>
+		<Frequency>2792</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>dei/</Lemma>
+		<Lexical>dei/</Lexical>
+		<Gloss>it is necessary</Gloss>
+		<Frequency>101</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>dexio,j</Lemma>
+		<Lexical>dexio,j( &amp;a,( &amp;o,n</Lexical>
+		<Gloss>right</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>deu,teroj</Lemma>
+		<Lexical>deu,teroj( &amp;a( &amp;on</Lexical>
+		<Gloss>second</Gloss>
+		<Frequency>51</Frequency>
+		<BBG>0</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>de,comai</Lemma>
+		<Lexical>de,comai</Lexical>
+		<Gloss>to receive</Gloss>
+		<Frequency>56</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>dia,</Lemma>
+		<Lexical>dia,</Lexical>
+		<Gloss>through (gen); on account of (acc)</Gloss>
+		<Frequency>667</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>dida,skaloj</Lemma>
+		<Lexical>dida,skaloj( &amp;ou( o`</Lexical>
+		<Gloss>a teacher</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>dida,skw</Lemma>
+		<Lexical>dida,skw</Lexical>
+		<Gloss>to teach</Gloss>
+		<Frequency>97</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>di,dwmi</Lemma>
+		<Lexical>di,dwmi</Lexical>
+		<Gloss>to give</Gloss>
+		<Frequency>417</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>di,kaioj</Lemma>
+		<Lexical>di,kaioj( &amp;a( &amp;on</Lexical>
+		<Gloss>right, just, righteous</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>32</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>dikaiosu,nh</Lemma>
+		<Lexical>dikaiosu,nh( &amp;hj( h`</Lexical>
+		<Gloss>righteousness</Gloss>
+		<Frequency>92</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>dio,</Lemma>
+		<Lexical>                      </Lexical>
+		<Gloss>therefore, for this reason</Gloss>
+		<Frequency>53</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>doke,w</Lemma>
+		<Lexical>doke,w</Lexical>
+		<Gloss>to think; seem</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>do,xa</Lemma>
+		<Lexical>do,xa( &amp;hj( h`</Lexical>
+		<Gloss>glory</Gloss>
+		<Frequency>166</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>doxa,zw</Lemma>
+		<Lexical>doxa,zw</Lexical>
+		<Gloss>to glorify</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>dou/loj</Lemma>
+		<Lexical>dou/loj( &amp;h( &amp;on</Lexical>
+		<Gloss>a slave</Gloss>
+		<Frequency>126</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>du,namai</Lemma>
+		<Lexical>du,namai</Lexical>
+		<Gloss>to be powerful, able</Gloss>
+		<Frequency>210</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>du,namij</Lemma>
+		<Lexical>du,namij( &amp;ewj( h`</Lexical>
+		<Gloss>power</Gloss>
+		<Frequency>119</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>du,o</Lemma>
+		<Lexical>du,o</Lexical>
+		<Gloss>two</Gloss>
+		<Frequency>135</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>dw,deka</Lemma>
+		<Lexical>dw,deka</Lexical>
+		<Gloss>twelve</Gloss>
+		<Frequency>75</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>eva,n</Lemma>
+		<Lexical>eva,n</Lexical>
+		<Gloss>if</Gloss>
+		<Frequency>333</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>e`autou/</Lemma>
+		<Lexical>e`autou/( &amp;h/j( &amp;ou/</Lexical>
+		<Gloss>of himself</Gloss>
+		<Frequency>319</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>evgei,rw</Lemma>
+		<Lexical>evgei,rw</Lexical>
+		<Gloss>to raise up</Gloss>
+		<Frequency>144</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>evgw,</Lemma>
+		<Lexical>evgw,</Lexical>
+		<Gloss>I</Gloss>
+		<Frequency>2584</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>e;qnoj</Lemma>
+		<Lexical>e;qnoj( &amp;ouj( to,</Lexical>
+		<Gloss>a nation; Gentiles (plural)</Gloss>
+		<Frequency>162</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>eiv</Lemma>
+		<Lexical>eiv</Lexical>
+		<Gloss>if</Gloss>
+		<Frequency>502</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>eivmi,</Lemma>
+		<Lexical>eivmi,</Lexical>
+		<Gloss>I am</Gloss>
+		<Frequency>2462</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>eivrh,nh</Lemma>
+		<Lexical>eivrh,nh( &amp;hj( h`</Lexical>
+		<Gloss>peace</Gloss>
+		<Frequency>92</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>eivj</Lemma>
+		<Lexical>eivj</Lexical>
+		<Gloss>into (acc)</Gloss>
+		<Frequency>1767</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ei-j</Lemma>
+		<Lexical>ei-j( mi,a( e[n</Lexical>
+		<Gloss>one</Gloss>
+		<Frequency>353</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>eivse,rcomai</Lemma>
+		<Lexical>eivse,rcomai</Lexical>
+		<Gloss>to go or come in or into, enter</Gloss>
+		<Frequency>194</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ei;te</Lemma>
+		<Lexical>ei;te</Lexical>
+		<Gloss>if, whether</Gloss>
+		<Frequency>65</Frequency>
+		<BBG>33</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>evk</Lemma>
+		<Lexical>evk( evx</Lexical>
+		<Gloss>out of, from (gen)</Gloss>
+		<Frequency>914</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>e[kastoj</Lemma>
+		<Lexical>e[kastoj( &amp;h( &amp;on</Lexical>
+		<Gloss>each</Gloss>
+		<Frequency>82</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>evkba,llw</Lemma>
+		<Lexical>evkba,llw</Lexical>
+		<Gloss>to cast out</Gloss>
+		<Frequency>81</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>evkei/</Lemma>
+		<Lexical>evkei/</Lexical>
+		<Gloss>there</Gloss>
+		<Frequency>95</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>evkei/noj</Lemma>
+		<Lexical>evkei/noj( &amp;h( &amp;o</Lexical>
+		<Gloss>that</Gloss>
+		<Frequency>243</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>evkklhsi,a</Lemma>
+		<Lexical>evkklhsi,a( &amp;aj( h`</Lexical>
+		<Gloss>assembly, congregation, church</Gloss>
+		<Frequency>114</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>evlpi,j</Lemma>
+		<Lexical>evlpi,j( &amp;i,doj( h`</Lexical>
+		<Gloss>hope</Gloss>
+		<Frequency>53</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>evmo,j</Lemma>
+		<Lexical>evmo,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>my, mine</Gloss>
+		<Frequency>74</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>evn</Lemma>
+		<Lexical>evn</Lexical>
+		<Gloss>in (dat)</Gloss>
+		<Frequency>2752</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>evntolh,</Lemma>
+		<Lexical>evntolh,( &amp;h/j( h`</Lexical>
+		<Gloss>a commandment</Gloss>
+		<Frequency>67</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>evnw,pion</Lemma>
+		<Lexical>evnw,pion</Lexical>
+		<Gloss>before (gen)</Gloss>
+		<Frequency>94</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>evxe,rcomai</Lemma>
+		<Lexical>evxe,rcomai</Lexical>
+		<Gloss>to go out, come out</Gloss>
+		<Frequency>218</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>evxousi,a</Lemma>
+		<Lexical>evxousi,a( &amp;aj( h`</Lexical>
+		<Gloss>authority</Gloss>
+		<Frequency>102</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>e;xw</Lemma>
+		<Lexical>e;xw</Lexical>
+		<Gloss>without; outside (gen)</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>evpaggeli,a</Lemma>
+		<Lexical>evpaggeli,a( &amp;aj( h`</Lexical>
+		<Gloss>a promise</Gloss>
+		<Frequency>52</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>evperwta,w</Lemma>
+		<Lexical>evperwta,w</Lexical>
+		<Gloss>to ask, question, demand of</Gloss>
+		<Frequency>56</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>evpi,</Lemma>
+		<Lexical>evpi,</Lexical>
+		<Gloss>over, on, at the time of (gen); on the basis of, at (dat); on, to, against (acc)</Gloss>
+		<Frequency>890</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>e`pta,</Lemma>
+		<Lexical>e`pta,</Lexical>
+		<Gloss>seven</Gloss>
+		<Frequency>88</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>e;rgon</Lemma>
+		<Lexical>e;rgon( &amp;ou( to,</Lexical>
+		<Gloss>work, deed</Gloss>
+		<Frequency>169</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>e;rcomai</Lemma>
+		<Lexical>e;rcomai</Lexical>
+		<Gloss>to come, go</Gloss>
+		<Frequency>634</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>evrwta,w</Lemma>
+		<Lexical>evrwta,w</Lexical>
+		<Gloss>to ask, request, entreat</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>evsqi,w</Lemma>
+		<Lexical>evsqi,w</Lexical>
+		<Gloss>to eat</Gloss>
+		<Frequency>157</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>e;scatoj</Lemma>
+		<Lexical>e;scatoj( &amp;h( &amp;on</Lexical>
+		<Gloss>last</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>e[teroj</Lemma>
+		<Lexical>e[teroj( &amp;a( &amp;on</Lexical>
+		<Gloss>other, another, different</Gloss>
+		<Frequency>98</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>e;ti</Lemma>
+		<Lexical>e;ti</Lexical>
+		<Gloss>still, yet, even</Gloss>
+		<Frequency>93</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>euvaggeli,zw</Lemma>
+		<Lexical>euvaggeli,zw</Lexical>
+		<Gloss>to bring good news, preach good tidings</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>euvagge,lion</Lemma>
+		<Lexical>euvagge,lion( &amp;ou( &amp;n</Lexical>
+		<Gloss>good news, glad tidings, the Gospel</Gloss>
+		<Frequency>76</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>euvqu,j</Lemma>
+		<Lexical>euvqu,j( &amp;ei/a( &amp;u,</Lexical>
+		<Gloss>straightway, immediately</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>eu`ri,skw</Lemma>
+		<Lexical>eu`ri,skw</Lexical>
+		<Gloss>to find</Gloss>
+		<Frequency>176</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>e;cw</Lemma>
+		<Lexical>e;cw</Lexical>
+		<Gloss>to have, hold</Gloss>
+		<Frequency>708</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>e[wj</Lemma>
+		<Lexical>e[wj</Lexical>
+		<Gloss>until; as far as (gen)</Gloss>
+		<Frequency>160</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>za,w</Lemma>
+		<Lexical>za,w</Lexical>
+		<Gloss>to live</Gloss>
+		<Frequency>140</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>zhte,w</Lemma>
+		<Lexical>zhte,w</Lexical>
+		<Gloss>to seek</Gloss>
+		<Frequency>117</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>zwh,</Lemma>
+		<Lexical>zwh,( &amp;h/j( h`</Lexical>
+		<Gloss>life</Gloss>
+		<Frequency>135</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>h;</Lemma>
+		<Lexical>h;</Lexical>
+		<Gloss>or</Gloss>
+		<Frequency>343</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>h;dh</Lemma>
+		<Lexical>h;dh</Lexical>
+		<Gloss>now, already</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>h`me,ra</Lemma>
+		<Lexical>h`me,ra( &amp;aj( h`</Lexical>
+		<Gloss>a day</Gloss>
+		<Frequency>389</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>qa,lassa</Lemma>
+		<Lexical>qa,lassa( &amp;hj( h`</Lexical>
+		<Gloss>the sea</Gloss>
+		<Frequency>91</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>qa,natoj</Lemma>
+		<Lexical>qa,natoj( &amp;ou( o`</Lexical>
+		<Gloss>death</Gloss>
+		<Frequency>120</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>qe,lhma</Lemma>
+		<Lexical>qe,lhma( &amp;toj( to,</Lexical>
+		<Gloss>will</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>qe,lw</Lemma>
+		<Lexical>qe,lw</Lexical>
+		<Gloss>to will, wish, desire</Gloss>
+		<Frequency>208</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>qeo,j</Lemma>
+		<Lexical>qeo,j( &amp;ou/( o`</Lexical>
+		<Gloss>a god, God</Gloss>
+		<Frequency>1317</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>qewre,w</Lemma>
+		<Lexical>qewre,w</Lexical>
+		<Gloss>to look at, behold</Gloss>
+		<Frequency>64</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>qro,noj</Lemma>
+		<Lexical>qro,noj( &amp;ou( o`</Lexical>
+		<Gloss>a throne</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>i;dioj</Lemma>
+		<Lexical>i;dioj( &amp;a( &amp;on</Lexical>
+		<Gloss>one's own</Gloss>
+		<Frequency>114</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>ivdou,</Lemma>
+		<Lexical>ivdou,</Lexical>
+		<Gloss>See! Behold! Look! Lo!</Gloss>
+		<Frequency>200</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>i`ero,n</Lemma>
+		<Lexical>i`ero,n( &amp;ou/( to,</Lexical>
+		<Gloss>a temple</Gloss>
+		<Frequency>72</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>i`eroso,luma</Lemma>
+		<Lexical>~Ieroso,luma( to,</Lexical>
+		<Gloss>Jerusalem</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>iverousalh,m</Lemma>
+		<Lexical>~Ieroso,luma( to,</Lexical>
+		<Gloss>Jerousalem</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ivhsou/j</Lemma>
+		<Lexical>VIhsou/j</Lexical>
+		<Gloss>Jesus, Joshua</Gloss>
+		<Frequency>917</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>i`ma,tion</Lemma>
+		<Lexical>i`ma,tion( &amp;ou( to,</Lexical>
+		<Gloss>a garment</Gloss>
+		<Frequency>60</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>i[na</Lemma>
+		<Lexical>i[na</Lexical>
+		<Gloss>in order that, that</Gloss>
+		<Frequency>663</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ivoudai/oj</Lemma>
+		<Lexical>VIoudai/oj( &amp;a( &amp;on</Lexical>
+		<Gloss>Jewish, a Jew, Judea</Gloss>
+		<Frequency>195</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ivsrah,l</Lemma>
+		<Lexical>VIsrah,l( o`</Lexical>
+		<Gloss>Israel</Gloss>
+		<Frequency>68</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>i[sthmi</Lemma>
+		<Lexical>i[sthmi</Lexical>
+		<Gloss>to cause to stand, stand</Gloss>
+		<Frequency>155</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ivwa,nnhj</Lemma>
+		<Lexical>VIwa,nnhj( &amp;ou( o`</Lexical>
+		<Gloss>John</Gloss>
+		<Frequency>135</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ka,qhmai</Lemma>
+		<Lexical>ka,qhmai</Lexical>
+		<Gloss>to sit</Gloss>
+		<Frequency>91</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>kaqw,j</Lemma>
+		<Lexical>kaqw,j</Lexical>
+		<Gloss>as, just as, even as</Gloss>
+		<Frequency>182</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>kai,</Lemma>
+		<Lexical>kai,</Lexical>
+		<Gloss>and, even, also</Gloss>
+		<Frequency>9158</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>kairo,j</Lemma>
+		<Lexical>kairo,j( &amp;ou/( o`</Lexical>
+		<Gloss>time, an appointed time</Gloss>
+		<Frequency>85</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>kako,j</Lemma>
+		<Lexical>kako,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>bad, evil</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>kale,w</Lemma>
+		<Lexical>kale,w</Lexical>
+		<Gloss>to call, name invite</Gloss>
+		<Frequency>148</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>kalo,j</Lemma>
+		<Lexical>kalo,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>good</Gloss>
+		<Frequency>102</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>kardi,a</Lemma>
+		<Lexical>kardi,a( &amp;aj( h`</Lexical>
+		<Gloss>the heart</Gloss>
+		<Frequency>156</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>karpo,j</Lemma>
+		<Lexical>karpo,j( &amp;ou/( o`</Lexical>
+		<Gloss>fruit</Gloss>
+		<Frequency>66</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>kata,</Lemma>
+		<Lexical>kata,</Lexical>
+		<Gloss>down from, against (gen); according to, during, throughout (acc)</Gloss>
+		<Frequency>473</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>katabai,nw</Lemma>
+		<Lexical>katabai,nw</Lexical>
+		<Gloss>to go down</Gloss>
+		<Frequency>81</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>kefalh,</Lemma>
+		<Lexical>kefalh,( &amp;h/j( h`</Lexical>
+		<Gloss>head</Gloss>
+		<Frequency>75</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>khru,ssw</Lemma>
+		<Lexical>khru,ssw</Lexical>
+		<Gloss>to proclaim, preach</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ko,smoj</Lemma>
+		<Lexical>ko,smoj( &amp;ou( o`</Lexical>
+		<Gloss>the world</Gloss>
+		<Frequency>186</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>kra,zw</Lemma>
+		<Lexical>kra,zw</Lexical>
+		<Gloss>to cry out</Gloss>
+		<Frequency>55</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>kri,nw</Lemma>
+		<Lexical>kri,nw</Lexical>
+		<Gloss>to judge, decide</Gloss>
+		<Frequency>118</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ku,rioj</Lemma>
+		<Lexical>ku,rioj( &amp;ou( o`</Lexical>
+		<Gloss>a lord, the Lord</Gloss>
+		<Frequency>717</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>lale,w</Lemma>
+		<Lexical>lale,w</Lexical>
+		<Gloss>to speak</Gloss>
+		<Frequency>296</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>lamba,nw</Lemma>
+		<Lexical>lamba,nw</Lexical>
+		<Gloss>to take, receive</Gloss>
+		<Frequency>258</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>lao,j</Lemma>
+		<Lexical>lao,j( &amp;ou/( o`</Lexical>
+		<Gloss>a people</Gloss>
+		<Frequency>142</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>le,gw</Lemma>
+		<Lexical>le,gw</Lexical>
+		<Gloss>to say, speak</Gloss>
+		<Frequency>2357</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>li,qoj</Lemma>
+		<Lexical>li,qoj( &amp;ou( o`</Lexical>
+		<Gloss>a stone</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>31</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>lo,goj</Lemma>
+		<Lexical>lo,goj( &amp;ou( o`</Lexical>
+		<Gloss>a word, the Word</Gloss>
+		<Frequency>330</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>loipo,j</Lemma>
+		<Lexical>loipo,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>remaining, the rest (as a noun); for the rest, henceforth (as an adverb)</Gloss>
+		<Frequency>67</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>maqhth,j</Lemma>
+		<Lexical>maqhth,j( &amp;ou/( o`</Lexical>
+		<Gloss>a disciple</Gloss>
+		<Frequency>261</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>maka,rioj</Lemma>
+		<Lexical>maka,rioj( &amp;a( &amp;on</Lexical>
+		<Gloss>blessed, happy</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ma/llon</Lemma>
+		<Lexical>ma/llon</Lexical>
+		<Gloss>more, rather</Gloss>
+		<Frequency>81</Frequency>
+		<BBG>25</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>mari,a</Lemma>
+		<Lexical>Mari,a( &amp;aj</Lexical>
+		<Gloss>Mary</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>0</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>marture,w</Lemma>
+		<Lexical>marture,w</Lexical>
+		<Gloss>to bear witness, testify</Gloss>
+		<Frequency>78</Frequency>
+		<BBG>25</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>me,gaj</Lemma>
+		<Lexical>me,gaj( mega,lh( me,ga</Lexical>
+		<Gloss>large, great</Gloss>
+		<Frequency>245</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>me,llw</Lemma>
+		<Lexical>me,llw</Lexical>
+		<Gloss>to be about to</Gloss>
+		<Frequency>109</Frequency>
+		<BBG>32</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>me,n</Lemma>
+		<Lexical>me,n</Lexical>
+		<Gloss>on the one hand, indeed (postpositive particle often untranslated)</Gloss>
+		<Frequency>179</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>me,nw</Lemma>
+		<Lexical>me,nw</Lexical>
+		<Gloss>to remain, abide</Gloss>
+		<Frequency>120</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>me,soj</Lemma>
+		<Lexical>me,soj( &amp;h( &amp;on</Lexical>
+		<Gloss>middle, in the midst</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>meta,</Lemma>
+		<Lexical>meta,</Lexical>
+		<Gloss>with (gen); after (acc)</Gloss>
+		<Frequency>469</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>mh,</Lemma>
+		<Lexical>mh,</Lexical>
+		<Gloss>not, lest</Gloss>
+		<Frequency>1042</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>mhde,</Lemma>
+		<Lexical>mhde,</Lexical>
+		<Gloss>but not, nor, not even</Gloss>
+		<Frequency>56</Frequency>
+		<BBG>30</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>mhdei,j</Lemma>
+		<Lexical>mhdei,j( mhdemi,a( mhde,n</Lexical>
+		<Gloss>no one</Gloss>
+		<Frequency>91</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>mh,thr</Lemma>
+		<Lexical>mh,thr( &amp;troj( h`</Lexical>
+		<Gloss>a mother</Gloss>
+		<Frequency>83</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>mo,noj</Lemma>
+		<Lexical>mo,noj( &amp;h( &amp;on</Lexical>
+		<Gloss>alone, only</Gloss>
+		<Frequency>117</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>mwu?sh/j</Lemma>
+		<Lexical>Mwu?sh/j( &amp;e,wj( o`</Lexical>
+		<Gloss>Moses</Gloss>
+		<Frequency>80</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>nekro,j</Lemma>
+		<Lexical>nekro,j( &amp;a,( &amp;o,n</Lexical>
+		<Gloss>dead</Gloss>
+		<Frequency>130</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>no,moj</Lemma>
+		<Lexical>no,moj( &amp;ou( o`</Lexical>
+		<Gloss>a law, the Law</Gloss>
+		<Frequency>194</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>nu/n</Lemma>
+		<Lexical>nu/n</Lexical>
+		<Gloss>now</Gloss>
+		<Frequency>147</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>nu,x</Lemma>
+		<Lexical>nu,x( &amp;nukto,j( h`</Lexical>
+		<Gloss>night</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Article</WordType>
+		<Lemma>o`</Lemma>
+		<Lexical>o`( h`( to,</Lexical>
+		<Gloss>the </Gloss>
+		<Frequency>19889</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>o`do,j</Lemma>
+		<Lexical>o`do,j( &amp;ou/( h`</Lexical>
+		<Gloss>a way, road, journey</Gloss>
+		<Frequency>101</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>oi=da</Lemma>
+		<Lexical>oi=da</Lexical>
+		<Gloss>to know</Gloss>
+		<Frequency>324</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>oivki,a</Lemma>
+		<Lexical>oivki,a( &amp;aj( h`</Lexical>
+		<Gloss>a house</Gloss>
+		<Frequency>93</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>oi=koj</Lemma>
+		<Lexical>oi=koj( &amp;ou( o`</Lexical>
+		<Gloss>a house, home</Gloss>
+		<Frequency>114</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ovli,goj</Lemma>
+		<Lexical>ovli,goj( &amp;h( &amp;on</Lexical>
+		<Gloss>little, few</Gloss>
+		<Frequency>52</Frequency>
+		<BBG>0</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>o[loj</Lemma>
+		<Lexical>o[loj( &amp;h( &amp;on</Lexical>
+		<Gloss>whole, all</Gloss>
+		<Frequency>109</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>o;noma</Lemma>
+		<Lexical>o;noma( &amp;toj( to,</Lexical>
+		<Gloss>a name</Gloss>
+		<Frequency>234</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>o[pou</Lemma>
+		<Lexical>o[pou</Lexical>
+		<Gloss>where, whither</Gloss>
+		<Frequency>82</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>o[pwj</Lemma>
+		<Lexical>o[pwj</Lexical>
+		<Gloss>how, that, in order that,</Gloss>
+		<Frequency>53</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>o`ra,w</Lemma>
+		<Lexical>o`ra,w</Lexical>
+		<Gloss>to see</Gloss>
+		<Frequency>455</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>o;roj</Lemma>
+		<Lexical>o;roj( &amp;ouj( to,</Lexical>
+		<Gloss>a mountain</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>o[j</Lemma>
+		<Lexical>o[j( h[( o[</Lexical>
+		<Gloss>who, which</Gloss>
+		<Frequency>1435</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>o[soj</Lemma>
+		<Lexical>o[soj( &amp;h( &amp;on</Lexical>
+		<Gloss>as great as, as many as</Gloss>
+		<Frequency>110</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>o[stij</Lemma>
+		<Lexical>o[stij( h[tij( o[ti</Lexical>
+		<Gloss>whoever, whichever, whatever</Gloss>
+		<Frequency>144</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>o[tan</Lemma>
+		<Lexical>o[tan</Lexical>
+		<Gloss>whenever</Gloss>
+		<Frequency>123</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>o[te</Lemma>
+		<Lexical>o[te</Lexical>
+		<Gloss>when</Gloss>
+		<Frequency>103</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>o[ti</Lemma>
+		<Lexical>o[ti</Lexical>
+		<Gloss>that, because, since</Gloss>
+		<Frequency>1296</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ouv</Lemma>
+		<Lexical>ouv</Lexical>
+		<Gloss>not, no</Gloss>
+		<Frequency>1623</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ouvde,</Lemma>
+		<Lexical>ouvde,</Lexical>
+		<Gloss>and not, not even, neither, nor</Gloss>
+		<Frequency>143</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ouvdei,j</Lemma>
+		<Lexical>ouvdei,j( ouvdemi,a( ouvde,n</Lexical>
+		<Gloss>no one, none, nothing, no</Gloss>
+		<Frequency>234</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ou=n</Lemma>
+		<Lexical>ou=n</Lexical>
+		<Gloss>then, accordingly</Gloss>
+		<Frequency>499</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ouvrano,j</Lemma>
+		<Lexical>ouvrano,j( &amp;ou/( o`</Lexical>
+		<Gloss>heaven</Gloss>
+		<Frequency>273</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ou;te</Lemma>
+		<Lexical>ou;te</Lexical>
+		<Gloss>neither, nor</Gloss>
+		<Frequency>87</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ou-toj</Lemma>
+		<Lexical>ou-toj( au[th( tou/to</Lexical>
+		<Gloss>this; he, she, it</Gloss>
+		<Frequency>1403</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ou[tw</Lemma>
+		<Lexical>ou[tw( ou[twj</Lexical>
+		<Gloss>thus</Gloss>
+		<Frequency>208</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ouvci,</Lemma>
+		<Lexical>ouvci,</Lexical>
+		<Gloss>not</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ovfqalmo,j</Lemma>
+		<Lexical>ovfqalmo,j( &amp;ou/( o`</Lexical>
+		<Gloss>an eye</Gloss>
+		<Frequency>100</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>o;cloj</Lemma>
+		<Lexical>o;cloj( &amp;ou( o`</Lexical>
+		<Gloss>a crowd, multitude</Gloss>
+		<Frequency>175</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>paidi,on</Lemma>
+		<Lexical>paidi,on( &amp;ou( to,</Lexical>
+		<Gloss>an infant, child</Gloss>
+		<Frequency>52</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>pa,lin</Lemma>
+		<Lexical>pa,lin</Lexical>
+		<Gloss>again</Gloss>
+		<Frequency>141</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>para,</Lemma>
+		<Lexical>para,</Lexical>
+		<Gloss>from (gen); beside, in the presence of (dat); alongside of (acc)</Gloss>
+		<Frequency>194</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>parabolh,</Lemma>
+		<Lexical>parabolh,( &amp;h/j( h`</Lexical>
+		<Gloss>a parable</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>paradi,dwmi</Lemma>
+		<Lexical>paradi,dwmi</Lexical>
+		<Gloss>to hand over, betray</Gloss>
+		<Frequency>119</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>parakale,w</Lemma>
+		<Lexical>parakale,w</Lexical>
+		<Gloss>to beseech, urge, exhort, comfort</Gloss>
+		<Frequency>109</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>pa/j</Lemma>
+		<Lexical>pa/j( pa/sa( pa/n</Lexical>
+		<Gloss>all, every, all things</Gloss>
+		<Frequency>1283</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>path,r</Lemma>
+		<Lexical>path,r( patro,j( o`</Lexical>
+		<Gloss>father</Gloss>
+		<Frequency>413</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>pau/loj</Lemma>
+		<Lexical>Pau/loj( &amp;ou( o`</Lexical>
+		<Gloss>Paul</Gloss>
+		<Frequency>158</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>pei,qw</Lemma>
+		<Lexical>pei,qw</Lexical>
+		<Gloss>to persuade</Gloss>
+		<Frequency>52</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>pe,mpw</Lemma>
+		<Lexical>pe,mpw</Lexical>
+		<Gloss>to send</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>peri,</Lemma>
+		<Lexical>peri,</Lexical>
+		<Gloss>concerning, about (gen); around (acc)</Gloss>
+		<Frequency>333</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>peripate,w</Lemma>
+		<Lexical>peripate,w</Lexical>
+		<Gloss>to walk</Gloss>
+		<Frequency>95</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>pe,troj</Lemma>
+		<Lexical>Pe,troj( &amp;ou( o`</Lexical>
+		<Gloss>Peter</Gloss>
+		<Frequency>156</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>pila/toj</Lemma>
+		<Lexical>Pila/toj( &amp;ou( o`</Lexical>
+		<Gloss>Pilate</Gloss>
+		<Frequency>55</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>pi,nw</Lemma>
+		<Lexical>pi,nw</Lexical>
+		<Gloss>to drink</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>pi,ptw</Lemma>
+		<Lexical>pi,ptw</Lexical>
+		<Gloss>to fall</Gloss>
+		<Frequency>90</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>pisteu,w</Lemma>
+		<Lexical>pisteu,w</Lexical>
+		<Gloss>to have faith (in), believe</Gloss>
+		<Frequency>249</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>pi,stij</Lemma>
+		<Lexical>pi,stij( &amp;ewj( h`</Lexical>
+		<Gloss>faith, belief, trust</Gloss>
+		<Frequency>243</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>pisto,j</Lemma>
+		<Lexical>pisto,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>faithful, believing</Gloss>
+		<Frequency>67</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>plhro,w</Lemma>
+		<Lexical>plhro,w</Lexical>
+		<Gloss>to fill, fulfill</Gloss>
+		<Frequency>86</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ploi/on</Lemma>
+		<Lexical>ploi/on( &amp;ou( to,</Lexical>
+		<Gloss>a boat</Gloss>
+		<Frequency>67</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>pneu/ma</Lemma>
+		<Lexical>pneu/ma( &amp;toj( to,</Lexical>
+		<Gloss>a spirit, the Spirit</Gloss>
+		<Frequency>381</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>poie,w</Lemma>
+		<Lexical>poie,w</Lexical>
+		<Gloss>to do, make</Gloss>
+		<Frequency>572</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>po,lij</Lemma>
+		<Lexical>po,lij( &amp;ewj( h`</Lexical>
+		<Gloss>a city</Gloss>
+		<Frequency>163</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>polu,j</Lemma>
+		<Lexical>polu,j( pollh,( polu,</Lexical>
+		<Gloss>much, many (plural)</Gloss>
+		<Frequency>418</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ponhro,j</Lemma>
+		<Lexical>ponhro,j( &amp;a,( &amp;o,n</Lexical>
+		<Gloss>evil</Gloss>
+		<Frequency>88</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>poreu,omai</Lemma>
+		<Lexical>poreu,omai</Lexical>
+		<Gloss>to go, proceed</Gloss>
+		<Frequency>153</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>pou,j</Lemma>
+		<Lexical>pou,j( podo,j( o`</Lexical>
+		<Gloss>a foot</Gloss>
+		<Frequency>93</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>presbu,teroj</Lemma>
+		<Lexical>presbu,teroj( &amp;a( &amp;on</Lexical>
+		<Gloss>elder</Gloss>
+		<Frequency>66</Frequency>
+		<BBG>30</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>pro,j</Lemma>
+		<Lexical>pro,j</Lexical>
+		<Gloss>to, towards, with (acc)</Gloss>
+		<Frequency>700</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>prose,rcomai</Lemma>
+		<Lexical>prose,rcomai</Lexical>
+		<Gloss>to come to</Gloss>
+		<Frequency>86</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>proseu,comai</Lemma>
+		<Lexical>proseu,comai</Lexical>
+		<Gloss>to pray</Gloss>
+		<Frequency>85</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>proskune,w</Lemma>
+		<Lexical>proskune,w</Lexical>
+		<Gloss>to worship</Gloss>
+		<Frequency>60</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>pro,swpon</Lemma>
+		<Lexical>pro,swpon( &amp;ou( to,</Lexical>
+		<Gloss>face, presence</Gloss>
+		<Frequency>78</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>profh,thj</Lemma>
+		<Lexical>profh,thj( &amp;ou( o`</Lexical>
+		<Gloss>a prophet</Gloss>
+		<Frequency>144</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>prw/toj</Lemma>
+		<Lexical>prw/toj( &amp;h( &amp;on</Lexical>
+		<Gloss>first</Gloss>
+		<Frequency>159</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>pu/r</Lemma>
+		<Lexical>pu/r( &amp;o,j( to,</Lexical>
+		<Gloss>fire</Gloss>
+		<Frequency>71</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>pw/j</Lemma>
+		<Lexical>pw/j</Lexical>
+		<Gloss>how?</Gloss>
+		<Frequency>103</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>r`h/ma</Lemma>
+		<Lexical>r`h/ma( &amp;toj( to,</Lexical>
+		<Gloss>a word</Gloss>
+		<Frequency>68</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>sa,bbaton</Lemma>
+		<Lexical>sa,bbaton( &amp;ou( to,</Lexical>
+		<Gloss>the Sabbath</Gloss>
+		<Frequency>68</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>sa,rx</Lemma>
+		<Lexical>sa,rx( sarko,j( h`</Lexical>
+		<Gloss>flesh</Gloss>
+		<Frequency>147</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>shmei/on</Lemma>
+		<Lexical>shmei/on( &amp;ou( to,</Lexical>
+		<Gloss>a sign</Gloss>
+		<Frequency>77</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>si,mwn</Lemma>
+		<Lexical>Si,mwn( &amp;wnoj( o`</Lexical>
+		<Gloss>Simon</Gloss>
+		<Frequency>75</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>sofi,a</Lemma>
+		<Lexical>sofi,a( &amp;aj( h`</Lexical>
+		<Gloss>wisdom</Gloss>
+		<Frequency>51</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>spei,rw</Lemma>
+		<Lexical>spei,rw</Lexical>
+		<Gloss>to sow</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>sto,ma</Lemma>
+		<Lexical>sto,ma( &amp;toj( to,</Lexical>
+		<Gloss>a mouth</Gloss>
+		<Frequency>82</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>su,</Lemma>
+		<Lexical>su,</Lexical>
+		<Gloss>you</Gloss>
+		<Frequency>2908</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>su,n</Lemma>
+		<Lexical>su,n</Lexical>
+		<Gloss>with (dat)</Gloss>
+		<Frequency>128</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>suna,gw</Lemma>
+		<Lexical>suna,gw</Lexical>
+		<Gloss>to gather together</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>sunagwgh,</Lemma>
+		<Lexical>sunagwgh,( &amp;h/j( h`</Lexical>
+		<Gloss>a synagogue</Gloss>
+		<Frequency>56</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>sw,|zw</Lemma>
+		<Lexical>sw,|zw</Lexical>
+		<Gloss>to save</Gloss>
+		<Frequency>108</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>sw/ma</Lemma>
+		<Lexical>sw/ma( &amp;toj( to,</Lexical>
+		<Gloss>a body</Gloss>
+		<Frequency>142</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>te,</Lemma>
+		<Lexical>te,</Lexical>
+		<Gloss>and (enclitic weak connective particle)</Gloss>
+		<Frequency>215</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>te,knon</Lemma>
+		<Lexical>te,knon( &amp;ou( to,</Lexical>
+		<Gloss>a child</Gloss>
+		<Frequency>101</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>thre,w</Lemma>
+		<Lexical>thre,w</Lexical>
+		<Gloss>to keep</Gloss>
+		<Frequency>70</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ti,qhmi</Lemma>
+		<Lexical>ti,qhmi</Lexical>
+		<Gloss>to place</Gloss>
+		<Frequency>100</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ti,j</Lemma>
+		<Lexical>ti,j( ti,</Lexical>
+		<Gloss>who? which? what? why?</Gloss>
+		<Frequency>579</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ti.j</Lemma>
+		<Lexical>ti.j( ti.</Lexical>
+		<Gloss>someone, something, a certain one, a certain thing, anyone, anything </Gloss>
+		<Frequency>538</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>toiou/toj</Lemma>
+		<Lexical>toiou/toj( &amp;au,th( &amp;ou/ton</Lexical>
+		<Gloss>such</Gloss>
+		<Frequency>57</Frequency>
+		<BBG>31</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>to,poj</Lemma>
+		<Lexical>to,poj( &amp;ou( o`</Lexical>
+		<Gloss>a place</Gloss>
+		<Frequency>94</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>to,te</Lemma>
+		<Lexical>to,te</Lexical>
+		<Gloss>then, at that time</Gloss>
+		<Frequency>160</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>trei/j</Lemma>
+		<Lexical>trei/j( &amp;tri,a</Lexical>
+		<Gloss>three</Gloss>
+		<Frequency>69</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>tri,toj</Lemma>
+		<Lexical>tri,toj( &amp;h( &amp;on</Lexical>
+		<Gloss>third</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>tuflo,j</Lemma>
+		<Lexical>tuflo,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>blind</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>u[dwr</Lemma>
+		<Lexical>u[dwr( u[datoj( to,</Lexical>
+		<Gloss>water</Gloss>
+		<Frequency>78</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ui`o,j</Lemma>
+		<Lexical>ui`o,j( &amp;ou/( o`</Lexical>
+		<Gloss>a son</Gloss>
+		<Frequency>377</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>u`pa,gw</Lemma>
+		<Lexical>u`pa,gw</Lexical>
+		<Gloss>to depart</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>u`pa,rcw</Lemma>
+		<Lexical>u`pa,rcw</Lexical>
+		<Gloss>to be, exist</Gloss>
+		<Frequency>60</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>u`pe,r</Lemma>
+		<Lexical>u`pe,r</Lexical>
+		<Gloss>in behalf of (gen); above (acc)</Gloss>
+		<Frequency>150</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>u`po,</Lemma>
+		<Lexical>u`po,</Lexical>
+		<Gloss>by (gen); under (acc)</Gloss>
+		<Frequency>220</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>farisai/oj</Lemma>
+		<Lexical>Farisai/oj( &amp;ou( o`</Lexical>
+		<Gloss>Pharisee</Gloss>
+		<Frequency>98</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>fe,rw</Lemma>
+		<Lexical>fe,rw</Lexical>
+		<Gloss>to carry, bear, bring, lead</Gloss>
+		<Frequency>66</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>fhmi,</Lemma>
+		<Lexical>fhmi,</Lexical>
+		<Gloss>to say</Gloss>
+		<Frequency>152</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>fobe,w</Lemma>
+		<Lexical>fobe,omai</Lexical>
+		<Gloss>to fear</Gloss>
+		<Frequency>95</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>fwnh,</Lemma>
+		<Lexical>fwnh,( &amp;h/j( h`</Lexical>
+		<Gloss>a sound, voice</Gloss>
+		<Frequency>139</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>fw/j</Lemma>
+		<Lexical>fw/j( &amp;fwto,j( to,</Lexical>
+		<Gloss>light</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>cai,rw</Lemma>
+		<Lexical>cai,rw</Lexical>
+		<Gloss>to rejoice</Gloss>
+		<Frequency>74</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>cara,</Lemma>
+		<Lexical>cara,( &amp;a/j( h`</Lexical>
+		<Gloss>joy, delight</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ca,rij</Lemma>
+		<Lexical>ca,rij( &amp;itoj( h`</Lexical>
+		<Gloss>grace</Gloss>
+		<Frequency>155</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>cei,r</Lemma>
+		<Lexical>cei,r( ceiro,j( h`</Lexical>
+		<Gloss>a hand</Gloss>
+		<Frequency>177</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>cristo,j</Lemma>
+		<Lexical>Cristo,j( &amp;ou/( o`</Lexical>
+		<Gloss>Christ, Messiah, Anointed One</Gloss>
+		<Frequency>529</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>cro,noj</Lemma>
+		<Lexical>cro,noj( &amp;ou( o`</Lexical>
+		<Gloss>time</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>yuch,</Lemma>
+		<Lexical>yuch,( &amp;h/j( h`</Lexical>
+		<Gloss>soul, life, self</Gloss>
+		<Frequency>103</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>w-de</Lemma>
+		<Lexical>w-de</Lexical>
+		<Gloss>here, hither</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>w[ra</Lemma>
+		<Lexical>w[ra( &amp;aj( h`</Lexical>
+		<Gloss>an hour</Gloss>
+		<Frequency>106</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>w`j</Lemma>
+		<Lexical>w`j</Lexical>
+		<Gloss>as, that, like, how, about, now</Gloss>
+		<Frequency>504</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>w[ste</Lemma>
+		<Lexical>w[ste</Lexical>
+		<Gloss>so that</Gloss>
+		<Frequency>83</Frequency>
+		<BBG>7</BBG>
+	</Card>
+</CardList>

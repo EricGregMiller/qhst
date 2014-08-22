@@ -1,0 +1,74 @@
+<!-- I &love; IE in quirks mode -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr">
+ <head>
+  <meta http-equiv="content-type" content="text/html;charset=iso-8859-1"/>
+  <title>selector:hover in Internet Explorer</title>
+  <style type="text/css">
+   /*
+   html:hover{
+    background:black;
+   }
+   */
+   body{
+    behavior:url("hover.htc");
+   }
+   body:hover{
+    background:#ddd;
+   }
+   form{
+    width:40ex;
+   }
+   input.submit:hover{
+    cursor:pointer;
+    background:#eee;
+   }
+   span:hover{
+    background:lime;
+   }
+   dd#example:hover{
+    background:lime;
+   }
+   dd.example:hover{
+    background:lime;
+   }
+   /*
+   *:hover{
+    color:blue;
+   }
+   */
+  </style>
+ </head>
+ <body>
+  <h1><code>selector:hover</code> in Internet Explorer</h1>
+  <h2>An example with a form</h2>
+  <form action="" method="post">
+   <fieldset>
+    <legend><code>input.submit:hover{background:#eee;}</code></legend>
+    <input type="submit" class="submit" value="Send"/>
+   </fieldset>
+  </form>
+  <h2>Various selectors</h2>
+  <dl>
+   <dt><code>span:hover{background:lime;}</code></dt>
+   <dd><span>Example</span></dd>
+   <dt><code>dd#example{background:lime;}</code></dt>
+   <dd id="example">Example</dd>
+   <dt><code>dd.example{background:lime;}</code></dt>
+   <dd class="example">Example</dd>
+  </dl>
+  <h2>Not properly working</h2>
+  <pre><code>*:hover{
+ color:blue;
+}
+html:hover{
+ background:black;
+}</code></pre>
+  <p>Both have been removed, since the results are not relevant. You can copy this page (and the HTML Component) and test it for your self.</p>
+  <p>Everything you have seen here - with Internet Explorer - is made possible by: <a href="http://www.xs4all.nl/~peterned/">Peter Nederlof</a>.</p>
+  <ul>
+   <li>Original <a href="http://www.xs4all.nl/~peterned/htc/csshover.htc"><code>csshover.htc</code></a></li>
+   <li><a href="./hover.htc"><code>hover.htc</code></a> (not modified, I only removed the redundant language attribute)</li>
+  </ul>
+ </body>
+</html>

@@ -1,0 +1,5910 @@
+# b2evolution - Japanese language file
+# Copyright (C) 2003 Francois PLANQUE
+# This file is distributed under the same license as the b2evolution package.
+# SAKIYAMA Nobuo <sakichan@sakichan.org>, 2003.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: b2evolution 0.9\n"
+"POT-Creation-Date: 2003-08-22 19:52+0200\n"
+"PO-Revision-Date: 2004-06-26 17:54+0900\n"
+"Last-Translator: Jun MUTO <jmuto@saku2.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ..\..\..\a_noskin.php:110
+msgid "Selected"
+msgstr "選択"
+
+#. TRANS: backoffice: each post is prefixed by "date BY author IN categories"
+#: ..\..\..\a_noskin.php:161
+#: ..\..\..\a_noskin.php:252
+#: ..\..\..\multiblogs.php:140
+#: ..\..\..\admin\_edit_form.php:355
+#: ..\..\..\admin\_edit_showposts.php:143
+#: ..\..\..\admin\_edit_showposts.php:470
+#: ..\..\..\admin\_menutop.php:200
+#: ..\..\..\b2evocore\_functions_cats.php:567
+#: ..\..\..\skins\basic\_main.php:94
+#: ..\..\..\skins\custom\_main.php:89
+#: ..\..\..\skins\custom\_main.php:197
+#: ..\..\..\skins\wpc_aubmach\_main.php:118
+#: ..\..\..\skins\wpc_default\_main.php:121
+msgid "Categories"
+msgstr "カテゴリ"
+
+#: ..\..\..\a_noskin.php:175
+#: ..\..\..\multiblogs.php:139
+#: ..\..\..\multiblogs.php:222
+#: ..\..\..\multiblogs.php:258
+#: ..\..\..\summary.php:100
+#: ..\..\..\admin\_edit_showposts.php:159
+#: ..\..\..\skins\_linkblog.php:73
+#: ..\..\..\skins\basic\_main.php:84
+#: ..\..\..\skins\basic\_main.php:115
+#: ..\..\..\skins\custom\_main.php:86
+#: ..\..\..\skins\custom\_main.php:103
+#: ..\..\..\skins\wpc_aubmach\_main.php:71
+#: ..\..\..\skins\wpc_default\_main.php:71
+msgid "Permanent link to full entry"
+msgstr "全文への永続的リンク"
+
+#: ..\..\..\a_noskin.php:175
+#: ..\..\..\multiblogs.php:139
+#: ..\..\..\multiblogs.php:154
+#: ..\..\..\multiblogs.php:222
+#: ..\..\..\multiblogs.php:258
+#: ..\..\..\admin\_edit_showposts.php:159
+#: ..\..\..\admin\_edit_showposts.php:245
+#: ..\..\..\skins\_feedback.php:132
+#: ..\..\..\skins\_lastcomments.php:44
+#: ..\..\..\skins\_linkblog.php:73
+#: ..\..\..\skins\basic\_main.php:115
+#: ..\..\..\skins\custom\_main.php:103
+msgid "Permalink"
+msgstr "永続的リンク"
+
+#: ..\..\..\a_noskin.php:227
+#: ..\..\..\a_noskin.php:228
+#: ..\..\..\skins\bluesky\_main.php:144
+#: ..\..\..\skins\bluesky\_main.php:145
+#: ..\..\..\skins\custom\_main.php:172
+#: ..\..\..\skins\custom\_main.php:173
+#: ..\..\..\skins\guadeloupe\_main.php:145
+#: ..\..\..\skins\guadeloupe\_main.php:146
+msgid "Recently"
+msgstr "最新"
+
+#: ..\..\..\a_noskin.php:227
+#: ..\..\..\skins\bluesky\_main.php:144
+#: ..\..\..\skins\custom\_main.php:172
+#: ..\..\..\skins\guadeloupe\_main.php:145
+msgid "(cached)"
+msgstr "(キャッシュ)"
+
+#: ..\..\..\a_noskin.php:228
+#: ..\..\..\skins\bluesky\_main.php:145
+#: ..\..\..\skins\custom\_main.php:173
+#: ..\..\..\skins\guadeloupe\_main.php:146
+msgid "(no cache)"
+msgstr "(キャッシュされない)"
+
+#: ..\..\..\a_noskin.php:234
+#: ..\..\..\b2evocore\_functions_comments.php:189
+#: ..\..\..\skins\bluesky\_main.php:148
+#: ..\..\..\skins\custom\_main.php:179
+#: ..\..\..\skins\guadeloupe\_main.php:149
+msgid "Last comments"
+msgstr "最近のコメント"
+
+#: ..\..\..\a_noskin.php:235
+#: ..\..\..\skins\custom\_main.php:180
+msgid "Some viewing statistics"
+msgstr "閲覧状況の統計"
+
+#: ..\..\..\a_noskin.php:240
+#: ..\..\..\a_noskin.php:246
+#: ..\..\..\admin\_edit_showposts.php:344
+#: ..\..\..\admin\_edit_showposts.php:345
+#: ..\..\..\admin\_edit_showposts.php:545
+#: ..\..\..\skins\custom\_main.php:185
+#: ..\..\..\skins\custom\_main.php:191
+#: ..\..\..\skins\originalb2\_main.php:178
+#: ..\..\..\skins\wpc_aubmach\_main.php:125
+#: ..\..\..\skins\wpc_aubmach\_main.php:129
+#: ..\..\..\skins\wpc_default\_main.php:128
+#: ..\..\..\skins\wpc_default\_main.php:132
+msgid "Search"
+msgstr "検索"
+
+#: ..\..\..\a_noskin.php:243
+#: ..\..\..\skins\custom\_main.php:188
+msgid "All Words"
+msgstr "全ての語"
+
+#: ..\..\..\a_noskin.php:244
+#: ..\..\..\skins\custom\_main.php:189
+msgid "Some Word"
+msgstr "いずれかの語"
+
+#: ..\..\..\a_noskin.php:245
+#: ..\..\..\admin\_edit_showposts.php:390
+#: ..\..\..\skins\custom\_main.php:190
+msgid "Entire phrase"
+msgstr "フレーズ"
+
+#: ..\..\..\a_noskin.php:247
+#: ..\..\..\a_noskin.php:259
+#: ..\..\..\skins\bluesky\_main.php:163
+#: ..\..\..\skins\custom\_main.php:192
+#: ..\..\..\skins\custom\_main.php:204
+#: ..\..\..\skins\guadeloupe\_main.php:165
+msgid "Reset form"
+msgstr "フォームのリセット"
+
+#: ..\..\..\a_noskin.php:258
+#: ..\..\..\skins\bluesky\_main.php:162
+#: ..\..\..\skins\custom\_main.php:203
+#: ..\..\..\skins\guadeloupe\_main.php:164
+#: ..\..\..\skins\originalb2\_main.php:170
+msgid "Get selection"
+msgstr "選択"
+
+#: ..\..\..\a_noskin.php:264
+#: ..\..\..\admin\_edit_showposts.php:394
+#: ..\..\..\skins\basic\_main.php:155
+#: ..\..\..\skins\bluesky\_main.php:195
+#: ..\..\..\skins\custom\_main.php:209
+#: ..\..\..\skins\guadeloupe\_main.php:197
+#: ..\..\..\skins\wpc_aubmach\_main.php:134
+#: ..\..\..\skins\wpc_default\_main.php:137
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: ..\..\..\a_noskin.php:269
+#: ..\..\..\a_noskin.php:282
+#: ..\..\..\a_noskin.php:291
+#: ..\..\..\skins\bluesky\_main.php:208
+#: ..\..\..\skins\bluesky\_main.php:217
+#: ..\..\..\skins\custom\_main.php:214
+#: ..\..\..\skins\custom\_main.php:240
+#: ..\..\..\skins\custom\_main.php:249
+#: ..\..\..\skins\guadeloupe\_main.php:210
+#: ..\..\..\skins\guadeloupe\_main.php:219
+msgid "more..."
+msgstr "続き..."
+
+#: ..\..\..\a_noskin.php:276
+#: ..\..\..\skins\bluesky\_main.php:202
+#: ..\..\..\skins\custom\_main.php:234
+#: ..\..\..\skins\guadeloupe\_main.php:204
+msgid "Recent Referers"
+msgstr "最近のリファラ"
+
+#: ..\..\..\a_noskin.php:285
+#: ..\..\..\skins\bluesky\_main.php:211
+#: ..\..\..\skins\custom\_main.php:243
+#: ..\..\..\skins\guadeloupe\_main.php:213
+msgid "Top Referers"
+msgstr "最多のリファラ"
+
+#: ..\..\..\a_noskin.php:304
+#: ..\..\..\multiblogs.php:276
+#: ..\..\..\skins\babyblues\_main.php:127
+#: ..\..\..\skins\bluesky\_main.php:222
+#: ..\..\..\skins\custom\_main.php:262
+#: ..\..\..\skins\guadeloupe\_main.php:224
+msgid "Misc"
+msgstr "いろいろ"
+
+#: ..\..\..\a_noskin.php:318
+#: ..\..\..\skins\custom\_main.php:275
+msgid "Syndicate this blog"
+msgstr "このブログの配信"
+
+#: ..\..\..\default.php:28
+msgid "Default page for b2evolution"
+msgstr "b2evolution のデフォルトページ"
+
+#: ..\..\..\default.php:34
+#: ..\..\..\install\index.php:53
+msgid "Multilingual multiuser multi-blog engine."
+msgstr "多言語・複数ユーザ・マルチブログ エンジン。"
+
+#: ..\..\..\default.php:37
+msgid "Welcome to b2evolution"
+msgstr "b2evolution へようこそ"
+
+#: ..\..\..\default.php:39
+msgid "This is the default homepage for b2evolution. It will be displayed as long as you don't select a default blog in the general settings."
+msgstr "これは b2evolution のデフォルト ホームページです。一般設定でデフォルト ブログを選択していない場合、表示されます。"
+
+#: ..\..\..\default.php:42
+msgid "Individual blogs on this system"
+msgstr "このシステムの個々のブログ"
+
+#: ..\..\..\default.php:52
+#, php-format
+msgid "Blog #%d"
+msgstr "ブログ #%d"
+
+#: ..\..\..\default.php:74
+msgid "Blog #1"
+msgstr "ブログ #1"
+
+#: ..\..\..\default.php:74
+msgid "This is a special blog that aggregates all messages from all other blogs!"
+msgstr "これは他の全てのブログから全てのメッセージを集約する特別なブログです!"
+
+#: ..\..\..\default.php:79
+msgid "Please note: the above list (as well as the menu) is automatically generated and includes only the blogs that have a &quot;stub url name&quot;. You can set this in the blog configuration in the back-office."
+msgstr "注意してください: 上のリスト(メニューも同様です)は自動的に生成され、&quot;スタブ URL名&quot;を持っているブログだけが含まれます。これは back office のブログ設定で設定できます。"
+
+#: ..\..\..\default.php:80
+msgid "More demos"
+msgstr "さらにデモ"
+
+#: ..\..\..\default.php:82
+#: ..\..\..\default.php:83
+#: ..\..\..\default.php:84
+msgid "Custom template"
+msgstr "テンプレートのカスタム"
+
+#: ..\..\..\default.php:82
+msgid "Multiple blogs displayed on the same page"
+msgstr "複数のブログを同じページに表示します。"
+
+#: ..\..\..\default.php:83
+msgid "Summary of last posts in all blogs"
+msgstr "すべてのブログの最新投稿のまとめ"
+
+#: ..\..\..\default.php:84
+msgid "The page you're looking at"
+msgstr "あなたが見ているページ"
+
+#: ..\..\..\default.php:86
+msgid "Please note: those demos do not make use of evoSkins, even if you enabled them during install. The only way to change their look and feel is to edit their PHP template. But once, again, rememner these are just demos destined to inspire you for your own templates ;)"
+msgstr "注意して下さい: これらのデモは、たとえインストールの間に有効にしたとしても、evoSkinsを使いません。外観を変更する唯一の方法は、PHPのテンプレートを変更することです。でも、もう一度、これは単にあなた自身のテンプレートを発想して頂くためのデモに過ぎない、ということを思い出してください。"
+
+#: ..\..\..\default.php:88
+msgid "Administration"
+msgstr "管理"
+
+#: ..\..\..\default.php:90
+msgid "Go to backoffice!"
+msgstr "backoffice へ移動!"
+
+#: ..\..\..\default.php:95
+msgid "Official website"
+msgstr "公式ウェブサイト"
+
+#: ..\..\..\default.php:95
+#: ..\..\..\install\index.php:516
+msgid "GNU GPL license"
+msgstr "GNU GPL ライセンス"
+
+#: ..\..\..\multiblogs.php:99
+msgid "Multiblog demo"
+msgstr "マルチブログ デモ"
+
+#: ..\..\..\multiblogs.php:109
+msgid "This demo template displays 3 blogs at once (1 on the left, 2 on the right)"
+msgstr "このデモテンプレートは3つのブログを同時に表示します。（左に 1、右に 2）"
+
+#: ..\..\..\summary.php:65
+msgid "Summary demo"
+msgstr "サマリー デモ"
+
+#: ..\..\..\summary.php:75
+msgid "This demo template displays a summary of last posts in all blogs"
+msgstr "このデモ用テンプレートはすべてのブログの最新投稿の一覧を表示します"
+
+#: ..\..\..\summary.php:106
+msgid "More posts..."
+msgstr "さらに..."
+
+#: ..\..\..\admin\b2antispam.php:19
+#: ..\..\..\admin\_menutop.php:223
+#: ..\..\..\admin\_users_groupform.php:97
+msgid "Antispam"
+msgstr "spam排除"
+
+#: ..\..\..\admin\b2antispam.php:49
+#, php-format
+msgid "The keyword [%s] is too short, it has to be a minimum of 5 characters!"
+msgstr "キーワード [%s] は短すぎます。5文字以上必要です!"
+
+#: ..\..\..\admin\b2antispam.php:57
+#, php-format
+msgid "Deleting log-hits matching [%s]..."
+msgstr "[%s] に一致するログhitsを削除しています..."
+
+#: ..\..\..\admin\b2antispam.php:68
+#, php-format
+msgid "Deleting comments matching [%s]..."
+msgstr "[%s] に一致するコメントを削除しています..."
+
+#: ..\..\..\admin\b2antispam.php:78
+#, php-format
+msgid "Blacklisting the keyword [%s]..."
+msgstr "キーワード [%s] をブラックリストに登録しています..."
+
+#: ..\..\..\admin\b2antispam.php:97
+msgid "Confirm ban &amp; delete"
+msgstr "拒否と削除の確認"
+
+#: ..\..\..\admin\b2antispam.php:111
+#, php-format
+msgid "No log-hits match the keyword [%s]."
+msgstr "キーワード [%s] に一致するログhitはありません。"
+
+#: ..\..\..\admin\b2antispam.php:117
+#, php-format
+msgid "Delete the following %d referer hits:"
+msgstr "以下の %d 個のリファラhitを削除:"
+
+#: ..\..\..\admin\b2antispam.php:145
+#, php-format
+msgid "No comments match the keyword [%s]."
+msgstr "キーワード [%s] に一致するコメントはありません。"
+
+#: ..\..\..\admin\b2antispam.php:151
+#, php-format
+msgid "Delete the following %d comments:"
+msgstr "以下の %d 個のコメントを削除:"
+
+#: ..\..\..\admin\b2antispam.php:186
+#, php-format
+msgid "The keyword [%s] is already handled by the blacklist."
+msgstr "キーワード [%s] はすでにブラックリストに入っています。"
+
+#: ..\..\..\admin\b2antispam.php:192
+#, php-format
+msgid "Blacklist the keyword [%s] locally."
+msgstr "キーワード [%s] をローカルのブラックリストに入れる"
+
+#: ..\..\..\admin\b2antispam.php:199
+#, php-format
+msgid "Report the keyword [%s] as abuse to b2evolution.net."
+msgstr "b2evolution.net へキーワード [%s] を迷惑行為として報告します。"
+
+#: ..\..\..\admin\b2antispam.php:201
+#: ..\..\..\admin\b2antispam.php:284
+#: ..\..\..\admin\_blogs_advanced.form.php:28
+msgid "Terms of service"
+msgstr "サービス規約"
+
+#: ..\..\..\admin\b2antispam.php:208
+msgid "Perform selected operations"
+msgstr "選択された操作を行う"
+
+#: ..\..\..\admin\b2antispam.php:225
+#, php-format
+msgid "Removing entry #%d from the ban list..."
+msgstr "拒否リストからエントリー #%d を削除中..."
+
+#: ..\..\..\admin\b2antispam.php:262
+msgid "Add a banned keyword"
+msgstr "拒否キーワードの追加"
+
+#: ..\..\..\admin\b2antispam.php:264
+msgid "Check &amp; ban..."
+msgstr "チェック &amp; 拒否..."
+
+#: ..\..\..\admin\b2antispam.php:272
+msgid "Banned domains blacklist"
+msgstr "拒否ドメイン ブラックリスト"
+
+#: ..\..\..\admin\b2antispam.php:273
+msgid "Any URL containing one of the following keywords will be banned from posts, comments and logs."
+msgstr "以下のキーワードのいずれかが含まれるURLは、投稿、コメント、ログから拒否されます。"
+
+#: ..\..\..\admin\b2antispam.php:276
+msgid "If a keyword restricts legitimate domains, click on the green tick to stop banning with this keyword."
+msgstr "キーワードが適正なドメインを制限する時は、緑のしるしをクリックしてこのキーワードでの拒否を停止してください。"
+
+#: ..\..\..\admin\b2antispam.php:283
+msgid "Request abuse update from centralized blacklist!"
+msgstr "中央ブラックリストに迷惑行為の更新情報を請求する!"
+
+#: ..\..\..\admin\b2antispam.php:296
+msgid "Allow keyword back (Remove it from the blacklist)"
+msgstr "キーワードを許可する (ブラックリストから削除)"
+
+#: ..\..\..\admin\b2antispam.php:296
+msgid "Allow Back"
+msgstr "許可する"
+
+#: ..\..\..\admin\b2antispam.php:307
+msgid "Report abuse to centralized ban blacklist!"
+msgstr "迷惑行為を中央拒否ブラックリストに報告する"
+
+#: ..\..\..\admin\b2antispam.php:307
+msgid "Report"
+msgstr "報告"
+
+#: ..\..\..\admin\b2antispam.php:309
+msgid "Check hit-logs and comments for this keyword!"
+msgstr "hitログとコメントをこのキーワードでチェックします!"
+
+#: ..\..\..\admin\b2antispam.php:309
+msgid "Re-check"
+msgstr "再チェック"
+
+#: ..\..\..\admin\b2blogs.php:17
+#: ..\..\..\admin\_blogs_list.php:26
+#: ..\..\..\admin\_menutop.php:206
+#: ..\..\..\admin\_users_groupform.php:87
+#: ..\..\..\skins\bluesky\_bloglist.php:23
+#: ..\..\..\skins\guadeloupe\_bloglist.php:23
+msgid "Blogs"
+msgstr "ブログ"
+
+#: ..\..\..\admin\b2blogs.php:25
+#: ..\..\..\admin\b2blogs.php:128
+msgid "New"
+msgstr "新規"
+
+#: ..\..\..\admin\b2blogs.php:34
+msgid "Creating blog..."
+msgstr "ブログ作成中..."
+
+#: ..\..\..\admin\b2blogs.php:62
+#: ..\..\..\admin\b2blogs.php:221
+msgid "You must provide an URL blog name / Stub name!"
+msgstr "URLブログ名 / スタブ名を提供しなければなりません!"
+
+#: ..\..\..\admin\b2blogs.php:68
+#: ..\..\..\admin\b2blogs.php:228
+msgid "This URL blog name / Stub name is already in use by another blog. Choose another name."
+msgstr "このURLブログ名 / スタブ名はすでに他のブログによって使用されています。別の名前を選んで下さい。"
+
+#: ..\..\..\admin\b2blogs.php:71
+msgid "Cannot create, please correct these errors:"
+msgstr "作成できません。以下のエラーを修正してください:"
+
+#: ..\..\..\admin\b2blogs.php:114
+#, php-format
+msgid "You should <a %s>create categories</a> for this blog now!"
+msgstr "このブログについて <a %s>カテゴリ作成</a> を今行ってください!"
+
+#: ..\..\..\admin\b2blogs.php:135
+#: ..\..\..\b2evocore\_class_blog.php:80
+msgid "New weblog"
+msgstr "新規ウェブログ"
+
+#: ..\..\..\admin\b2blogs.php:136
+#: ..\..\..\admin\b2blogs.php:155
+#: ..\..\..\b2evocore\_class_blog.php:79
+msgid "New blog"
+msgstr "新規ブログ"
+
+#: ..\..\..\admin\b2blogs.php:172
+#: ..\..\..\admin\b2blogs.php:309
+#: ..\..\..\admin\b2blogs.php:336
+#: ..\..\..\admin\b2options.php:29
+#: ..\..\..\admin\b2options.php:410
+#: ..\..\..\admin\_users_groupform.php:73
+msgid "General"
+msgstr "一般"
+
+#: ..\..\..\admin\b2blogs.php:175
+#: ..\..\..\admin\b2blogs.php:312
+#: ..\..\..\admin\b2blogs.php:342
+msgid "Permissions"
+msgstr "権限"
+
+#: ..\..\..\admin\b2blogs.php:178
+#: ..\..\..\admin\b2blogs.php:315
+#: ..\..\..\admin\b2blogs.php:348
+msgid "Advanced"
+msgstr "上級"
+
+#: ..\..\..\admin\b2blogs.php:190
+#, php-format
+msgid "Updating Blog [%s]..."
+msgstr "ブログ [%s] を更新しています..."
+
+#: ..\..\..\admin\b2blogs.php:231
+#: ..\..\..\admin\edit_actions.php:217
+msgid "Cannot update, please correct these errors:"
+msgstr "更新できません。以下のエラーを修正してください:"
+
+#: ..\..\..\admin\b2blogs.php:424
+#, php-format
+msgid "Delete blog [%s]?"
+msgstr "ブログ [%s] を削除しますか?"
+
+#: ..\..\..\admin\b2blogs.php:426
+msgid "Deleting this blog will also delete all its categories, posts and comments!"
+msgstr "このブログを削除すると、その全てのカテゴリ、投稿、コメントも削除されます!"
+
+#: ..\..\..\admin\b2blogs.php:428
+#: ..\..\..\admin\b2users.php:328
+#: ..\..\..\admin\b2users.php:385
+msgid "THIS CANNOT BE UNDONE!"
+msgstr "これは元に戻すことができません!"
+
+#: ..\..\..\admin\b2blogs.php:441
+#, php-format
+msgid "Also try to delete stub file [<strong><a %s>%s</a></strong>]"
+msgstr "スタブ ファイル [<strong><a %s>%s</a></strong>] の削除も試みます"
+
+#: ..\..\..\admin\b2blogs.php:449
+#, php-format
+msgid "Also try to delete static file [<strong><a %s>%s</a></strong>]"
+msgstr "静的ファイル [<strong><a %s>%s</a></strong>] の削除も試みます"
+
+#: ..\..\..\admin\b2blogs.php:455
+#: ..\..\..\admin\b2users.php:336
+#: ..\..\..\admin\b2users.php:393
+msgid "I am sure!"
+msgstr "了解!"
+
+#: ..\..\..\admin\b2blogs.php:458
+#: ..\..\..\admin\b2users.php:339
+#: ..\..\..\admin\b2users.php:396
+msgid "CANCEL"
+msgstr "キャンセル"
+
+#: ..\..\..\admin\b2blogs.php:490
+#, php-format
+msgid "Generating static page for blog [%s]"
+msgstr "ブログ [%s] の静的ページの生成"
+
+#: ..\..\..\admin\b2blogs.php:499
+msgid "You haven't set a static filename for this blog!"
+msgstr "このブログの静的ファイル名が設定されていません！"
+
+#: ..\..\..\admin\b2blogs.php:546
+msgid "File cannot be written!"
+msgstr "ファイルを書き込むことができません!"
+
+#: ..\..\..\admin\b2blogs.php:547
+#, php-format
+msgid "You should check the file permissions for [%s]. See <a %s>online manual on file permissions</a>."
+msgstr "[%s] のファイル権限を確認するべきです。<a %s>ファイル権限についてのオンラインマニュアル</a> を参照してください。"
+
+#: ..\..\..\admin\b2blogs.php:553
+#, php-format
+msgid "Writing to file [%s]..."
+msgstr "ファイル [%s] へ書き込みます..."
+
+#: ..\..\..\admin\b2blogs.php:557
+#: ..\..\..\admin\edit_actions.php:135
+#: ..\..\..\admin\edit_actions.php:252
+#: ..\..\..\admin\edit_actions.php:342
+#: ..\..\..\b2evocore\_functions_antispam.php:201
+#: ..\..\..\b2evocore\_functions_antispam.php:303
+#: ..\..\..\b2evocore\_functions_pings.php:51
+#: ..\..\..\b2evocore\_functions_pings.php:87
+#: ..\..\..\b2evocore\_functions_pings.php:164
+#: ..\..\..\b2evocore\_functions_pings.php:205
+msgid "Done."
+msgstr "完了しました。"
+
+#: ..\..\..\admin\b2browse.php:17
+msgid "Browse blog:"
+msgstr "ブログを閲覧:"
+
+#: ..\..\..\admin\b2browse.php:57
+#: ..\..\..\admin\b2edit.php:167
+#, php-format
+msgid "Since you're a newcomer, you'll have to wait for an admin to authorize you to post. You can also <a %s>e-mail the admin</a> to ask for a promotion. When you're promoted, just reload this page and you'll be able to blog. :)"
+msgstr "あなたは新規登録者なので, 管理者があなたに投稿許可を与えるのを待たなければなりません。あなたは<a %s>管理者にメール</a>して昇級を要請することもできます。昇級したら、このページをリロードするだけで、あなたはブログできるようになります。:)"
+
+#: ..\..\..\admin\b2categories.php:17
+#: ..\..\..\admin\_cats_list.php:14
+msgid "Categories for blog:"
+msgstr "カテゴリ for ブログ:"
+
+#: ..\..\..\admin\b2categories.php:71
+#, php-format
+msgid "New sub-category in category: %s"
+msgstr "新規サブカテゴリをカテゴリ %s のなかに"
+
+#: ..\..\..\admin\b2categories.php:80
+#, php-format
+msgid "New category in blog: %s"
+msgstr "新規カテゴリを ブログ %s に"
+
+#: ..\..\..\admin\b2categories.php:87
+msgid "New category name"
+msgstr "新規カテゴリの名称"
+
+#: ..\..\..\admin\b2categories.php:88
+msgid "Create category"
+msgstr "カテゴリの作成"
+
+#: ..\..\..\admin\b2categories.php:144
+#, php-format
+msgid "Deleting category #%d : %s ..."
+msgstr "カテゴリ #%d : %s を削除中..."
+
+#: ..\..\..\admin\b2categories.php:150
+#: ..\..\..\b2evocore\_functions_users.php:76
+#: ..\..\..\b2evocore\_functions_users.php:107
+#: ..\..\..\htsrv\profile_update.php:53
+#: ..\..\..\htsrv\profile_update.php:63
+#: ..\..\..\htsrv\profile_update.php:72
+#: ..\..\..\htsrv\profile_update.php:78
+#: ..\..\..\htsrv\profile_update.php:87
+#: ..\..\..\htsrv\profile_update.php:95
+#: ..\..\..\htsrv\profile_update.php:100
+#: ..\..\..\htsrv\register.php:43
+#: ..\..\..\htsrv\register.php:50
+#: ..\..\..\htsrv\register.php:57
+#: ..\..\..\htsrv\register.php:73
+#: ..\..\..\htsrv\register.php:78
+#: ..\..\..\htsrv\register.php:89
+msgid "ERROR"
+msgstr "エラー"
+
+#: ..\..\..\admin\b2categories.php:154
+msgid "Category deleted."
+msgstr "カテゴリを削除しました。"
+
+#: ..\..\..\admin\b2categories.php:179
+msgid "Properties for category:"
+msgstr "カテゴリのプロパティ:"
+
+#: ..\..\..\admin\b2categories.php:182
+#: ..\..\..\admin\b2upload.php:167
+#: ..\..\..\admin\_edit_form.php:131
+#: ..\..\..\admin\_set_regional.form.php:49
+#: ..\..\..\admin\_set_regional.form.php:160
+#: ..\..\..\admin\_users_groupform.php:76
+#: ..\..\..\admin\_users_list.php:20
+#: ..\..\..\skins\_feedback.php:176
+#: ..\..\..\skins\basic\_feedback.php:173
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:181
+#: ..\..\..\skins\wpc_default\_feedback.php:181
+msgid "Name"
+msgstr "名前"
+
+#: ..\..\..\admin\b2categories.php:186
+msgid "New parent category"
+msgstr "新しい親カテゴリ"
+
+#: ..\..\..\admin\b2categories.php:212
+#: ..\..\..\admin\b2categories.php:231
+msgid "Old Parent"
+msgstr "今までの親"
+
+#: ..\..\..\admin\b2categories.php:229
+msgid "Root (No parent)"
+msgstr "ルート (親無し)"
+
+#: ..\..\..\admin\b2categories.php:240
+msgid "Edit category!"
+msgstr "カテゴリを編集!"
+
+#: ..\..\..\admin\b2categories.php:285
+msgid "Sorry, you have no permission to edit/view any category's properties."
+msgstr "申し訳ありません。あなたはどのカテゴリのプロパティも編集/閲覧する権限を持っていません。"
+
+#: ..\..\..\admin\b2edit.php:30
+#: ..\..\..\admin\edit_actions.php:196
+#: ..\..\..\admin\edit_actions.php:295
+msgid "Oops, no post with this ID."
+msgstr "あれ、このIDの投稿はありません。"
+
+#: ..\..\..\admin\b2edit.php:37
+msgid "Editing post"
+msgstr "投稿を編集"
+
+#: ..\..\..\admin\b2edit.php:40
+#, php-format
+msgid "#%d in blog: %s"
+msgstr "#%d in ブログ: %s"
+
+#: ..\..\..\admin\b2edit.php:79
+msgid "Oops, no comment with this ID!"
+msgstr "あれ、このIDのコメントはありません！"
+
+#: ..\..\..\admin\b2edit.php:82
+msgid "Editing comment"
+msgstr "コメントを編集"
+
+#: ..\..\..\admin\b2edit.php:118
+msgid "New post in blog:"
+msgstr "ブログに新規投稿:"
+
+#: ..\..\..\admin\b2edit.php:145
+#: ..\..\..\admin\b2edit.php:179
+msgid "Since this blog has no categories, you cannot post to it. You must create categories first."
+msgstr "このブログにはカテゴリが無いので、投稿することができません。先にカテゴリを作成しなければなりません。"
+
+#: ..\..\..\admin\b2edit.php:149
+msgid "Switch to this blog (keeping your input if Javascript is active)"
+msgstr "このブログに切り換え (Javascriptが有効なら入力内容が保持されます)"
+
+#: ..\..\..\admin\b2login.php:23
+#: ..\..\..\admin\b2upload.php:24
+#: ..\..\..\htsrv\_header.php:15
+msgid "b2evo"
+msgstr "b2evo"
+
+#: ..\..\..\admin\b2login.php:23
+#: ..\..\..\b2evocore\_functions_users.php:348
+msgid "Login..."
+msgstr "ログイン..."
+
+#: ..\..\..\admin\b2login.php:26
+msgid "In b2evolution, you do not need to point to the b2login.php page to log in."
+msgstr "b2evolutionでは、ログインするために b2login.php ページを指定する必要はありません。"
+
+#: ..\..\..\admin\b2login.php:27
+#, php-format
+msgid "Simply point directly to the backoffice page you need, for example: %s or %s. b2evo will prompt you to log in if needed."
+msgstr "単にあなたが利用したい backoffice ページを直接指定するだけです。例: %s または %s 。b2evo は必要ならばログインを求めます。"
+
+#: ..\..\..\admin\b2options.php:17
+#: ..\..\..\admin\_menutop.php:256
+msgid "Settings"
+msgstr "設定"
+
+#: ..\..\..\admin\b2options.php:32
+#: ..\..\..\admin\b2options.php:418
+msgid "Regional"
+msgstr "地域"
+
+#: ..\..\..\admin\b2options.php:35
+#: ..\..\..\admin\b2options.php:424
+msgid "Plug-ins"
+msgstr "プラグイン"
+
+#: ..\..\..\admin\b2options.php:87
+msgid "General settings updated."
+msgstr "一般設定が更新されました。"
+
+#: ..\..\..\admin\b2options.php:106
+msgid "Regional settings updated."
+msgstr "地域設定が更新されました。"
+
+#: ..\..\..\admin\b2options.php:116
+msgid "You must provide a locale code!"
+msgstr "言語・地域コードを提供しなければなりません!"
+
+#: ..\..\..\admin\b2options.php:141
+#, php-format
+msgid "Inserted locale '%s' into database."
+msgstr "データベースに言語・地域設定 '%s' を登録しました。"
+
+#: ..\..\..\admin\b2options.php:156
+#, php-format
+msgid "Updated locale '%s'."
+msgstr "言語・地域設定 '%s' を更新しました。"
+
+#: ..\..\..\admin\b2options.php:167
+#, php-format
+msgid "Saved locale '%s'."
+msgstr "言語・地域設定 '%s' を保存しました。"
+
+#: ..\..\..\admin\b2options.php:188
+msgid "Locales table deleted, defaults from <code>/conf/_locales.php</code> loaded."
+msgstr "言語・地域設定テーブルを削除しました。<code>/conf/_locales.php</code> からデフォルトを読み込みました。"
+
+#: ..\..\..\admin\b2options.php:201
+#, php-format
+msgid "File <code>%s</code> not found."
+msgstr "ファイル <code>%s</code> が見つかりません。"
+
+#: ..\..\..\admin\b2options.php:330
+#, php-format
+msgid "Deleted locale '%s' from database."
+msgstr "データベースから言語・地域設定 '%s' を削除しました。"
+
+#: ..\..\..\admin\b2options.php:370
+msgid "Switched priorities."
+msgstr "プロパティを切り換えました。"
+
+#: ..\..\..\admin\b2spell.php:16
+msgid "Spell Check"
+msgstr "スペルチェック"
+
+#: ..\..\..\admin\b2spell.php:80
+msgid "Loading Spell Checker. Please wait"
+msgstr "スペルチェッカを読み込み中です。お待ちください"
+
+#: ..\..\..\admin\b2stats.php:17
+msgid "View Stats for Blog:"
+msgstr "ブログの統計を見る:"
+
+#: ..\..\..\admin\b2stats.php:24
+#: ..\..\..\b2evocore\_class_dataobjectcache.php:206
+msgid "None"
+msgstr "なし"
+
+#: ..\..\..\admin\b2stats.php:51
+#, php-format
+msgid "Changing hit #%d type to: %s"
+msgstr "hit #%d のタイプを %s に変更"
+
+#: ..\..\..\admin\b2stats.php:68
+#, php-format
+msgid "Deleting hit #%d..."
+msgstr "hit #%d を削除しています..."
+
+#: ..\..\..\admin\b2stats.php:85
+#, php-format
+msgid "Pruning hits for %s..."
+msgstr "%s の hit を除去中..."
+
+#: ..\..\..\admin\b2stats.php:106
+#: ..\..\..\admin\b2stats.php:148
+msgid "Summary"
+msgstr "概要"
+
+#: ..\..\..\admin\b2stats.php:112
+#: ..\..\..\admin\b2stats.php:170
+msgid "Referers"
+msgstr "リファラ"
+
+#: ..\..\..\admin\b2stats.php:118
+#: ..\..\..\admin\b2stats.php:171
+msgid "Refering Searches"
+msgstr "検索エンジン経由の参照"
+
+#: ..\..\..\admin\b2stats.php:124
+#: ..\..\..\admin\b2stats.php:173
+msgid "Syndication"
+msgstr "配信"
+
+#: ..\..\..\admin\b2stats.php:130
+msgid "User Agents"
+msgstr "User Agents"
+
+#: ..\..\..\admin\b2stats.php:136
+#: ..\..\..\admin\b2stats.php:174
+msgid "Direct Accesses"
+msgstr "直接アクセス"
+
+#: ..\..\..\admin\b2stats.php:169
+msgid "Date"
+msgstr "日付"
+
+#: ..\..\..\admin\b2stats.php:172
+msgid "Indexing Robots"
+msgstr "インデックス作成ロボット"
+
+#: ..\..\..\admin\b2stats.php:175
+msgid "Total"
+msgstr "総計"
+
+#: ..\..\..\admin\b2stats.php:188
+msgid "Prune this date!"
+msgstr "この日付を除去!"
+
+#. TRANS: Abbrev. for Prune (stats)
+#: ..\..\..\admin\b2stats.php:188
+#: ..\..\..\admin\b2stats.php:218
+msgid "Prune"
+msgstr "除去"
+
+#: ..\..\..\admin\b2stats.php:188
+#: ..\..\..\admin\b2stats.php:218
+msgid "Prune hits for this date!"
+msgstr "この日付の hit を除去!"
+
+#: ..\..\..\admin\b2stats.php:238
+#: ..\..\..\skins\_stats.php:21
+msgid "Last referers"
+msgstr "最近のリファラ"
+
+#: ..\..\..\admin\b2stats.php:239
+msgid "These are hits from external web pages refering to this blog"
+msgstr "以下はこのブログを参照する外のウェブページからのhitです "
+
+#: ..\..\..\admin\b2stats.php:250
+#: ..\..\..\admin\b2stats.php:305
+#: ..\..\..\admin\b2stats.php:391
+msgid "Delete this hit!"
+msgstr "このhitを削除する!"
+
+#. TRANS: Abbrev. for Delete (stats)
+#: ..\..\..\admin\b2stats.php:250
+#: ..\..\..\admin\b2stats.php:305
+#: ..\..\..\admin\b2stats.php:391
+#: ..\..\..\admin\_blogs_list.php:34
+#: ..\..\..\admin\_blogs_list.php:91
+#: ..\..\..\admin\_cats_list.php:39
+#: ..\..\..\admin\_users_list.php:79
+#: ..\..\..\admin\_users_list.php:151
+msgid "Del"
+msgstr "削除"
+
+#: ..\..\..\admin\b2stats.php:251
+msgid "Log as a search instead"
+msgstr "代わりに検索としてログ記録する"
+
+#. TRANS: Abbrev. for "move to searches" (stats)
+#: ..\..\..\admin\b2stats.php:251
+msgid "-&gt;S"
+msgstr "-&gt;S"
+
+#: ..\..\..\admin\b2stats.php:257
+#: ..\..\..\admin\b2stats.php:277
+#: ..\..\..\admin\_edit_showposts.php:213
+msgid "Ban this domain!"
+msgstr "このドメインを拒否!"
+
+#. TRANS: Abbrev.
+#: ..\..\..\admin\b2stats.php:257
+#: ..\..\..\admin\b2stats.php:277
+#: ..\..\..\admin\_edit_showposts.php:213
+msgid "Ban"
+msgstr "拒否"
+
+#: ..\..\..\admin\b2stats.php:267
+#: ..\..\..\skins\_stats.php:33
+msgid "Top referers"
+msgstr "最多のリファラ"
+
+#: ..\..\..\admin\b2stats.php:286
+msgid "Total referers"
+msgstr "全リファラ"
+
+#: ..\..\..\admin\b2stats.php:293
+#: ..\..\..\skins\_stats.php:45
+msgid "Last refering searches"
+msgstr "最近の検索エンジン経由の参照"
+
+#: ..\..\..\admin\b2stats.php:294
+msgid "These are hits from people who came to this blog system through a search engine. (Search engines must be listed in /conf/_stats.php)"
+msgstr "以下は検索エンジンを経由してこのブログ システムに来た人々からのhitです。(検索エンジンは /conf/_stats.php にリストされている必要があります)"
+
+#: ..\..\..\admin\b2stats.php:318
+msgid "Top refering search engines"
+msgstr "最多の経由した検索エンジン"
+
+#: ..\..\..\admin\b2stats.php:334
+#: ..\..\..\skins\_stats.php:73
+msgid "Top Indexing Robots"
+msgstr "最多のインデックス作成ロボット"
+
+#: ..\..\..\admin\b2stats.php:335
+msgid "These are hits from automated robots like search engines' indexing robots. (Robots must be listed in /conf/_stats.php)"
+msgstr "以下は検索エンジンのインデックスロボットのような自動ロボットからのhitです。(ロボットは /conf/_stats.php にリストされている必要があります)"
+
+#: ..\..\..\admin\b2stats.php:356
+#: ..\..\..\skins\_stats.php:90
+msgid "Top Aggregators"
+msgstr "最多のアグリゲータ"
+
+#: ..\..\..\admin\b2stats.php:357
+msgid "These are hits from RSS news aggregators. (Aggregators must be listed in /conf/_stats.php)"
+msgstr "以下は RSS ニュースアグリゲータからの hit です(アグリゲータは /conf/_stats.php にリストされている必要があります)。"
+
+#: ..\..\..\admin\b2stats.php:372
+msgid "Total RSS hits"
+msgstr "RSS hit 合計"
+
+#: ..\..\..\admin\b2stats.php:379
+msgid "Last direct accesses"
+msgstr "最近の直接アクセス"
+
+#: ..\..\..\admin\b2stats.php:380
+msgid "These are hits from people who came to this blog system by direct access (either by typing the URL directly, or using a bookmark. Invalid (too short) referers are also listed here.)"
+msgstr "以下はこのブログに直接アクセスで来た人々の hit です(URL を直接タイプしたか、ブックマークを使ったかです。無効の(短か過ぎる)リファラもここにリストされます)。"
+
+#: ..\..\..\admin\b2stats.php:407
+msgid "Top User Agents"
+msgstr "最多のUser Agents"
+
+#: ..\..\..\admin\b2template.php:18
+msgid "Custom skin template editing"
+msgstr "Custom スキンのテンプレートの編集"
+
+#: ..\..\..\admin\b2template.php:58
+msgid "Listing:"
+msgstr "リスト:"
+
+#: ..\..\..\admin\b2template.php:62
+msgid "Invalid filename!"
+msgstr "無効なファイル名!"
+
+#: ..\..\..\admin\b2template.php:66
+msgid "Oops, no such file !"
+msgstr "あれ、そんなファイルはありません!"
+
+#: ..\..\..\admin\b2template.php:77
+msgid "File edited!"
+msgstr "ファイルを編集しました!"
+
+#: ..\..\..\admin\b2template.php:81
+msgid "Be careful what you do, editing this file could break your template! Do not edit what's between <code>&lt;?php</code> and <code>?&gt;</code> if you don't know what you're doing!"
+msgstr "何をしているか注意しましょう。このファイルを編集するとテンプレートが壊れる可能性があります! 何をしているのか分らなければ、<code>&lt;?php</code> と <code>?&gt;</code> の間のものは編集しないで!"
+
+#: ..\..\..\admin\b2template.php:90
+msgid "update template !"
+msgstr "テンプレートを更新!"
+
+#: ..\..\..\admin\b2template.php:94
+msgid "(you cannot update that file/template: must make it writable, e.g. CHMOD 766)"
+msgstr "(指定のファイルやテンプレートは更新できません。例えば CHMOD 766 するなどして書きこみ可能にする必要があります)"
+
+#: ..\..\..\admin\b2template.php:106
+msgid "This screen allows you to edit the <strong>custom skin</strong> (located under /skins/custom). "
+msgstr "この画面で <strong>custom スキン</strong> ( /skins/custom の下にあります)を編集することができます。"
+
+#: ..\..\..\admin\b2template.php:107
+msgid "You can edit any of the following files (provided it's writable by the server, e.g. CHMOD 766)"
+msgstr "以下のファイルをどれでも (サーバで例えば CHMOD 766 するなどして書きこみ可能で提供されているものについて) 編集できます"
+
+#: ..\..\..\admin\b2template.php:114
+#, php-format
+msgid "Directory %s not found."
+msgstr "ディレクトリ %s が見つかりません。"
+
+#: ..\..\..\admin\b2template.php:130
+msgid "This is the template that displays the links to the archives for a blog"
+msgstr "これはブログのアーカイブへのリンクを表示するテンプレートです"
+
+#: ..\..\..\admin\b2template.php:133
+msgid "This is the template that displays the (recursive) list of (sub)categories"
+msgstr "これは(サブ)カテゴリの(再帰)リストを表示するテンプレートです"
+
+#: ..\..\..\admin\b2template.php:136
+msgid "This is the template that displays the feedback for a post"
+msgstr "これは投稿へのフィードバックを表示するテンプレートです"
+
+#: ..\..\..\admin\b2template.php:139
+msgid "This is the template that displays the last comments for a blog"
+msgstr "これはブログへの最近のコメントを表示するテンプレートです"
+
+#: ..\..\..\admin\b2template.php:142
+msgid "This is the main template. It displays the blog."
+msgstr "これはメインのテンプレートです。ブログを表示します"
+
+#: ..\..\..\admin\b2template.php:145
+msgid "This is the template that displays stats for a blog"
+msgstr "これはブログの統計を表示するテンプレートです"
+
+#: ..\..\..\admin\b2template.php:148
+msgid "This is the page displayed in the comment popup"
+msgstr "これはコメントのポップアップで表示されるページです"
+
+#: ..\..\..\admin\b2template.php:151
+msgid "This is the page displayed in the pingback popup"
+msgstr "これはピンバックのポップアップで表示されるページです"
+
+#: ..\..\..\admin\b2template.php:154
+msgid "This is the page displayed in the trackback popup"
+msgstr "これはトラックバックのポップアップで表示されるページです"
+
+#: ..\..\..\admin\b2template.php:165
+msgid "Note: of course, you can also edit the files/templates in your text editor and upload them. This online editor is only meant to be used when you don't have access to a text editor..."
+msgstr "注意: もちろん、あなたはテキストエディタでファイルやテンプレートを編集してアップロードすることもできます. このオンラインエディタはあなたがテキストエディタにアクセスできないときに用いることを意図しているにすぎません。..."
+
+#: ..\..\..\admin\b2upload.php:24
+msgid "upload images/files"
+msgstr "画像/ファイルの アップロード"
+
+#: ..\..\..\admin\b2upload.php:47
+msgid "File upload"
+msgstr "ファイルのアップロード"
+
+#: ..\..\..\admin\b2upload.php:48
+msgid "Allowed file types:"
+msgstr "許可されるファイルのタイプ:"
+
+#: ..\..\..\admin\b2upload.php:49
+#, php-format
+msgid "Maximum allowed file size: %d KB"
+msgstr "許可される最大ファイルサイズ: %d KB"
+
+#: ..\..\..\admin\b2upload.php:54
+#: ..\..\..\admin\b2upload.php:128
+#: ..\..\..\admin\_blogs_general.form.php:74
+#: ..\..\..\admin\_set_plugins.form.php:24
+#: ..\..\..\admin\_set_plugins.form.php:47
+msgid "Description"
+msgstr "説明"
+
+#: ..\..\..\admin\b2upload.php:57
+msgid "Upload !"
+msgstr "アップロード!"
+
+#: ..\..\..\admin\b2upload.php:83
+#, php-format
+msgid "File %s: type %s is not allowed."
+msgstr "ファイル %s: タイプ %s は許可されていません。"
+
+#: ..\..\..\admin\b2upload.php:112
+#: ..\..\..\admin\b2upload.php:140
+#: ..\..\..\admin\b2upload.php:143
+msgid "Couldn't upload your file to:"
+msgstr "ファイルを次のところにアップロードできませんでした:"
+
+#: ..\..\..\admin\b2upload.php:116
+msgid "Duplicate File?"
+msgstr "ファイルの重複？"
+
+#: ..\..\..\admin\b2upload.php:117
+#, php-format
+msgid "The filename \"%s\" already exists!"
+msgstr "ファイル名 \"%s\" はすでに存在しています!"
+
+#: ..\..\..\admin\b2upload.php:118
+#, php-format
+msgid "Filename \"%s\" moved to \"%s\""
+msgstr "ファイル名 \"%s\" を\"%s\" に移動します"
+
+#: ..\..\..\admin\b2upload.php:119
+msgid "Confirm or rename:"
+msgstr "確認かリネーム"
+
+#: ..\..\..\admin\b2upload.php:126
+msgid "Alternate name"
+msgstr "代わりの名前"
+
+#: ..\..\..\admin\b2upload.php:130
+msgid "Confirm !"
+msgstr "確認 !"
+
+#: ..\..\..\admin\b2upload.php:157
+msgid "File uploaded !"
+msgstr "ファイルをアップロードしました!"
+
+#: ..\..\..\admin\b2upload.php:158
+#, php-format
+msgid "Your file <strong>\"%s\"</strong> was uploaded successfully !"
+msgstr "あなたのファイル <strong>\"%s\"</strong>は 無事アップロードされました!"
+
+#: ..\..\..\admin\b2upload.php:159
+msgid "Here's the code to display it:"
+msgstr "これがそれを表示するコードです:"
+
+#: ..\..\..\admin\b2upload.php:163
+msgid "Add the code to your post !"
+msgstr "投稿にコードを追加!"
+
+#: ..\..\..\admin\b2upload.php:166
+msgid "Image Details"
+msgstr "画像の詳細"
+
+#: ..\..\..\admin\b2upload.php:170
+msgid "Size"
+msgstr "サイズ"
+
+#: ..\..\..\admin\b2upload.php:173
+#: ..\..\..\admin\_edit_form.php:542
+msgid "Type"
+msgstr "タイプ"
+
+#: ..\..\..\admin\b2upload.php:178
+msgid "Close this window"
+msgstr "このウィンドウを閉じる"
+
+#: ..\..\..\admin\b2users.php:17
+msgid "User management"
+msgstr "ユーザ管理"
+
+#: ..\..\..\admin\b2users.php:49
+msgid "You cannot change the demouser profile in demo mode!"
+msgstr "デモモード中に demouser のプロフィールを変更することはできません!"
+
+#: ..\..\..\admin\b2users.php:110
+msgid "You are only allowed to update your own profile!"
+msgstr "あなたに許可されているのは自分のプロフィールを更新することだけです!"
+
+#: ..\..\..\admin\b2users.php:124
+msgid "You must provide an unique login!"
+msgstr "重複の無いログインを提供しなければなりません!"
+
+#: ..\..\..\admin\b2users.php:132
+#, php-format
+msgid "User level must be between %d and %d."
+msgstr "ユーザーレベルは %d と %d の間にする必要があります。"
+
+#: ..\..\..\admin\b2users.php:157
+#, php-format
+msgid "This login already exists. Do you want to <a %s>edit the existing user</a>?"
+msgstr "このログインはすでに存在しています。<a %s>この既存のユーザを編集</a> しますか?"
+
+#: ..\..\..\admin\b2users.php:192
+msgid "You typed two different passwords."
+msgstr "2つの異なるパスワードがタイプされました。"
+
+#: ..\..\..\admin\b2users.php:198
+#: ..\..\..\htsrv\profile_update.php:106
+#: ..\..\..\htsrv\register.php:64
+#, php-format
+msgid "The mimimum password length is %d characters."
+msgstr "パスワードの長さは最低 %d 文字です。"
+
+#: ..\..\..\admin\b2users.php:215
+msgid "User updated."
+msgstr "ユーザが更新されました。"
+
+#: ..\..\..\admin\b2users.php:224
+msgid "New user created."
+msgstr "新規ユーザを作成しました。"
+
+#: ..\..\..\admin\b2users.php:268
+msgid "Invalid promotion."
+msgstr "不正な昇格。"
+
+#: ..\..\..\admin\b2users.php:284
+msgid "User level changed."
+msgstr "ユーザ レベルを変更しました。"
+
+#: ..\..\..\admin\b2users.php:306
+msgid "You can't delete yourself!"
+msgstr "自分自身を削除することはできません!"
+
+#: ..\..\..\admin\b2users.php:310
+msgid "You can't delete User #1!"
+msgstr "ユーザ #1 を削除することはできません!"
+
+#: ..\..\..\admin\b2users.php:324
+#, php-format
+msgid "Delete User %s?"
+msgstr "ユーザ %s を削除しますか?"
+
+#: ..\..\..\admin\b2users.php:326
+msgid "Warning"
+msgstr "警告"
+
+#: ..\..\..\admin\b2users.php:326
+msgid "deleting an user also deletes all posts made by this user."
+msgstr "ユーザを削除するとそのユーザによる投稿も全て削除されます。"
+
+#: ..\..\..\admin\b2users.php:349
+msgid "Deleting User..."
+msgstr "ユーザを削除しています..."
+
+#: ..\..\..\admin\b2users.php:366
+msgid "You can't delete Group #1!"
+msgstr "グループ #1 を削除することはできません!"
+
+#: ..\..\..\admin\b2users.php:370
+msgid "You can't delete the default group for new users!"
+msgstr "新規ユーザのデフォルト グループは削除できません!"
+
+#: ..\..\..\admin\b2users.php:383
+#, php-format
+msgid "Delete group [%s]?"
+msgstr "グループ [%s] を削除しますか?"
+
+#: ..\..\..\admin\b2users.php:407
+msgid "Group deleted..."
+msgstr "グループを削除しました..."
+
+#: ..\..\..\admin\b2users.php:424
+#, php-format
+msgid "This group name already exists! Do you want to <a %s>edit the existing group</a>?"
+msgstr "このグループ名はすでに存在しています! <a %s>この既存のグループを編集</a> しますか?"
+
+#: ..\..\..\admin\b2users.php:478
+msgid "Group updated."
+msgstr "グループを更新しました。"
+
+#: ..\..\..\admin\b2users.php:488
+msgid "The user was not created:"
+msgstr "そのユーザは作成されていません:"
+
+#: ..\..\..\admin\b2users.php:488
+msgid "The user was not updated:"
+msgstr "このユーザは更新されませんでした:"
+
+#: ..\..\..\admin\b2users.php:490
+msgid "The group was not created:"
+msgstr "このグループは作成されませんでした:"
+
+#: ..\..\..\admin\b2users.php:490
+msgid "The group was not updated:"
+msgstr "このグループは更新されませんでした:"
+
+#: ..\..\..\admin\b2users.php:523
+msgid "You are not allowed to view other users."
+msgstr "あなたは他のユーザを見ることを許可されていません。"
+
+#: ..\..\..\admin\edit_actions.php:66
+msgid "Adding new post..."
+msgstr "新規投稿の追加..."
+
+#: ..\..\..\admin\edit_actions.php:104
+#: ..\..\..\admin\edit_actions.php:210
+#: ..\..\..\admin\edit_actions.php:450
+#: ..\..\..\htsrv\comment_post.php:66
+#: ..\..\..\htsrv\trackback.php:63
+#: ..\..\..\xmlsrv\xmlrpc.php:1371
+msgid "Supplied URL is invalid: "
+msgstr "提供されたURLは無効です"
+
+#: ..\..\..\admin\edit_actions.php:111
+#: ..\..\..\htsrv\getmail.php:248
+msgid "Cannot post, please correct these errors:"
+msgstr "投稿できません、以下のエラーを修正してください:"
+
+#: ..\..\..\admin\edit_actions.php:112
+#: ..\..\..\admin\edit_actions.php:218
+#: ..\..\..\admin\edit_actions.php:455
+msgid "Back to post editing"
+msgstr "投稿の編集に戻る"
+
+#: ..\..\..\admin\edit_actions.php:118
+msgid "Recording post..."
+msgstr "投稿を記録しています..."
+
+#: ..\..\..\admin\edit_actions.php:131
+#: ..\..\..\admin\edit_actions.php:248
+#: ..\..\..\admin\edit_actions.php:407
+msgid "Sleeping..."
+msgstr "スリープ中..."
+
+#: ..\..\..\admin\edit_actions.php:141
+#: ..\..\..\admin\edit_actions.php:257
+#: ..\..\..\admin\edit_actions.php:348
+msgid "Post not publicly published: skipping trackback, pingback and blog pings..."
+msgstr "投稿は公開されていません: トラックバック、ピンバック、ブログ ピン をスキップします..."
+
+#: ..\..\..\admin\edit_actions.php:156
+msgid "Posting Done..."
+msgstr "投稿が完了しました..."
+
+#: ..\..\..\admin\edit_actions.php:170
+#: ..\..\..\admin\edit_actions.php:224
+msgid "Updating post..."
+msgstr "投稿を更新しています..."
+
+#: ..\..\..\admin\edit_actions.php:273
+#: ..\..\..\admin\edit_actions.php:359
+msgid "Post had already pinged: skipping blog pings..."
+msgstr "投稿はすでにピンがうたれています。ブログ ピン をスキップします..."
+
+#: ..\..\..\admin\edit_actions.php:285
+#: ..\..\..\admin\edit_actions.php:371
+msgid "Updating done..."
+msgstr "更新が完了しました..."
+
+#: ..\..\..\admin\edit_actions.php:301
+#: ..\..\..\admin\edit_actions.php:316
+msgid "Updating post status..."
+msgstr "投稿の状態を更新しています..."
+
+#: ..\..\..\admin\edit_actions.php:381
+#: ..\..\..\admin\edit_actions.php:400
+msgid "Deleting post..."
+msgstr "投稿を削除しています..."
+
+#: ..\..\..\admin\edit_actions.php:389
+msgid "Oops, no post with this ID!"
+msgstr "あれ、このIDの投稿はありません!"
+
+#: ..\..\..\admin\edit_actions.php:412
+msgid "Deleting Done..."
+msgstr "削除が完了しました..."
+
+#: ..\..\..\admin\edit_actions.php:416
+#: ..\..\..\b2evocore\_class_pop3.php:113
+#: ..\..\..\b2evocore\_class_pop3.php:125
+#: ..\..\..\b2evocore\_class_pop3.php:168
+#: ..\..\..\b2evocore\_class_pop3.php:303
+#: ..\..\..\b2evocore\_class_pop3.php:357
+#: ..\..\..\b2evocore\_class_pop3.php:368
+#: ..\..\..\b2evocore\_class_pop3.php:416
+#: ..\..\..\b2evocore\_class_pop3.php:449
+#: ..\..\..\b2evocore\_class_pop3.php:482
+#: ..\..\..\b2evocore\_class_pop3.php:581
+#: ..\..\..\b2evocore\_class_pop3.php:604
+msgid "Error"
+msgstr "エラー "
+
+#: ..\..\..\admin\edit_actions.php:454
+msgid "Cannot update comment, please correct these errors:"
+msgstr "コメントを更新できません。以下のエラーを修正してください。"
+
+#: ..\..\..\admin\edit_actions.php:512
+msgid "Back to posts!"
+msgstr "投稿に戻る!"
+
+#: ..\..\..\admin\edit_actions.php:517
+msgid "You may also want to generate static pages or view your blogs..."
+msgstr "静的ページを作成するか、ブログを見るかしたいかもしれません。"
+
+#: ..\..\..\admin\edit_actions.php:525
+msgid "New post"
+msgstr "新規投稿"
+
+#: ..\..\..\admin\import-mt.php:330
+#: ..\..\..\admin\_users_form.php:195
+#: ..\..\..\admin\_users_form.php:200
+msgid "User group"
+msgstr "ユーザ グループ"
+
+#: ..\..\..\admin\import-mt.php:331
+#: ..\..\..\admin\_users_form.php:183
+#, php-format
+msgid "See <a %s>online manual</a> for details."
+msgstr "詳細は <a %s>オンライン マニュアル</a> を参照してください。"
+
+#: ..\..\..\admin\import-mt.php:332
+#: ..\..\..\admin\_users_form.php:186
+#: ..\..\..\admin\_users_form.php:190
+#: ..\..\..\admin\_users_list.php:28
+#: ..\..\..\skins\_profile.php:44
+#: ..\..\..\skins\basic\_profile.php:45
+msgid "Level"
+msgstr "レベル"
+
+#: ..\..\..\admin\import-mt.php:371
+#: ..\..\..\admin\_set_regional.form.php:135
+msgid "Default locale"
+msgstr "デフォルト言語・地域設定"
+
+#: ..\..\..\admin\import-mt.php:1133
+#: ..\..\..\admin\_edit_form.php:359
+msgid "Select main category in target blog and optionally check additional categories"
+msgstr "対象のブログでのメインのカテゴリを選択して、任意で追加カテゴリもチェックを付けてください"
+
+#: ..\..\..\admin\import-mt.php:1155
+#: ..\..\..\admin\_edit_form.php:386
+msgid "Select as an additionnal category"
+msgstr "付加カテゴリとして選択する"
+
+#: ..\..\..\admin\import-mt.php:1166
+#: ..\..\..\admin\_edit_form.php:399
+msgid "Select as MAIN category"
+msgstr "メインカテゴリとして選択する"
+
+#: ..\..\..\admin\tools.php:18
+#: ..\..\..\admin\_menutop.php:263
+msgid "Tools"
+msgstr "ツール"
+
+#: ..\..\..\admin\tools.php:24
+msgid "Bookmarklet"
+msgstr "ブックマークレット"
+
+#: ..\..\..\admin\tools.php:30
+#: ..\..\..\admin\tools.php:37
+#: ..\..\..\admin\tools.php:45
+#: ..\..\..\admin\tools.php:52
+msgid "Add this link to your Favorites/Bookmarks:"
+msgstr "このリンクを「お気に入り」やブックマークに加えてください"
+
+#: ..\..\..\admin\tools.php:31
+#: ..\..\..\admin\tools.php:38
+#: ..\..\..\admin\tools.php:46
+#: ..\..\..\admin\tools.php:53
+msgid "b2evo bookmarklet"
+msgstr "b2evo ブックマークレット"
+
+#: ..\..\..\admin\tools.php:69
+msgid "Post to b2evolution"
+msgstr "b2evolution へ投稿"
+
+#: ..\..\..\admin\tools.php:71
+msgid "No Sidebar found! You must use Mozilla 0.9.4 or later!"
+msgstr "サイドバーが見あたりません! Mozilla 0.9.4 以上を使う必要があります!"
+
+#: ..\..\..\admin\tools.php:74
+#: ..\..\..\admin\tools.php:83
+msgid "SideBar"
+msgstr "サイドバー"
+
+#: ..\..\..\admin\tools.php:75
+#, php-format
+msgid "Add the <a %s>b2evo sidebar</a> !"
+msgstr "<a %s>b2evo サイドバー</a>を追加!"
+
+#: ..\..\..\admin\tools.php:84
+msgid "Add this link to your favorites:"
+msgstr "このリンクを「お気に入り」に追加"
+
+#: ..\..\..\admin\tools.php:85
+msgid "b2evo sidebar"
+msgstr "b2evo サイドバー"
+
+#: ..\..\..\admin\tools.php:92
+msgid "Movable Type Import"
+msgstr "Movable Type インポート"
+
+#: ..\..\..\admin\tools.php:94
+msgid "Use MT's export functionnality to create a .TXT file containing your posts;"
+msgstr "MT のエクスポート機能を用いて、あなたの投稿が含まれる .TXT ファイルを作成してください;"
+
+#: ..\..\..\admin\tools.php:95
+msgid "Place that file into the /admin folder on your server;"
+msgstr "そのファイルをあなたのサーバの /admin フォルダにおいてください;"
+
+#: ..\..\..\admin\tools.php:96
+#, php-format
+msgid "Follow the insctructions in the <a %s>MT migration utility</a>."
+msgstr "<a %s>MT 移行ユーティリティ</a> の指示に従ってください。"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:19
+msgid "Static file generation"
+msgstr "静的ファイル生成"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:21
+msgid "Static filename"
+msgstr "静的ファイル名"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:21
+msgid "This is the .html file that will be created when you generate a static version of the blog homepage."
+msgstr "これは静的バージョンのブログ ホームページを生成するときに作られる .html ファイルです。"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:26
+msgid "After each new post..."
+msgstr "新規投稿後に..."
+
+#: ..\..\..\admin\_blogs_advanced.form.php:28
+msgid "Ping b2evolution.net"
+msgstr "b2evolution.net にピンする"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:28
+msgid "to get listed on the \"recently updated\" list on b2evolution.net"
+msgstr "b2evolution.net の \"recently updated\" (最近の更新) リストに掲載されます"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:29
+msgid "Ping technorati.com"
+msgstr "technorati.com にピンする"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:29
+#: ..\..\..\admin\_blogs_advanced.form.php:30
+#: ..\..\..\admin\_blogs_advanced.form.php:31
+msgid "to give notice of new post."
+msgstr "新規投稿の通知をします。"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:30
+msgid "Ping weblogs.com"
+msgstr "weblogs.com にピンする"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:31
+msgid "Ping blo.gs"
+msgstr "blo.gs にピンする"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:36
+msgid "Advanced options"
+msgstr "上級オプション"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:38
+msgid "Allow trackbacks"
+msgstr "トラックバックの許可"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:38
+msgid "Allow other bloggers to send trackbacks to this blog, letting you know when they refer to it. This will also let you send trackbacks to other blogs."
+msgstr "このブログに他のブロガーたちがトラックバックを送って、かれらがこちらに言及した時にあなたに知らせることを許可します。これはまた、あなたが他のブログにトラックバックを送ることも許可します。"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:39
+msgid "Allow pingbacks"
+msgstr "ピンバックの許可"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:39
+msgid "Allow other bloggers to send pingbacks to this blog, letting you know when they refer to it. This will also let you send pingbacks to other blogs."
+msgstr "このブログに他のブロガーたちがピンバックを送って、かれらがこちらに言及した時にあなたに知らせることを許可します。これはまた、あなたが他のブログにピンバックを送ることも許可します。"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:46
+#: ..\..\..\admin\_blogs_general.form.php:103
+#: ..\..\..\admin\_blogs_permissions.form.php:216
+#: ..\..\..\admin\_set_general.form.php:79
+msgid "Save !"
+msgstr "保存!"
+
+#: ..\..\..\admin\_blogs_advanced.form.php:47
+#: ..\..\..\admin\_blogs_general.form.php:104
+#: ..\..\..\admin\_blogs_permissions.form.php:222
+#: ..\..\..\admin\_edit_showposts.php:546
+#: ..\..\..\admin\_set_general.form.php:80
+#: ..\..\..\admin\_set_plugins.form.php:70
+#: ..\..\..\admin\_set_regional.form.php:68
+#: ..\..\..\admin\_set_regional.form.php:246
+#: ..\..\..\admin\_set_regional.form.php:361
+#: ..\..\..\admin\_users_form.php:212
+#: ..\..\..\admin\_users_groupform.php:127
+#: ..\..\..\install\index.php:294
+#: ..\..\..\skins\_profile.php:99
+msgid "Reset"
+msgstr "リセット"
+
+#: ..\..\..\admin\_blogs_general.form.php:18
+msgid "General parameters"
+msgstr "一般パラメータ"
+
+#: ..\..\..\admin\_blogs_general.form.php:20
+#: ..\..\..\admin\_blogs_list.php:30
+msgid "Full Name"
+msgstr "フルネーム"
+
+#: ..\..\..\admin\_blogs_general.form.php:20
+msgid "Will be displayed on top of the blog."
+msgstr "ブログの上部に表示されるでしょう。"
+
+#: ..\..\..\admin\_blogs_general.form.php:21
+msgid "Short Name"
+msgstr "短い名称"
+
+#: ..\..\..\admin\_blogs_general.form.php:21
+msgid "Will be used in selection menus and throughout the admin interface."
+msgstr "選択メニュー内や管理インターフェースを通して使用されます。"
+
+#: ..\..\..\admin\_blogs_general.form.php:22
+msgid "Main Locale"
+msgstr "メインの言語・地域設定"
+
+#: ..\..\..\admin\_blogs_general.form.php:22
+msgid "Determines the language of the navigation links on the blog."
+msgstr "ブログのナビゲーション リンクの言語を決定します。"
+
+#: ..\..\..\admin\_blogs_general.form.php:27
+msgid "Access parameters"
+msgstr "アクセス パラメータ"
+
+#: ..\..\..\admin\_blogs_general.form.php:36
+#: ..\..\..\admin\_blogs_list.php:58
+msgid "Default blog on index.php"
+msgstr "index.php のデフォルト ブログ"
+
+#. TRANS: current default blog
+#: ..\..\..\admin\_blogs_general.form.php:38
+msgid "Current default is:"
+msgstr "現在のデフォルトは:"
+
+#: ..\..\..\admin\_blogs_general.form.php:39
+msgid "Other blog through index.php"
+msgstr "index.php を使用する他のブログ"
+
+#: ..\..\..\admin\_blogs_general.form.php:42
+msgid "Other blog through stub file (Advanced)"
+msgstr "スタブ ファイルを使用する他のブログ (高度)"
+
+#: ..\..\..\admin\_blogs_general.form.php:42
+msgid "You MUST create a stub file for this to work."
+msgstr "これを機能させるためにスタブ ファイルを作成する必要があります。"
+
+#: ..\..\..\admin\_blogs_general.form.php:43
+msgid "Preferred access type"
+msgstr "優先するアクセス タイプ"
+
+#: ..\..\..\admin\_blogs_general.form.php:47
+msgid "Blog Folder URL"
+msgstr "ブログ フォルダ URL"
+
+#: ..\..\..\admin\_blogs_general.form.php:49
+msgid "No trailing slash. (If you don't know, leave this field empty.)"
+msgstr "スラッシュを最後に付けないでください。(わからなければ空白のままにしておいてください。)"
+
+#: ..\..\..\admin\_blogs_general.form.php:54
+msgid "URL blog name / Stub name"
+msgstr "URLブログ名 / スタブ名"
+
+#: ..\..\..\admin\_blogs_general.form.php:54
+msgid "Used in URLs to identify this blog. This should be the stub filename if you use stub file access."
+msgstr "このブログを示すための URL に使用されます。スタブファイルによるアクセスを用いる場合は、スタブ ファイル名にします。"
+
+#: ..\..\..\admin\_blogs_general.form.php:59
+msgid "Default display options"
+msgstr "デフォルト表示オプション"
+
+#: ..\..\..\admin\_blogs_general.form.php:61
+msgid "Default skin"
+msgstr "デフォルト スキン"
+
+#: ..\..\..\admin\_blogs_general.form.php:61
+msgid "This is the default skin that will be used to display this blog."
+msgstr "これはこのブログを表示するのにデフォルトで使用されるスキンです。"
+
+#: ..\..\..\admin\_blogs_general.form.php:63
+msgid "Allow skin switching"
+msgstr "スキン切り替えの許可"
+
+#: ..\..\..\admin\_blogs_general.form.php:63
+msgid "Users will be able to select another skin to view the blog (and their prefered skin will be saved in a cookie)."
+msgstr "ユーザがブログを表示するのに他のスキンを選択することができるようになります (選んだスキンは cookie に保存されます)。"
+
+#: ..\..\..\admin\_blogs_general.form.php:65
+msgid "Display public blog list"
+msgstr "公開ブログ リスト表示"
+
+#: ..\..\..\admin\_blogs_general.form.php:65
+msgid "Check this if you want to display the list of all blogs on your blog page (if your skin supports this)."
+msgstr "あなたのブログ ページに全てのブログのリストを表示したい場合はチェックを付けてください (スキンがこれをサポートしている場合)。"
+
+#: ..\..\..\admin\_blogs_general.form.php:67
+msgid "Include in public blog list"
+msgstr "公開ブログ リストに含める"
+
+#: ..\..\..\admin\_blogs_general.form.php:67
+msgid "Check this if you want to this blog to be displayed in the list of all public blogs."
+msgstr "全ての公開ブログのリストに、このブログを表示させたい場合は、これにチェックをつけてください。"
+
+#: ..\..\..\admin\_blogs_general.form.php:69
+msgid "Default linkblog"
+msgstr "デフォルト リンクブログ"
+
+#: ..\..\..\admin\_blogs_general.form.php:69
+msgid "Will be displayed next to this blog (if your skin supports this)."
+msgstr "このブログの隣に表示されるでしょう (スキンがこれをサポートしている場合)。"
+
+#: ..\..\..\admin\_blogs_general.form.php:76
+msgid "Tagline"
+msgstr "タグ行"
+
+#: ..\..\..\admin\_blogs_general.form.php:76
+msgid "This is diplayed under the blog name on the blog template."
+msgstr "これはブログ テンプレートでブログ名の下に表示されます。"
+
+#: ..\..\..\admin\_blogs_general.form.php:80
+msgid "Long Description"
+msgstr "長い説明"
+
+#: ..\..\..\admin\_blogs_general.form.php:82
+msgid "This is displayed on the blog template."
+msgstr "これはブログ テンプレートで表示されます。"
+
+#: ..\..\..\admin\_blogs_general.form.php:86
+msgid "Short Description"
+msgstr "短い説明"
+
+#: ..\..\..\admin\_blogs_general.form.php:86
+msgid "This is is used in meta tag description and RSS feeds. NO HTML!"
+msgstr "これは metaタグでのdescription や RSS フィードで使われます。HTMLタグは書かないで!"
+
+#: ..\..\..\admin\_blogs_general.form.php:88
+msgid "Keywords"
+msgstr "キーワード"
+
+#: ..\..\..\admin\_blogs_general.form.php:88
+msgid "This is is used in meta tag keywords. NO HTML!"
+msgstr "これは metaタグでのキーワードに使われます。HTMLタグは書かないで!"
+
+#: ..\..\..\admin\_blogs_general.form.php:93
+#: ..\..\..\admin\_edit_showposts.php:338
+msgid "Notes"
+msgstr "メモ"
+
+#: ..\..\..\admin\_blogs_general.form.php:95
+msgid "Additional info."
+msgstr "追加の情報。"
+
+#: ..\..\..\admin\_blogs_list.php:29
+msgid "Blog"
+msgstr "ブログ"
+
+#: ..\..\..\admin\_blogs_list.php:31
+msgid "Blog URL"
+msgstr "ブログURL"
+
+#: ..\..\..\admin\_blogs_list.php:32
+msgid "Static File"
+msgstr "静的ファイル"
+
+#: ..\..\..\admin\_blogs_list.php:33
+#: ..\..\..\admin\_set_regional.form.php:47
+#: ..\..\..\admin\_set_regional.form.php:158
+#: ..\..\..\admin\_users_form.php:119
+#: ..\..\..\htsrv\_reg_form.php:46
+#: ..\..\..\skins\_profile.php:75
+msgid "Locale"
+msgstr "言語・地域設定"
+
+#: ..\..\..\admin\_blogs_list.php:47
+#: ..\..\..\admin\_cats_list.php:35
+#: ..\..\..\admin\_users_list.php:58
+#: ..\..\..\admin\_users_list.php:71
+#: ..\..\..\admin\_users_list.php:101
+#: ..\..\..\admin\_users_list.php:143
+msgid "Properties"
+msgstr "プロパティ"
+
+#: ..\..\..\admin\_blogs_list.php:58
+msgid "Default"
+msgstr "デフォルト"
+
+#. TRANS: abbrev. for "generate !"
+#: ..\..\..\admin\_blogs_list.php:75
+msgid "Gen!"
+msgstr "生成!"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\admin\_blogs_list.php:91
+#, php-format
+msgid ""
+"Are you sure you want to delete blog #%d ?\\n"
+"\\n"
+"WARNING: This will delete ALL POST, COMMENTS,\\n"
+"CATEGORIES and other data related to that Blog!\\n"
+"\\n"
+"This CANNOT be undone!"
+msgstr ""
+"ブログ #%d を削除しますか?\\n"
+"\\n"
+"警告: 全ての投稿とコメントとカテゴリ、\\n"
+"その他のブログに関するデータも削除します!\\n"
+"\\n"
+"これは元に戻すことができません!"
+
+#: ..\..\..\admin\_blogs_list.php:91
+msgid "Delete this blog!"
+msgstr "このブログを削除する!"
+
+#: ..\..\..\admin\_blogs_list.php:92
+msgid "Copy this blog!"
+msgstr "このブログをコピー!"
+
+#. TRANS: Abbrev. for Copy
+#: ..\..\..\admin\_blogs_list.php:92
+#: ..\..\..\admin\_set_regional.form.php:239
+#: ..\..\..\admin\_users_list.php:73
+#: ..\..\..\admin\_users_list.php:146
+msgid "Copy"
+msgstr "コピー"
+
+#: ..\..\..\admin\_blogs_list.php:104
+msgid "Sorry, you have no permission to edit/view any blog's properties."
+msgstr "申し訳ありません。あなたはどのブログのプロパティも編集/閲覧する権限を持っていません。"
+
+#: ..\..\..\admin\_blogs_list.php:115
+msgid "New blog..."
+msgstr "新規ブログ..."
+
+#: ..\..\..\admin\_blogs_permissions.form.php:19
+#: ..\..\..\admin\_users_groupform.php:84
+msgid "User permissions"
+msgstr "ユーザ許可"
+
+#. TRANS: table header for user list
+#: ..\..\..\admin\_blogs_permissions.form.php:22
+#: ..\..\..\admin\_users_list.php:18
+msgid "Login "
+msgstr "ログイン"
+
+#. TRANS: SHORT table header on TWO lines
+#: ..\..\..\admin\_blogs_permissions.form.php:23
+msgid "Is<br />member"
+msgstr "メンバー<br />であるか"
+
+#. TRANS: SHORT table header on TWO lines
+#: ..\..\..\admin\_blogs_permissions.form.php:24
+msgid "Can post/edit with following statuses:"
+msgstr "次の状態で投稿/編集できます:"
+
+#. TRANS: SHORT table header on TWO lines
+#: ..\..\..\admin\_blogs_permissions.form.php:25
+msgid "Delete<br />posts"
+msgstr "投稿<br />削除"
+
+#. TRANS: SHORT table header on TWO lines
+#: ..\..\..\admin\_blogs_permissions.form.php:26
+msgid "Edit<br />comts"
+msgstr "コメント<br />編集"
+
+#. TRANS: SHORT table header on TWO lines
+#: ..\..\..\admin\_blogs_permissions.form.php:27
+msgid "Edit<br />cats"
+msgstr "カテゴリ<br />編集"
+
+#. TRANS: SHORT table header on TWO lines
+#: ..\..\..\admin\_blogs_permissions.form.php:28
+msgid "Edit<br />blog"
+msgstr "ブログ<br />編集"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:32
+#: ..\..\..\b2evocore\_vars.php:232
+msgid "Published"
+msgstr "発行"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:33
+#: ..\..\..\b2evocore\_vars.php:234
+msgid "Protected"
+msgstr "保護付き"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:34
+#: ..\..\..\b2evocore\_vars.php:235
+msgid "Private"
+msgstr "私用"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:35
+#: ..\..\..\b2evocore\_vars.php:236
+msgid "Draft"
+msgstr "ドラフト"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:36
+#: ..\..\..\b2evocore\_vars.php:233
+msgid "Deprecated"
+msgstr "没"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:40
+msgid "Members"
+msgstr "メンバー"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:64
+#: ..\..\..\admin\_blogs_permissions.form.php:161
+msgid "Permission to read protected posts"
+msgstr "保護付き投稿の閲覧を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:71
+#: ..\..\..\admin\_blogs_permissions.form.php:85
+#: ..\..\..\admin\_blogs_permissions.form.php:165
+#: ..\..\..\admin\_blogs_permissions.form.php:173
+msgid "Permission to post into this blog with private status"
+msgstr "このブログへ私用状態での投稿を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:78
+#: ..\..\..\admin\_blogs_permissions.form.php:169
+msgid "Permission to post into this blog with protected status"
+msgstr "このブログへ保護付き状態での投稿を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:92
+#: ..\..\..\admin\_blogs_permissions.form.php:177
+msgid "Permission to post into this blog with draft status"
+msgstr "このブログへドラフト状態での投稿を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:99
+#: ..\..\..\admin\_blogs_permissions.form.php:181
+msgid "Permission to post into this blog with deprecated status"
+msgstr "このブログへ没状態での投稿を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:106
+#: ..\..\..\admin\_blogs_permissions.form.php:185
+msgid "Permission to delete posts in this blog"
+msgstr "このブログの投稿の削除を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:113
+#: ..\..\..\admin\_blogs_permissions.form.php:189
+msgid "Permission to edit comments in this blog"
+msgstr "このブログのコメントの編集を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:120
+#: ..\..\..\admin\_blogs_permissions.form.php:193
+msgid "Permission to edit categories for this blog"
+msgstr "このブログのカテゴリの編集を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:127
+#: ..\..\..\admin\_blogs_permissions.form.php:197
+msgid "Permission to edit blog properties"
+msgstr "ブログ プロパティの編集を許可"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:130
+msgid "(un)selects all checkboxes using Javascript"
+msgstr "全てのチェックボックスをJavaScriptを使用して選択(解除)"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:131
+#: ..\..\..\admin\_blogs_permissions.form.php:201
+msgid "(un)check all"
+msgstr "全てをチェック(解除)"
+
+#: ..\..\..\admin\_blogs_permissions.form.php:141
+msgid "Non members"
+msgstr "非メンバー"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\admin\_blogs_permissions.form.php:219
+msgid ""
+"Warning! You are about to remove your own permission to edit this blog!\\n"
+"You won\\'t have access to its properties any longer if you do that!"
+msgstr ""
+"警告! あなたはこのブログを編集する自身の権限を削除しようとしています!\\n"
+"これを行った場合、このブログのプロパティにアクセスできなくなります!"
+
+#: ..\..\..\admin\_cats_list.php:34
+msgid "Edit category properties"
+msgstr "カテゴリのプロパティを編集"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\admin\_cats_list.php:38
+msgid "Are you sure you want to delete?"
+msgstr "削除しますか？"
+
+#: ..\..\..\admin\_cats_list.php:51
+msgid "New sub-category here"
+msgstr "新規サブカテゴリをここに"
+
+#: ..\..\..\admin\_cats_list.php:70
+msgid "New category here"
+msgstr "新規カテゴリをここに"
+
+#: ..\..\..\admin\_cats_list.php:74
+msgid "<strong>Note:</strong> Deleting a category does not delete posts from that category. It will just assign them to the parent category. When deleting a root category, posts will be assigned to the oldest remaining category in the same blog (smallest category number)."
+msgstr "<strong>注意:</strong> カテゴリを削除しても、そのカテゴリにある投稿を削除することにはなりません。投稿は親カテゴリに再割り当てされます。ルートのカテゴリを削除すると、投稿は同じブログのなかで最も古くからあるカテゴリ (カテゴリ番号最小のもの)に再割り当てされます。"
+
+#: ..\..\..\admin\_edit_form.php:93
+#: ..\..\..\b2evocore\_functions_pingback.php:78
+msgid "Post contents"
+msgstr "コンテンツを投稿"
+
+#: ..\..\..\admin\_edit_form.php:102
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:383
+msgid "Title"
+msgstr "タイトル"
+
+#: ..\..\..\admin\_edit_form.php:107
+msgid "Language"
+msgstr "言語"
+
+#: ..\..\..\admin\_edit_form.php:113
+msgid "Link to url"
+msgstr "URLへリンク"
+
+#: ..\..\..\admin\_edit_form.php:135
+#: ..\..\..\admin\_users_form.php:125
+#: ..\..\..\admin\_users_form.php:127
+#: ..\..\..\admin\_users_list.php:21
+#: ..\..\..\htsrv\comment_post.php:141
+#: ..\..\..\htsrv\register.php:120
+#: ..\..\..\htsrv\_reg_complete.php:20
+#: ..\..\..\htsrv\_reg_form.php:41
+#: ..\..\..\skins\_feedback.php:183
+#: ..\..\..\skins\_profile.php:76
+#: ..\..\..\skins\basic\_feedback.php:178
+#: ..\..\..\skins\basic\_profile.php:77
+msgid "Email"
+msgstr "メール"
+
+#: ..\..\..\admin\_edit_form.php:139
+#: ..\..\..\admin\_users_form.php:139
+#: ..\..\..\admin\_users_form.php:141
+#: ..\..\..\admin\_users_list.php:22
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:366
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:378
+#: ..\..\..\skins\_profile.php:77
+#: ..\..\..\skins\basic\_profile.php:78
+msgid "URL"
+msgstr "URL"
+
+#: ..\..\..\admin\_edit_form.php:167
+msgid "Preview"
+msgstr "プレビュー"
+
+#. TRANS: the &nbsp; are just here to make the button larger. If your translation is a longer word, don't keep the &nbsp;
+#: ..\..\..\admin\_edit_form.php:173
+msgid "&nbsp; Save ! &nbsp;"
+msgstr "&nbsp; 保存! &nbsp;"
+
+#: ..\..\..\admin\_edit_form.php:191
+msgid "Spellcheck"
+msgstr "スペルチェック"
+
+#: ..\..\..\admin\_edit_form.php:197
+msgid "Upload a file/image"
+msgstr "ファイル/画像をアップロードする"
+
+#: ..\..\..\admin\_edit_form.php:207
+msgid "Advanced properties"
+msgstr "上級プロパティ"
+
+#: ..\..\..\admin\_edit_form.php:216
+msgid "Edit timestamp"
+msgstr "タイムスタンプ編集"
+
+#: ..\..\..\admin\_edit_form.php:252
+msgid "URL Title"
+msgstr "URLタイトル"
+
+#: ..\..\..\admin\_edit_form.php:254
+msgid "(to be used in permalinks)"
+msgstr "(永続的リンクに用いられます)"
+
+#: ..\..\..\admin\_edit_form.php:263
+#: ..\..\..\admin\_edit_showposts.php:289
+#: ..\..\..\admin\_set_general.form.php:49
+#: ..\..\..\skins\_feedback.php:213
+#: ..\..\..\skins\basic\_feedback.php:207
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:208
+#: ..\..\..\skins\wpc_default\_feedback.php:208
+msgid "Auto-BR"
+msgstr "自動-BR"
+
+#: ..\..\..\admin\_edit_form.php:263
+#: ..\..\..\admin\_set_general.form.php:49
+msgid "This option is deprecated, you should avoid using it."
+msgstr "このオプションは非推奨です。使用は避けるべきです。"
+
+#: ..\..\..\admin\_edit_form.php:272
+msgid "Additional actions"
+msgstr "追加のアクション"
+
+#: ..\..\..\admin\_edit_form.php:280
+msgid "Pingback"
+msgstr "ピンバック"
+
+#: ..\..\..\admin\_edit_form.php:280
+msgid "(Send a pingback to all URLs in this post)"
+msgstr "(この投稿中のすべてのURLにピンバックする)"
+
+#: ..\..\..\admin\_edit_form.php:289
+msgid "Trackback URLs"
+msgstr "トラックバックURL"
+
+#: ..\..\..\admin\_edit_form.php:289
+msgid "(Separate by space)"
+msgstr "(空白でわける)"
+
+#: ..\..\..\admin\_edit_form.php:310
+#: ..\..\..\admin\_edit_form.php:543
+#: ..\..\..\admin\_edit_showposts.php:124
+msgid "Status"
+msgstr "状態"
+
+#: ..\..\..\admin\_edit_form.php:316
+msgid "The post will be publicly published"
+msgstr "投稿は公に発行されます"
+
+#: ..\..\..\admin\_edit_form.php:317
+#: ..\..\..\admin\_edit_showposts.php:361
+msgid "Published (Public)"
+msgstr "発行 (公開)"
+
+#: ..\..\..\admin\_edit_form.php:323
+msgid "The post will be published but visible only by logged-in blog members"
+msgstr "投稿は発行されますが、ログインしているブログ メンバーにだけ表示されます"
+
+#: ..\..\..\admin\_edit_form.php:324
+#: ..\..\..\admin\_edit_showposts.php:364
+msgid "Protected (Members only)"
+msgstr "保護付き (メンバーのみ)"
+
+#: ..\..\..\admin\_edit_form.php:330
+msgid "The post will be published but visible only by yourself"
+msgstr "投稿は発行されますが、あなた自身にだけ表示されます"
+
+#: ..\..\..\admin\_edit_form.php:331
+#: ..\..\..\admin\_edit_showposts.php:367
+msgid "Private (You only)"
+msgstr "私用 (自分のみ)"
+
+#: ..\..\..\admin\_edit_form.php:337
+#: ..\..\..\admin\_edit_form.php:344
+msgid "The post will appear only in the backoffice"
+msgstr "投稿は backoffice 内でだけ表示されます"
+
+#: ..\..\..\admin\_edit_form.php:338
+#: ..\..\..\admin\_edit_showposts.php:370
+msgid "Draft (Not published!)"
+msgstr "ドラフト (公開されません!)"
+
+#: ..\..\..\admin\_edit_form.php:345
+#: ..\..\..\admin\_edit_showposts.php:373
+msgid "Deprecated (Not published!)"
+msgstr "没 (公開されません!)"
+
+#: ..\..\..\admin\_edit_form.php:433
+msgid "Note: Cross posting among multiple blogs is enabled."
+msgstr "注意: 複数ブログ間のクロスポストは有効です。"
+
+#: ..\..\..\admin\_edit_form.php:444
+msgid "Note: Cross posting among multiple blogs is currently disabled."
+msgstr "注意: 複数ブログ間のクロスポストは、いま無効です。"
+
+#: ..\..\..\admin\_edit_form.php:446
+msgid "Note: Cross posting among multiple categories is currently disabled."
+msgstr "注意: 複数カテゴリ間のクロスポストは、いま無効です。"
+
+#: ..\..\..\admin\_edit_form.php:456
+#: ..\..\..\admin\_edit_showposts.php:186
+#: ..\..\..\skins\_feedback.php:55
+#: ..\..\..\skins\basic\_feedback.php:56
+#: ..\..\..\skins\custom\_main.php:280
+#: ..\..\..\skins\custom\_main.php:285
+#: ..\..\..\skins\custom\_main.php:290
+#: ..\..\..\skins\custom\_main.php:295
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:56
+#: ..\..\..\skins\wpc_default\_feedback.php:56
+msgid "Comments"
+msgstr "コメント"
+
+#: ..\..\..\admin\_edit_form.php:458
+msgid "Visitors can leave comments on this post."
+msgstr "訪問者がこの投稿にコメントを残すことを許可します。"
+
+#: ..\..\..\admin\_edit_form.php:459
+msgid "Open"
+msgstr "開放"
+
+#: ..\..\..\admin\_edit_form.php:461
+msgid "Visitors can NOT leave comments on this post."
+msgstr "訪問者がこの投稿にコメントを残すことを許可_しません_。"
+
+#: ..\..\..\admin\_edit_form.php:462
+msgid "Closed"
+msgstr "締め切り"
+
+#: ..\..\..\admin\_edit_form.php:464
+msgid "Visitors cannot see nor leave comments on this post."
+msgstr "訪問者はこの投稿にコメントを残すことや、コメントを見ることができません。"
+
+#: ..\..\..\admin\_edit_form.php:465
+msgid "Disabled"
+msgstr "無効"
+
+#: ..\..\..\admin\_edit_form.php:470
+msgid "Renderers"
+msgstr "投稿加工プラグイン"
+
+#: ..\..\..\admin\_edit_form.php:540
+msgid "Comment info"
+msgstr "コメント情報"
+
+#: ..\..\..\admin\_edit_form.php:541
+#: ..\..\..\htsrv\comment_post.php:134
+#: ..\..\..\htsrv\comment_post.php:140
+msgid "Author"
+msgstr "著者"
+
+#: ..\..\..\admin\_edit_form.php:544
+msgid "IP address"
+msgstr "IPアドレス"
+
+#: ..\..\..\admin\_edit_navbar.php:26
+#, php-format
+msgid "Next %d days"
+msgstr "次の %d 日"
+
+#: ..\..\..\admin\_edit_navbar.php:27
+#, php-format
+msgid "Previous %d"
+msgstr "前の %d 個"
+
+#: ..\..\..\admin\_edit_navbar.php:37
+#, php-format
+msgid "Previous %d days"
+msgstr "前の %d 日"
+
+#: ..\..\..\admin\_edit_navbar.php:38
+#, php-format
+msgid "Next %d"
+msgstr "次の %d 個"
+
+#. TRANS: x TO y OF z
+#: ..\..\..\admin\_edit_navbar.php:55
+#: ..\..\..\admin\_edit_navbar.php:61
+msgid " to "
+msgstr " から "
+
+#. TRANS: x TO y OF z
+#: ..\..\..\admin\_edit_navbar.php:63
+msgid " of "
+msgstr " 全体は "
+
+#: ..\..\..\admin\_edit_navbar.php:71
+msgid "from the end"
+msgstr "おわりから"
+
+#: ..\..\..\admin\_edit_navbar.php:75
+msgid "from the start"
+msgstr "はじめから"
+
+#: ..\..\..\admin\_edit_navbar.php:77
+msgid "OK"
+msgstr "OK"
+
+#: ..\..\..\admin\_edit_showposts.php:71
+msgid " Date range: "
+msgstr " 日付の範囲: "
+
+#. TRANS: backoffice: each post is prefixed by "date BY author IN categories"
+#: ..\..\..\admin\_edit_showposts.php:134
+msgid "by"
+msgstr "著者:"
+
+#: ..\..\..\admin\_edit_showposts.php:138
+msgid "level:"
+msgstr "レベル:"
+
+#: ..\..\..\admin\_edit_showposts.php:153
+#: ..\..\..\b2evocore\_functions_bposts.php:826
+msgid "Pages:"
+msgstr "ページ:"
+
+#. TRANS: Link to comments for current post
+#: ..\..\..\admin\_edit_showposts.php:173
+msgid "no comment"
+msgstr "コメントがありません"
+
+#: ..\..\..\admin\_edit_showposts.php:173
+#: ..\..\..\b2evocore\_class_item.php:730
+#: ..\..\..\b2evocore\_functions_comments.php:211
+msgid "1 comment"
+msgstr "1 コメント"
+
+#: ..\..\..\admin\_edit_showposts.php:173
+#: ..\..\..\b2evocore\_class_item.php:731
+#: ..\..\..\b2evocore\_functions_comments.php:212
+#, php-format
+msgid "%d comments"
+msgstr "%d コメント"
+
+#: ..\..\..\admin\_edit_showposts.php:174
+msgid "1 Trackback"
+msgstr "1 トラックバック"
+
+#: ..\..\..\admin\_edit_showposts.php:174
+#, php-format
+msgid "%d Trackbacks"
+msgstr "%d トラックバック"
+
+#: ..\..\..\admin\_edit_showposts.php:175
+msgid "1 Pingback"
+msgstr "1 ピンバック"
+
+#: ..\..\..\admin\_edit_showposts.php:175
+#, php-format
+msgid "%d Pingbacks"
+msgstr "%d ピンバック"
+
+#: ..\..\..\admin\_edit_showposts.php:186
+#: ..\..\..\skins\_feedback.php:66
+#: ..\..\..\skins\basic\_feedback.php:67
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:67
+#: ..\..\..\skins\wpc_default\_feedback.php:67
+msgid "Trackbacks"
+msgstr "トラックバック"
+
+#: ..\..\..\admin\_edit_showposts.php:186
+#: ..\..\..\skins\_feedback.php:71
+#: ..\..\..\skins\basic\_feedback.php:72
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:72
+#: ..\..\..\skins\wpc_default\_feedback.php:72
+msgid "Pingbacks"
+msgstr "ピンバック"
+
+#: ..\..\..\admin\_edit_showposts.php:193
+msgid "No feedback for this post yet..."
+msgstr "この投稿へのフィードバックはまだありません..."
+
+#: ..\..\..\admin\_edit_showposts.php:226
+#: ..\..\..\skins\_feedback.php:109
+#: ..\..\..\skins\basic\_feedback.php:109
+msgid "Comment from:"
+msgstr "コメント:"
+
+#: ..\..\..\admin\_edit_showposts.php:230
+#: ..\..\..\skins\_feedback.php:115
+#: ..\..\..\skins\basic\_feedback.php:115
+msgid "Trackback from:"
+msgstr "トラックバック:"
+
+#: ..\..\..\admin\_edit_showposts.php:234
+#: ..\..\..\skins\_feedback.php:120
+#: ..\..\..\skins\basic\_feedback.php:120
+msgid "Pingback from:"
+msgstr "ピンバック:"
+
+#: ..\..\..\admin\_edit_showposts.php:245
+#: ..\..\..\skins\_feedback.php:132
+#: ..\..\..\skins\_lastcomments.php:44
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:131
+#: ..\..\..\skins\wpc_default\_feedback.php:131
+msgid "Permanent link to this comment"
+msgstr "このコメントへの永続的リンク"
+
+#: ..\..\..\admin\_edit_showposts.php:264
+#: ..\..\..\b2evocore\_class_item.php:729
+#: ..\..\..\b2evocore\_functions_comments.php:210
+#: ..\..\..\skins\_feedback.php:145
+#: ..\..\..\skins\basic\_feedback.php:141
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:146
+#: ..\..\..\skins\wpc_default\_feedback.php:146
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: ..\..\..\admin\_edit_showposts.php:272
+#: ..\..\..\admin\_users_form.php:81
+#: ..\..\..\skins\_feedback.php:164
+#: ..\..\..\skins\basic\_feedback.php:161
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:170
+#: ..\..\..\skins\wpc_default\_feedback.php:170
+msgid "User"
+msgstr "ユーザ"
+
+#: ..\..\..\admin\_edit_showposts.php:275
+#: ..\..\..\skins\_feedback.php:167
+#: ..\..\..\skins\basic\_feedback.php:164
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:172
+#: ..\..\..\skins\wpc_default\_feedback.php:172
+msgid "Edit profile"
+msgstr "プロフィール編集"
+
+#: ..\..\..\admin\_edit_showposts.php:280
+#: ..\..\..\skins\_feedback.php:201
+#: ..\..\..\skins\basic\_feedback.php:195
+msgid "Comment text"
+msgstr "コメント文"
+
+#: ..\..\..\admin\_edit_showposts.php:282
+#: ..\..\..\skins\_feedback.php:203
+#: ..\..\..\skins\basic\_feedback.php:197
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:148
+#: ..\..\..\skins\wpc_default\_feedback.php:148
+msgid "Allowed XHTML tags"
+msgstr "許可される XHTML タグ"
+
+#: ..\..\..\admin\_edit_showposts.php:282
+#: ..\..\..\skins\_feedback.php:204
+#: ..\..\..\skins\basic\_feedback.php:198
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:149
+#: ..\..\..\skins\wpc_default\_feedback.php:149
+msgid "URLs, email, AIM and ICQs will be converted automatically."
+msgstr "URLや メールアドレス、AIM や ICQ のアドレスは自動変換されます。"
+
+#: ..\..\..\admin\_edit_showposts.php:288
+#: ..\..\..\skins\_feedback.php:209
+#: ..\..\..\skins\basic\_feedback.php:203
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:205
+#: ..\..\..\skins\wpc_default\_feedback.php:205
+msgid "Options"
+msgstr "オプション"
+
+#: ..\..\..\admin\_edit_showposts.php:289
+msgid "(Line breaks become &lt;br&gt;)"
+msgstr "（改行は &lt;br&gt; になります）"
+
+#: ..\..\..\admin\_edit_showposts.php:296
+#: ..\..\..\skins\_feedback.php:226
+#: ..\..\..\skins\basic\_feedback.php:220
+msgid "Send comment"
+msgstr "コメントを送る"
+
+#: ..\..\..\admin\_edit_showposts.php:350
+msgid "Posts to show"
+msgstr "表示する投稿"
+
+#: ..\..\..\admin\_edit_showposts.php:353
+msgid "Past"
+msgstr "過去"
+
+#: ..\..\..\admin\_edit_showposts.php:356
+msgid "Future"
+msgstr "未来"
+
+#: ..\..\..\admin\_edit_showposts.php:381
+msgid "Title / Text contains"
+msgstr "タイトル／テキスト が含んでいる"
+
+#: ..\..\..\admin\_edit_showposts.php:385
+msgid "Words"
+msgstr "語"
+
+#: ..\..\..\admin\_edit_showposts.php:386
+msgid "AND"
+msgstr "AND"
+
+#: ..\..\..\admin\_edit_showposts.php:388
+msgid "OR"
+msgstr "OR"
+
+#: ..\..\..\admin\_footer.php:18
+msgid "GPL License"
+msgstr "GPL ライセンス"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\admin\_menutop.php:106
+msgid "uncheck all"
+msgstr "全てのチェックを解除"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\admin\_menutop.php:108
+msgid "check all"
+msgstr "全てにチェック"
+
+#: ..\..\..\admin\_menutop.php:162
+msgid "visit b2evolution's website"
+msgstr "b2evolution のウェブサイトを訪問する"
+
+#: ..\..\..\admin\_menutop.php:165
+msgid "Logout"
+msgstr "ログアウト"
+
+#: ..\..\..\admin\_menutop.php:167
+msgid "Exit to blogs"
+msgstr "ブログに抜ける"
+
+#: ..\..\..\admin\_menutop.php:176
+msgid "Blog time:"
+msgstr "ブログ時刻:"
+
+#: ..\..\..\admin\_menutop.php:177
+msgid "GMT:"
+msgstr "グリニッジ平均時:"
+
+#: ..\..\..\admin\_menutop.php:178
+msgid "Logged in as:"
+msgstr "次のユーザ名でログイン:"
+
+#: ..\..\..\admin\_menutop.php:188
+msgid "Write"
+msgstr "記入"
+
+#: ..\..\..\admin\_menutop.php:194
+#: ..\..\..\admin\_set_regional.form.php:165
+#: ..\..\..\admin\_set_regional.form.php:241
+#: ..\..\..\admin\_users_list.php:32
+#: ..\..\..\b2evocore\_class_comment.php:262
+#: ..\..\..\b2evocore\_class_item.php:879
+msgid "Edit"
+msgstr "編集"
+
+#: ..\..\..\admin\_menutop.php:214
+msgid "Stats"
+msgstr "統計"
+
+#: ..\..\..\admin\_menutop.php:232
+#: ..\..\..\admin\_users_groupform.php:103
+msgid "Templates"
+msgstr "テンプレート"
+
+#: ..\..\..\admin\_menutop.php:242
+msgid "Users"
+msgstr "ユーザ"
+
+#: ..\..\..\admin\_menutop.php:246
+msgid "User Profile"
+msgstr "ユーザ プロフィール"
+
+#: ..\..\..\admin\_set_general.form.php:19
+msgid "Default user rights"
+msgstr "デフォルト ユーザ権限"
+
+#: ..\..\..\admin\_set_general.form.php:21
+msgid "New users can register"
+msgstr "新規ユーザの自己登録を可能にする"
+
+#: ..\..\..\admin\_set_general.form.php:21
+msgid "Check to allow new users to register themselves."
+msgstr "チェックをつけると、新規ユーザが自分自身を登録することを許可します"
+
+#: ..\..\..\admin\_set_general.form.php:23
+msgid "Group for new users"
+msgstr "新規ユーザのグループ"
+
+#: ..\..\..\admin\_set_general.form.php:23
+msgid "Groups determine user roles and permissions."
+msgstr "グループはユーザの役割と許可を規定します。"
+
+#: ..\..\..\admin\_set_general.form.php:25
+msgid "Level for new users"
+msgstr "新規ユーザのレベル"
+
+#: ..\..\..\admin\_set_general.form.php:25
+msgid "Levels determine hierarchy of users in blogs."
+msgstr "レベルはブログでのユーザの階級を規定します。"
+
+#: ..\..\..\admin\_set_general.form.php:30
+msgid "Display options"
+msgstr "表示オプション"
+
+#: ..\..\..\admin\_set_general.form.php:32
+msgid "Default blog to display"
+msgstr "デフォルトで表示するブログ"
+
+#: ..\..\..\admin\_set_general.form.php:32
+msgid "This blog will be displayed on index.php ."
+msgstr "このブログは index.php で表示されます。"
+
+#: ..\..\..\admin\_set_general.form.php:35
+msgid "days"
+msgstr "日"
+
+#: ..\..\..\admin\_set_general.form.php:36
+msgid "posts"
+msgstr "投稿"
+
+#: ..\..\..\admin\_set_general.form.php:37
+msgid "posts paged"
+msgstr "投稿／ページ"
+
+#: ..\..\..\admin\_set_general.form.php:38
+msgid "Display mode"
+msgstr "表示モード"
+
+#: ..\..\..\admin\_set_general.form.php:40
+msgid "Posts/Days per page"
+msgstr "ページ当たりの投稿数/日数"
+
+#: ..\..\..\admin\_set_general.form.php:43
+msgid "monthly"
+msgstr "月単位"
+
+#: ..\..\..\admin\_set_general.form.php:44
+msgid "weekly"
+msgstr "週単位"
+
+#: ..\..\..\admin\_set_general.form.php:45
+msgid "daily"
+msgstr "日単位"
+
+#: ..\..\..\admin\_set_general.form.php:46
+msgid "post by post"
+msgstr "投稿ごと"
+
+#: ..\..\..\admin\_set_general.form.php:47
+msgid "Archive mode"
+msgstr "アーカイブモード"
+
+#: ..\..\..\admin\_set_general.form.php:54
+msgid "Link options"
+msgstr "リンク オプション"
+
+#: ..\..\..\admin\_set_general.form.php:56
+msgid "Use extra-path info"
+msgstr "追加path情報を使用"
+
+#: ..\..\..\admin\_set_general.form.php:56
+msgid "Recommended if your webserver supports it. Links will look like 'stub/2003/05/20/post_title' instead of 'stub?title=post_title&amp;c=1&amp;tb=1&amp;pb=1&amp;more=1'."
+msgstr "あなたのウェブサーバがこれをサポートしている場合は推奨します。リンクが 'stub?title=post_title&amp;c=1&amp;tb=1&amp;pb=1&amp;more=1' の代わりに 'stub/2003/05/20/post_title' のようになります。"
+
+#: ..\..\..\admin\_set_general.form.php:59
+msgid "Post called up by its URL title (Recommended)"
+msgstr "投稿をそのURLタイトルで呼び出す (推奨)"
+
+#: ..\..\..\admin\_set_general.form.php:59
+msgid "Fallback to ID when no URL title available."
+msgstr "URL タイトルが有効でない時は ID に代替します。"
+
+#: ..\..\..\admin\_set_general.form.php:60
+msgid "Post called up by its ID"
+msgstr "投稿をそのIDで呼び出す"
+
+#: ..\..\..\admin\_set_general.form.php:61
+msgid "Post on archive page, located by its ID"
+msgstr "アーカイブページの投稿を、そのIDで指定する"
+
+#: ..\..\..\admin\_set_general.form.php:62
+msgid "Post on archive page, located by its title (for Cafelog compatibility)"
+msgstr "アーカイブページの投稿を、そのタイトルで指定する (Cafelog 互換のため)"
+
+#: ..\..\..\admin\_set_general.form.php:63
+msgid "Permalink type"
+msgstr "永続的リンク タイプ"
+
+#: ..\..\..\admin\_set_general.form.php:68
+msgid "Security options"
+msgstr "セキュリティ オプション"
+
+#: ..\..\..\admin\_set_general.form.php:70
+msgid "Minimum password length"
+msgstr "パスワードの最低の長さ"
+
+#: ..\..\..\admin\_set_general.form.php:70
+msgid "for users."
+msgstr "ユーザ用。"
+
+#: ..\..\..\admin\_set_plugins.form.php:19
+msgid "Rendering plug-ins"
+msgstr "投稿加工プラグイン"
+
+#: ..\..\..\admin\_set_plugins.form.php:22
+#: ..\..\..\admin\_set_plugins.form.php:46
+msgid "Plug-in"
+msgstr "プラグイン"
+
+#: ..\..\..\admin\_set_plugins.form.php:23
+msgid "Apply"
+msgstr "適用"
+
+#: ..\..\..\admin\_set_plugins.form.php:43
+msgid "Toolbar plug-ins"
+msgstr "ツールバー プラグイン"
+
+#: ..\..\..\admin\_set_plugins.form.php:69
+#: ..\..\..\admin\_set_regional.form.php:67
+#: ..\..\..\admin\_set_regional.form.php:360
+#: ..\..\..\admin\_users_form.php:211
+#: ..\..\..\admin\_users_groupform.php:126
+#: ..\..\..\skins\_profile.php:98
+#: ..\..\..\skins\basic\_profile.php:99
+msgid "Update"
+msgstr "更新"
+
+#: ..\..\..\admin\_set_regional.form.php:23
+#: ..\..\..\admin\_set_regional.form.php:345
+msgid "Create new locale"
+msgstr "新しい言語・地域設定を作成"
+
+#: ..\..\..\admin\_set_regional.form.php:23
+#: ..\..\..\admin\_set_regional.form.php:196
+#: ..\..\..\admin\_set_regional.form.php:241
+msgid "Edit locale"
+msgstr "言語・地域設定編集"
+
+#: ..\..\..\admin\_set_regional.form.php:47
+#, php-format
+msgid "The first two letters should be a <a %s>ISO 639 language code</a>. The last two letters should be a <a %s>ISO 3166 country code</a>."
+msgstr "最初の2文字は <a %s>ISO 639 language code</a> です。後の2文字は <a %s>ISO 3166 country code</a> です。"
+
+#: ..\..\..\admin\_set_regional.form.php:48
+#: ..\..\..\admin\_set_regional.form.php:159
+msgid "Enabled"
+msgstr "有効"
+
+#: ..\..\..\admin\_set_regional.form.php:48
+msgid "Should this locale be available to users?"
+msgstr "この言語・地域設定をユーザが利用可能にしますか?"
+
+#: ..\..\..\admin\_set_regional.form.php:50
+msgid "name of the locale"
+msgstr "言語・地域設定の名称"
+
+#: ..\..\..\admin\_set_regional.form.php:51
+#: ..\..\..\admin\_set_regional.form.php:188
+msgid "Charset"
+msgstr "文字セット"
+
+#: ..\..\..\admin\_set_regional.form.php:51
+msgid "Must match the lang file charset."
+msgstr "言語ファイルの文字セットと一致しなければなりません。"
+
+#: ..\..\..\admin\_set_regional.form.php:52
+msgid "Date format"
+msgstr "日付フォーマット"
+
+#: ..\..\..\admin\_set_regional.form.php:52
+#: ..\..\..\admin\_set_regional.form.php:53
+msgid "See below."
+msgstr "下記参照。"
+
+#: ..\..\..\admin\_set_regional.form.php:53
+msgid "Time format"
+msgstr "時間フォーマット"
+
+#: ..\..\..\admin\_set_regional.form.php:54
+#: ..\..\..\admin\_set_regional.form.php:188
+msgid "Lang file"
+msgstr "言語ファイル"
+
+#: ..\..\..\admin\_set_regional.form.php:55
+msgid "the lang file to use, from the <code>locales</code> subdirectory"
+msgstr "<code>locales</code> サブディレクトリから、使用される言語ファイル"
+
+#: ..\..\..\admin\_set_regional.form.php:56
+#: ..\..\..\admin\_set_regional.form.php:188
+msgid "Priority"
+msgstr "優先度"
+
+#: ..\..\..\admin\_set_regional.form.php:57
+msgid "1 is highest. Priority is important when selecting a locale from a language code and several locales match the same language; this can happen when detecting browser language. Priority also affects the order in which locales are displayed in dropdown boxes, etc."
+msgstr "1 が一番高い。優先度は、言語コードから言語・地域設定を選択して、いくつかの地域が同じ言語に適合する時に重要になります。これはブラウザの言語を検知する時に起こります。優先度は、ドロップダウン ボックスなどに表示される言語・地域設定の順番にも影響します。"
+
+#: ..\..\..\admin\_set_regional.form.php:67
+#: ..\..\..\admin\_users_form.php:211
+#: ..\..\..\admin\_users_groupform.php:126
+msgid "Create"
+msgstr "作成"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\admin\_set_regional.form.php:67
+#, php-format
+msgid "This will replace locale \\'%s\\'. Ok?"
+msgstr "言語・地域設定 \\'%s\\' を置き換えます。Ok?"
+
+#: ..\..\..\admin\_set_regional.form.php:72
+msgid "Flags"
+msgstr "旗"
+
+#: ..\..\..\admin\_set_regional.form.php:73
+#, php-format
+msgid "The flags are stored in subdirectories from <code>%s</code>. Their filename is equal to the country part of the locale (characters 4-5); file extension is .gif ."
+msgstr "旗は <code>%s</code> のサブディレクトリに収められています。これらのファイル名は、言語・地域設定の国(地域)部分と同じです (4-5文字目)。ファイル拡張子は gif です。"
+
+#: ..\..\..\admin\_set_regional.form.php:74
+msgid "Date/Time Formats"
+msgstr "日付/時刻フォーマット"
+
+#: ..\..\..\admin\_set_regional.form.php:75
+msgid "The following characters are recognized in the format strings:"
+msgstr "以下の文字がフォーマット文字列の中で認識されます:"
+
+#: ..\..\..\admin\_set_regional.form.php:77
+msgid "a - \"am\" or \"pm\""
+msgstr "a - \"am\" か \"pm\""
+
+#: ..\..\..\admin\_set_regional.form.php:78
+msgid "A - \"AM\" or \"PM\""
+msgstr "A - \"AM\" か \"PM\""
+
+#: ..\..\..\admin\_set_regional.form.php:79
+msgid "B - Swatch Internet time"
+msgstr "B - Swatch インターネットタイム"
+
+#: ..\..\..\admin\_set_regional.form.php:80
+msgid "c - ISO 8601 date (Requires PHP 5); i.e. \"2004-02-12T15:19:21+00:00\""
+msgstr "c - ISO 8601 日時 (PHP 5 が必要); \"2004-02-12T15:19:21+00:00\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:81
+msgid "d - day of the month, 2 digits with leading zeros; i.e. \"01\" to \"31\""
+msgstr "d - 月における日、2桁になるよう先頭に0が付けられる; \"01\" から \"31\""
+
+#: ..\..\..\admin\_set_regional.form.php:82
+msgid "D - day of the week, textual, 3 letters; i.e. \"Fri\""
+msgstr "D - 週における曜日、3文字の語句; \"Fri\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:83
+msgid "e - day of the week, 1 letter; i.e. \"F\""
+msgstr "e - 週における曜日、1文字; \"F\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:84
+msgid "F - month, textual, long; i.e. \"January\""
+msgstr "F - 月、長い語句; \"January\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:85
+msgid "g - hour, 12-hour format without leading zeros; i.e. \"1\" to \"12\""
+msgstr "g - 時、12時間制、桁合わせの0は付かない; \"1\" から \"12\""
+
+#: ..\..\..\admin\_set_regional.form.php:86
+msgid "G - hour, 24-hour format without leading zeros; i.e. \"0\" to \"23\""
+msgstr "G - 時、24時間制、桁合わせの0は付かない; \"0\" から \"23\""
+
+#: ..\..\..\admin\_set_regional.form.php:87
+msgid "h - hour, 12-hour format; i.e. \"01\" to \"12\""
+msgstr "h - 時、12時間制; \"01\" から \"12\""
+
+#: ..\..\..\admin\_set_regional.form.php:88
+msgid "H - hour, 24-hour format; i.e. \"00\" to \"23\""
+msgstr "H - 時、24時間制; \"00\" から \"23\""
+
+#: ..\..\..\admin\_set_regional.form.php:89
+msgid "i - minutes; i.e. \"00\" to \"59\""
+msgstr "i - 分; \"00\" から \"59\""
+
+#: ..\..\..\admin\_set_regional.form.php:90
+msgid "I (capital i) - \"1\" if Daylight Savings Time, \"0\" otherwise."
+msgstr "I (大文字 i) - 夏時間の場合 \"1\"、そうでなければ \"0\"。"
+
+#: ..\..\..\admin\_set_regional.form.php:91
+msgid "j - day of the month without leading zeros; i.e. \"1\" to \"31\""
+msgstr "j - 月における日、桁合わせの0は付かない; \"1\" から \"31\""
+
+#: ..\..\..\admin\_set_regional.form.php:92
+msgid "l (lowercase \"L\") - day of the week, textual, long; i.e. \"Friday\""
+msgstr "l (小文字 \"L\") - 週における曜日、長い語句; \"Friday\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:93
+msgid "L - boolean for whether it is a leap year; i.e. \"0\" or \"1\""
+msgstr "L - うるう年かどうかの論理型; \"0\" または \"1\""
+
+#: ..\..\..\admin\_set_regional.form.php:94
+msgid "m - month; i.e. \"01\" to \"12\""
+msgstr "m - 月; \"01\" から \"12\""
+
+#: ..\..\..\admin\_set_regional.form.php:95
+msgid "M - month, textual, 3 letters; i.e. \"Jan\""
+msgstr "M - 月、3文字の語句; \"Jan\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:96
+msgid "n - month without leading zeros; i.e. \"1\" to \"12\""
+msgstr "n - 月、桁合わせの0は付かない; \"1\" から \"12\""
+
+#: ..\..\..\admin\_set_regional.form.php:97
+msgid "O - Difference to Greenwich time (GMT) in hours; i.e. \"+0200\""
+msgstr "O - グリニッヂ平均時 (GMT) との時刻の差; \"+0200\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:98
+msgid "r - RFC 822 formatted date; i.e. \"Thu, 21 Dec 2000 16:01:07 +0200\""
+msgstr "r - RFC 822 フォーマットの日時; \"Thu, 21 Dec 2000 16:01:07 +0200\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:99
+msgid "s - seconds; i.e. \"00\" to \"59\""
+msgstr "s - 秒; \"00\" から \"59\""
+
+#: ..\..\..\admin\_set_regional.form.php:100
+msgid "S - English ordinal suffix, textual, 2 characters; i.e. \"th\", \"nd\""
+msgstr "S - 英語の序数の接尾辞、2文字の語句; \"th\", \"nd\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:101
+msgid "t - number of days in the given month; i.e. \"28\" to \"31\""
+msgstr "t - 月の日数; \"28\" から \"31\""
+
+#: ..\..\..\admin\_set_regional.form.php:102
+msgid "T - Timezone setting of this machine; i.e. \"MDT\""
+msgstr "T - マシンに設定されているタイムゾーン; \"MDT\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:103
+msgid "U - seconds since the epoch"
+msgstr "U - the epoch からの秒数"
+
+#: ..\..\..\admin\_set_regional.form.php:104
+msgid "w - day of the week, numeric, i.e. \"0\" (Sunday) to \"6\" (Saturday)"
+msgstr "w - 週における日、数字; \"0\" (日曜) から \"6\" (土曜)"
+
+#: ..\..\..\admin\_set_regional.form.php:105
+msgid "W - ISO-8601 week number of year, weeks starting on Monday; i.e. \"42\""
+msgstr "W - 年の ISO-8601 週数、月曜を週の初めとする; \"42\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:106
+msgid "Y - year, 4 digits; i.e. \"1999\""
+msgstr "Y - 年、4桁; \"1999\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:107
+msgid "y - year, 2 digits; i.e. \"99\""
+msgstr "y - 年、2桁; \"99\" など"
+
+#: ..\..\..\admin\_set_regional.form.php:108
+msgid "z - day of the year; i.e. \"0\" to \"365\""
+msgstr "z - 年における日; \"0\" から \"365\""
+
+#: ..\..\..\admin\_set_regional.form.php:109
+msgid "Z - timezone offset in seconds (i.e. \"-43200\" to \"43200\"). The offset for timezones west of UTC is always negative, and for those east of UTC is always positive."
+msgstr "Z - タイムゾーンのオフセットの秒数 (\"-43200\" から \"43200\")。UTCより西のタイムゾーンのオフセットは常に負の値、UTCより東は常に正の値。"
+
+#: ..\..\..\admin\_set_regional.form.php:111
+msgid "isoZ - full ISO 8601 format, equivalent to Y-m-d\\TH:i:s\\Z"
+msgstr "isoZ - 完全な ISO 8601 フォーマット、Y-m-d\\TH:i:s\\Z と同等"
+
+#: ..\..\..\admin\_set_regional.form.php:112
+msgid ""
+"Unrecognized characters in the format string will be printed as-is.<br />\n"
+"\t\t\tYou can escape characters by preceding them with a \\ to print them as-is."
+msgstr ""
+"フォーマット文字列内で認識できない文字は、そのまま出力されます。<br />\n"
+"\t\t\t文字の前に \\ を付けることで、その文字をそのまま出力するようエスケープすることができます。"
+
+#: ..\..\..\admin\_set_regional.form.php:123
+msgid "Note: default locale is not enabled."
+msgstr "注意: デフォルトの言語・地域設定は有効になっていません。"
+
+#: ..\..\..\admin\_set_regional.form.php:131
+msgid "Regional settings"
+msgstr "地域設定"
+
+#: ..\..\..\admin\_set_regional.form.php:134
+msgid "Time difference"
+msgstr "時差"
+
+#: ..\..\..\admin\_set_regional.form.php:134
+msgid "in hours"
+msgstr "時間"
+
+#: ..\..\..\admin\_set_regional.form.php:134
+#, php-format
+msgid "If you're not on the timezone of your server. Current server time is: %s."
+msgstr "サーバのタイムゾーンと異なる場所にいる場合に設定。現在のサーバ時刻は: %s 。"
+
+#: ..\..\..\admin\_set_regional.form.php:135
+msgid "Overriden by browser config, user locale or blog locale (in this order)."
+msgstr "ブラウザの設定や、ユーザの言語・地域設定、ブログの言語・地域設定によって (この順番で) 変更されます。"
+
+#: ..\..\..\admin\_set_regional.form.php:141
+msgid "Available locales"
+msgstr "利用可能な言語・地域設定"
+
+#: ..\..\..\admin\_set_regional.form.php:146
+msgid "Hide translation info"
+msgstr "翻訳情報を隠す"
+
+#: ..\..\..\admin\_set_regional.form.php:151
+msgid "Show translation info"
+msgstr "翻訳情報を表示する"
+
+#: ..\..\..\admin\_set_regional.form.php:161
+msgid "Date fmt"
+msgstr "日付フォーマット"
+
+#: ..\..\..\admin\_set_regional.form.php:162
+msgid "Time fmt"
+msgstr "時間フォーマット"
+
+#: ..\..\..\admin\_set_regional.form.php:171
+msgid "Strings"
+msgstr "文字列"
+
+#: ..\..\..\admin\_set_regional.form.php:172
+msgid "Translated"
+msgstr "翻訳済み"
+
+#: ..\..\..\admin\_set_regional.form.php:176
+#: ..\..\..\admin\_set_regional.form.php:333
+msgid "Extract"
+msgstr "取り出し"
+
+#: ..\..\..\admin\_set_regional.form.php:223
+msgid "up"
+msgstr "上へ"
+
+#: ..\..\..\admin\_set_regional.form.php:223
+msgid "Move priority up"
+msgstr "優先度を上げる"
+
+#: ..\..\..\admin\_set_regional.form.php:232
+msgid "down"
+msgstr "下へ"
+
+#: ..\..\..\admin\_set_regional.form.php:232
+msgid "Move priority down"
+msgstr "優先度を下げる"
+
+#: ..\..\..\admin\_set_regional.form.php:239
+msgid "Copy locale"
+msgstr "言語・地域設定コピー"
+
+#: ..\..\..\admin\_set_regional.form.php:246
+msgid "Reset custom settings"
+msgstr "カスタム設定のリセット"
+
+#: ..\..\..\admin\_set_regional.form.php:257
+msgid "No language file..."
+msgstr "言語ファイルがありません..."
+
+#: ..\..\..\admin\_set_regional.form.php:333
+msgid "Extract .po file into b2evo-format"
+msgstr ".po ファイルから b2evoフォーマットに取り出す"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\admin\_set_regional.form.php:348
+msgid "Are you sure you want to reset?"
+msgstr "リセットしますか？"
+
+#: ..\..\..\admin\_set_regional.form.php:348
+msgid "Reset to defaults (delete database table)"
+msgstr "デフォルトにリセット (データベース テーブルを削除)"
+
+#: ..\..\..\admin\_users_form.php:50
+msgid "first user"
+msgstr "最初のユーザ"
+
+#: ..\..\..\admin\_users_form.php:51
+msgid "previous user"
+msgstr "前のユーザ"
+
+#: ..\..\..\admin\_users_form.php:52
+msgid "next user"
+msgstr "次のユーザ"
+
+#: ..\..\..\admin\_users_form.php:53
+msgid "last user"
+msgstr "最後のユーザ"
+
+#: ..\..\..\admin\_users_form.php:56
+msgid "Close user profile"
+msgstr "ユーザ プロフィールを閉じる"
+
+#: ..\..\..\admin\_users_form.php:63
+msgid "Create new user profile"
+msgstr "新規ユーザ プロフィールを作成する"
+
+#: ..\..\..\admin\_users_form.php:67
+msgid "Profile for:"
+msgstr "プロフィール:"
+
+#: ..\..\..\admin\_users_form.php:85
+#: ..\..\..\admin\_users_form.php:99
+#: ..\..\..\admin\_users_form.php:114
+#: ..\..\..\skins\_profile.php:65
+msgid "Login"
+msgstr "ログイン"
+
+#: ..\..\..\admin\_users_form.php:86
+#: ..\..\..\admin\_users_form.php:100
+#: ..\..\..\admin\_users_form.php:102
+#: ..\..\..\admin\_users_form.php:103
+#: ..\..\..\admin\_users_form.php:115
+#: ..\..\..\skins\_profile.php:54
+#: ..\..\..\skins\_profile.php:66
+#: ..\..\..\skins\_profile.php:68
+#: ..\..\..\skins\_profile.php:69
+#: ..\..\..\skins\basic\_profile.php:55
+msgid "First name"
+msgstr "名"
+
+#: ..\..\..\admin\_users_form.php:87
+#: ..\..\..\admin\_users_form.php:101
+#: ..\..\..\admin\_users_form.php:102
+#: ..\..\..\admin\_users_form.php:103
+#: ..\..\..\admin\_users_form.php:116
+#: ..\..\..\skins\_profile.php:55
+#: ..\..\..\skins\_profile.php:67
+#: ..\..\..\skins\_profile.php:68
+#: ..\..\..\skins\_profile.php:69
+#: ..\..\..\skins\basic\_profile.php:56
+msgid "Last name"
+msgstr "姓"
+
+#: ..\..\..\admin\_users_form.php:88
+#: ..\..\..\admin\_users_form.php:98
+#: ..\..\..\admin\_users_form.php:117
+#: ..\..\..\admin\_users_list.php:19
+#: ..\..\..\skins\_profile.php:56
+#: ..\..\..\skins\_profile.php:64
+#: ..\..\..\skins\basic\_profile.php:57
+msgid "Nickname"
+msgstr "ニックネーム"
+
+#: ..\..\..\admin\_users_form.php:93
+#: ..\..\..\admin\_users_form.php:118
+#: ..\..\..\skins\_profile.php:60
+#: ..\..\..\skins\basic\_profile.php:61
+msgid "Identity shown"
+msgstr "表示する名前"
+
+#: ..\..\..\admin\_users_form.php:109
+msgid "Preferred locale"
+msgstr "優先する言語・地域"
+
+#: ..\..\..\admin\_users_form.php:109
+#: ..\..\..\admin\_users_form.php:119
+msgid "Preferred locale for admin interface, notifications, etc."
+msgstr "管理インターフェースや通知などの、希望する言語・地域設定"
+
+#: ..\..\..\admin\_users_form.php:122
+msgid "Send an email"
+msgstr "メールを送る"
+
+#: ..\..\..\admin\_users_form.php:135
+msgid "Visit the site"
+msgstr "サイトを訪問する"
+
+#: ..\..\..\admin\_users_form.php:145
+msgid "Search on ICQ.com"
+msgstr "ICQ.com で検索"
+
+#: ..\..\..\admin\_users_form.php:149
+#: ..\..\..\admin\_users_form.php:151
+#: ..\..\..\skins\_profile.php:78
+#: ..\..\..\skins\basic\_profile.php:79
+msgid "ICQ"
+msgstr "ICQ"
+
+#: ..\..\..\admin\_users_form.php:155
+msgid "Instant Message to user"
+msgstr "ユーザへのインスタントメッセージ"
+
+#: ..\..\..\admin\_users_form.php:160
+#: ..\..\..\admin\_users_form.php:172
+msgid "AIM"
+msgstr "AIM"
+
+#: ..\..\..\admin\_users_form.php:161
+#: ..\..\..\admin\_users_form.php:173
+msgid "MSN IM"
+msgstr "MSN IM"
+
+#: ..\..\..\admin\_users_form.php:162
+#: ..\..\..\admin\_users_form.php:174
+msgid "YahooIM"
+msgstr "YahooIM"
+
+#: ..\..\..\admin\_users_form.php:164
+#: ..\..\..\admin\_users_form.php:175
+#: ..\..\..\skins\_profile.php:83
+#: ..\..\..\skins\basic\_profile.php:84
+msgid "Notifications"
+msgstr "通知"
+
+#: ..\..\..\admin\_users_form.php:164
+#: ..\..\..\skins\_profile.php:83
+#: ..\..\..\skins\basic\_profile.php:84
+msgid "Check this to receive notification whenever one of your posts receives comments, trackbacks, etc."
+msgstr "これにチェックをつけると、あなたの投稿にコメントやトラックバックなどが届くたびに通知を受け取ることができます。"
+
+#: ..\..\..\admin\_users_form.php:166
+#: ..\..\..\skins\_profile.php:87
+#: ..\..\..\skins\basic\_profile.php:88
+msgid "New password"
+msgstr "新しいパスワード"
+
+#: ..\..\..\admin\_users_form.php:166
+msgid "Leave empty if you don't want to change the password."
+msgstr "パスワードを変更したくない場合は、空のままにしておいてください。"
+
+#: ..\..\..\admin\_users_form.php:167
+#: ..\..\..\skins\_profile.php:92
+#: ..\..\..\skins\basic\_profile.php:93
+msgid "Confirm new password"
+msgstr "新しいパスワードを確認"
+
+#: ..\..\..\admin\_users_form.php:175
+msgid "yes"
+msgstr "はい"
+
+#: ..\..\..\admin\_users_form.php:175
+msgid "no"
+msgstr "いいえ"
+
+#: ..\..\..\admin\_users_form.php:181
+msgid "User rights"
+msgstr "ユーザ権限"
+
+#: ..\..\..\admin\_users_form.php:221
+msgid "User information"
+msgstr "ユーザ情報"
+
+#: ..\..\..\admin\_users_form.php:223
+#: ..\..\..\admin\_users_groupform.php:64
+#: ..\..\..\admin\_users_list.php:17
+#: ..\..\..\skins\_profile.php:38
+#: ..\..\..\skins\basic\_profile.php:39
+msgid "ID"
+msgstr "ID"
+
+#: ..\..\..\admin\_users_form.php:224
+#: ..\..\..\skins\_profile.php:49
+#: ..\..\..\skins\basic\_profile.php:50
+#: ..\..\..\skins\custom\_main.php:279
+#: ..\..\..\skins\custom\_main.php:284
+#: ..\..\..\skins\custom\_main.php:289
+#: ..\..\..\skins\custom\_main.php:294
+msgid "Posts"
+msgstr "投稿"
+
+#: ..\..\..\admin\_users_form.php:225
+msgid "Created on"
+msgstr "作成日時"
+
+#: ..\..\..\admin\_users_form.php:226
+msgid "From IP"
+msgstr "作成IP"
+
+#: ..\..\..\admin\_users_form.php:227
+msgid "From Domain"
+msgstr "作成ドメイン"
+
+#: ..\..\..\admin\_users_form.php:228
+msgid "With Browser"
+msgstr "使用ブラウザ"
+
+#: ..\..\..\admin\_users_groupform.php:48
+msgid "first group"
+msgstr "最初のグループ"
+
+#: ..\..\..\admin\_users_groupform.php:49
+msgid "previous group"
+msgstr "前のグループ"
+
+#: ..\..\..\admin\_users_groupform.php:50
+msgid "next group"
+msgstr "次のグループ"
+
+#: ..\..\..\admin\_users_groupform.php:51
+msgid "last group"
+msgstr "最後のグループ"
+
+#: ..\..\..\admin\_users_groupform.php:55
+msgid "Close group profile"
+msgstr "グループ プロフィールを閉じる"
+
+#: ..\..\..\admin\_users_groupform.php:59
+msgid "Creating new group"
+msgstr "新しいグループの作成"
+
+#: ..\..\..\admin\_users_groupform.php:63
+msgid "Editing group:"
+msgstr "グループ編集:"
+
+#: ..\..\..\admin\_users_groupform.php:63
+msgid "Viewing group:"
+msgstr "グループ閲覧:"
+
+#: ..\..\..\admin\_users_groupform.php:81
+msgid "Permissons for members of this group"
+msgstr "このグループのメンバーの許可"
+
+#: ..\..\..\admin\_users_groupform.php:85
+msgid "View all"
+msgstr "すべて表示"
+
+#: ..\..\..\admin\_users_groupform.php:86
+#: ..\..\..\admin\_users_groupform.php:91
+#: ..\..\..\admin\_users_groupform.php:96
+#: ..\..\..\admin\_users_groupform.php:101
+#: ..\..\..\admin\_users_groupform.php:110
+#: ..\..\..\admin\_users_groupform.php:115
+msgid "Full Access"
+msgstr "フル アクセス"
+
+#: ..\..\..\admin\_users_groupform.php:89
+#: ..\..\..\admin\_users_groupform.php:94
+#: ..\..\..\admin\_users_groupform.php:99
+#: ..\..\..\admin\_users_groupform.php:108
+msgid "No Access"
+msgstr "アクセス不可"
+
+#: ..\..\..\admin\_users_groupform.php:90
+#: ..\..\..\admin\_users_groupform.php:95
+#: ..\..\..\admin\_users_groupform.php:100
+#: ..\..\..\admin\_users_groupform.php:109
+msgid "View only"
+msgstr "閲覧のみ"
+
+#: ..\..\..\admin\_users_groupform.php:92
+#: ..\..\..\b2evocore\_functions_hitlogs.php:528
+msgid "Statistics"
+msgstr "統計"
+
+#: ..\..\..\admin\_users_groupform.php:102
+msgid "Global options"
+msgstr "全体オプション"
+
+#: ..\..\..\admin\_users_groupform.php:103
+msgid "Check to allow template editing."
+msgstr "テンプレートの編集を許可する場合はチェックをつける。"
+
+#: ..\..\..\admin\_users_groupform.php:111
+#: ..\..\..\admin\_users_groupform.php:115
+msgid "User/Group Management"
+msgstr "ユーザ/グループ管理"
+
+#: ..\..\..\admin\_users_list.php:14
+msgid "Groups &amp; Users"
+msgstr "グループ &amp; ユーザ"
+
+#: ..\..\..\admin\_users_list.php:62
+msgid "default group for new users"
+msgstr "新規ユーザのデフォルト グループ"
+
+#: ..\..\..\admin\_users_list.php:73
+msgid "Copy group"
+msgstr "グループのコピー"
+
+#: ..\..\..\admin\_users_list.php:79
+msgid "Delete group"
+msgstr "グループの削除"
+
+#: ..\..\..\admin\_users_list.php:132
+msgid "decrease user level"
+msgstr "ユーザレベル減少"
+
+#: ..\..\..\admin\_users_list.php:137
+msgid "increase user level"
+msgstr "ユーザレベル増加"
+
+#: ..\..\..\admin\_users_list.php:151
+msgid "Delete user"
+msgstr "ユーザの削除"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\admin\_users_list.php:151
+msgid ""
+"Are you sure you want to delete this user?\\n"
+"Warning: all his posts will be deleted too!"
+msgstr ""
+"このユーザを削除していいですか？\\n"
+"警告: このユーザによるすべての投稿も削除されます!"
+
+#: ..\..\..\admin\_users_list.php:168
+msgid "New user..."
+msgstr "新規ユーザ..."
+
+#: ..\..\..\admin\_users_list.php:170
+msgid "New group..."
+msgstr "新規グループ..."
+
+#: ..\..\..\b2evocore\_blog_main.php:204
+#, php-format
+msgid "The default skin [%s] set for blog [%s] does not exist. It must be properly set in the <a %s>blog properties</a> or properly overriden in a stub file. Contact the <a %s>webmaster</a>..."
+msgstr "デフォルトのスキン [%s] (blog [%s] 用に設定) が存在しません。これは、適切に <a %s>ブログ プロパティ</a> に設定されているか、スタブ ファイルで適切に優先設定されていなければなりません。<a %s>ウェブマスター</a> に連絡してください..."
+
+#: ..\..\..\b2evocore\_class_blog.php:391
+#: ..\..\..\b2evocore\_class_blog.php:405
+#, php-format
+msgid "ERROR! Could not delete! You will have to delete the file [%s] by hand."
+msgstr "エラー! 削除できません! ファイル [%s] を手作業で削除する必要があります。"
+
+#: ..\..\..\b2evocore\_class_calendar.php:192
+#: ..\..\..\b2evocore\_class_calendar.php:197
+#, php-format
+msgid "%d posts"
+msgstr "%d 個の投稿"
+
+#: ..\..\..\b2evocore\_class_calendar.php:193
+#: ..\..\..\b2evocore\_class_calendar.php:198
+msgid "1 post"
+msgstr "1 個の投稿"
+
+#: ..\..\..\b2evocore\_class_calendar.php:301
+msgid "previous month"
+msgstr "前月"
+
+#: ..\..\..\b2evocore\_class_calendar.php:305
+msgid "next month"
+msgstr "翌月"
+
+#: ..\..\..\b2evocore\_class_calendar.php:332
+msgid "previous year"
+msgstr "前年"
+
+#: ..\..\..\b2evocore\_class_calendar.php:335
+msgid "next year"
+msgstr "翌年"
+
+#: ..\..\..\b2evocore\_class_calendar.php:364
+msgid "go to month's archive"
+msgstr "月のアーカイブに移動"
+
+#: ..\..\..\b2evocore\_class_comment.php:135
+msgid "Member"
+msgstr "メンバー"
+
+#: ..\..\..\b2evocore\_class_comment.php:143
+msgid "Visitor"
+msgstr "訪問者"
+
+#: ..\..\..\b2evocore\_class_comment.php:263
+msgid "Edit this comment"
+msgstr "このコメントを編集"
+
+#: ..\..\..\b2evocore\_class_comment.php:299
+#: ..\..\..\b2evocore\_class_item.php:825
+msgid "Delete"
+msgstr "削除"
+
+#: ..\..\..\b2evocore\_class_comment.php:300
+msgid "Delete this comment"
+msgstr "このコメントを削除"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\b2evocore\_class_comment.php:310
+#: ..\..\..\b2evocore\_class_comment.php:319
+msgid ""
+"You are about to delete this comment!\\n"
+"\\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+"このコメントを削除しようとしています!\\n"
+"中止する場合は \\'キャンセル\\' を。削除の場合は \\'OK\\' を。"
+
+#: ..\..\..\b2evocore\_class_commentlist.php:143
+#: ..\..\..\skins\_lastcomments.php:25
+msgid "No comment yet..."
+msgstr "まだコメントはありません..."
+
+#: ..\..\..\b2evocore\_class_dataobjectlist.php:119
+msgid "Sorry, there is nothing to display..."
+msgstr "申し訳ありません。表示する内容がありません..."
+
+#: ..\..\..\b2evocore\_class_db.php:93
+#, php-format
+msgid "Error selecting database [%s]!"
+msgstr "データベース [%s] 選択でエラー!"
+
+#: ..\..\..\b2evocore\_class_db.php:150
+msgid "MySQL error!"
+msgstr "MySQL エラー!"
+
+#: ..\..\..\b2evocore\_class_group.php:70
+msgid "New group"
+msgstr "新規グループ"
+
+#: ..\..\..\b2evocore\_class_htmlchecker.php:107
+msgid "Parser error: "
+msgstr "パーサー エラー: "
+
+#: ..\..\..\b2evocore\_class_htmlchecker.php:124
+msgid "Tag <code>body</code> can only be used once!"
+msgstr "タグ <code>body</code> は1度しか使えません!"
+
+#: ..\..\..\b2evocore\_class_htmlchecker.php:137
+msgid "Illegal tag"
+msgstr "不正なタグ"
+
+#: ..\..\..\b2evocore\_class_htmlchecker.php:144
+#, php-format
+msgid "Tag %s must occur inside another tag"
+msgstr "タグ %s は別のタグの内側に現れる必要があります"
+
+#: ..\..\..\b2evocore\_class_htmlchecker.php:146
+#, php-format
+msgid "Tag %s is not allowed within tag %s"
+msgstr "タグ %s は タグ %s の中では許されません"
+
+#: ..\..\..\b2evocore\_class_htmlchecker.php:154
+#, php-format
+msgid "Tag %s may not have attribute %s"
+msgstr "タグ %s は 属性 %s を持てません"
+
+#: ..\..\..\b2evocore\_class_htmlchecker.php:162
+msgid "Found invalid URL: "
+msgstr "不正な URL を検知: "
+
+#: ..\..\..\b2evocore\_class_htmlchecker.php:185
+#, php-format
+msgid "Tag %s may not contain raw character data"
+msgstr "タグ %s は生の文字データを含んではなりません"
+
+#. TRANS: When the categories for a specific post are displayed, the user can click
+#. on these cats to browse them, this is the default href title displayed there
+#: ..\..\..\b2evocore\_class_item.php:300
+#: ..\..\..\b2evocore\_functions_cats.php:637
+msgid "Browse category"
+msgstr "カテゴリを見る"
+
+#: ..\..\..\b2evocore\_class_item.php:403
+msgid "Comments are closed for this post."
+msgstr "この投稿へのコメントは締め切られています。"
+
+#: ..\..\..\b2evocore\_class_item.php:415
+msgid "This post is not published. You cannot leave comments."
+msgstr "この投稿は発行されていません。コメントを残すことはできません。"
+
+#. TRANS: this is the default text for the extended post "more" link
+#: ..\..\..\b2evocore\_class_item.php:465
+#: ..\..\..\b2evocore\_functions_bposts.php:732
+msgid "Read more!"
+msgstr "続きを読む!"
+
+#. TRANS: this is the default text displayed once the more link has been activated
+#: ..\..\..\b2evocore\_class_item.php:470
+#: ..\..\..\b2evocore\_functions_bposts.php:737
+msgid "More:"
+msgstr "続き:"
+
+#: ..\..\..\b2evocore\_class_item.php:712
+msgid "Display feedback / Leave a comment"
+msgstr "フィードバックを表示 / コメントを残す"
+
+#: ..\..\..\b2evocore\_class_item.php:713
+msgid "Send feedback"
+msgstr "フィードバックを送る"
+
+#: ..\..\..\b2evocore\_class_item.php:714
+msgid "1 feedback"
+msgstr "1 フィードバック"
+
+#: ..\..\..\b2evocore\_class_item.php:715
+#, php-format
+msgid "%d feedbacks"
+msgstr "%d フィードバック"
+
+#: ..\..\..\b2evocore\_class_item.php:728
+msgid "Display comments / Leave a comment"
+msgstr "コメントを表示 / コメントを残す"
+
+#: ..\..\..\b2evocore\_class_item.php:741
+msgid "Display trackbacks / Get trackback address for this post"
+msgstr "トラックバックを表示 / この投稿へのトラックバックアドレスを得る"
+
+#: ..\..\..\b2evocore\_class_item.php:742
+#: ..\..\..\b2evocore\_functions_trackback.php:172
+msgid "Trackback (0)"
+msgstr "トラックバック (0)"
+
+#: ..\..\..\b2evocore\_class_item.php:743
+#: ..\..\..\b2evocore\_functions_trackback.php:173
+msgid "Trackback (1)"
+msgstr "トラックバック (1)"
+
+#: ..\..\..\b2evocore\_class_item.php:744
+#: ..\..\..\b2evocore\_functions_trackback.php:174
+#, php-format
+msgid "Trackbacks (%d)"
+msgstr "トラックバック (%d)"
+
+#: ..\..\..\b2evocore\_class_item.php:754
+msgid "Display pingbacks"
+msgstr "ピンバックを表示"
+
+#: ..\..\..\b2evocore\_class_item.php:755
+#: ..\..\..\b2evocore\_functions_pingback.php:267
+msgid "Pingback (0)"
+msgstr "ピンバック (0)"
+
+#: ..\..\..\b2evocore\_class_item.php:756
+#: ..\..\..\b2evocore\_functions_pingback.php:268
+msgid "Pingback (1)"
+msgstr "ピンバック (1)"
+
+#: ..\..\..\b2evocore\_class_item.php:757
+#: ..\..\..\b2evocore\_functions_pingback.php:269
+#, php-format
+msgid "Pingbacks (%d)"
+msgstr "ピンバック (%d)"
+
+#: ..\..\..\b2evocore\_class_item.php:826
+msgid "Delete this post"
+msgstr "この投稿を削除"
+
+#. TRANS: Warning this is a javascript string
+#: ..\..\..\b2evocore\_class_item.php:836
+#: ..\..\..\b2evocore\_class_item.php:845
+msgid ""
+"You are about to delete this post!\\n"
+"\\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+"この投稿を削除しようとしています!\\n"
+"中止する場合は \\'キャンセル\\' を。削除の場合は \\'OK\\' を。"
+
+#: ..\..\..\b2evocore\_class_item.php:880
+msgid "Edit this post"
+msgstr "この投稿を編集"
+
+#: ..\..\..\b2evocore\_class_item.php:919
+msgid "Publish NOW!"
+msgstr "いま発行する!"
+
+#: ..\..\..\b2evocore\_class_item.php:920
+msgid "Publish now using current date and time."
+msgstr "現在の日時を用いて、いま発行する"
+
+#: ..\..\..\b2evocore\_class_itemlist.php:563
+msgid "Invalid post, please correct these errors:"
+msgstr "不正な投稿です。以下のエラーを訂正してください:"
+
+#: ..\..\..\b2evocore\_class_itemlist.php:862
+msgid "Sorry, there is no post to display..."
+msgstr "申し訳ありません。表示する投稿がありません..."
+
+#: ..\..\..\b2evocore\_class_pop3.php:104
+#: ..\..\..\b2evocore\_class_pop3.php:113
+#: ..\..\..\b2evocore\_class_pop3.php:125
+msgid "POP3 connect:"
+msgstr "POP3 接続:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:104
+msgid "No server specified"
+msgstr "サーバが指定されていません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:133
+msgid "POP3: premature NOOP OK, NOT an RFC 1939 Compliant server"
+msgstr "POP3: 早過ぎるNOOP OK、RFC1939に適合するサーバではありません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:145
+msgid "POP3 noop:"
+msgstr "POP3 noop:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:145
+#: ..\..\..\b2evocore\_class_pop3.php:213
+#: ..\..\..\b2evocore\_class_pop3.php:262
+#: ..\..\..\b2evocore\_class_pop3.php:287
+#: ..\..\..\b2evocore\_class_pop3.php:329
+#: ..\..\..\b2evocore\_class_pop3.php:403
+#: ..\..\..\b2evocore\_class_pop3.php:442
+#: ..\..\..\b2evocore\_class_pop3.php:472
+#: ..\..\..\b2evocore\_class_pop3.php:506
+#: ..\..\..\b2evocore\_class_pop3.php:569
+#: ..\..\..\b2evocore\_class_pop3.php:637
+msgid "No connection to server"
+msgstr "サーバへの接続がありません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:160
+#: ..\..\..\b2evocore\_class_pop3.php:163
+#: ..\..\..\b2evocore\_class_pop3.php:168
+msgid "POP3 user:"
+msgstr "POP3 user:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:160
+#: ..\..\..\b2evocore\_class_pop3.php:219
+msgid "No login ID submitted"
+msgstr "ログイン ID が送られていません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:163
+#: ..\..\..\b2evocore\_class_pop3.php:183
+msgid "connection not established"
+msgstr "接続が確立していません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:180
+#: ..\..\..\b2evocore\_class_pop3.php:183
+#: ..\..\..\b2evocore\_class_pop3.php:188
+#: ..\..\..\b2evocore\_class_pop3.php:197
+msgid "POP3 pass:"
+msgstr "POP3 pass:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:180
+#: ..\..\..\b2evocore\_class_pop3.php:222
+msgid "No password submitted"
+msgstr "パスワードが送られていません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:188
+msgid "authentication failed "
+msgstr "認証が失敗しました "
+
+#: ..\..\..\b2evocore\_class_pop3.php:197
+#: ..\..\..\b2evocore\_class_pop3.php:246
+msgid "NOOP failed. Server not RFC 1939 compliant"
+msgstr "NOOP が失敗しました。サーバは RFC 1939 適合でありません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:213
+#: ..\..\..\b2evocore\_class_pop3.php:219
+#: ..\..\..\b2evocore\_class_pop3.php:222
+#: ..\..\..\b2evocore\_class_pop3.php:227
+#: ..\..\..\b2evocore\_class_pop3.php:237
+#: ..\..\..\b2evocore\_class_pop3.php:246
+msgid "POP3 apop:"
+msgstr "POP3 apop:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:227
+msgid "No server banner"
+msgstr "サーバーのバナーがありません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:227
+#: ..\..\..\b2evocore\_class_pop3.php:237
+msgid "abort"
+msgstr "中断"
+
+#: ..\..\..\b2evocore\_class_pop3.php:237
+msgid "apop authentication failed"
+msgstr "apop 認証が失敗しました"
+
+#: ..\..\..\b2evocore\_class_pop3.php:262
+msgid "POP3 login:"
+msgstr "POP3 login:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:287
+#: ..\..\..\b2evocore\_class_pop3.php:303
+msgid "POP3 top:"
+msgstr "POP3 top:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:329
+#: ..\..\..\b2evocore\_class_pop3.php:357
+#: ..\..\..\b2evocore\_class_pop3.php:368
+#: ..\..\..\b2evocore\_class_pop3.php:380
+msgid "POP3 pop_list:"
+msgstr "POP3 pop_list:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:380
+msgid "Premature end of list"
+msgstr "リストの中途で途切れました"
+
+#: ..\..\..\b2evocore\_class_pop3.php:403
+#: ..\..\..\b2evocore\_class_pop3.php:416
+msgid "POP3 get:"
+msgstr "POP3 get:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:442
+#: ..\..\..\b2evocore\_class_pop3.php:449
+msgid "POP3 last:"
+msgstr "POP3 last:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:472
+#: ..\..\..\b2evocore\_class_pop3.php:482
+msgid "POP3 reset:"
+msgstr "POP3 reset:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:506
+#: ..\..\..\b2evocore\_class_pop3.php:512
+msgid "POP3 send_cmd:"
+msgstr "POP3 send_cmd:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:512
+msgid "Empty command string"
+msgstr "空のコマンド文字列"
+
+#: ..\..\..\b2evocore\_class_pop3.php:532
+msgid "POP3 quit:"
+msgstr "POP3 quit:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:532
+msgid "connection does not exist"
+msgstr "接続が存在しません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:569
+#: ..\..\..\b2evocore\_class_pop3.php:581
+#: ..\..\..\b2evocore\_class_pop3.php:604
+msgid "POP3 uidl:"
+msgstr "POP3 uidl:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:637
+#: ..\..\..\b2evocore\_class_pop3.php:642
+#: ..\..\..\b2evocore\_class_pop3.php:648
+msgid "POP3 delete:"
+msgstr "POP3 delete:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:642
+msgid "No msg number submitted"
+msgstr "メッセージ番号が送られていません"
+
+#: ..\..\..\b2evocore\_class_pop3.php:648
+msgid "Command failed"
+msgstr "コマンドが失敗しました"
+
+#: ..\..\..\b2evocore\_class_user.php:68
+msgid "New user"
+msgstr "新規ユーザ"
+
+#: ..\..\..\b2evocore\_class_user.php:262
+msgid "Permission denied!"
+msgstr "権限がありません!"
+
+#: ..\..\..\b2evocore\_functions.php:47
+msgid "Oops, MySQL error!"
+msgstr "あれ、MySQL エラー!"
+
+#: ..\..\..\b2evocore\_functions.php:479
+msgid "go back"
+msgstr "戻る"
+
+#: ..\..\..\b2evocore\_functions.php:511
+msgid "Redirecting you to:"
+msgstr "次のところへリダイレクト:"
+
+#: ..\..\..\b2evocore\_functions.php:513
+#, php-format
+msgid "If nothing happens, click <a %s>here</a>."
+msgstr "もし何もおきなければ、<a %s>ここ</a> をクリック。"
+
+#: ..\..\..\b2evocore\_functions.php:592
+msgid "No response!"
+msgstr "応答がありません!"
+
+#: ..\..\..\b2evocore\_functions.php:597
+msgid "Remote error"
+msgstr "Remote error"
+
+#: ..\..\..\b2evocore\_functions.php:612
+#: ..\..\..\b2evocore\_functions.php:617
+msgid "Response"
+msgstr "応答"
+
+#: ..\..\..\b2evocore\_functions.php:854
+#, php-format
+msgid "Parameter %s is required!"
+msgstr "パラメータ %s が必要です"
+
+#: ..\..\..\b2evocore\_functions.php:1065
+msgid "Invalid URL"
+msgstr "不正な URL"
+
+#: ..\..\..\b2evocore\_functions.php:1071
+msgid "URI scheme not allowed"
+msgstr "URIスキームが許可されません"
+
+#: ..\..\..\b2evocore\_functions.php:1078
+msgid "URL not allowed"
+msgstr "URLが許可されません"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:176
+msgid "Reporting abuse to b2evolution.net..."
+msgstr "b2evolution.net へ迷惑行為を報告しています..."
+
+#: ..\..\..\b2evocore\_functions_antispam.php:206
+#: ..\..\..\b2evocore\_functions_pings.php:56
+#: ..\..\..\b2evocore\_functions_pings.php:92
+#: ..\..\..\b2evocore\_functions_pings.php:169
+#: ..\..\..\b2evocore\_functions_pings.php:210
+msgid "Aborted (Running on localhost)."
+msgstr "中断しました (localhost で動作)。"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:224
+msgid "Requesting abuse list from b2evolution.net..."
+msgstr "b2evolution.net に迷惑行為リストを要求しています..."
+
+#: ..\..\..\b2evocore\_functions_antispam.php:234
+msgid "Latest update timestamp"
+msgstr "最新の更新タイムスタンプ"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:259
+msgid "Incomplete reponse."
+msgstr "不備のある応答。"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:267
+msgid "No new blacklisted strings are available."
+msgstr "新しくブラックリストに登録された文字列はありません。"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:271
+msgid "Adding strings to local blacklist"
+msgstr "ローカルのブラックリストに文字列を追加"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:274
+msgid "Adding:"
+msgstr "追加:"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:277
+#: ..\..\..\htsrv\getmail.php:295
+msgid "OK."
+msgstr "OK."
+
+#: ..\..\..\b2evocore\_functions_antispam.php:281
+msgid "Not necessary! (Already handled)"
+msgstr "不要です! (すでに取り扱い)"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:289
+msgid "New latest update timestamp"
+msgstr "新しい最新の更新タイムスタンプ"
+
+#: ..\..\..\b2evocore\_functions_antispam.php:298
+msgid "Invalid reponse."
+msgstr "不正な反応。"
+
+#: ..\..\..\b2evocore\_functions_blogs.php:199
+#: ..\..\..\b2evocore\_functions_blogs.php:222
+msgid "Requested blog does not exist!"
+msgstr "要求されたブログが存在しません!"
+
+#: ..\..\..\b2evocore\_functions_bposts.php:661
+msgid "Post details"
+msgstr "投稿の詳細"
+
+#: ..\..\..\b2evocore\_functions_bposts.php:666
+#: ..\..\..\b2evocore\_functions_bposts.php:702
+msgid "PREVIEW"
+msgstr "プレビュー"
+
+#: ..\..\..\b2evocore\_functions_bposts.php:828
+msgid "Next page"
+msgstr "次のページ"
+
+#: ..\..\..\b2evocore\_functions_bposts.php:829
+msgid "Previous page"
+msgstr "前のページ"
+
+#: ..\..\..\b2evocore\_functions_bposts.php:874
+msgid "Previous post"
+msgstr "前の投稿"
+
+#: ..\..\..\b2evocore\_functions_bposts.php:931
+msgid "Next post"
+msgstr "次の投稿"
+
+#: ..\..\..\b2evocore\_functions_bposts.php:1043
+msgid "Next Page"
+msgstr "次のページ"
+
+#: ..\..\..\b2evocore\_functions_bposts.php:1071
+msgid "Previous Page"
+msgstr "前のページ"
+
+#: ..\..\..\b2evocore\_functions_cats.php:88
+msgid "Cannot delete if there are sub-categories!"
+msgstr "サブカテゴリがあると削除できません"
+
+#: ..\..\..\b2evocore\_functions_cats.php:120
+msgid "Cannot delete last category if there are posts inside!"
+msgstr "投稿があると最後のカテゴリは削除できません"
+
+#: ..\..\..\b2evocore\_functions_cats.php:215
+#, php-format
+msgid "Requested category %s does not exist!"
+msgstr "要求されたカテゴリ %s は存在しません"
+
+#: ..\..\..\b2evocore\_functions_cats.php:568
+msgid "Category"
+msgstr "カテゴリ"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:58
+#: ..\..\..\b2evocore\_vars.php:134
+#: ..\..\..\b2evocore\_vars.php:135
+msgid "bad char in User Agent"
+msgstr "User Agent に不正文字"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:86
+#: ..\..\..\b2evocore\_functions_hitlogs.php:105
+#: ..\..\..\b2evocore\_functions_hitlogs.php:116
+#: ..\..\..\b2evocore\_functions_hitlogs.php:128
+msgid "referer ignored"
+msgstr "リファラを無視"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:86
+msgid "BlackList"
+msgstr "ブラックリスト"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:105
+msgid "robot"
+msgstr "ロボット"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:116
+msgid "invalid"
+msgstr "無効"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:128
+msgid "search engine"
+msgstr "検索エンジン"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:136
+msgid "loading referering page"
+msgstr "参照しているページをロードします"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:157
+msgid "found current url in page"
+msgstr "ページ中に今のURLをみつけました"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:450
+msgid "not a query - no params!"
+msgstr "検索ではありません - パラメータがありません!"
+
+#: ..\..\..\b2evocore\_functions_hitlogs.php:475
+msgid "no query string found"
+msgstr "検索文字列がみつかりません"
+
+#: ..\..\..\b2evocore\_functions_locale.php:354
+#: ..\..\..\install\index.php:85
+msgid "name"
+msgstr "名前"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:36
+msgid "Sending pingbacks..."
+msgstr "ピンバックを送信中..."
+
+#: ..\..\..\b2evocore\_functions_pingback.php:41
+msgid "No pingback to be done."
+msgstr "送信すべきピンバックがありません。"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:47
+msgid "BEGIN"
+msgstr "BEGIN"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:109
+#: ..\..\..\b2evocore\_functions_pingback.php:110
+msgid "Processing:"
+msgstr "処理中:"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:114
+#: ..\..\..\b2evocore\_functions_pingback.php:115
+msgid "Couldn't find a hostname for:"
+msgstr "ホスト名がみつかりませんでした:"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:129
+msgid "Connect to server at:"
+msgstr "サーバに接続:"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:133
+#: ..\..\..\b2evocore\_functions_pingback.php:134
+msgid "Couldn't open a connection to:"
+msgstr "接続を開くことができませんでした:"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:145
+msgid "Start receiving headers and content"
+msgstr "ヘッダとコンテンツの受信を開始"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:179
+#: ..\..\..\b2evocore\_functions_pingback.php:180
+msgid "Pingback server found from X-Pingback header:"
+msgstr "ピンバックサーバが X-Pingback ヘッダからみつかりました:"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:193
+#: ..\..\..\b2evocore\_functions_pingback.php:194
+msgid "Pingback server found from Pingback <link /> tag:"
+msgstr "ピンバックサーバが <link /> タグからみつかりました:"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:202
+#: ..\..\..\b2evocore\_functions_pingback.php:203
+msgid "Pingback server not found in headers and content"
+msgstr "ピンバックサーバがヘッダからもコンテンツからもみつかりませんでした"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:208
+#: ..\..\..\b2evocore\_functions_pingback.php:209
+msgid "Pingback server URL is empty (may be an internal PHP fgets error)"
+msgstr "ピンバックサーバURLが空です(PHPの fgets について内部エラーかもしれません)"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:214
+msgid "Pingback server data"
+msgstr "ピンバックサーバデータ"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:224
+#: ..\..\..\b2evocore\_functions_pingback.php:225
+msgid "Page Linked To:"
+msgstr "ページのリンク先:"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:226
+#: ..\..\..\b2evocore\_functions_pingback.php:227
+msgid "Page Linked From:"
+msgstr "ページのリンク元:"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:232
+#, php-format
+msgid "Pinging %s..."
+msgstr "%s へピン..."
+
+#: ..\..\..\b2evocore\_functions_pingback.php:242
+msgid "END"
+msgstr "END"
+
+#: ..\..\..\b2evocore\_functions_pingback.php:244
+msgid "Pingbacks done."
+msgstr "ピンバック完了。"
+
+#: ..\..\..\b2evocore\_functions_pings.php:32
+msgid "Pinging b2evolution.net..."
+msgstr "b2evolution.net へ ping中..."
+
+#: ..\..\..\b2evocore\_functions_pings.php:77
+msgid "Pinging Weblogs.com..."
+msgstr "Weblogs.com へ ping中..."
+
+#: ..\..\..\b2evocore\_functions_pings.php:139
+msgid "Pinging Blo.gs..."
+msgstr "Blo.gs へ ping中..."
+
+#: ..\..\..\b2evocore\_functions_pings.php:194
+msgid "Pinging technorati.com..."
+msgstr "technorati.com へ ping中..."
+
+#: ..\..\..\b2evocore\_functions_template.php:51
+msgid "Archives for"
+msgstr "アーカイブ"
+
+#: ..\..\..\b2evocore\_functions_template.php:100
+msgid "Archive Directory"
+msgstr "アーカイブ ディレクトリ"
+
+#: ..\..\..\b2evocore\_functions_trackback.php:24
+msgid "Sending trackbacks..."
+msgstr "トラックバックを送信中..."
+
+#: ..\..\..\b2evocore\_functions_trackback.php:27
+msgid "No trackback to be sent."
+msgstr "送信すべきトラックバックはありません"
+
+#: ..\..\..\b2evocore\_functions_trackback.php:32
+msgid "Excerpt to be sent:"
+msgstr "送信する抜粋"
+
+#: ..\..\..\b2evocore\_functions_trackback.php:40
+msgid "Trackbacks done."
+msgstr "トラックバック完了。"
+
+#: ..\..\..\b2evocore\_functions_trackback.php:59
+msgid "Sending trackback to:"
+msgstr "トラックバックを次のところに送ります:"
+
+#: ..\..\..\b2evocore\_functions_trackback.php:117
+msgid "Response:"
+msgstr "応答:"
+
+#: ..\..\..\b2evocore\_functions_users.php:76
+msgid "wrong login/password."
+msgstr "誤ったログイン/パスワード"
+
+#: ..\..\..\b2evocore\_functions_users.php:82
+#: ..\..\..\b2evocore\_functions_users.php:84
+#: ..\..\..\htsrv\profile_update.php:114
+#, php-format
+msgid "setcookie %s failed!"
+msgstr "setcookie %s が失敗しました!"
+
+#: ..\..\..\b2evocore\_functions_users.php:107
+msgid "login/password no longer valid."
+msgstr "ログイン/パスワード がもう有効ではありません"
+
+#: ..\..\..\b2evocore\_functions_users.php:128
+msgid "You must log in!"
+msgstr "ログインしていないとだめです!"
+
+#: ..\..\..\b2evocore\_functions_users.php:349
+msgid "Login if you have an account..."
+msgstr "アカウントを持っていればログインしてください..."
+
+#: ..\..\..\b2evocore\_functions_users.php:385
+msgid "Register..."
+msgstr "登録..."
+
+#: ..\..\..\b2evocore\_functions_users.php:386
+msgid "Register to open an account..."
+msgstr "アカウントを開設するために登録..."
+
+#: ..\..\..\b2evocore\_functions_users.php:420
+#, php-format
+msgid "Logout (%s)"
+msgstr "ログアウト (%s)"
+
+#: ..\..\..\b2evocore\_functions_users.php:421
+msgid "Logout from your account"
+msgstr "アカウントからログアウト"
+
+#: ..\..\..\b2evocore\_functions_users.php:446
+msgid "Admin"
+msgstr "管理"
+
+#: ..\..\..\b2evocore\_functions_users.php:447
+msgid "Go to the back-office"
+msgstr "back-office へ移動"
+
+#: ..\..\..\b2evocore\_functions_users.php:470
+#, php-format
+msgid "Profile (%s)"
+msgstr "プロフィール (%s)"
+
+#: ..\..\..\b2evocore\_functions_users.php:471
+msgid "Edit your profile"
+msgstr "プロフィールを編集"
+
+#: ..\..\..\b2evocore\_functions_users.php:496
+msgid "User profile"
+msgstr "ユーザ プロフィール"
+
+#: ..\..\..\b2evocore\_vars.php:149
+msgid "Sunday"
+msgstr "日曜日"
+
+#: ..\..\..\b2evocore\_vars.php:150
+msgid "Monday"
+msgstr "月曜日"
+
+#: ..\..\..\b2evocore\_vars.php:151
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: ..\..\..\b2evocore\_vars.php:152
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: ..\..\..\b2evocore\_vars.php:153
+msgid "Thursday"
+msgstr "木曜日"
+
+#: ..\..\..\b2evocore\_vars.php:154
+msgid "Friday"
+msgstr "金曜日"
+
+#: ..\..\..\b2evocore\_vars.php:155
+msgid "Saturday"
+msgstr "土曜日"
+
+#. TRANS: abbrev. for Sunday
+#: ..\..\..\b2evocore\_vars.php:159
+msgid "Sun"
+msgstr "日"
+
+#. TRANS: abbrev. for Monday
+#: ..\..\..\b2evocore\_vars.php:161
+msgid "Mon"
+msgstr "月"
+
+#. TRANS: abbrev. for Tuesday
+#: ..\..\..\b2evocore\_vars.php:163
+msgid "Tue"
+msgstr "火"
+
+#. TRANS: abbrev. for Wednesday
+#: ..\..\..\b2evocore\_vars.php:165
+msgid "Wed"
+msgstr "水"
+
+#. TRANS: abbrev. for Thursday
+#: ..\..\..\b2evocore\_vars.php:167
+msgid "Thu"
+msgstr "木"
+
+#. TRANS: abbrev. for Friday
+#: ..\..\..\b2evocore\_vars.php:169
+msgid "Fri"
+msgstr "金"
+
+#. TRANS: abbrev. for Saturday
+#: ..\..\..\b2evocore\_vars.php:171
+msgid "Sat"
+msgstr "土"
+
+#. TRANS: abbrev. for Sunday
+#: ..\..\..\b2evocore\_vars.php:175
+msgid " S "
+msgstr " 日 "
+
+#. TRANS: abbrev. for Monday
+#: ..\..\..\b2evocore\_vars.php:177
+msgid " M "
+msgstr " 月 "
+
+#. TRANS: abbrev. for Tuesday
+#: ..\..\..\b2evocore\_vars.php:179
+msgid " T "
+msgstr " 火 "
+
+#. TRANS: abbrev. for Wednesday
+#: ..\..\..\b2evocore\_vars.php:181
+msgid " W "
+msgstr " 水 "
+
+#. TRANS: abbrev. for Thursday
+#: ..\..\..\b2evocore\_vars.php:183
+msgid " T  "
+msgstr " 木 "
+
+#. TRANS: abbrev. for Friday
+#: ..\..\..\b2evocore\_vars.php:185
+msgid " F "
+msgstr " 金 "
+
+#. TRANS: abbrev. for Saturday
+#: ..\..\..\b2evocore\_vars.php:187
+msgid " S  "
+msgstr " 土 "
+
+#: ..\..\..\b2evocore\_vars.php:190
+msgid "January"
+msgstr "1月"
+
+#: ..\..\..\b2evocore\_vars.php:191
+msgid "February"
+msgstr "2月"
+
+#: ..\..\..\b2evocore\_vars.php:192
+msgid "March"
+msgstr "3月"
+
+#: ..\..\..\b2evocore\_vars.php:193
+msgid "April"
+msgstr "4月"
+
+#. TRANS: space at the end only to differentiate from short form. You don't need to keep it in the translation.
+#: ..\..\..\b2evocore\_vars.php:195
+msgid "May "
+msgstr "5月"
+
+#: ..\..\..\b2evocore\_vars.php:196
+msgid "June"
+msgstr "6月"
+
+#: ..\..\..\b2evocore\_vars.php:197
+msgid "July"
+msgstr "7月"
+
+#: ..\..\..\b2evocore\_vars.php:198
+msgid "August"
+msgstr "8月"
+
+#: ..\..\..\b2evocore\_vars.php:199
+msgid "September"
+msgstr "9月"
+
+#: ..\..\..\b2evocore\_vars.php:200
+msgid "October"
+msgstr "10月"
+
+#: ..\..\..\b2evocore\_vars.php:201
+msgid "November"
+msgstr "11月"
+
+#: ..\..\..\b2evocore\_vars.php:202
+msgid "December"
+msgstr "12月"
+
+#. TRANS: abbrev. for January
+#: ..\..\..\b2evocore\_vars.php:206
+msgid "Jan"
+msgstr "1月"
+
+#. TRANS: abbrev. for February
+#: ..\..\..\b2evocore\_vars.php:208
+msgid "Feb"
+msgstr "2月"
+
+#. TRANS: abbrev. for March
+#: ..\..\..\b2evocore\_vars.php:210
+msgid "Mar"
+msgstr "3月"
+
+#. TRANS: abbrev. for April
+#: ..\..\..\b2evocore\_vars.php:212
+msgid "Apr"
+msgstr "4月"
+
+#. TRANS: abbrev. for May
+#: ..\..\..\b2evocore\_vars.php:214
+msgid "May"
+msgstr "5月"
+
+#. TRANS: abbrev. for June
+#: ..\..\..\b2evocore\_vars.php:216
+msgid "Jun"
+msgstr "6月"
+
+#. TRANS: abbrev. for July
+#: ..\..\..\b2evocore\_vars.php:218
+msgid "Jul"
+msgstr "7月"
+
+#. TRANS: abbrev. for August
+#: ..\..\..\b2evocore\_vars.php:220
+msgid "Aug"
+msgstr "8月"
+
+#. TRANS: abbrev. for September
+#: ..\..\..\b2evocore\_vars.php:222
+msgid "Sep"
+msgstr "9月"
+
+#. TRANS: abbrev. for October
+#: ..\..\..\b2evocore\_vars.php:224
+msgid "Oct"
+msgstr "10月"
+
+#. TRANS: abbrev. for November
+#: ..\..\..\b2evocore\_vars.php:226
+msgid "Nov"
+msgstr "11月"
+
+#. TRANS: abbrev. for December
+#: ..\..\..\b2evocore\_vars.php:228
+msgid "Dec"
+msgstr "12月"
+
+#: ..\..\..\b2evocore\_vars.php:241
+msgid "Local"
+msgstr "ローカル"
+
+#: ..\..\..\b2evocore\_vars.php:242
+msgid "Reported"
+msgstr "報告済み"
+
+#: ..\..\..\b2evocore\_vars.php:243
+msgid "Central"
+msgstr "センター"
+
+#: ..\..\..\conf\_locales.php:50
+msgid "Czech (CZ)"
+msgstr "チェク語 (CZ)"
+
+#: ..\..\..\conf\_locales.php:57
+msgid "German (DE)"
+msgstr "ドイツ語 (DE)"
+
+#: ..\..\..\conf\_locales.php:64
+msgid "English (EU)"
+msgstr "英語 (EU)"
+
+#: ..\..\..\conf\_locales.php:71
+msgid "English (UK)"
+msgstr "英語 (UK)"
+
+#: ..\..\..\conf\_locales.php:78
+msgid "English (US)"
+msgstr "英語 (US)"
+
+#: ..\..\..\conf\_locales.php:85
+msgid "English (CA)"
+msgstr "英語 (CA)"
+
+#: ..\..\..\conf\_locales.php:92
+msgid "English (AU)"
+msgstr "英語 (AU)"
+
+#: ..\..\..\conf\_locales.php:99
+msgid "English (IL)"
+msgstr "英語 (IL)"
+
+#: ..\..\..\conf\_locales.php:106
+msgid "Spanish (ES)"
+msgstr "スペイン語 (ES)"
+
+#: ..\..\..\conf\_locales.php:113
+msgid "French (FR)"
+msgstr "フランス語 (FR)"
+
+#: ..\..\..\conf\_locales.php:120
+msgid "French (CA)"
+msgstr "フランス語 (CA)"
+
+#: ..\..\..\conf\_locales.php:127
+msgid "French (BE)"
+msgstr "フランス語 (BE)"
+
+#: ..\..\..\conf\_locales.php:134
+msgid "Hungarian (HU)"
+msgstr "ハンガリー語 (HU)"
+
+#: ..\..\..\conf\_locales.php:141
+msgid "Italian (IT)"
+msgstr "イタリア語 (IT)"
+
+#: ..\..\..\conf\_locales.php:148
+msgid "Japanese (JP)"
+msgstr "日本語 (JP)"
+
+#: ..\..\..\conf\_locales.php:155
+msgid "Lithuanian (LT)"
+msgstr "リトアニア語 (LT)"
+
+#: ..\..\..\conf\_locales.php:162
+msgid "Bokm&aring;l (NO)"
+msgstr "ブークモール語 (NO)"
+
+#: ..\..\..\conf\_locales.php:169
+msgid "Dutch (NL)"
+msgstr "ドイツ語 (NL)"
+
+#: ..\..\..\conf\_locales.php:176
+msgid "Dutch (BE)"
+msgstr "ドイツ語 (BE)"
+
+#: ..\..\..\conf\_locales.php:183
+msgid "Portuguese (BR)"
+msgstr "ポルトガル語 (BR)"
+
+#: ..\..\..\conf\_locales.php:190
+msgid "Swedish (SE)"
+msgstr "スウェーデン語 (SE)"
+
+#: ..\..\..\conf\_locales.php:197
+msgid "Chinese(S) gb2312 (CN)"
+msgstr "中国語(簡体) gb2312 (CN)"
+
+#: ..\..\..\conf\_locales.php:204
+msgid "Chinese(S) utf-8 (CN)"
+msgstr "中国語(簡体) utf-8 (CN)"
+
+#: ..\..\..\conf\_locales.php:211
+msgid "Trad. Chinese (TW)"
+msgstr "繁体中国語 (TW)"
+
+#: ..\..\..\htsrv\comment_post.php:27
+msgid "You cannot leave comments on this post!"
+msgstr "あなたはこの投稿にコメントを残すことができません!"
+
+#: ..\..\..\htsrv\comment_post.php:50
+msgid "Please fill in the name field"
+msgstr "名前のフィールドを埋めてください"
+
+#: ..\..\..\htsrv\comment_post.php:51
+msgid "Please fill in the email field"
+msgstr "メールのフィールドを埋めてください"
+
+#: ..\..\..\htsrv\comment_post.php:56
+msgid "Supplied email address is invalid"
+msgstr "頂いたメールアドレスは無効です"
+
+#: ..\..\..\htsrv\comment_post.php:80
+msgid "Please do not send empty comment"
+msgstr "空のコメントを送らないでください"
+
+#: ..\..\..\htsrv\comment_post.php:97
+msgid "You can only post a new comment every 30 seconds."
+msgstr "30秒ごとにしか新しいコメントは投稿できません。"
+
+#: ..\..\..\htsrv\comment_post.php:101
+msgid "Cannot post comment, please correct these errors:"
+msgstr "コメント投稿できません。以下のエラーを修正して下さい:"
+
+#: ..\..\..\htsrv\comment_post.php:102
+msgid "Back to comment editing"
+msgstr "コメント編集に戻る"
+
+#: ..\..\..\htsrv\comment_post.php:127
+#: ..\..\..\htsrv\comment_post.php:130
+#, php-format
+msgid "New comment on your post #%d \"%s\""
+msgstr "あなたの投稿 #%d \"%s\" に新しいコメントです"
+
+#: ..\..\..\htsrv\comment_post.php:142
+#: ..\..\..\htsrv\trackback.php:106
+#: ..\..\..\xmlsrv\xmlrpc.php:1408
+msgid "Url"
+msgstr "URL"
+
+#: ..\..\..\htsrv\comment_post.php:144
+msgid "Comment"
+msgstr "コメント"
+
+#: ..\..\..\htsrv\comment_post.php:145
+#: ..\..\..\htsrv\trackback.php:108
+#: ..\..\..\xmlsrv\xmlrpc.php:1410
+msgid "Edit/Delete"
+msgstr "編集/削除"
+
+#: ..\..\..\htsrv\getmail.php:32
+msgid "Connecting to pop server..."
+msgstr "POPサーバに接続します..."
+
+#: ..\..\..\htsrv\getmail.php:35
+msgid "Connection failed: "
+msgstr "接続に失敗しました:"
+
+#: ..\..\..\htsrv\getmail.php:39
+msgid "Logging into pop server..."
+msgstr "POPサーバにloginします..."
+
+#: ..\..\..\htsrv\getmail.php:43
+msgid "No mail or Login Failed:"
+msgstr "メールがないかlogin に失敗しました:"
+
+#: ..\..\..\htsrv\getmail.php:54
+#, php-format
+msgid "Getting message #%d..."
+msgstr "メッセージ#%d を取得..."
+
+#: ..\..\..\htsrv\getmail.php:63
+msgid "Processing..."
+msgstr "処理中..."
+
+#: ..\..\..\htsrv\getmail.php:142
+msgid "Too old"
+msgstr "古過ぎます"
+
+#: ..\..\..\htsrv\getmail.php:148
+msgid "Subject prefix does not match"
+msgstr "Subject の prefix が一致しません"
+
+#: ..\..\..\htsrv\getmail.php:168
+msgid "Raw content:"
+msgstr "未加工の内容:"
+
+#: ..\..\..\htsrv\getmail.php:206
+#: ..\..\..\htsrv\login.php:81
+#: ..\..\..\htsrv\register.php:120
+#: ..\..\..\htsrv\_login_form.php:47
+#: ..\..\..\htsrv\_lostpass_form.php:27
+#: ..\..\..\htsrv\_reg_complete.php:19
+#: ..\..\..\htsrv\_reg_form.php:27
+#: ..\..\..\skins\_profile.php:35
+#: ..\..\..\skins\basic\_profile.php:36
+msgid "Login:"
+msgstr "ログイン:"
+
+#: ..\..\..\htsrv\getmail.php:206
+msgid "Pass:"
+msgstr "パスワード:"
+
+#: ..\..\..\htsrv\getmail.php:210
+msgid "Wrong login or password."
+msgstr "ログイン か パスワード が間違っています"
+
+#: ..\..\..\htsrv\getmail.php:228
+msgid "Category ID"
+msgstr "カテゴリID"
+
+#: ..\..\..\htsrv\getmail.php:233
+msgid "Blog ID"
+msgstr "ブログID"
+
+#: ..\..\..\htsrv\getmail.php:238
+msgid "Permission denied."
+msgstr "権限がありません。"
+
+#: ..\..\..\htsrv\getmail.php:270
+msgid "Posted title"
+msgstr "投稿されたタイトル"
+
+#: ..\..\..\htsrv\getmail.php:271
+msgid "Posted content"
+msgstr "投稿された内容"
+
+#: ..\..\..\htsrv\getmail.php:281
+msgid "Mission complete, message deleted."
+msgstr "処理完了、メッセージを削除しました。"
+
+#: ..\..\..\htsrv\login.php:75
+#: ..\..\..\htsrv\login.php:98
+msgid "An email with the new password was sent successfully to your email address."
+msgstr "新しいパスワードの記載されたメールは無事あなたのメールアドレスに送られました。"
+
+#: ..\..\..\htsrv\login.php:82
+msgid "New Password:"
+msgstr "新しいパスワード:"
+
+#: ..\..\..\htsrv\login.php:83
+msgid "You can login here:"
+msgstr "ここでログインできます:"
+
+#: ..\..\..\htsrv\login.php:88
+msgid "your weblog's login/password"
+msgstr "あなたのウェブログの ログイン/パスワード"
+
+#: ..\..\..\htsrv\login.php:90
+msgid "The email could not be sent."
+msgstr "メールが送れませんでした。"
+
+#: ..\..\..\htsrv\login.php:91
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "あり得る理由: あなたの host が mail()関数を禁止したのかもしれません..."
+
+#: ..\..\..\htsrv\login.php:112
+msgid "Note: You are already logged in!"
+msgstr "注意: すでにログインしています!"
+
+#: ..\..\..\htsrv\login.php:119
+msgid "Continue..."
+msgstr "続行..."
+
+#: ..\..\..\htsrv\profile_update.php:36
+#: ..\..\..\skins\_profile.php:21
+#: ..\..\..\skins\basic\_profile.php:22
+msgid "You are not logged in."
+msgstr "ログインしていません。"
+
+#: ..\..\..\htsrv\profile_update.php:41
+msgid "You are not logged in under the same account you are trying to modify."
+msgstr "あなたは変更しようとしているアカウントでログインしていません。"
+
+#: ..\..\..\htsrv\profile_update.php:47
+#: ..\..\..\htsrv\profile_update.php:54
+#: ..\..\..\htsrv\profile_update.php:64
+#: ..\..\..\htsrv\profile_update.php:73
+#: ..\..\..\htsrv\profile_update.php:79
+#: ..\..\..\htsrv\profile_update.php:96
+#: ..\..\..\htsrv\profile_update.php:101
+#: ..\..\..\htsrv\profile_update.php:107
+msgid "Back to profile"
+msgstr "プロフィールに戻る"
+
+#: ..\..\..\htsrv\profile_update.php:53
+msgid "please enter your nickname (can be the same as your login)"
+msgstr "ニックネームを入れてください(ログイン と同じにできます)"
+
+#: ..\..\..\htsrv\profile_update.php:63
+msgid "your ICQ UIN can only be a number, no letters allowed"
+msgstr "ICQ UIN は番号だけです、他の文字は許されません"
+
+#: ..\..\..\htsrv\profile_update.php:72
+#: ..\..\..\htsrv\register.php:73
+msgid "please type your e-mail address"
+msgstr "メールアドレスをタイプして下さい"
+
+#: ..\..\..\htsrv\profile_update.php:78
+#: ..\..\..\htsrv\register.php:78
+msgid "the email address is invalid"
+msgstr "メールアドレスが正しくありません"
+
+#: ..\..\..\htsrv\profile_update.php:87
+#: ..\..\..\htsrv\profile_update.php:95
+msgid "you typed your new password only once. Go back to type it twice."
+msgstr "新規パスワードが一度しかタイプされていません。戻って2度タイプしてください。"
+
+#: ..\..\..\htsrv\profile_update.php:100
+msgid "you typed two different passwords. Go back to correct that."
+msgstr "2つの異なるパスワードがタイプされました。戻って修正してください。"
+
+#: ..\..\..\htsrv\register.php:43
+msgid "please enter a Login"
+msgstr "ログインを入力して下さい"
+
+#: ..\..\..\htsrv\register.php:50
+msgid "please enter your password twice"
+msgstr "パスワードを2度入力して下さい"
+
+#: ..\..\..\htsrv\register.php:57
+msgid "please type the same password in the two password fields"
+msgstr "2つのパスワード フィールドには同じパスワードをタイプして下さい"
+
+#: ..\..\..\htsrv\register.php:89
+msgid "this login is already registered, please choose another one"
+msgstr "このログインはすでに登録されています。別のものを選んで下さい"
+
+#: ..\..\..\htsrv\register.php:119
+#: ..\..\..\htsrv\register.php:123
+msgid "new user registration on your blog"
+msgstr "あなたのブログの新規ユーザ登録"
+
+#: ..\..\..\htsrv\register.php:121
+msgid "Manage users"
+msgstr "ユーザ管理"
+
+#: ..\..\..\htsrv\trackback.php:98
+#: ..\..\..\htsrv\trackback.php:103
+#, php-format
+msgid "New trackback on your post #%d \"%s\""
+msgstr "あなたの投稿 #%d \"%s\" に新しいトラックバックです"
+
+#: ..\..\..\htsrv\trackback.php:105
+#: ..\..\..\xmlsrv\xmlrpc.php:1407
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: ..\..\..\htsrv\trackback.php:107
+#: ..\..\..\xmlsrv\xmlrpc.php:1409
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: ..\..\..\htsrv\_login_form.php:15
+msgid "Login form"
+msgstr "ログイン フォーム"
+
+#: ..\..\..\htsrv\_login_form.php:44
+msgid "You will have to accept cookies in order to log in."
+msgstr "ログインするためには cookie (クッキー) を受け付ける必要があります。"
+
+#: ..\..\..\htsrv\_login_form.php:52
+#: ..\..\..\htsrv\_reg_form.php:32
+msgid "Password:"
+msgstr "パスワード:"
+
+#: ..\..\..\htsrv\_login_form.php:58
+#: ..\..\..\htsrv\_reg_complete.php:25
+msgid "Log in!"
+msgstr "ログイン!"
+
+#: ..\..\..\htsrv\_login_form.php:66
+#: ..\..\..\install\index.php:59
+msgid "Go to Blogs"
+msgstr "ブログに行く"
+
+#: ..\..\..\htsrv\_login_form.php:68
+msgid "Lost your password ?"
+msgstr "パスワードを忘れましたか？"
+
+#: ..\..\..\htsrv\_lostpass_form.php:15
+msgid "Lost password ?"
+msgstr "パスワードを忘れましたか？"
+
+#: ..\..\..\htsrv\_lostpass_form.php:19
+msgid "A new password will be generated and sent to you by email."
+msgstr "新しいパスワードが生成され、メールであなたに送られます。"
+
+#: ..\..\..\htsrv\_lostpass_form.php:33
+msgid "Generate new password!"
+msgstr "新しいパスワードを生成!"
+
+#: ..\..\..\htsrv\_reg_complete.php:15
+msgid "Registration complete"
+msgstr "登録完了"
+
+#: ..\..\..\htsrv\_reg_disabled.php:15
+msgid "Registration Currently Disabled"
+msgstr "登録は現在無効となっています"
+
+#: ..\..\..\htsrv\_reg_disabled.php:18
+msgid "User registration is currently not allowed."
+msgstr "ユーザ登録はいま許可されていません"
+
+#: ..\..\..\htsrv\_reg_disabled.php:19
+msgid "Home"
+msgstr "ホーム"
+
+#: ..\..\..\htsrv\_reg_form.php:15
+msgid "Register form"
+msgstr "登録フォーム"
+
+#: ..\..\..\htsrv\_reg_form.php:32
+msgid "(twice)"
+msgstr "(2度)"
+
+#: ..\..\..\htsrv\_reg_form.php:36
+#, php-format
+msgid "Minimum %d characters, please."
+msgstr "最低 %d 文字にしてください。"
+
+#: ..\..\..\htsrv\_reg_form.php:46
+msgid "Preferred language"
+msgstr "希望の言語"
+
+#: ..\..\..\htsrv\_reg_form.php:50
+msgid "Register!"
+msgstr "登録!"
+
+#: ..\..\..\htsrv\_reg_form.php:57
+msgid "Log into existing account..."
+msgstr "既存のアカウントにログイン..."
+
+#: ..\..\..\install\index.php:47
+msgid "b2evo installer"
+msgstr "b2evo インストーラ"
+
+#: ..\..\..\install\index.php:54
+msgid "Installer for version "
+msgstr "インストーラ バージョン "
+
+#: ..\..\..\install\index.php:56
+msgid "Current installation"
+msgstr "現在のインストール"
+
+#: ..\..\..\install\index.php:57
+msgid "Install menu"
+msgstr "インストール メニュー"
+
+#: ..\..\..\install\index.php:58
+msgid "PHP info"
+msgstr "PHP 情報"
+
+#: ..\..\..\install\index.php:60
+msgid "Go to Admin"
+msgstr "管理画面に行く"
+
+#: ..\..\..\install\index.php:61
+msgid "Online"
+msgstr "オンライン"
+
+#: ..\..\..\install\index.php:62
+msgid "Manual"
+msgstr "マニュアル"
+
+#: ..\..\..\install\index.php:63
+msgid "Support"
+msgstr "サポート"
+
+#: ..\..\..\install\index.php:72
+msgid "Language / Locale"
+msgstr "言語 / 言語・地域"
+
+#: ..\..\..\install\index.php:73
+msgid "Choose a default language/locale for your b2evo installation."
+msgstr "b2evo インストール用のデフォルトの言語 / 言語・地域設定を選択してください。"
+
+#: ..\..\..\install\index.php:101
+msgid "Check your database config settings below and update them if necessary..."
+msgstr "下記のデータベース設定を確認し、必要ならそれを更新してください..."
+
+#: ..\..\..\install\index.php:113
+#: ..\..\..\install\index.php:122
+#, php-format
+msgid "The minimum requirement for this version of b2evolution is %s version %s but you are trying to use version %s!"
+msgstr "このバージョンの b2evolution は %s バージョン %s が最低限必要ですが、あなたが使おうとしているのはバージョン %s です!"
+
+#: ..\..\..\install\index.php:145
+msgid "It seems that the database config settings you entered don't work. Please check them carefully and try again..."
+msgstr "あなたが入力したデータベース設定が機能していないように思われます。念入りに設定の確認をしてから、もう一度試みてください。"
+
+#: ..\..\..\install\index.php:185
+msgid "Config file update"
+msgstr "設定ファイル更新"
+
+#: ..\..\..\install\index.php:186
+#, php-format
+msgid "We cannot automatically update your config file [%s]!"
+msgstr "自動であなたの設定ファイル [%s] を更新することができませんでした!"
+
+#: ..\..\..\install\index.php:187
+msgid "There are two ways to deal with this:"
+msgstr "これを扱うには2つの方法があります:"
+
+#: ..\..\..\install\index.php:189
+msgid "You can allow the installer to update the config file by changing its permissions:"
+msgstr "設定ファイルの権限を変更して、インストーラが設定ファイルを更新できるようにすることができます:"
+
+#: ..\..\..\install\index.php:191
+#, php-format
+msgid "<code>chmod 666 %s</code>. If needed, see the <a %s>online manual about permissions</a>."
+msgstr "<code>chmod 666 %s</code> 。必要に応じて <a %s>ファイル権限についてのオンラインマニュアル</a> を参照してください。"
+
+#: ..\..\..\install\index.php:192
+msgid "Come back to this page and refresh/reload."
+msgstr "このページに戻って、更新/再読み込みを行ってください。"
+
+#: ..\..\..\install\index.php:196
+msgid "Alternatively, you can update the config file manually:"
+msgstr "代わりに、手作業で設定ファイルを更新することもできます:"
+
+#: ..\..\..\install\index.php:198
+msgid "Open the _config.php file locally with a text editor."
+msgstr "ローカルで _config.php ファイルをテキストエディタで開いてください"
+
+#: ..\..\..\install\index.php:199
+msgid "Delete all contents!"
+msgstr "すべてのコンテンツを削除!"
+
+#: ..\..\..\install\index.php:200
+msgid "Copy the contents from the box below."
+msgstr "下記の枠の内容をコピーしてください。"
+
+#: ..\..\..\install\index.php:201
+msgid "Paste them into your local text editor. <strong>ATTENTION: make sure there is ABSOLUTELY NO WHITESPACE after the final <code>?&gt;</code> in the file.</strong> Any space, tab, newline or blank line at the end of the conf file may prevent cookies from being set when you try to log in later."
+msgstr "それをローカルのテキストエディタに貼り付けてください。<strong>注意: 最後の <code>?&gt;</code> の後に絶対に空白文字が無いように確認してください。</strong>空白やタブ文字、改行、空行が設定ファイルの最後にあると、後でログインを行う際に cookie が設定できなくなるかもしれません。"
+
+#: ..\..\..\install\index.php:202
+msgid "Save the new _config.php file locally."
+msgstr "ローカルで新しい _config.php を保存します。"
+
+#: ..\..\..\install\index.php:203
+msgid "Upload the file to your server, into the /_conf folder."
+msgstr "あなたのサーバの /_conf フォルダに、そのファイルをアップロードします"
+
+#: ..\..\..\install\index.php:204
+#, php-format
+msgid "<a %s>Call the installer from scratch</a>."
+msgstr "<a %s>初めからインストーラを呼び出してください</a>。"
+
+#: ..\..\..\install\index.php:208
+msgid "This is how your _config.php should look like:"
+msgstr "あなたの _config.php はこのように見えるはずです:"
+
+#: ..\..\..\install\index.php:228
+#, php-format
+msgid "Your configuration file [%s] has been successfully updated."
+msgstr "設定ファイル [%s] の更新に成功しました。"
+
+#: ..\..\..\install\index.php:261
+msgid "Base configuration"
+msgstr "基本設定"
+
+#: ..\..\..\install\index.php:263
+msgid "Your base config file has not been edited yet. You can do this by filling in the form below."
+msgstr "基本設定ファイルはまだ編集されていません。以下のフォームに入力することで、編集を行うことができます。"
+
+#: ..\..\..\install\index.php:265
+msgid "This is the minimum info we need to set up b2evolution on this server:"
+msgstr "このサーバで b2evolution を設置するために必要な最低限の情報:"
+
+#: ..\..\..\install\index.php:272
+msgid "Database you want to install into"
+msgstr "インストール先のデータベース"
+
+#: ..\..\..\install\index.php:274
+#: ..\..\..\install\index.php:378
+msgid "mySQL Username"
+msgstr "mySQL ユーザ名"
+
+#: ..\..\..\install\index.php:274
+msgid "Your username to access the database"
+msgstr "そのデータベースにアクセスするためのユーザ名"
+
+#: ..\..\..\install\index.php:275
+#: ..\..\..\install\index.php:379
+msgid "mySQL Password"
+msgstr "mySQL パスワード"
+
+#: ..\..\..\install\index.php:275
+msgid "Your password to access the database"
+msgstr "そのデータベースにアクセスするためのパスワード"
+
+#: ..\..\..\install\index.php:276
+#: ..\..\..\install\index.php:380
+msgid "mySQL Database"
+msgstr "mySQL データベース"
+
+#: ..\..\..\install\index.php:276
+msgid "Name of the database you want to use"
+msgstr "使用したいデータベースの名前"
+
+#: ..\..\..\install\index.php:277
+#: ..\..\..\install\index.php:381
+msgid "mySQL Host"
+msgstr "mySQL ホスト"
+
+#: ..\..\..\install\index.php:277
+msgid "You probably won't have to change this"
+msgstr "これを変更する必要は無いかもしれません"
+
+#: ..\..\..\install\index.php:282
+msgid "Additional settings"
+msgstr "追加の設定"
+
+#: ..\..\..\install\index.php:284
+#: ..\..\..\install\index.php:382
+msgid "Base URL"
+msgstr "ベース URL"
+
+#: ..\..\..\install\index.php:284
+msgid "This is where b2evo and your blogs reside by default. CHECK THIS CAREFULLY or not much will work. If you want to test b2evolution on your local machine, in order for login cookies to work, you MUST use http://<strong>localhost</strong>/path... Do NOT use your machine's name!"
+msgstr "これはデフォルトで b2evo とあなたのブログが存在する場所です。注意深く確認してください。そうしないと動作しないでしょう。b2evolution をローカルのマシンでテストしたい場合、ログイン cookie を機能させるために、http://<strong>localhost</strong>/path を用いる必要があります。マシン名は使用しないでください!"
+
+#: ..\..\..\install\index.php:286
+msgid "Your email"
+msgstr "あなたのメール"
+
+#: ..\..\..\install\index.php:286
+msgid "Will be used in severe error messages so that users can contact you. You will also receive notifications for new user registrations."
+msgstr "重大なエラーメッセージの中で、利用者があなたに連絡できるように使用されます。また、あなたは新規ユーザの登録のお知らせを受け取るようになります。"
+
+#: ..\..\..\install\index.php:293
+msgid "Update config file"
+msgstr "設定ファイルの更新"
+
+#: ..\..\..\install\index.php:313
+msgid "How do you want to install b2evolution?"
+msgstr "b2evolution をインストールしますか?"
+
+#: ..\..\..\install\index.php:317
+msgid "The installation can be done in different ways. Choose one:"
+msgstr "インストールはいくつかの方法で行えます。一つ選んでください:"
+
+#: ..\..\..\install\index.php:320
+msgid "<strong>New Install</strong>: Install b2evolution database tables with sample data."
+msgstr "<strong>新規インストール</strong>: b2evolution データベース テーブルをサンプルデータと共にインストールします。"
+
+#: ..\..\..\install\index.php:323
+msgid "<strong>Upgrade from a previous version of b2evolution</strong>: Upgrade your b2evolution database tables in order to make them compatible with the current version!"
+msgstr "<strong>以前のバージョンの b2evolution からアップグレード</strong>: あなたの b2evolution データベース テーブルを、現在のバージョンで使用できるようにアップグレードします。"
+
+#: ..\..\..\install\index.php:326
+msgid "<strong>Upgrade from Cafelog/b2 v 0.6.x</strong>: Install b2evolution database tables and copy your existing Cafelog/b2 data into them."
+msgstr "<strong>Cafelog/b2 v 0.6.x からのアップグレード</strong>: b2evolution のデータベース テーブルをインストールして、既存の Cafelog/b2 のデータをそこにコピーします。"
+
+#: ..\..\..\install\index.php:329
+msgid "<strong>Upgrade from Manywhere Miniblog</strong>: Install b2evolution database tables and copy your existing Miniblog data into them."
+msgstr "<strong>Manywhere Miniblog からのアップグレード</strong>: b2evolution のデータベース テーブルをインストールして、既存の Miniblog のデータをそこにコピーします。"
+
+#: ..\..\..\install\index.php:332
+msgid "<strong>Upgrade from WordPress v 1.2</strong>: Install b2evolution database tables and copy your existing WordPress data into them."
+msgstr "<strong>WordPress v 1.2 からのアップグレード</strong>: b2evolution のデータベース テーブルをインストールして、既存の WordPress のデータをそこにコピーします。"
+
+#: ..\..\..\install\index.php:339
+msgid "Delete b2evolution tables"
+msgstr "b2evolution のテーブルを削除"
+
+#: ..\..\..\install\index.php:340
+msgid "If you have installed b2evolution tables before and wish to start anew, you must delete the b2evolution tables before you can start a new installation. <strong>WARNING: All your b2evolution tables and data will be lost!!!</strong> Your Cafelog/b2 or any other tables though, if you have some, will not be touched in any way."
+msgstr "以前に b2evolution テーブルをインストールしていて、新規に始めたい場合は、新規インストールを始める前に、以前の b2evolution テーブルを削除する必要があります。 <strong>警告: すべての b2evolution テーブルとデータが失われます!!!</strong> Cafelog/b2 やその他のテーブルは、もしあったとしても、なんら変更されることはありません。"
+
+#: ..\..\..\install\index.php:346
+msgid "<strong>Change your base configuration</strong> (see recap below): You only want to do this in rare occasions where you may have moved your b2evolution files or database to a different location..."
+msgstr "<strong>基本設定の変更</strong> (下記の要約を参照): b2evolution のファイルとデータベースを違う場所に移動させるというような、まれな状況でのみ、これを行う必要があります。"
+
+#: ..\..\..\install\index.php:348
+msgid "GO!"
+msgstr "実行!"
+
+#: ..\..\..\install\index.php:355
+msgid "Need to start anew?"
+msgstr "新規に始める必要がありますか?"
+
+#: ..\..\..\install\index.php:356
+msgid "If you have installed b2evolution tables before and wish to start anew, you must delete the b2evolution tables before you can start a new installation. b2evolution can delete its own tables for you, but for obvious security reasons, this feature is disabled by default."
+msgstr "以前に b2evolution テーブルをインストールしていて、新規に始めたい場合は、新規インストールを始める前に、以前の b2evolution テーブルを削除する必要があります。 b2evolution は自身のテーブルを削除することができますが、明らかなセキュリティ上の理由から、この機能はデフォルトでは使用不能にされています。"
+
+#: ..\..\..\install\index.php:367
+msgid "Base config recap..."
+msgstr "基本設定の要約..."
+
+#: ..\..\..\install\index.php:369
+#, php-format
+msgid "If you don't see correct settings here, STOP before going any further, and <a %s>update your base configuration</a>."
+msgstr "ここで正しい設定が表示されない場合、先に進まず中止して、<a %s>基本設定を更新してください</a>。"
+
+#: ..\..\..\install\index.php:379
+msgid "(Set, but not shown for security reasons)"
+msgstr "(設定されていますが、セキュリティ上の理由から表示しません)"
+
+#: ..\..\..\install\index.php:383
+msgid "Admin email"
+msgstr "管理者メール"
+
+#: ..\..\..\install\index.php:395
+msgid "Installing b2evolution tables with sample data"
+msgstr "b2evolution テーブルをサンプル データと共にインストールしています"
+
+#: ..\..\..\install\index.php:400
+msgid "Installation successful!"
+msgstr "インストール成功!"
+
+#: ..\..\..\install\index.php:402
+#, php-format
+msgid ""
+"<p>Now you can <a %s>log in</a> with the login \"admin\" and password \"%s\".</p>\n"
+"\t<p>Note that password carefully! It is a <em>random</em> password that is given to you when you install b2evolution. If you lose it, you will have to delete the database tables and re-install anew.</p>"
+msgstr ""
+"<p>これであなたは <a %s>ログイン</a> できるようになりました。ログイン \"admin\" と パスワード \"%s\" を使用してください。</p>\n"
+"\t<p>パスワードを注意深くメモしてください! これはあなたが b2evolution をインストールした時にあなたのために与えられた <em>ランダムな</em> パスワードです。パスワードを忘れてしまった場合、あなたはデータベース テーブルを削除して、新規に再インストールをしなければなりません。</p>"
+
+#: ..\..\..\install\index.php:415
+msgid "Upgrading data in existing b2evolution database"
+msgstr "既存の b2evolution データベースのデータをアップグレードしています"
+
+#: ..\..\..\install\index.php:420
+#: ..\..\..\install\index.php:440
+#: ..\..\..\install\index.php:459
+#: ..\..\..\install\index.php:479
+msgid "Upgrade completed successfully!"
+msgstr "アップグレードに成功しました!"
+
+#: ..\..\..\install\index.php:421
+#: ..\..\..\install\index.php:441
+#: ..\..\..\install\index.php:480
+#: ..\..\..\install\_functions_evoupgrade.php:51
+#, php-format
+msgid "Now you can <a %s>log in</a> with your usual %s username and password."
+msgstr "これであなたは <a %s>ログイン</a> できるようになりました。あなたの通常の %s ユーザ名とパスワードを使用してください。"
+
+#: ..\..\..\install\index.php:435
+#: ..\..\..\install\index.php:454
+#: ..\..\..\install\index.php:474
+#, php-format
+msgid "Installing b2evolution tables and copying existing %s data"
+msgstr "b2evolution テーブルをインストールし、既存の %s のデータをコピーしています"
+
+#: ..\..\..\install\index.php:460
+#, php-format
+msgid ""
+"<p>Now you can <a %s>log in</a> with your usual Miniblog email login cropped at 20 chars. All passwords have been reset to \"%s\".</p>\n"
+"<p>Note that password carefully! It is a <em>random</em> password that is given to you when you install b2evolution. If you lose it, you will have to delete the database tables and re-install anew.</p>"
+msgstr ""
+"<p>これであなたは、通常の Miniblog のEメール ログインを20文字に切り詰めたものを使って <a %s>ログイン</a> できるようになりました。全てのパスワードは \"%s\" にリセットされました。</p>\n"
+"\t<p>パスワードを注意深くメモしてください! これはあなたが b2evolution をインストールした時にあなたのために与えられた <em>ランダムな</em> パスワードです。パスワードを忘れてしまった場合、あなたはデータベース テーブルを削除して、新規に再インストールをしなければなりません。</p>"
+
+#: ..\..\..\install\index.php:493
+msgid "Deleting b2evolution tables from the datatase"
+msgstr "b2evolution テーブルをデータベースから削除しています"
+
+#: ..\..\..\install\index.php:497
+msgid "For security reasons, the reset feature is disabled by default."
+msgstr "セキュリティ上の理由から、デフォルトではリセット機能は使用不能になっています。"
+
+#: ..\..\..\install\index.php:507
+msgid "Reset done!"
+msgstr "リセットしました!"
+
+#: ..\..\..\install\index.php:508
+msgid "Back to menu"
+msgstr "メニューに戻る"
+
+#: ..\..\..\install\index.php:515
+msgid "official website"
+msgstr "公式ウェブサイト"
+
+#: ..\..\..\install\index.php:517
+msgid "contact"
+msgstr "連絡"
+
+#: ..\..\..\install\_functions_cafelogupgrade.php:30
+#, php-format
+msgid "This blog holds all your posts upgraded from Cafelog. This blog is named '%s'. %s"
+msgstr "このブログはCafelogからアップグレードされたあなたの投稿すべてを収めています。このブログは '%s' という名前です。%s"
+
+#: ..\..\..\install\_functions_create.php:404
+msgid "This is a sample linkblog entry"
+msgstr "これはリンクブログ エントリのサンプルです"
+
+#: ..\..\..\install\_functions_create.php:404
+msgid "This is sample text describing the linkblog entry. In most cases however, you'll want to leave this blank, providing just a Title and an Url for your linkblog entries (favorite/related sites)."
+msgstr "これはリンクブログのエントリを説明するサンプル文です。しかし、ほとんどの場合、これを空白のままにして、タイトルとURLだけをリンクブログ エントリ (お気に入り/関連サイト) に提供したいと思うでしょう。"
+
+#: ..\..\..\install\_functions_create.php:424
+#, php-format
+msgid "This is the long description for the blog named '%s'. %s"
+msgstr "これは '%s' というブログの長い説明文です。%s"
+
+#: ..\..\..\install\_functions_create.php:432
+msgid "This blog (blog #1) is actually a very special blog! It automatically aggregates all posts from all other blogs. This allows you to easily track everything that is posted on this system. You can hide this blog from the public by unchecking 'Include in public blog list' in the blogs admin."
+msgstr "このブログ (ブログ #1) は非常に特別なブログです! 他の全てのブログの全ての投稿を自動的に集約します。これによって、このシステムに投稿されたすべてのものを容易に追跡できます。ブログ管理ページで '公開ブログ リストに含める' のチェックを解除すると、このブログを人の目から隠すことができます。"
+
+#: ..\..\..\install\_functions_create.php:434
+#: ..\..\..\install\_functions_create.php:448
+#: ..\..\..\install\_functions_create.php:468
+#: ..\..\..\install\_functions_create.php:487
+#, php-format
+msgid "%s Title"
+msgstr "%s タイトル"
+
+#: ..\..\..\install\_functions_create.php:439
+#: ..\..\..\install\_functions_create.php:456
+#: ..\..\..\install\_functions_create.php:473
+#: ..\..\..\install\_functions_create.php:492
+#, php-format
+msgid "Tagline for %s"
+msgstr "%s のタグ行"
+
+#: ..\..\..\install\_functions_create.php:440
+#: ..\..\..\install\_functions_create.php:457
+#: ..\..\..\install\_functions_create.php:474
+#: ..\..\..\install\_functions_create.php:493
+#, php-format
+msgid "Short description for %s"
+msgstr "%s の短い説明"
+
+#: ..\..\..\install\_functions_create.php:443
+#: ..\..\..\install\_functions_create.php:461
+#: ..\..\..\install\_functions_create.php:477
+#: ..\..\..\install\_functions_create.php:496
+#, php-format
+msgid "Notes for %s"
+msgstr "%s のメモ"
+
+#: ..\..\..\install\_functions_create.php:444
+#: ..\..\..\install\_functions_create.php:462
+#: ..\..\..\install\_functions_create.php:478
+#: ..\..\..\install\_functions_create.php:497
+#, php-format
+msgid "Keywords for %s"
+msgstr "%s のキーワード"
+
+#: ..\..\..\install\_functions_create.php:485
+msgid "The main purpose for this blog is to be included as a side item to other blogs where it will display your favorite/related links."
+msgstr "このブログの主な目的は、お気に入りや関連のリンクを表示するサイドアイテムとして、他のブログに組み込まれることです。"
+
+#: ..\..\..\install\_functions_create.php:563
+msgid "Clean Permalinks!"
+msgstr "奇麗な永続的リンク!"
+
+#: ..\..\..\install\_functions_create.php:563
+msgid ""
+"b2evolution uses old-style permalinks and feedback links by default. This is to ensure maximum compatibility with various webserver configurations.\n"
+"\n"
+"Nethertheless, once you feel comfortable with b2evolution, you should try activating clean permalinks in the Settings screen... (check 'Use extra-path info')"
+msgstr ""
+"b2evolution はデフォルトでは従来スタイルの永続的リンクとフィードバックリンクを使用します。これは様々なウェブサーバの設定との互換性を最大限に確保するためです。\n"
+"\n"
+"b2evolution が快適だと感じるようになったら、オプション画面で奇麗な永続的リンクを作動させようと試みるといいでしょう。('追加path情報を使用' にチェックをつけます)"
+
+#: ..\..\..\install\_functions_create.php:569
+msgid "Apache optimization..."
+msgstr "Apache 最適化..."
+
+#: ..\..\..\install\_functions_create.php:569
+msgid ""
+"In the <code>/blogs</code> folder as well as in <code>/blogs/admin</code> there are two files called [<code>sample.htaccess</code>]. You should try renaming those to [<code>.htaccess</code>].\n"
+"\n"
+"This will optimize the way b2evolution is handled by the webserver (if you are using Apache). These files are not active by default because a few hosts would display an error right away when you try to use them. If this happens to you when you rename the files, just remove them and you'll be fine."
+msgstr ""
+"<code>/blogs</code> フォルダと <code>/blogs/admin</code> フォルダには、 [<code>sample.htaccess</code>] というファイルがあります. これらを [<code>.htaccess</code>] に名前を変えてみましょう。\n"
+"\n"
+"これはウェブサーバが b2evolution を扱う方法を最適化するでしょう (あなたが Apache を使用していれば)。これらのファイルがデフォルトで有効になっていないのは、一部のホストでこれらを使用しようとした時にエラーを表示するかもしれないからです。もし、ファイル名を変更した後にエラーが表示されるのであれば、これらのファイルを削除すれば正常になるでしょう。"
+
+#: ..\..\..\install\_functions_create.php:575
+msgid "About evoSkins..."
+msgstr "evoSkins について..."
+
+#: ..\..\..\install\_functions_create.php:575
+msgid ""
+"By default, b2evolution blogs are displayed using a default skin.\n"
+"\n"
+"Readers can choose a new skin by using the skin switcher integrated in most skins.\n"
+"\n"
+"You can change the default skin used for any blog by editing the blog parameters in the admin interface. You can also force the use of the default skin for everyone.\n"
+"\n"
+"Otherwise, you can restrict available skins by deleting some of them from the /blogs/skins folder. You can also create new skins by duplicating, renaming and customizing any existing skin folder.\n"
+"\n"
+"To start customizing a skin, open its '<code>_main.php</code>' file in an editor and read the comments in there. And, of course, read the manual on evoSkins!"
+msgstr ""
+"デフォルトで b2evolution のブログはデフォルトのスキンを用いて表示されます。\n"
+"\n"
+"読者は大部分のスキンに組み込まれているスキン・スイッチャーを使用して新たなスキンを選択することができます。\n"
+"\n"
+"管理インターフェース内のブログのパラメータを編集して、どのブログでもデフォルトのスキンを変更することができます。全ての人にデフォルトのスキンを使用するよう強制することもできます。\n"
+"\n"
+"/blogs/skins フォルダからスキンを削除することで、利用できるスキンを制限することができます。また、既存のスキンフォルダを複製して名前を変えてカスタマイズすることで、新しいスキンを作ることができます。\n"
+"\n"
+"スキンのカスタマイズを始めるには、スキンの '<code>_main.php</code>' ファイルをエディタで開いて、その中のコメントを読んでください。そして、もちろん、evoSkins のマニュアルも読んでください!"
+
+#: ..\..\..\install\_functions_create.php:587
+msgid "Skins, Stubs and Templates..."
+msgstr "スキン、スタブ、テンプレート..."
+
+#: ..\..\..\install\_functions_create.php:587
+msgid ""
+"By default, all pre-installed blogs are displayed using a skin. (More on skins in another post.)\n"
+"\n"
+"That means, blogs are accessed through '<code>index.php</code>', which loads default parameters from the database and then passes on the display job to a skin.\n"
+"\n"
+"Alternatively, if you don't want to use the default DB parameters and want to, say, force a skin, a category or a specific linkblog, you can create a stub file like the provided '<code>a_stub.php</code>' and call your blog through this stub instead of index.php .\n"
+"\n"
+"Finally, if you need to do some very specific customizations to your blog, you may use plain templates instead of skins. In this case, call your blog through a full template, like the provided '<code>a_noskin.php</code>'.\n"
+"\n"
+"You will find more information in the stub/template files themselves. Open them in a text editor and read the comments in there.\n"
+"\n"
+"Either way, make sure you go to the blogs admin and set the correct access method for your blog. When using a stub or a template, you must also set its filename in the 'Stub name' field. Otherwise, the permalinks will not function properly."
+msgstr ""
+"デフォルトでは、全てのインストール済みブログはスキンを使用して表示されます (スキンの詳細は別の投稿にあります)\n"
+"\n"
+"これは、ブログが '<code>index.php</code>' を通してアクセスされることを意味します。このファイルは、データベースからデフォルトのパラメータを読み込んで、その表示作業をスキンに引き渡します。\n"
+"\n"
+"別の選択として、デフォルトのデータベースのパラメータを使用したくない場合や、スキンやカテゴリや特定のリンクブログを強制したい場合は、用意されている '<code>a_stub.php</code>' のようなスタブ ファイルを作成して、index.php の代わりにこのスタブを用いてブログを呼び出すことができます。\n"
+"\n"
+"最後に、あなたがブログに非常に特定されたカスタマイズを行う必要があるのであれば、プレーンなテンプレートをスキンの代わりに用いることができます。この場合は、用意されている '<code>a_noskin.php</code>' のような完全なテンプレートを使ってブログを呼び出してください。\n"
+"\n"
+"詳しい情報は、そのスタブ/テンプレートのファイル自体の中に見つけられます。テキストエディタでそれらのファイルを開いて、そのコメントを読んでください。\n"
+"\n"
+"どの方法でも、ブログ管理ページに行き、あなたのブログへの正しいアクセス方法が設定されていることを確認してください。スタブやテンプレートを使う時は、そのファイル名が 'スタブ名' 欄に設定されている必要があります。そうしなければ、永続的リンクが適切に機能しないでしょう。"
+
+#: ..\..\..\install\_functions_create.php:601
+msgid "Multiple Blogs, new blogs, old blogs..."
+msgstr "複数ブログ、新規ブログ、旧ブログ..."
+
+#: ..\..\..\install\_functions_create.php:602
+msgid ""
+"By default, b2evolution comes with 4 blogs, named 'Blog All', 'Blog A', 'Blog B' and 'Linkblog'.\n"
+"\n"
+"Some of these blogs have a special role. Read about it on the corresponding page.\n"
+"\n"
+"You can create additional blogs or delete unwanted blogs from the blogs admin."
+msgstr ""
+"デフォルトでは、b2evolution は 'Blog All', 'Blog A', 'Blog B', 'Linkblog' という名前の4つのブログを提供します。\n"
+"\n"
+"これらのブログのいくつかには特別な役割があります。それについては対応するページを読んでください。\n"
+"\n"
+"ブログ管理画面から、追加のブログを作ることができますし、不要なブログを削除することもできます。"
+
+#: ..\..\..\install\_functions_create.php:611
+msgid "This is a multipage post"
+msgstr "これは複数ページの投稿です"
+
+#: ..\..\..\install\_functions_create.php:611
+msgid ""
+"This is page 1 of a multipage post.\n"
+"\n"
+"You can see the other pages by cliking on the links below the text.\n"
+"\n"
+"<!--nextpage-->\n"
+"\n"
+"This is page 2.\n"
+"\n"
+"<!--nextpage-->\n"
+"\n"
+"This is page 3.\n"
+"\n"
+"<!--nextpage-->\n"
+"\n"
+"This is page 4.\n"
+"\n"
+"It is the last page."
+msgstr ""
+"これは複数ページ投稿の1ページ目です。\n"
+"\n"
+"この文章の下のリンクをクリックすることで他のページを見ることができます。\n"
+"\n"
+"<!--nextpage-->\n"
+"\n"
+"これは2ページ目です。\n"
+"\n"
+"<!--nextpage-->\n"
+"\n"
+"これは3ページ目です。\n"
+"\n"
+"<!--nextpage-->\n"
+"\n"
+"これは4ページ目です。\n"
+"\n"
+"これが最後のページです。"
+
+#: ..\..\..\install\_functions_create.php:631
+msgid "Extended post with no teaser"
+msgstr "ティーザー無し拡張投稿"
+
+#: ..\..\..\install\_functions_create.php:631
+msgid ""
+"This is an extended post with no teaser. This means that you won't see this teaser any more when you click the \"more\" link.\n"
+"\n"
+"<!--more--><!--noteaser-->\n"
+"\n"
+"This is the extended text. You only see it when you have clicked the \"more\" link."
+msgstr ""
+"これは、ティーザー無し拡張投稿です。これは、\"続き\"リンクをクリックした後には、この興味をひくための文章 (ティーザー) が表示されないというものです。\n"
+"\n"
+"<!--more--><!--noteaser-->\n"
+"\n"
+"これは拡張文です。\"続き\" リンクをクリックした後には、この文章だけが表示されます。"
+
+#: ..\..\..\install\_functions_create.php:639
+msgid "Extended post"
+msgstr "拡張投稿"
+
+#: ..\..\..\install\_functions_create.php:639
+msgid ""
+"This is an extended post. This means you only see this small teaser by default and you must click on the link below to see more.\n"
+"\n"
+"<!--more-->\n"
+"\n"
+"This is the extended text. You only see it when you have clicked the \"more\" link."
+msgstr ""
+"これは拡張投稿です。これは、この短い興味をひくための文章 (ティーザー) だけをデフォルトで表示し、続きを見るには次のリンクをクリックする必要がある、というものです。.\n"
+"\n"
+"<!--more-->\n"
+"\n"
+"これは拡張文です。\"続き\" リンクをクリックした後にだけ、これが表示されます。"
+
+#: ..\..\..\install\_functions_create.php:647
+msgid "Important information"
+msgstr "重要な情報"
+
+#: ..\..\..\install\_functions_create.php:647
+msgid ""
+"Blog B contains a few posts in the 'b2evolution Tips' category.\n"
+"\n"
+"All these entries are designed to help you so, as EdB would say: \"<em>read them all before you start hacking away!</em>\" ;)\n"
+"\n"
+"If you wish, you can delete these posts one by one after you have read them. You could also change their status to 'deprecated' in order to visually keep track of what you have already read."
+msgstr ""
+"Blog B は 'b2evolution Tips' カテゴリにいくつかの投稿があります。\n"
+"\n"
+"これらの記載はあなたの助けになるように考えられています。EdB が「<em>ハックを始める前に、これ全部を読んでください!</em>」と言うように ;)\n"
+"\n"
+"望むならば、これらの投稿を読んだ後で一つ一つ削除することもできます。また、すでに読んだものを視覚的に把握していくために、'没' 状態に変更していくこともできます。"
+
+#: ..\..\..\install\_functions_create.php:685
+msgid "First Post"
+msgstr "最初の投稿"
+
+#: ..\..\..\install\_functions_create.php:685
+msgid ""
+"<p>This is the first post.</p>\n"
+"\n"
+"<p>It appears on both blog A and blog B.</p>"
+msgstr ""
+"<p>これは最初の投稿です。</p>\n"
+"\n"
+"<p>Blog AとBの両方に表示されます。</p>"
+
+#: ..\..\..\install\_functions_create.php:691
+msgid "Second post"
+msgstr "第二の投稿"
+
+#: ..\..\..\install\_functions_create.php:691
+msgid ""
+"<p>This is the second post.</p>\n"
+"\n"
+"<p>It appears on blog A only but in multiple categories.</p>"
+msgstr ""
+"<p>これは第二の投稿です。</p>\n"
+"\n"
+"<p>Blog Aのみに表示されますが、複数のカテゴリに入っています。</p>"
+
+#: ..\..\..\install\_functions_create.php:697
+msgid "Third post"
+msgstr "第三の投稿"
+
+#: ..\..\..\install\_functions_create.php:697
+msgid ""
+"<p>This is the third post.</p>\n"
+"\n"
+"<p>It appears on blog B only and in a single category.</p>"
+msgstr ""
+"<p>これは第三の投稿です。</p>\n"
+"\n"
+"<p>Blog Bのみに表示され、単独のカテゴリに入っています。</p>"
+
+#: ..\..\..\install\_functions_create.php:719
+msgid "Hi, this is a comment.<br />To delete a comment, just log in, and view the posts' comments, there you will have the option to edit or delete them."
+msgstr "やあ、これはコメントです。<br />コメントを削除するには、ログインして、その投稿のコメントを見ると、コメントを編集もしくは削除する選択肢が表示されているはずです。"
+
+#: ..\..\..\install\_functions_evoupgrade.php:50
+msgid "The database schema is already up to date. There is nothing to do."
+msgstr "データベースのスキーマはすでに最新です。何もすることはありません。"
+
+#: ..\..\..\install\_functions_evoupgrade.php:251
+#, php-format
+msgid "It appears that the following blog stub names are used more than once: ['%s']"
+msgstr "次のブログ スタブ名は複数回使われていると思われます: ['%s']"
+
+#: ..\..\..\install\_functions_evoupgrade.php:253
+#, php-format
+msgid "I can't upgrade until you make them unique. DB field: [%s]"
+msgstr "それらを重複のないようにしなければアップグレードできません。DB フィールド: [%s]"
+
+#: ..\..\..\install\_functions_install.php:24
+msgid "Checking DB schema version..."
+msgstr "データベースのスキーマ バージョンをチェックしています..."
+
+#: ..\..\..\install\_functions_install.php:36
+msgid "NOT FOUND! This is not a b2evolution database."
+msgstr "見つけられません! これは b2evolution のデータベースではありません。"
+
+#: ..\..\..\install\_functions_install.php:40
+msgid "This version is too old!"
+msgstr "このバージョンは古すぎます!"
+
+#: ..\..\..\install\_functions_install.php:41
+msgid "This version is too recent! We cannot downgrade to it!"
+msgstr "このバージョンは新しすぎて、ダウングレードできません!"
+
+#: ..\..\..\install\_functions_miniblog.php:30
+#, php-format
+msgid "This blog holds all your posts upgraded from Miniblog. This blog is named '%s'. %s"
+msgstr "このブログはMiniblogからアップグレードされたあなたの投稿すべてを収めています。このブログは '%s' という名前です。%s"
+
+#: ..\..\..\install\_functions_wordpress.php:30
+#, php-format
+msgid "This blog holds all your posts upgraded from WordPress. This blog is named '%s'. %s"
+msgstr "このブログはWordPressからアップグレードされたあなたの投稿すべてを収めています。このブログは '%s' という名前です。%s"
+
+#: ..\..\..\plugins\plugin.class.php:44
+msgid "No desc available"
+msgstr "説明文がありません"
+
+#: ..\..\..\plugins\plugin.class.php:45
+#: ..\..\..\plugins\renderers\_autolinks.renderer.php:42
+#: ..\..\..\plugins\renderers\_auto_p.renderer.php:42
+#: ..\..\..\plugins\renderers\_bbcode.renderer.php:84
+#: ..\..\..\plugins\renderers\_smilies.renderer.php:69
+#: ..\..\..\plugins\renderers\_textile.renderer.php:238
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:47
+#: ..\..\..\plugins\toolbars\_smilies.toolbar.php:57
+msgid "No description available"
+msgstr "詳細説明文がありません"
+
+#: ..\..\..\plugins\renderers\_autolinks.renderer.php:41
+msgid "Make URLs clickable"
+msgstr "URL をクリック可能にします"
+
+#: ..\..\..\plugins\renderers\_auto_p.renderer.php:41
+msgid "Automatic &lt;P&gt; and &lt;BR&gt; tags"
+msgstr "自動で &lt;P&gt; と &lt;BR&gt; タグを挿入"
+
+#: ..\..\..\plugins\renderers\_bbcode.renderer.php:83
+msgid "BB formatting e-g [b]bold[/b]"
+msgstr "BB フォーマット処理 (例 [b]太字[/b] )"
+
+#: ..\..\..\plugins\renderers\_gmcode.renderer.php:75
+msgid "GreyMatter style formatting"
+msgstr "GreyMatter スタイル フォーマット処理"
+
+#: ..\..\..\plugins\renderers\_gmcode.renderer.php:76
+#, php-format
+msgid "**bold** \\italics\\ //italics// __underline__ ##tt## %%codeblock%%"
+msgstr "**太字** \\斜体\\ //斜体// __下線__ ##等幅## %%コードブロック%%"
+
+#: ..\..\..\plugins\renderers\_smilies.renderer.php:68
+msgid "Convert text smilies to icons"
+msgstr "スマイリー (顔文字) をアイコンに変換"
+
+#: ..\..\..\plugins\renderers\_textile.renderer.php:237
+msgid "Humane Web Text Generator 2.0 beta"
+msgstr "人に優しいウェブテキスト ジェネレータ 2.0 beta"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:46
+msgid "Easy HTML tags inserting"
+msgstr "簡単HTMLタグ挿入"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:90
+msgid "INSerted [Alt-I]"
+msgstr "挿入部(INS) [Alt-I]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:97
+msgid "DELeted [Alt-D]"
+msgstr "削除部(DEL) [Alt-D]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:104
+msgid "STRong [Alt-S]"
+msgstr "強い強調(STRONG) [Alt-S]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:111
+msgid "EMphasis [Alt-E]"
+msgstr "強調(EM) [Alt-E]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:118
+msgid "CODE [Alt-C]"
+msgstr "コード(CODE) [Alt-C]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:125
+msgid "Paragraph [Alt-P]"
+msgstr "段落(P) [Alt-P]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:132
+msgid "Unordered List [Alt-U]"
+msgstr "順不同リスト(UL) [Alt-U]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:145
+msgid "List Item [Alt-L]"
+msgstr "リスト項目(LI) [Alt-L]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:152
+msgid "BLOCKQUOTE [Alt-B]"
+msgstr "引用(BLOCKQUOTE) [Alt-B]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:159
+msgid "IMaGe [Alt-G]"
+msgstr "画像(IMG) [Alt-G]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:167
+msgid "A href [Alt-A]"
+msgstr "リンク(A href) [Alt-A]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:181
+msgid "More [Alt-M]"
+msgstr "続き [Alt-M]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:189
+msgid "no teaser [Alt-T]"
+msgstr "ティーザー無し [Alt-T]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:197
+msgid "next page [Alt-Q]"
+msgstr "次ページ [Alt-Q]"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:266
+msgid "Close all tags"
+msgstr "全てのタグを閉じる"
+
+#: ..\..\..\plugins\toolbars\_quicktags.toolbar.php:382
+msgid "ALTernate text"
+msgstr "代替テキスト(ALT)"
+
+#: ..\..\..\plugins\toolbars\_smilies.toolbar.php:56
+msgid "One click smilies inserting"
+msgstr "スマイリー (顔文字) ワンクリック挿入"
+
+#. TRANS: All categories, skin's categories list
+#: ..\..\..\skins\_categories.php:17
+msgid "All"
+msgstr "全て"
+
+#: ..\..\..\skins\_feedback.php:77
+#: ..\..\..\skins\basic\_feedback.php:77
+msgid "Trackback address for this post:"
+msgstr "この記事へのトラックバック アドレス"
+
+#. TRANS: NO comments/trackabcks/pingbacks/ FOR THIS POST...
+#: ..\..\..\skins\_feedback.php:95
+#: ..\..\..\skins\basic\_feedback.php:96
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:97
+#: ..\..\..\skins\wpc_default\_feedback.php:97
+#, php-format
+msgid "No %s for this post yet..."
+msgstr "この投稿への %s はまだありません..."
+
+#: ..\..\..\skins\_feedback.php:185
+#: ..\..\..\skins\basic\_feedback.php:180
+msgid "Your email address will <strong>not</strong> be displayed on this site."
+msgstr "頂いたメールアドレスはこのサイトに表示され<strong>ません</strong>。"
+
+#: ..\..\..\skins\_feedback.php:190
+#: ..\..\..\skins\basic\_feedback.php:185
+msgid "Site/Url"
+msgstr "サイト/URL"
+
+#: ..\..\..\skins\_feedback.php:192
+#: ..\..\..\skins\basic\_feedback.php:187
+msgid "Your URL will be displayed."
+msgstr "頂いたURLは表示されます。"
+
+#: ..\..\..\skins\_feedback.php:213
+#: ..\..\..\skins\basic\_feedback.php:207
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:208
+#: ..\..\..\skins\wpc_default\_feedback.php:208
+msgid "Line breaks become &lt;br /&gt;"
+msgstr "改行が自動で &lt;br /&gt; になります"
+
+#: ..\..\..\skins\_feedback.php:218
+#: ..\..\..\skins\basic\_feedback.php:212
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:213
+#: ..\..\..\skins\wpc_default\_feedback.php:213
+msgid "Remember me"
+msgstr "名前を記憶"
+
+#: ..\..\..\skins\_feedback.php:218
+#: ..\..\..\skins\basic\_feedback.php:212
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:213
+#: ..\..\..\skins\wpc_default\_feedback.php:213
+msgid "(Set cookies for name, email &amp; url)"
+msgstr "(名前、メールアドレス、URLを cookie に記憶させます)"
+
+#: ..\..\..\skins\_lastcomments.php:33
+#: ..\..\..\xmlsrv\atom.comments.php:38
+#: ..\..\..\xmlsrv\rdf.comments.php:54
+#: ..\..\..\xmlsrv\rss.comments.php:41
+#: ..\..\..\xmlsrv\rss2.comments.php:43
+msgid "In response to:"
+msgstr "投稿への反応:"
+
+#: ..\..\..\skins\_linkblog.php:31
+#: ..\..\..\skins\custom\_linkblog.php:21
+msgid "Linkblog"
+msgstr "リンクブログ"
+
+#: ..\..\..\skins\_linkblog.php:71
+#: ..\..\..\skins\wpc_aubmach\_linkblog.php:70
+#: ..\..\..\skins\wpc_default\_linkblog.php:70
+msgid "more"
+msgstr "さらに"
+
+#: ..\..\..\skins\_profile.php:79
+#: ..\..\..\skins\basic\_profile.php:80
+msgid "AOL I.M."
+msgstr "AOL I.M."
+
+#: ..\..\..\skins\_profile.php:80
+#: ..\..\..\skins\basic\_profile.php:81
+msgid "MSN I.M."
+msgstr "MSN I.M."
+
+#: ..\..\..\skins\_profile.php:81
+#: ..\..\..\skins\basic\_profile.php:82
+msgid "Yahoo I.M."
+msgstr "Yahoo I.M."
+
+#: ..\..\..\skins\_stats.php:57
+msgid "Top refering engines"
+msgstr "最多の経由した検索エンジン"
+
+#: ..\..\..\skins\babyblues\_bloglist.php:23
+msgid "blogs"
+msgstr "ブログ"
+
+#: ..\..\..\skins\babyblues\_main.php:111
+msgid "skin the site"
+msgstr "サイトにスキンを適用"
+
+#: ..\..\..\skins\babyblues\_main.php:120
+#: ..\..\..\skins\originalb2\_main.php:181
+msgid "archives"
+msgstr "アーカイブ"
+
+#: ..\..\..\skins\basic\_bloglist.php:23
+msgid "Select blog:"
+msgstr "ブログ選択:"
+
+#: ..\..\..\skins\basic\_main.php:46
+msgid "Select skin:"
+msgstr "スキン選択:"
+
+#: ..\..\..\skins\basic\_main.php:98
+#: ..\..\..\skins\custom\_main.php:93
+msgid "words"
+msgstr "語"
+
+#: ..\..\..\skins\basic\_main.php:103
+msgid "Read more..."
+msgstr "続きを読む..."
+
+#: ..\..\..\skins\bluesky\_main.php:176
+#: ..\..\..\skins\guadeloupe\_main.php:178
+msgid "Choose a skin"
+msgstr "スキンを選ぶ"
+
+#: ..\..\..\skins\custom\_main.php:221
+#: ..\..\..\skins\wpc_aubmach\_main.php:151
+#: ..\..\..\skins\wpc_default\_main.php:154
+msgid "Choose skin"
+msgstr "スキン選択"
+
+#: ..\..\..\skins\originalb2\_main.php:73
+msgid "Browse all posts by this author"
+msgstr "この著者の全ての投稿を見る"
+
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:86
+#: ..\..\..\skins\wpc_default\_feedback.php:86
+msgid "The <acronym title=\"Uniform Resource Identifier\">URI</acronym> to TrackBack this entry is:"
+msgstr "このエントリーのトラックバック <acronym title=\"Uniform Resource Identifier\">URI</acronym>:"
+
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:114
+#: ..\..\..\skins\wpc_default\_feedback.php:114
+msgid "Comment by"
+msgstr "コメント by"
+
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:120
+#: ..\..\..\skins\wpc_default\_feedback.php:120
+msgid "Trackback from"
+msgstr "トラックバック from"
+
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:125
+#: ..\..\..\skins\wpc_default\_feedback.php:125
+msgid "Pingback from"
+msgstr "ピンバック from"
+
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:132
+#: ..\..\..\skins\wpc_aubmach\_main.php:73
+#: ..\..\..\skins\wpc_default\_feedback.php:132
+#: ..\..\..\skins\wpc_default\_main.php:73
+msgid "Edit This"
+msgstr "これを編集"
+
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:186
+#: ..\..\..\skins\wpc_default\_feedback.php:186
+msgid "E-mail"
+msgstr "Eメール"
+
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:199
+#: ..\..\..\skins\wpc_default\_feedback.php:199
+msgid "Your Comment"
+msgstr "あなたのコメント"
+
+#: ..\..\..\skins\wpc_aubmach\_feedback.php:219
+#: ..\..\..\skins\wpc_default\_feedback.php:219
+msgid "Say It!"
+msgstr "発言する!"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:72
+#: ..\..\..\skins\wpc_default\_main.php:72
+msgid "Filed under:"
+msgstr "登録カテゴリ:"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:161
+#: ..\..\..\skins\wpc_default\_main.php:164
+msgid "Other"
+msgstr "その他"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:173
+#: ..\..\..\skins\wpc_default\_main.php:176
+msgid "Meta"
+msgstr "メタ情報"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:175
+#: ..\..\..\skins\wpc_default\_main.php:178
+msgid "Syndicate this site using RSS"
+msgstr "このサイトのRSSによる配信"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:175
+#: ..\..\..\skins\wpc_default\_main.php:178
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> 2.0"
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> 2.0"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:176
+#: ..\..\..\skins\wpc_default\_main.php:179
+msgid "The latest comments to all posts in RSS"
+msgstr "全投稿への最新コメントのRSS"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:176
+#: ..\..\..\skins\wpc_default\_main.php:179
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr> 2.0"
+msgstr "コメント <abbr title=\"Really Simple Syndication\">RSS</abbr> 2.0"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:177
+#: ..\..\..\skins\wpc_default\_main.php:180
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "このページは XHTML 1.0 Transitional として有効です"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:177
+#: ..\..\..\skins\wpc_default\_main.php:180
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:178
+#: ..\..\..\skins\wpc_aubmach\_main.php:188
+#: ..\..\..\skins\wpc_default\_main.php:181
+#: ..\..\..\skins\wpc_default\_main.php:191
+msgid "Powered by b2evolution; multilingual multiuser multi-blog engine."
+msgstr "Powered by b2evolution; 多言語・複数ユーザ・マルチブログ エンジン。"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:189
+#: ..\..\..\skins\wpc_default\_main.php:192
+msgid "This skin features a CSS file originally designed for WordPress (See design credits in style.css)."
+msgstr "このスキンは本来 WordPress 用にデザインされた CSS ファイルをフィーチャーしています（style.css のデザインクレジット参照）。"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:190
+#: ..\..\..\skins\wpc_default\_main.php:193
+msgid "Original design credits for this skin:"
+msgstr "このスキンのオリジナル デザイン クレジット:"
+
+#: ..\..\..\skins\wpc_aubmach\_main.php:191
+#: ..\..\..\skins\wpc_default\_main.php:194
+msgid "In order to ensure maximum compatibility with WP CSS files, most b2evolution features that do not exist in WP are hidden from this generic wpc_* skin."
+msgstr "WP CSSファイルと最大限の互換性を確保するために、WP に存在しない b2evolution の機能の大部分は、この一般的 wpc_* スキンでは使用されていません。"
+
+#: ..\..\..\xmlsrv\rdf.php:59
+#: ..\..\..\xmlsrv\rss.php:42
+#: ..\..\..\xmlsrv\rss2.php:49
+msgid "[...] Read more!"
+msgstr "[...] 続きを読む!"
+
+#: ..\..\..\xmlsrv\xmlrpc.php:1401
+#: ..\..\..\xmlsrv\xmlrpc.php:1405
+#, php-format
+msgid "New pingback on your post #%d \"%s\""
+msgstr "あなたの投稿 #%d \"%s\" に新しいピンバックです"
+

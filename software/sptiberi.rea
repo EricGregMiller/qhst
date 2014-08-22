@@ -1,0 +1,110 @@
+Keyboard Map of SPTiberian, a public domain Hebrew/Aramaic font
+Created by: Jimmy Adair, Scholars Press
+Last modified: 2 August 1996
+Modification 02AUG96: add Masoretic multi-word abbrev, circules
+
+Description: SPTiberian exists in both Macintosh and Windows 
+versions, both with the same character and keyboard maps.  By 
+design, all characters in the font lie between decimal 32 and 127 
+(20x-7Fx, 040-0177), so they should transfer without problem over 
+the Internet.  The font is designed to follow the Michigan-
+Claremont encoding scheme (see http://scholar.cc.emory.edu/scripts 
+/societies/RSN/Offline/off1.html#transliteration) to as great an 
+extent as possible, though the vowel points have multiple forms to 
+allow for proper placement with wide characters, narrow 
+characters, and final kafs (and nuns).
+
+The consonants are listed first in alphabetical order, followed by vowel
+points and then by other signs.  Please note the distinction between upper
+and lower case in "key to push"; all shifted keys are so indicated.  Also,
+note that vowels that are designed for wide characters (most letters) are
+all unshifted, whereas the corresponding vowels for narrow characters
+(gimel, waw, zayin, yod, nun) are shifted.  Vowels that go with the final
+kaf (and nun) are mostly mapped to numbers.  A few differences may exist
+among keyboards for some shifted keys (e.g., is " shift-' or shift-2 ?),
+so people with different keyboards will have to make the proper
+adjustments. 
+
+character description      key to push
+
+alef                       )   (shift-0)
+bet                        b
+gimel                      g
+dalet                      d
+he                         h
+waw                        w
+zayin                      z
+het                        x
+tet                        +   (shift-=)
+yod                        y
+kaf-initial/medial         k
+kaf-final                  K   (shift-k)
+lamed                      l
+mem-initial/medial         m
+mem-final                  M   (shift-m)
+nun-initial/medial         n
+nun-final                  N   (shift-n)
+samek                      s
+ayin                       (   (shift-9)
+pe-initial/medial          p
+pe-final                   P   (shift-p)
+tsade-initial/medial       c
+tsade-final                C   (shift-c)
+qof                        q
+resh                       r
+sin/shin (without dot)     #
+taw                        t
+patah (wide char)          a
+patah (narrow char)        A   (shift-a) - also furtive patah
+patah (final kaf)          0   (zero)
+qamets (wide char)         f
+qamets (narrow char)       F   (shift-f)
+qamets (final kaf)         1   (one)
+hireq (wide char)          i
+hireq (narrow char)        I   (shift-i)
+hireq (final kaf)          2
+segol (wide char)          e
+segol (narrow char)        E
+segol (final kaf)          3
+sere (wide char)           '   (single quote)
+sere (narrow char)         "   (double quote, shift-')
+sere (final kaf)           4
+holem (wide char)          o
+holem (narrow char)        O   (shift-o) - also Mas abbrev, number mark
+holem (final kaf)          5
+qibbuts (wide char)        u
+qibbuts (narrow char)      U   (shift-u)
+qibbuts (final kaf)        6
+shewa (wide char)          ;   (semi-colon)
+shewa (narrow char)        :   (colon, shift-;)
+shewa (final kaf)          7
+hatef-patah (wide char)    j
+hatef-patah (narrow char)  J   (shift-j)
+hatef-patah (final kaf)    8
+hatef-segol (wide char)    v
+hatef-segol (narrow char)  V   (shift-v)
+hatef-segol (final kaf)    9
+hatef-qamets (wide char)   /   (forward slash)
+hatef-qamets (narrow char) ?   (shift-/)
+hatef-qamets (final kaf)   =   (equal sign)
+sin dot                    &   (ampersand, shift-7)
+shin dot                   $   (dollar sign, shift-4)
+dagesh (wide char)         @   (shift-2) - also mappiq
+dagesh (narrow char)       %   (shift-5) - also shureq dot
+dagesh (yod)               ,   (comma)
+dagesh (alef)              ^   (caret, shift-6)
+rafe (wide char)           {   (left brace, shift-[)
+rafe (narrow char)         }   (right brace, shift-])
+maqqef                     -   (hyphen)
+sof pasuq                  .   (period)
+meteg (wide char)          \   (backslash)
+meteg (narrow char)        |   (virgule, shift-\)
+dash                       _   (underscore, shift--)
+paseq, vertical stroke     !   (exclamation mark, shift-1)
+space                      space
+
+Special characters for Masoretic notes
+
+multi-word abbreviation    ~   (tilde, shift-`)
+circule (wide char)        G   (shift-g)
+circule (narrow char)      H   (shift-h)

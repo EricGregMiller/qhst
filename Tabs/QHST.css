@@ -1,0 +1,230 @@
+body 
+{
+  margin:0 0 0 0; 
+  background-color:#6f7a9e; 
+  color:#ffffff; 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 12px;
+}
+
+a
+{
+  color: #99ccff;
+  font-weight: bold; 
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: #9999ff;
+}
+
+div.Header
+{
+  width: 100%;
+  height: 94px;
+  background: #6f7a9e url(topbg.jpg) left top repeat-x;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#Header a
+{
+  border: solid 0 #6f7a9ef;
+  margin: 0;
+}
+
+#Header img
+{
+  border: solid 0 #6f7a9e;
+  margin: 0;
+  padding: 0;
+}
+
+div.HeaderLinks
+{
+  position: absolute;
+  left: 450px;
+  width: 285px;
+  top: 0px;
+  height: 94px;
+}
+
+div.NavHead
+{
+  position: absolute;
+  left: 0px;
+  top: 10px;
+  height: 17px;
+}
+
+#NavHead a
+{
+  color: #3c4a7e;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+#NavHead a:hover  {
+  background: #000066;
+  color: #99ccff;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+#NavHead ul
+{
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+}
+
+#NavHead li
+{
+  float: left;
+  padding: 0px;
+  margin: 0;
+}
+
+div.Search
+{
+  color: #3c4a7e;
+  position: absolute;
+  left: 10px;
+  bottom: 0px;
+}
+
+div.NavTab
+{
+  background: #6f7a9e;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+  width: 100%;
+  height: 17px;
+  border-bottom-style: solid;
+  border-bottom-color: #333366;
+}
+
+#NavTab a
+{
+  color: #ffffff;
+  background: #000000 url(TabLeftBlackX6f7a9e.jpg) left top no-repeat;
+  text-decoration: none;
+  padding-left: 10px;
+}
+
+#NavTab a span
+{
+  background: url(TabRightBlackX6f7a9e.jpg) right top no-repeat;
+  padding-right: 10px
+}
+
+#NavTab a:hover  {
+  color: #ffffff;
+  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
+  padding-left: 10px;
+}
+
+#NavTab a:hover span
+{
+  background: url(TabRightX333366X6f7a9e.jpg) right top no-repeat;
+  padding-right: 10px;
+} 
+
+#NavTabSel a
+{
+  color: #ffffff;
+  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
+  text-decoration: none;
+  padding-left: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: #333366;
+}
+
+#NavTabSel a span
+{
+  background: url(TabRightX333366X6f7a9e.jpg) right top no-repeat;
+  padding-right: 10px
+}
+
+#NavTabSel a:hover  {
+  color: #ffffff;
+  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
+  padding-left: 10px;
+}
+
+#NavTabSel a:hover span
+{
+  background: url(TabRightX333366X6f7a9e.jpg) right top no-repeat;
+  padding-right: 10px;
+} 
+
+#NavTab ul
+{
+  list-style: none;
+  padding: 2px 0px 0px 0px;
+  margin: 0;
+}
+
+#NavTab li
+{
+  float: left;
+  padding: 0px 0px 0px 0px;
+  margin: 0;
+}
+
+div.NavBar
+{
+  background: #333366;
+  position: absolute;
+  left: 0px;
+  top: 118px;
+  width: 100%;
+  height: 17px;
+}
+
+#NavBar a
+{
+  background: #333366;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+#NavBar a:hover  {
+  background: #000066;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+#NavBar ul
+{
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+}
+
+#NavBar li
+{
+  float: left;
+  padding: 0px;
+  margin: 0;
+}
+
+div.Content
+{
+  position: absolute;
+  right: 125px;
+  left: 0px;
+  top: 136px;
+}
+
+div.Adsense
+{
+  position: absolute;
+  right: 0px;
+  top: 136px;
+  width: 120px;
+  height: 160px;
+}

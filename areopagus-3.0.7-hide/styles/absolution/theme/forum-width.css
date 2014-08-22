@@ -1,0 +1,6 @@
+/*###################### CHOOSE FORUM's WIDTH HERE ##########################*/
+
+#page-wrap {width: 1017px;}
+
+/* Setting this value below 1017px will cause the header to break */
+/* Example values: 1200px, 80%, 100% */
