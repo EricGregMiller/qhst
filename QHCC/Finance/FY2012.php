@@ -26,7 +26,7 @@
   </p>
   <p>
     The stability in our giving allowed us to pay our pastor and our bills regularly. 
-    Looking forward this kind of stable pattern is encouraging.
+    Looking forward this kind of stable pattern is encoraging.
   </p>
   <h2>Balances</h2>
   <p>
