@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>Gleanings in Jeremiah</Name>
+    <TagLine>Selected passages from the prophet Jeremiah.</TagLine>
+    <Description>A Sunday morning series delivered by Pastor Don Patterson in 2015.</Description>
+  </SeriesInfo>
+  <Message>
+    <Name>Wake Up Call: Jeremiah 1:4-12</Name> 
+    <Link>http://www.youtube.com/v/vKQlktULkfk</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>1</Number>
+    <Date>January 25, 2015</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Broken Cisterns: Jeremiah 2:1-19</Name> 
+    <Link>http://www.youtube.com/v/XWoQZWD8JjQ</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>2</Number>
+    <Date>February 1, 2015</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>When God Doesn&#8217;t Listen: Jeremiah 7:1-19</Name>
+    <Link>http://www.youtube.com/v/JCb4sSy3kGA</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>3</Number>
+    <Date>February 8, 2015</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Potter&#8217;s House: Jeremiah 18:1-10; 19:1-2, 10-11</Name> 
+    <Link>http://www.youtube.com/v/nPwxTM5dENE</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>4</Number>
+    <Date>February 15, 2015</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>A Theology of Failure: Jeremiah 20:7-13 (slides only)</Name>
+    <Link>http://www.youtube.com/v/MrQHuzQfHW0</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>5</Number>
+    <Date>February 22, 2015</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+</MessageSeries>
