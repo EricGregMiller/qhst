@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MessageSeriesList>
   <MessageSeries>
+    <Name>Other Messages of 2015</Name>
+    <Link>OtherMessages2015.xml</Link>
+  </MessageSeries>
+  <MessageSeries>
     <Name>Gleanings in Jeremiah</Name>
     <Link>Jeremiah.xml</Link>
   </MessageSeries>

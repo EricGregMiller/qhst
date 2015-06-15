@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>Other Messages of 2015</Name>
+    <TagLine>Message given in 2015 that are not part of a series.</TagLine>
+    <Description></Description>
+  </SeriesInfo>
+  <Message>
+    <Name>God's Love</Name> 
+    <Link>http://www.youtube.com/v/g23wClQEv90</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>1</Number>
+    <Date>March 29, 2015</Date>
+    <Speaker>Greg Yost</Speaker>
+  </Message>
+</MessageSeries>
