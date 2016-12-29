@@ -1,12 +1,53 @@
 <html>
   <head>
     <title>QHCC</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAinTl7kIPuSmKrfJkKn85_BTXbhnmk4zPj9uwejwoA7EINiOXQBRodgoQLOGrVKKItfyl0rNck9ftYQ"></script>
- <script type="text/javascript" src="/QHScript/GoogleFeedcontrol.js"></script>
   <script type="text/javascript">
-    blogFeedType = "QHCC";
+
+      google.load("feeds", "1");
+
+      function initialize() {
+        var feedControl = new google.feeds.FeedControl();
+        feedControl.addFeed("http://nettelhorst.com/?feed=rss2", "Nettelhorst");
+        feedControl.addFeed("http://rellimcire.blogspot.com/feeds/posts/default", "Miller");
+        feedControl.setNumEntries(4);
+        feedControl.setLinkTarget(google.feeds.LINK_TARGET_BLANK);
+        feedControl.draw(document.getElementById("feedControl"), 
+          {
+            drawMode : google.feeds.FeedControl.DRAW_MODE_TABBED
+          }
+        );
+      }
+
+      google.setOnLoadCallback(initialize);
+
   </script>
 <style type="text/css">
+
+.gfc-tabHeader.gfc-tabhActive {
+  border-left: 1px solid #333366;
+  border-right: 1px solid #333366;
+  border-top: 2px solid #333366;
+  font-weight: bold; 
+  color: white;
+  background: #333366;
+  }
+
+.gfc-tabHeader.gfc-tabhInactive {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 2px solid black;
+  color: white;
+  background: black;
+  }
+
+.gf-result .gf-author,
+.gf-result .gf-spacer,
+.gf-result .gf-relativePublishedDate {
+  color: LightGrey;
+  display : inline;
+  }
   img.Left
   {
     float: left;
@@ -32,26 +73,19 @@
   </head>
   <body>
   <div class="spacer">
-  <center>
-    <h2>
-      Welcome to the Website<br/>
-      of<br/>
-      Quartz Hill Community Church.</h2>
-  </center>
+
+<img src="thechurch.jpg" alt="Scenes from QHCC" class="Center"/>
+  
     <p>
-     <img src="service.jpg" alt="Scenes from QHCC" class="Left"/>
+     
 Quartz Hill Community Church is a cozy, comfortable church.  Our focus is on people, plain and simple.  We have a friendly and accepting church and maintain an honest and open atmosphere. Our mission is to be a church for those who do not fit in elsewhere. If any of these qualities are things that you are looking for in a church, Quartz Hill Community waits for you with open arms.
     </p>
     <p>
-      <img src="Tabitha.jpg" alt="Scenes from QHCC" class="Right"/>
+      
 To make it easier we want to introduce ourselves to you. We started by making some videos of us. These impromptu videos taken on a small camera are some real glimpses into who we are. 
        You can look at the videos <a href="PeopleVideo.html">here</a>.
     </p>
-    <p>
-      We also wanted to introduce ourselves to those in our community who have not yet seen our website.
-      For our low-tech introduction we made a flier that summarizes some of the video material and tells people about us.
-      You can see our flier <a href="PeopleFlierFront.html">here</a>.
-    </p>
+    
     <p>
       You can get a more in-depth look at who we are by exploring our website.
       Use the links in the bars at the top and the bottom of each page to guide you.
@@ -59,23 +93,27 @@ To make it easier we want to introduce ourselves to you. We started by making so
     <ul>
       <li><a href="services.html">Services</a> shows our service times and tells a little about each service.</li>
       <li><a href="about.html">About Us</a> talks about our philosophy of ministry and our beliefs.</li>
-      <li><a href="PeopleVideo.html">Videos</a> has the videos mentioned above.</li>
       <li><a href="deacons.html">Servants</a> introduces our leaders.</li>
       <li><a href="announcements.html">Announcements</a> tells what is currently happening.</li>
-      <li><a href="messages.html">Messages</a> has allows you to listen to some of our messagess.</li>
+      <li><a href="sermon.html">Sermons</a> has allows you to listen to some of our sermons.</li>
       <li><a href="Finance">Financial</a> reports our financial situation and offers a chance to give.</li>
       <li><a href="contact.html">Contact Us</a> gives contact information and shows where we are located in the Antelope Valley.</li>
     </ul>
-    <p>
-      Finally some of our members maintain blogs.
+    
+<p>
+<img src="thebuilding.jpg" alt="Scenes from QHCC" class="Center"/>
+</p>
+      <p>Finally some of our members maintain blogs.
       Feeds from their blogs are below.
       The tabs show each person who has a blog.
       Click on a tab to see recent blog entries.
       Feel free to visit and comment.
     </p>
+
   </div>
   <div class="spacer">
-      <div id="feedControl" class="googleFeedControl">Loading</div>
+      <div id="feedControl">Loading</div>
+
   </div>
   </body>
 </html>
