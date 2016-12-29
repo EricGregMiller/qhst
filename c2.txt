@@ -1,0 +1,24 @@
+search.htm:<font face="arial,helvetica,swiss" color="#ffffff">Search the entire www.theology.edu site</th></tr>
+bottomleft.html:<center><font face=arial, helvetica,swiss size=2 color="#FFFFFF">Purchase<br>Quartz Hill Journal <br>of Theology<br>  <a href="http://www.lulu.com/content/131253" target="NEW"><i>HERE</i></a></font><p>
+becomeachristian/indexold.html:<hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080"> 
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+oldsearch.htm:<font face="arial,helvetica,swiss" color="#ffffff">Search the entire www.theology.edu site</th></tr>
+oldsearch.htm:<td align="right"><font face="arial,helvetica,swiss" color="#00008b">Case: <select name="case"><option>Insensitive<option>Sensitive</select></td></tr>
+oldsearch.htm:<td align="right"><font face="arial,helvetica,swiss" size="-2" color="#ffffff">
+guest.htm:<font face="arial,helvetica,swiss" color="#ffffff">Please take a moment to fill out our Guest Book</th></tr>
+libexam1.htm:<FONT COLOR="ff0000"> and</FONT>,
+libexam1.htm:<FONT COLOR="ff0000"> or</FONT>,
+libexam1.htm:<FONT COLOR="ff0000"> not</FONT> or the symbols
+libexam1.htm:<FONT COLOR="ff0000"> &</FONT>, 
+libexam1.htm:<FONT COLOR="ff0000"> |</FONT>, 
+libexam1.htm:<FONT COLOR="ff0000"> !</FONT> to find words and phrases inside other phrases. </B></H4><TABLE ALIGN=center cellpadding=2 border=6><TD><FONT SIZE="+1"><A HREF="/help/netpac.htm" border=0><B>Get Help!</B></A></FONT></TD></FONT></TABLE>
+new-guest.htm:<font face="arial,helvetica,swiss" color="#ffffff">Please take a moment to fill out our Guest Book</th></tr>
+writers/index_files/index.htm:  <o:colormenu v:ext="edit" strokecolor="black"/>
+writers/index2.html:<hr noshade size=5 color="#000000">
+writers/update.htm:  <o:colormenu v:ext="edit" strokecolor="black"/>

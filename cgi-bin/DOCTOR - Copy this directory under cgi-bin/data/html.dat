@@ -1,0 +1,30 @@
+      <center><table border=1 WIDTH="70%" BGCOLOR="#F8F1F1">
+
+        <tr><td colspan=2 BGCOLOR="#D5E6E1"><center><B><FONT COLOR="#000000" size="+1">New Entry Form</FONT></center></B>
+        </td></tr>
+ 
+        <tr><td align=center WIDTH="200" BGCOLOR="#F8F1F1">First Name</a></td>
+        <td><input type=text name="First-Name" size=25></td></tr>
+
+        <tr><td align=center WIDTH="200" BGCOLOR="#F8F1F1">Last Name</a></td>
+        <td><input type=text name="Last-Name" size=25></td></tr>
+
+        <tr><td align=center WIDTH="200" BGCOLOR="#F8F1F1">Business Name</a></td>
+        <td><input type=text name="Business-Name" size=25></td></tr>
+
+         <tr><td align=center WIDTH="200" BGCOLOR="#F8F1F1">State</a></td>
+        <td><input type=text name="State" size=25></td></tr>
+
+  
+        <tr><td align=center WIDTH="200" BGCOLOR="#F8F1F1">Email</a></td>
+        <td><input type=text name="Email" size=25></td></tr>
+
+        <tr><td align=center WIDTH="200" BGCOLOR="#F8F1F1">Web Site</a></td>
+        <td><input type=text name="Web-Site" size=25></td></tr>
+
+        <tr><td align=center WIDTH="200" BGCOLOR="#F8F1F1">Comment</a></td>
+        <td><input type=text name="Comment" size=25></td></tr>
+
+
+        </table>
+        <P></center>

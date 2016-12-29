@@ -1,0 +1,10 @@
+<ul><ul><ul><form method=post action="display.cgi">
+<input type=hidden name ="search" value ="search">
+<font>Location </font>
+<select name="city">
+<option value="">All Locations</option>
+</select><br>
+<FONT>Keyword Search</font>
+<input type="text" name="searchtext" size=20><P>
+<input type=submit Value="Start Search"></form></font><P>
+</ul></ul></ul>

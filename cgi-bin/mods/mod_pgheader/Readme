@@ -1,0 +1,54 @@
+INSTALLATION:
+Use Apache 2.2's apxs to compile and install mod_pgheader, e.g.
+
+(replace the variable below with the location of your Apache2 installation)
+APACHE2=$HOME/apache2
+$APACHE2/bin/apxs  -i -a -c  mod_pgheader.c
+
+(see install.sh)
+
+USE:
+
+1) Make sure mod_pgheader.so is in you modules directory and
+the following line exists in your httpd.conf:
+
+LoadModule pgheader_module    modules/mod_pgheader.so
+
+Normally apxs will have added this line and placed mod_pgheader.so 
+in the modules directory.
+
+2) Enable use of mod_pgheader with this line in httpd.conf (it can
+also appear in a <Directory> section):
+
+   # Add headers and footer on each page
+   AddOutputFilter PGHEADER .html .htm
+
+To prevent recursion, header/footer files must then NOT have ".html" or ".htm"
+as extension.
+
+3) In a directory section, add pgheader directives, for example:
+
+<Directory /home/apache2/htdocs>
+
+AddBodyHead    /home/apache2/htdocs/_head_blank.mkp  /home/apache2/htdocs/some_dir/*
+AddBodyFoot    /home/apache2/htdocs/_foot_blank.mkp  /home/apache2/htdocs/some_dir/*
+
+AddBodyHead /home/apache2/htdocs/_head.mkp        /*
+AddBodyFoot /home/apache2/htdocs/_foot.mkp        /*
+</Directory>
+
+
+The directives are matched longest path first. Once matched, no further matches
+are sought. Thus a "default" head/foot should be placed at the end of a group of 
+head/foot directives.
+
+Header and footer files can have any extension (except the one to which they
+are to be applied, generale ".htm"). If you wish header/footers to be expanded
+for server-side includes, such as the current time or the last-modified time
+of the file being served, you should also add one of these lines to httpd.conf:
+
+either:
+ AddOutputFilter INCLUDES .mkp
+or:
+ AddType text/html .mkp
+

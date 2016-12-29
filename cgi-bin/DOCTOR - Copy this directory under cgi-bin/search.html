@@ -1,0 +1,40 @@
+<html>
+<head><title>Arubian.net</title></head>
+<BODY basefont=-1>
+<font size=+1><font color="0000ff"><b><i> Database on Arubian.net </b></i></font></font>
+<FORM method=post action="database_doctor.cgi">
+<INPUT type="hidden"  name="pass" Value="ok">
+<INPUT type="hidden"  name="user" Value="phonebook">
+Choose any combination of Search terms to locate entries.<p>
+<font size=+1><font color="990000">SELECT</font></font>
+<BR><INPUT type="radio" name="searchtype" value="any" checked> ANY text
+<BR><INPUT type="radio" name="searchtype" value="all"> ALL text
+<BR><SELECT NAME = "field">
+<OPTION value="">
+<OPTION value ="0">Name 
+<OPTION value ="1">Phone 1 
+<OPTION value ="2">Phone 2 
+<OPTION value ="3">Fax   
+<OPTION value ="4">Address
+<select>
+Appearing in this FIELD only (blank = all fields)
+<BR>
+<BR>
+<font size=+1><font color="990000">SEARCH</font></font><BR>
+<INPUT type="text" name="searchtext" size=60 maxlength=60>
+<INPUT type="submit" name="find" value="GO"><p>
+<center><P><hr><p></center>
+<BR>HOW TO NARROW YOUR SEARCH
+<BR>You can use FIELD or in case you have more than one keyword, ANY or ALL. 
+<BR>(If you use only one keyword in the search, the ANY or ALL has no effect) 
+<BR><BR>Leaving FIELD 'Blank' and choose: 
+<BR>ANY will search for any of the keywords in all fields, ex: 'AAA BBB' will result in 'AAA' or 'BBB' from whatever field. 
+<BR>ALL will search for all of the keywords in all fields, ex: 'AAA BBB' will result in 'AAA' and 'BBB' from whatever field. 
+<BR><BR>If you additionally select a FIELD, it will narrow your search even further.
+<BR>Select FIELD 'Name' and choose:
+<BR>ANY will search for any of the keywords in the selected field only, ex: 'AAA BBB' will result in 'AAA' or 'BBB' from NAME field only
+<BR>ALL will search for all of the keywords in the selected field only, ex: 'AAA BBB' will result in 'AAA' and 'BBB' from NAME field only.
+<center><P><hr><p>
+<INPUT type="Submit"  name="search" Value=" Start a New Search "><p>
+<BR><BR><A HREF="http://www.arubian.net/database.html">Back to Database Page</A><p>
+</body></html>

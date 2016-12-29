@@ -1,0 +1,5 @@
+<title>Thanks for your submission!</title>
+<h2>Thanks for your submission!</h2>
+A confirmation email has been sent to [re_email].<br>
+<P>
+Quartz Hill School of Theology

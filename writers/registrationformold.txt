@@ -1,0 +1,105 @@
+<HTML>
+<HEAD>
+<TITLE>Antelope Valley Christian Writer's Association Registration Form</TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" text="#000080">
+<font face=arial, helvetica,swiss size=2>
+<center><img src="image013.jpg" alt="Conference Logo" border=0></center><P><P>
+
+
+<hr>
+
+<center><b>Cost of the writer's conference is $100</b><P>Please fill out the form below to register for the Writer's Conference.  If you wish to pay by check, then please send your check for 100 dollars (made out to Quartz Hill School of Theology) to the following address:<P>
+Antelope Valley Christian Writer's Conference<br>
+43543 51st Street West<br>
+Quartz Hill, CA 93536<br>
+661-722-0891<P>
+
+If you wish to pay by credit card, you may do so through CCNow by following the instructions after you register.</center>
+<hr>
+<form method="post" action="../cgi-bin/af.cgi">
+<input type="hidden" name="_send_email1" value="email4.txt">
+<input type="hidden" name="_out_file"    value="logfile.txt">
+<input type="hidden" name="_error_path"  value="error.txt">
+<input type="hidden" name="_error_path"  value="error.txt">
+<input type="hidden" name="_browser_out" value="pay.txt">
+<input type="hidden" name="form" value="Diploma Inquiry">
+
+<P>
+<B>How did you find out about the Antelope Valley Christian Writer's Conference?</B>
+<P>
+<SELECT NAME="source">
+<OPTION>Yahoo
+<OPTION>Google
+<OPTION>Link from Another Web Page
+<OPTION>Word of Mouth
+<OPTION>email
+<OPTION>news article
+<OPTION>Other
+</SELECT>
+
+<P>
+<B>Which Web browser(s) are you currently using?</B>
+<P>  
+AOL <INPUT NAME="AOL" TYPE="CHECKBOX"><br>
+Netscape <INPUT NAME="netscape" TYPE="CHECKBOX"><br>
+Internet Explorer <INPUT NAME="inetexplore" TYPE="CHECKBOX"><br>
+Firefox <INPUT NAME="Firefox" TYPE="CHECKBOX"><br>
+Other <INPUT NAME="other" TYPE="CHECKBOX">
+<P>
+
+<P>
+<B>The following will help us with planning:</B>
+<P>
+I write:
+<P>  
+Fiction<INPUT NAME="fiction" TYPE="CHECKBOX"><br>
+Nonfiction<INPUT NAME="nofiction" TYPE="CHECKBOX"><br>
+Devotionals<INPUT NAME="devotionals" TYPE="CHECKBOX"><br>
+Poetry<INPUT NAME="poetry" TYPE="CHECKBOX"><br>
+
+<P>
+<B>Please tell us the name of your church and denomination:</B><BR>
+<P>
+<TEXTAREA NAME="Denomination" ROWS=3 COLS=40 >
+</TEXTAREA>
+<P>
+<P>
+<B>Please type in your complete address, including your country, state, province and city:</B><BR>
+<P>
+<TEXTAREA NAME="Address" ROWS=3 COLS=40 >
+</TEXTAREA>
+<P>
+<P> 
+<B>Please use this space for general comments or questions about the Antelope Valley Christian Writer's Conference:</B><BR>
+<P>
+<TEXTAREA NAME="Comments" ROWS=10 COLS=40 >
+</TEXTAREA>
+<P>
+<P>
+<B>If you have a Web page, what is your URL?</B><BR>
+<P>
+<P>
+<INPUT NAME="URL" TYPE="TEXT" VALUE="http://" SIZE=75 MAXLENGTH=60>
+<P>
+<P>
+<B>Please enter your full name:</B>
+<P>
+<INPUT NAME="NAME" TYPE="TEXT" SIZE=75 MAXLENGTH=75>
+<P>
+<P>
+<B>What is your Email address?</I></B>
+<P>
+<INPUT NAME="Email" TYPE="TEXT" SIZE=60>
+<P>
+<P>
+<P>
+<INPUT TYPE="SUBMIT" VALUE="Send Now">   <INPUT TYPE="RESET" VALUE="Clear">
+</FORM>
+
+<P>
+
+<hr>
+<P>
+</BODY>
+</HTML>

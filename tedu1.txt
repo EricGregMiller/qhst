@@ -1,0 +1,88 @@
+index.html:         <p><center><a href="http://www.theology.edu/writers" target="NEW">The Antelope Valley Christian Writer's Guild</a></center>
+index.html:        <p><center><a href="http://www.theology.edu/booksale.html" target="NEW">Our Annual Booksale</a></center>
+3john/3jnappend.htm:(the font used is SP Ionic, available on this website on the <A HREF="http://www.theology.edu/fonts.htm">Software</A> page.</center>
+3john/3jnintro.htm:3. Third John is an extremely important book for modern Christianity.  For that reason it deserves our attention.  In order to gain the most from the text, the student is required to read the english text, the Latin text, and the Greek text of this letter.  he or she is also required to read the following commentary on the book:  "3 John" in <i>The New Interpreter's Bible</i>, Vol 12 (Abingdon: 1998).    Books may be purchased through <a href="http://www.theology.edu/amazon.htm"> The Campus Bookstore</a>.
+apologetics/trinity.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A> and
+apologetics/trinity.htm:<B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A>
+b451intr.htm:href="http://www.theology.edu/amazon.htm">The Campus Bookstore</A>. 
+b451intr.htm:<P><A href="http://www.theology.edu/b451.htm">Lectures and Assigned Reading</A> 
+b451intr.htm:<P><A href="http://www.theology.edu/b451ques.htm">Essay Questions</A> 
+genesis.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+booksale/index.html:<INPUT TYPE="hidden" NAME="resulturl" VALUE="http://www.theology.edu/">
+catalog/pub.htm:(ISSN 1075-4687) and a quarterly journal, <A HREF="http://www.theology.edu/more.htm">Quartz Hill Journal of Theology </A>(ISSN
+catalog/relation.htm:&nbsp; &nbsp; &nbsp; &nbsp;Quartz Hill School of Theology is a ministry of <A HREF="http://www.theology.edu/church.htm">Quartz Hill Community Church</A>,
+hosea/hosea01.htm:&nbsp; &nbsp; &nbsp; &nbsp;The texbook may be purchased through <a href="http://www.theology.edu/amazon.htm"> The Campus Bookstore</a>.<P>
+theology/theology.htm:<CENTER><B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A></CENTER>
+theology/welcome-.htm:<CENTER><A HREF="http://www.theology.edu/curtis/" target="NEW"><IMG SRC="top.jpg" BORDER=0 HEIGHT=54 WIDTH=400></A>
+mainbody.html:<a href="http://www.theology.edu/writers" target=new>The High Desert Christian Writer’s Guild</a>
+jesus/theology.htm:<CENTER><B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A></CENTER>
+jesus/trinity.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A> and
+jesus/trinity.htm:<B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A>
+diploma.htm:  <INPUT TYPE="hidden" NAME="resulturl" VALUE="http://www.theology.edu/acknow3.htm">
+diploma.html:<INPUT TYPE="hidden" NAME="resulturl" VALUE="http://www.theology.edu/acknow3.htm">
+curtis/index.html:<AREA SHAPE="rect" ALT="Return" COORDS="538,36,586,52" HREF="http://www.theology.edu/">
+diatribes/diatribe06.htm:<A HREF="http://www.theology.edu/journal/volume2/women.htm">Is Barefoot and Pregnant God's Plan for Women?</A></center>
+search/index.html:<input type=hidden name=domains value="http://www.theology.edu"><br><input type=radio name=sitesearch value=""> WWW <input type=radio name=sitesearch value="http://www.theology.edu" checked> www.theology.edu <br>
+journal/questions/question.htm:<B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A></CENTER>
+journal/volume1/churstat.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume1/pain.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume1/silence.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume1/theme.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A>
+journal/volume1/theme.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume1/tr.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A>
+journal/volume1/tr.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume1/trinity.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A> and
+journal/volume1/trinity.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume1/ushistor.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A>
+journal/volume1/ushistor.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume1/churchstat.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume2/churstat.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume2/commit.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume2/genesis.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume2/green.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume2/immoral.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume2/lesson.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume2/ushistor.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A>
+journal/volume2/ushistor.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/volume2/women.htm:<p><b>Return to the</b> <a href="http://www.theology.edu/index.html">Quartz Hill School of
+journal/contribut.htm:&nbsp; &nbsp; &nbsp; &nbsp;The editor of <I><A HREF="http://www.theology.edu/more.htm" target="NEW">Quartz Hill Journal of Theology</A></I> and Academic Vice President of <A HREF="http://www.theology.edu" target="NEW">Quartz Hill School of Theology</A>.  He also serves as the School's Professor of Bible and Biblical Languages.<br>
+journal/contribut.htm:&nbsp; &nbsp; &nbsp; &nbsp;Don Patterson is the Senior Pastor of <A HREF="church.htm">Quartz Hill Community Church</A> and President of <A HREF="http://www.theology.edu">Quartz Hill School of Theology</A>.  He has pastored and ministered to churches in California and Arkansas for the past twenty-two years.  He holds a BA from <A HREF="http://www.calbaptist.edu">California Baptist University</A> in Riverside and an MDiv from <A HREF="http://www.ggbts.edu">Golden Gate Baptist Theological Seminary</A> in Mill Valley, California.  Cartooning, novel writing, and back road "exploring" take up his precious moments of free time.  For the past eight years he has lived in Quartz Hill with his wife Karen, an elementary teacher at Desert Christian School, and two typically rambunctious teenage sons.<P>
+biblesurvey/theme.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A>
+biblesurvey/theme.htm:<B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A><p>
+biblesurvey/tr.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A>
+biblesurvey/tr.htm:<B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A>
+old-guest.htm:<INPUT TYPE="hidden" NAME="resulturl" VALUE="http://www.theology.edu/acknow2.htm">
+oldsearch.htm:<form method=POST action="http://www.theology.edu/cgi-bin/search.pl">
+old-search.htm:<form method=POST action="http://www.theology.edu/cgi-bin/search.pl">
+guest.htm:<INPUT TYPE="hidden" NAME="resulturl" VALUE="http://www.theology.edu/acknow2.htm">
+home3.htm:<A HREF="http://www.theology.edu/curtis/"><IMG SRC="top.jpg"></A>
+library.htm:<CENTER><P><B>Be sure to visit the Quartz Hill School of Theology <A HREF="http://www.theology.edu">Home
+new-guest.htm:<INPUT TYPE="hidden" NAME="resulturl" VALUE="http://www.theology.edu/acknow2.htm">
+new-search.html:<form method=POST action="http://www.theology.edu/cgi-bin/search.pl">
+theology.htm:<CENTER><B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A></CENTER>
+trinity.htm:<A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A> and
+trinity.htm:<B>Return to the</B> <A HREF="http://www.theology.edu">Home Page</A>
+welcome-.htm:<CENTER><A HREF="http://www.theology.edu/curtis/" target="NEW"><IMG SRC="top.jpg" BORDER=0 HEIGHT=54 WIDTH=400></A>
+beyond.htm:          the faculty and students of <A HREF="http://www.theology.edu">Quartz Hill School 
+beyond.htm:          and students of <A HREF="http://www.theology.edu">Quartz Hill School of Theology</A>. 
+beyond.htm:          <A HREF="http://www.theology.edu/boxaudio/science.ra">January 8, 2000 - Science 
+beyond.htm:          <A HREF="http://www.theology.edu/boxaudio/Bonhoffer.ra">January 22, 2000 - 20th 
+beyond.htm:          <A HREF="http://www.theology.edu/boxaudio/jurgem-moultman.ra">January 29, 2000 - 
+beyond.htm:            &nbsp; &nbsp; &nbsp; &nbsp;<A HREF="http://www.theology.edu">Quartz Hill School 
+beyondarchive.htm:<A HREF="http://www.theology.edu/boxaudio/science.ra">January 8, 2000 - Science and Religion</A><br>
+beyondarchive.htm:<A HREF="http://www.theology.edu/boxaudio/Bonhoffer.ra">January 22, 2000 - 20th Century Theology: Dietrich Bonhoeffer</A><br>
+beyondarchive.htm:<A HREF="http://www.theology.edu/boxaudio/jurgem-moultman.ra">January 29, 2000 - 20th Century Theology: Jurgen Moltman</A><P>
+beyondarchive.htm:&nbsp; &nbsp; &nbsp; &nbsp;On Saturdays from 4:00 - 6:00 PM (U.S. Pacific Time) the faculty and students of <A HREF="http://www.theology.edu"> Quartz Hill School of Theology</a> will offer a weekly discussion format Internet Radio broadcast called <i>Beyond the Box</i>.  The broadcast will be conducted live. The program is hosted by <a href="http://www.qnet.com" target="NEW">Quantum Networking Solutions, Inc. (QNet)</a> on their website <a href="http://www.whatson.net" target="NEW">WhatsOn.net</a>.  <br>
+beyondarchive.htm:&nbsp; &nbsp; &nbsp; &nbsp;The participants in the broadcast will include faculty and students of <A HREF="http://www.theology.edu"> Quartz Hill School of Theology</a>.   Listeners may participate by email (<A HREF="mailto:thebox@theology.edu">thebox@theology.edu</A>), ICQ (57053108), or by calling the studio (during the broadcast) toll free (in the United States) at 1-888-987-3100.<br>
+beyondarchive.htm:&nbsp; &nbsp; &nbsp; &nbsp;<A HREF="http://www.theology.edu">Quartz Hill School of Theology</a> is located in the facilities of Quartz Hill Community Church, 43543 51st Street West, Quartz Hill, CA 93536.  Phone: 661-943-3484.  Email: info@theology.edu.<p>
+greek411.htm:course you must <A HREF="http://www.theology.edu/onlinecourses.html#shareware">register<A>.
+response.htm:normal'><A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A>
+response2.htm:<p align=center style='margin:0in;margin-bottom:.0001pt;text-align:center'><A HREF="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</A>
+but.htm:10.0pt'><a href="http://www.theology.edu//Information/robin.htm">R.P. Nettelhorst</a><o:p></o:p></span></p>
+writers/index_files/index.htm:href="http://www.theology.edu/writers/registrationform.htm">Register for the
+writers/index_files/index.htm:href="http://www.theology.edu/">Quartz Hill School of Theology</a><o:p></o:p></span></h1>
+writers/index_files/index.htm:href="http://www.theology.edu/writers/registrationform.htm">Register for the
+writers/index_files/index.htm:href="http://www.theology.edu/writers/registrationform.htm">Register for the
+writers/index_files/index.htm:href="http://www.theology.edu/writers/registrationform.htm">Register for the Conference
+writers/index2.html:<A HREF="http://www.theology.edu" target="NEW">Quartz Hill School of Theology</A><p>
+search.html:<input type=hidden name=domains value="http://www.theology.edu"><br><input type=radio name=sitesearch value=""> WWW <input type=radio name=sitesearch value="http://www.theology.edu" checked> www.theology.edu <br>

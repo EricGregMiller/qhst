@@ -1,0 +1,18 @@
+<html>
+ <head>
+  <title></title>
+<META CONTENT="Quartz Hill School of Theology" NAME="Description">
+<META CONTENT="www.theology.edu" NAME="Company">
+<META CONTENT="theology" NAME="keyword">
+<META NAME="Author" CONTENT="Imagyne the Possibilities - www.imagyne.com">
+
+ </head>
+<body>
+background="animated-associates-button.gif">
+
+
+
+
+</body>
+
+</html>

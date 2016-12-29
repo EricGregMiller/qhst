@@ -1,0 +1,33 @@
+To: streams@theology.edu
+From: [re_email]
+Writer's Conference
+I found you on [source]
+I browse the internet
+[AOL] AOL
+[netscape] Netscape
+[inetexplore] Internet Explorer
+[firefox] Firefox
+[other] Other
+
+ I write 
+[fiction] Fiction
+[nonfiction] Nonfiction
+[devotionals] Devotionals
+[poetry] Poetry
+
+My denomination is [Denomination]
+Address: [Address]
+
+Comments:
+[Comments]
+
+Webpage:
+[URL]
+
+My full name is:
+[NAME]
+
+Email:
+[Email]
+
+I submitted the form on [%HTTP_REFERER]. My IP address is [%REMOTE_ADDR].

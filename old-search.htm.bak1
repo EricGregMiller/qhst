@@ -1,0 +1,37 @@
+<html>
+ <head>
+  <title>Quartz Hill School of Theology Search Engine</title>
+  <link rel="shortcut icon" href="/Master/qhst.ico" />
+  <link rel="stylesheet" type="text/css" href="/Master/QHST.css" />
+  <script src="/Master/NavigateButtonSupport.js"></script>
+ </head>
+<body>
+  <script src="/Master/QHSTPageBegin.js"></script>
+  <center>
+   <CENTER><img src="search.jpg" alt="Search Engine" align=middle></CENTER><P><P>
+  
+
+	<B>Use the form below to search through the pages of Quartz Hill School of Theology</B><BR>
+Searches may take a few moments.</center><p>
+<hr size=7 width=75%><p>
+<form method=POST action="/cgi-bin/search.pl">
+<center><table border>
+<tr>
+<th>Text to Search For: </th><th><input type=text name="terms" size=40><br></th>
+</tr><tr>
+<th>Boolean: <select name="boolean">
+<option>AND
+<option>OR
+</select> </th> <th>Case <select name="case">
+<option>Insensitive
+<option>Sensitive
+</select><br></th>
+</tr><tr>
+<th colspan=2><input type=submit value="Search!"> <input type=reset><br></th>
+</tr></table></form></center>
+<hr size=7 width=75%><p>
+<CENTER><B>Simple Search was created by Matt Wright; it can be found at <a 
+href="http://www.worldwidemart.com/scripts/">Matt's Script Archive</a>.</B> <P><P><P>
+<hr size=7 width=75%><P><P><P>
+  <script src="/Master/QHSTPageEnd.js"></script>
+</body></html>

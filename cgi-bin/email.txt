@@ -1,0 +1,28 @@
+To: robin@theology.edu
+From: [re_email]
+
+I found you on [source]
+
+I browse the internet
+[AOL] AOL
+[prodigy] Prodigy
+[netscape] Netscape
+[inetexplore] Internet Explorer
+[other] Other
+
+My Name:
+[NAME]
+
+My address is
+[Address]
+
+Comments:
+[Comments]
+
+Webpage:
+[URL]
+
+Email:
+[re_email]
+
+I submitted the form on [%HTTP_REFERER]. My IP address is [%REMOTE_ADDR].

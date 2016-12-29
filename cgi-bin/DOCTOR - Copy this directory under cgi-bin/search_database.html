@@ -1,0 +1,52 @@
+<html>
+<head><title>Database Maintenance</title></head>
+<BODY>
+<center>
+<table width=400 cellpadding=4 cellspacing=0 border=0>
+
+<tr bgcolor="#800080">
+<th colspan=4><font face=arial,helvetica,swiss size=4 color="#ffffff">Search Our Database</th>
+</tr>
+
+<FORM method=post action="search_database.cgi">
+<INPUT type="hidden"  name="pass" Value="ok">
+<INPUT type="hidden"  name="user" Value="rick">
+
+
+<tr>
+<td bgcolor="#800080"><img src="blank.gif"></td>
+<th bgcolor="#dddddd">
+
+<font face=arial,helvetica,swiss size=2>
+Choose any combination of Search terms to locate entries to edit.<p>
+SEARCH by Keywords:<BR><font size=3>
+<INPUT type="text" name="searchtext" size=30 maxlength=60></font>
+<BR>Search for documents containing <INPUT type="radio" name="searchtype" value="any" checked> ANY or <INPUT type="radio" name="searchtype" value="all"> ALL of these words or phrases.
+<hr size=1 width=95% noshade>
+Search only in this Field
+<SELECT NAME = "field">
+<OPTION value="">
+<OPTION value ="0">First-Name
+<OPTION value ="1">Last-Name
+<OPTION value ="2">Business-Name
+<OPTION value ="3">State
+<OPTION value ="4">Email
+<OPTION value ="5">Web-Site
+<OPTION value ="6">Comment
+<select>
+</td>
+<td bgcolor="#dddddd"><img src="blank.gif"></td>
+<td bgcolor="#800080"><img src="blank.gif"></td></tr>
+
+<tr bgcolor="#dddddd">
+<td bgcolor="#800080"><img src="blank.gif"></td>
+<th colspan=2>
+<INPUT type="submit" name="find" value="START SEARCH">
+</th>
+<td bgcolor="#800080"><img src="blank.gif"></td></tr>
+
+<tr bgcolor="#800080"><th colspan=4><img src="blank.gif"></th></tr>
+</table>
+</center>
+</body>
+</html>

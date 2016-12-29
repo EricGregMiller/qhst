@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+     creator="GMapToGPX 4.14 - http://www.elsewhere.org/GMapToGPX/"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <rte>
+      <name>Gmaps Pedometer Route</name>
+      <cmt>Permalink: <![CDATA[
+Permalink temporarily unavailable.
+]]>
+</cmt>
+      <rtept lat="37.71258" lon="-119.58635">
+         <name>Start</name>
+         <ele>2356.72884</ele>
+      </rtept>
+      <rtept lat="37.71284" lon="-119.58668">
+         <name>Turn 1</name>
+         <ele>2351.44665</ele>
+      </rtept>
+      <rtept lat="37.71173" lon="-119.58742">
+         <name>Turn 2</name>
+         <ele>2344.51245</ele>
+      </rtept>
+      <rtept lat="37.71112" lon="-119.58819">
+         <name>Turn 3</name>
+         <ele>2340.67807</ele>
+      </rtept>
+      <rtept lat="37.71146" lon="-119.5909">
+         <name>Turn 4</name>
+         <ele>2340.73903</ele>
+      </rtept>
+      <rtept lat="37.71112" lon="-119.59596">
+         <name>Turn 5</name>
+         <ele>2352.61708</ele>
+      </rtept>
+      <rtept lat="37.71078" lon="-119.59862">
+         <name>Turn 6</name>
+         <ele>2347.06363</ele>
+      </rtept>
+      <rtept lat="37.71023" lon="-119.60034">
+         <name>Turn 7</name>
+         <ele>2336.65776</ele>
+      </rtept>
+      <rtept lat="37.71027" lon="-119.60154">
+         <name>Turn 8</name>
+         <ele>2326.22445</ele>
+      </rtept>
+      <rtept lat="37.71068" lon="-119.60223">
+         <name>Turn 9</name>
+         <ele>2308.82952</ele>
+      </rtept>
+      <rtept lat="37.71129" lon="-119.60388">
+         <name>Turn 10</name>
+         <ele>2274.7224</ele>
+      </rtept>
+      <rtept lat="37.71159" lon="-119.60487">
+         <name>Turn 11</name>
+         <ele>2252.33484</ele>
+      </rtept>
+   </rte>
+</gpx>

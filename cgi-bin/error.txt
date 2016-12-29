@@ -1,0 +1,5 @@
+<title>[%OUT_TITLE]</title>
+<h2>[%OUT_TITLE]</h2>
+
+[%OUT_MSG]<p>
+

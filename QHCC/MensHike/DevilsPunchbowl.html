@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<HEAD>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+  <title>Devil's Punchbowl Hike Information</title>
+  <style type="text/css">
+    #Map 
+    {
+      background-color: LightBlue;
+      position: relative;
+      width: 683px;
+      height: 513px;
+    }
+    #Topo
+    {
+      border-style: none;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+    #Trails
+    {
+      border-style: none;
+      z-index: 1; 
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+  </style>
+  <style type="text/css">
+    v\:* {
+      behavior:url(#default#VML);
+    }
+  </style>
+  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAVuUD8Ye7uzPIb5Mx3jdMVhTXbhnmk4zPj9uwejwoA7EINiOXQBQoWc8Ue4mCTG8usO7a7Sou07j1Ug" type="text/javascript"></script>
+  <script src="GoogleMapEncode.js" type="text/javascript"></script>
+  <script src="EricGoogleMap.js" type="text/javascript"></script>
+  <script src="DevilsPunchbowl.js"></script>
+  <script type="text/javascript">
+    var gMap;
+    var gHikeRouteData;
+
+    function LoadEricGoogleMap() 
+    {
+      if (GBrowserIsCompatible()) 
+      {
+        gMap = InitializeMap("MapRoute", 34.40992, -117.85335, 14, 'Topo');
+        var routePoints = LoadRoute("DevilsChairHike.xml");
+        gHikeRouteData = CreateRoute(routePoints);        SetRoute("HikeRouteOnCheck", gMap, gHikeRouteData);
+      }
+    }
+  </script>
+</head>
+<body onload="InitMap();LoadEricGoogleMap()" onunload="GUnload()">
+  <table><tr><td>
+  <h1>Devil's Punchbowl Hike</h1>
+  <table><tr><td>
+  <a href="http://www.devils-punchbowl.com/"><img src="DevilsPunchbowl.jpg"></a>
+  <p>
+  Saturday, Jan 13, Rex, Robin and Eric met to hike <a href="http://www.devils-punchbowl.com/">Devil's Punchbowl</a>.
+  We hiked to Devil's Chair, a 3.7mi one way (7.4mi round trip) hike that climbs up about 500ft and back down at the end.
+  The round trip hike took just over 3 hours, an hour less than the 4 the <a href="http://www.devils-punchbowl.com/">Devil's Punchbowl website</a> says to plan on.
+  </p>  
+  <img src="DevilsPunchbowl/TrailJunctionSign.jpg">
+  <p>
+  We continued our trend of picking bad weather weekends. 
+  For Godde Hill, Baden-Powell and Bouquet Canyon we picked the one rainy weekend in the month, during a relatively dry year.
+  For Devil's Punchbowl, a snow storm was predicted for Thursday and Friday, and the Saturday of the hike was the coldest day yet this winter.
+  We almost chose a more local location, both because of possible snow fall and because of the predicted cold.
+  However, we decided it would be cold everywhere and kept our original plans to hike Devil's Punchbowl.
+  </p>  
+  <img src="DevilsPunchbowl/HikingSnowField.jpg">
+  <p>
+  We were rewarded with bone chilling cold, but had sun and almost no wind.
+  The lack of wind made this the most pleasant hike weather-wise, despite temperatures never getting above 30 deg F.
+  The trail was also very good, contained no really bad climbs and the scenery was unbeatable.
+  </p>
+  <img src="DevilsPunchbowl/RobinRexView.jpg">
+  <p>
+  Our early start enabled us to be the first to get to Devil's Chair (we passed the one group that left before us).
+  Because of this, we enjoyed solitude, quiet and pristine snow along the trail.
+  We were able see animal tracks as we hiked across several snow fields.
+  The snow was not really a problem, though, because it was never more than 2 inches deep.
+  </p>  
+  <img src="DevilsPunchbowl/SnowTracksRex.jpg">
+  <p>
+  The trail makes a steep descent a little before Devils Chair.
+  There is then a juntion (with a sign) before a short hike to the chair itself.
+  The view from Devils Chair is more than worth the hike to get there.
+  </p>  
+  <img src="DevilsPunchbowl/DevilsChairEricRobin.jpg">
+  <p>
+  We ate lunch at the end of the hike (around noon) on some stone benches overlooking the Punchbowl.
+  Then we felt so good, we decided to hike the short (1 mile) loop trail down into the Punchbowl.
+  In the bowl, we saw awesome rocks and a mostly frozen river.
+  Rex and Robin conducted physics experiments, using rocks to test the kinetic energy that the ice could survive.
+  (The rocks eventually won!)
+  The loop trail comes back up and merges with the very end of the Devil's Chair trail at the point where we ate lunch.
+  </p>
+  </td></tr>
+  <tr><td>
+  <h2>Map</h2>
+  <p>
+    Before we hiked, the beginning of the trail was hard to find, either by topo map or by satellite. 
+    Here is an attempt to match a topo map with a trail map taken from the <a href="http://www.devils-punchbowl.com/">Devil's Punchbowl website</a>.
+  </p>
+  <form>
+    <input type="radio" name="MapChoice" id="TopoRadio" value="Topo" checked onclick="ShowMap()">Topo</input>
+    <input type="radio" name="MapChoice" id="TrailsRadio" value="Trails" onclick="ShowMap()">Trails</input>
+    <input type="radio" name="MapChoice" id="TopoTrailsRadio" value="TopoTrails" onclick="ShowMap()">Topo and Trails</input>
+  </form>
+  <div id="Map">
+    <div id="Topo" style="visibility: visible;"><img src="DevilsPunchbowlTopo.jpg"></div>
+    <div id="Trails" style="visibility: hidden;"><img src="DevilsPunchbowlTrailOverlay.png"></div>
+  </div>
+  <p><!--Old route 623004-->
+    Here the trail on <a href="http://www.gmap-pedometer.com/?r=642463">Gmaps Pedometer</a>.
+    The trail leaves the SE corner of the Devil's Punchbowl parking lot.
+    It travels for a little over a mile before it meets the Devil's backbone trail.
+    From there it is two miles to Devil's Chair, accoring to the trail junction sign.
+    It begins at an elevation of 4760ft, climbs almost to it's high point of 5300ft in the first mile.
+    After that the trail winds around and through small hills and valleys with minor up and down climbs.
+    Finally, in the last half mile, it drops sharply down about 300ft to Devil's Chair.
+  </p>
+  <div style="position: relative;">
+  <form>
+    <input type="checkbox" name="HikeRouteOn" id="HikeRouteOnCheck" checked onclick="SetRoute(this, gMap, gHikeRouteData)">Show Hike Route</input>
+  </form>
+  </div>
+  <div id="MapRoute" style="border:1px solid black; position: relative; width: 700px; height: 500px;">
+  </div>
+  </td></tr></table>
+  <p>
+  Here is the map from <a href="http://www.topozone.com/map.asp?lat=34.40992&lon=-117.85335&datum=nad83&u=5&layer=DRG&size=l&s=50">TopoZone</a>.
+  </p>
+  <p>
+  Here is a link to <a href="http://maps.yahoo.com/broadband/#q2=34.413885%2C-117.858627&q1=44231+Sundell+Ave%2C+LANCASTER%2C+CA%2C+93536-5956&trf=0&mvt=m&lon=-118.01548&lat=34.550963&mag=7">Yahoo Maps</a>.
+  </p>
+  <br>
+  <br>
+</body>
+</html>

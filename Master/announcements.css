@@ -1,0 +1,7 @@
+td.Top {background-image:url('topbg.jpg')}
+td.Left {background-image:url('left.jpg'); valign:top; width:11%}
+td.Content {valign:top; width:95%}
+h1 {font-family: Arial, Helvetica, sans-serif; font-size: 32px; font-weight: bold; color: #FFFFFF; text-decoration: none; text-align:center}
+h2 {font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: bold; color: #FFFFFF; text-decoration: none; text-align:center}
+ul {list-style-type: disc}
+li {font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: #99CCFF; text-decoration: none; text-align:left; margin-left: 0.5in}

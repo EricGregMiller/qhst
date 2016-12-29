@@ -1,0 +1,29 @@
+To: robin@theology.edu
+From: [re_email]
+Guestbook Entry
+I found you on [source]
+I Enjoyed [Preferences]
+I browse the internet
+[AOL] AOL
+[prodigy] Prodigy
+[netscape] Netscape
+[inetexplore] Internet Explorer
+[other] Other
+
+Will I visit Again? [visitagain]
+I live in [region]
+Country: [Country]
+
+Comments:
+[Comments]
+
+Webpage:
+[URL]
+
+My full name is:
+[NAME]
+
+Email:
+[re_email]
+
+I submitted the form on [%HTTP_REFERER]. My IP address is [%REMOTE_ADDR].

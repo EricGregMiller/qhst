@@ -1,0 +1,56 @@
+<html>
+ <head>
+  <title>Beyond the Box Archive</title>
+<META CONTENT="Quartz Hill School of Theology" NAME="Description">
+<META CONTENT="www.theology.edu" NAME="Company">
+<META CONTENT="theology" NAME="keyword">
+<META CONTENT="Beyond the Box" NAME="keyword">
+
+<META NAME="Author" CONTENT="Imagyne the Possibilities - www.imagyne.com">
+
+ </head>
+<BODY bgcolor="#ffffff" text="#000080">
+<font face=arial, helvetica,swiss size=2>
+
+<center>
+
+<A HREF="http://www.whatson.net/cgi-bin/whatson-playlist.pls"><img src="archivesmall.jpg" alt="Click here to listen live to Beyond the Box" border=0></A></center>
+<center>
+<b>
+<i>We don't think we have all the answers.  <br>We just think we have lots of questions...</i>
+</b></center>
+<p>
+<center>Click here to go to the Webcast <br>Saturdays 4:00-6:00 PM US Pacific Time <br>(If you click at other times, chances are you'll get music): <p>
+<P>
+<hr>
+<P>
+<b><h2>What is Beyond the Box?</h2></b><p>
+&nbsp; &nbsp; &nbsp; &nbsp;On Saturdays from 4:00 - 6:00 PM (U.S. Pacific Time) the faculty and students of <A HREF="http://www.theology.edu"> Quartz Hill School of Theology</a> will offer a weekly discussion format Internet Radio broadcast called <i>Beyond the Box</i>.  The broadcast will be conducted live. The program is hosted by <a href="http://www.qnet.com" target="NEW">Quantum Networking Solutions, Inc. (QNet)</a> on their website <a href="http://www.whatson.net" target="NEW">WhatsOn.net</a>.  <br>
+
+&nbsp; &nbsp; &nbsp; &nbsp;Theology is not a finished set of dogmatic propositions.  Rather, theology is a wide open field of endeavor.  God is not tame; he does not easily fit into a set of propositions, a simple equation, a small or large box.  Solomon, as he contemplated the temple he had built, stated: "But will God really dwell on earth? The heavens, even the highest heaven, cannot contain you. How much less this temple I have built!" (1 Kings 8:27; parallel account 1 Chronicles 6:18).  Metaphorically, we might argue the same.  God is infinite and we are finite, thus, we can only comprehend a finite portion of him.  There are more questions than answers in the field of theology.  Our job on this program (like the theology courses at Quartz Hill School of Theology), will be more to ask these endless questions, than to give settled answers.<br>
+
+&nbsp; &nbsp; &nbsp; &nbsp;The participants in the broadcast will include faculty and students of <A HREF="http://www.theology.edu"> Quartz Hill School of Theology</a>.   Listeners may participate by email (<A HREF="mailto:thebox@theology.edu">thebox@theology.edu</A>), ICQ (57053108), or by calling the studio (during the broadcast) toll free (in the United States) at 1-888-987-3100.<br>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<A HREF="http://www.theology.edu">Quartz Hill School of Theology</a> is located in the facilities of Quartz Hill Community Church, 43543 51st Street West, Quartz Hill, CA 93536.  Phone: 661-943-3484.  Email: info@theology.edu.   See below for a list of future topics and scheduled air dates.<p>
+<hr>
+<P>
+<center><b><h2>Archived Shows</h2><br>
+</center><p>
+
+<A HREF="http://www.theology.edu/boxaudio/science and religion.ra">January 8, 2000 - Science and Religion</A><P>
+<hr><P>
+<center><b>Comments, suggestions, ideas?  Email us any time:</b><p>
+<A HREF="mailto:info@theology.edu"><IMG SRC="mail.gif" BORDER=0 HEIGHT=35 WIDTH=65></A> 
+</center><P>
+<hr><P>
+<center>
+<a href="http://www.whatson.net/ "target="NEW"><img src="whatson.jpg" alt="WhatsOn.net" border=0></a>
+</center>
+<p>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<P>
+&nbsp; &nbsp; &nbsp; &nbsp;<P>
+&nbsp; &nbsp; &nbsp; &nbsp;<P>
+&nbsp; &nbsp; &nbsp; &nbsp;<P>
+</body>
+</html>

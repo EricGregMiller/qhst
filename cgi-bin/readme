@@ -1,0 +1,168 @@
+#################################
+# Chat Script Version 1.0.4
+#
+# By Command-O Software
+# http://www.command-o.com
+#
+# Copyright 1996
+# All Rights Reserved
+#################################
+
+This script is provided to the internet community free of charge.
+
+The chat script when you get it consists of two files:
+    
+    chat.pl -- the actual script. It will create a couple files on 
+               its own if you have it set up properly.
+               
+    README -- this file which provides more information on setting
+              up the script.
+              
+First of all you must put the script in your cgi-bin directory or if
+your server allows it anywhere else in your area (if you place it 
+elsewhere you will likely need to call it "chat.cgi"). Then you need 
+to set the permissions for the script:
+
+     chmod 755 chat.pl
+       or
+     chmod 755 chat.cgi
+       depending on the name.
+
+Then you need to define the variables at the beginning of the script:
+
+   #!/usr/local/bin/perl
+      This is on the very first line of the script and must point to where
+      Perl is on your server. Another common place for it is #!/usr/bin/perl
+      If you don't know where Perl is on your server type "whereis perl" at
+      a UNIX prompt.
+
+   $file_dir = "/usr/local/etc/httpd/htdocs/chatfiles";
+      The $file_dir variable is the path to the directory in which you
+      want the files this script makes to be created. Do not put a slash 
+      at the end. THIS DIRECTORY MUST BE SET TO chmod 777
+      
+   $chat_file = "chat";
+   $visitor_file = "visitors";
+   $lock_file = "lock";
+      These are the names of the three files the script uses. chat,  
+      visitors, and lock are the default, but you can change them for whatever
+      reason you may have.
+      
+   $script_name = "chat.pl";
+      This is the name of the script. If it's in the cgi-bin directory
+      chat.pl is fine if it's elsewhere you'll probably need to call the 
+      file chat.cgi, whatever it's called goes here.
+      
+   $page_title = "Command-O Chat";
+      This is the title you want displayed on the registration and main 
+      chat pages.
+      
+   $title_graphic = "";
+      This is the url of a graphic you want displayed in place of the title.
+      It should be about 270 pixels wide and as short as possible. Leave it 
+      blank if you don't have one.
+      
+   $bgcolor = "ffffff";
+      This is the color of the backgrounds of the pages the script makes.
+      Use hex numbers (ffffff is white) or use literal color names, but I 
+      think only some browsers accept literal names suchas "red".
+      
+   $background = "";
+      This is the url of the background texture you want displayed with each
+      page the script produces. Leave it blank if you don't have/want one.
+      
+   $schedule_file = "";
+      This is the url of a page desribing scheduled meeting times if you have
+      such a file a link will be displayed from the registration page. If not
+      leave it blank.
+      
+   $leave_link = "http://www.command-o.com";
+      This is the url where the script will send someone when they click 
+      the leave button. It should probably be set to your main page 
+      unless you have other plans for these people.
+      
+   $visitors_time = 900;
+      This is the time in seconds that a person's name will remain in the
+      visitors list without reloading. This is done so people who aren't
+      there but didn't click "Leave" are removed from the visitors list.
+      900 seconds is 15 minutes.
+      
+   $chat_time = 18000;
+      This is the time in seconds that a message will remain in the chat 
+      file. This is done so the chat file doesn't grow to ungodly size.
+      18000 seconds is five hours. Setting it to 86400 would keep messages
+      in the chat file for one day.
+      
+   $lock_time = 5;
+      This is the time in seconds that the script will wait and do 
+      nothing if a lock file exists. If the lock file exists for the 
+      duration of this period the script will run itself and delete the 
+      lock file at the end (as usual). A lock file which exists for 
+      several seconds is in all probablility leftover from the previous time 
+      the script ran and encountered problems before getting to the point 
+      where it deletese the lock file.
+
+   $timeout = 20;
+      This is the time in seconds that the script will run before forcing
+      itself to quit. Without this for reasons unbeknownst to me about one
+      out of 500 times the script won't exit and it gets in an infinite
+      loop devouring server power and disk space. 20 seconds should be fine,
+      if your server is exceedingly slow you may want to bump this up a bit.
+      
+That's everything you need to do to get this script running on your 
+server. Make sure you set the permissions properly. Script is chmod 755 
+and the directory is chmod 777 if you don't do this right the script 
+will not work.      
+
+
+
+Possibilities with this script:
+
+Schedule meeting times and publicize them on your page so a group of 
+you can be sure to be on there at the same time.
+
+Put the chat script at an unlinked url given to a select few people and 
+then make a linked ssi document with an include tag that points to the 
+chat file. This way you can use the script to interview important people 
+without the worry of people asking dumb questions or making rude comments 
+to the guest.
+
+Set the $chat_time variable to an ungodly high number and this script 
+can be used as an informal message board so you don't have to be there at 
+the same time as others to communicate.
+
+
+
+Fixes in version 1.0.1:
+Now if someone uses parantheses in their name the script removes the 
+parantheses, they caused a bit of trouble before.
+
+I've fixed a few typos.
+
+I've added a variable up top called $script_name before the forms in 
+the script all were set for chat.cgi
+
+I think I fixed a problem which would occasionally cause the chat and 
+visitors files to erase themselves.
+
+The lock file is now created in the same directory you have the chat 
+and visitors files in, the old way could have been problematic.
+
+
+
+Fixes in version 1.0.2:
+This is a pretty minor update with no real bug fixes.
+
+I changed the wording of the message when people enter the chat to 
+clarify that they must hit reload.
+
+I moved the Post/Reload/Clear/Leave buttons above the number of 
+messages buttons. This makes it a more lynx-user friendly chat because 
+now they don't need to go through all the number of message buttons to post 
+or reload.
+
+I changed the default message deletion time from 30 minutes to five 
+hours, but it will still show only the number of messages requested. The 
+message deletion time is primarily to keep the size of the chat file 
+relatively small. If you want to use this script as an informal message 
+bord set the variable to an extremely high number.

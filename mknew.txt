@@ -1,0 +1,10 @@
+diatribes/diatrib01.htm
+diatribes/diatribe02.htm
+diatribes/diatribe03.htm
+diatribes/diatribe04.htm
+diatribes/diatribe06.htm
+diatribes/diatribe07.htm
+diatribes/letters.htm
+diatribes/olddiatribe.htm
+writers/conference.html
+writers/index.html

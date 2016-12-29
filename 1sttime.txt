@@ -1,0 +1,11 @@
+Welcome to Personal Web Pages Site Manager. This program enables you 
+to upload photos, images, sound files, even complete HTML pages you 
+create offline, to your own Prodigy Web site.
+
+You can also manage your Web server directory by deleting or moving 
+unneeded files back to your PC.  Remember to name your main HTML file 
+index.html or index.htm.  That will be the first file that the user 
+sees.
+
+Be sure to check Help if you need assistance with any Site Manager 
+feature.

@@ -1,0 +1,9 @@
+mainbody.html:<META CONTENT="www.theology.edu" NAME="Company">
+menu.html:<META CONTENT="www.theology.edu" NAME="Company">
+jesus/top1.html:<META CONTENT="www.theology.edu" NAME="Company">
+jesus/top2.html:<META CONTENT="www.theology.edu" NAME="Company">
+bottomleft.html:<META CONTENT="www.theology.edu" NAME="Company">
+right.html:<META CONTENT="www.theology.edu" NAME="Company">
+top1.html:<META CONTENT="www.theology.edu" NAME="Company">
+top2.html:<META CONTENT="www.theology.edu" NAME="Company">
+beyondarchive.htm:<META CONTENT="www.theology.edu" NAME="Company">

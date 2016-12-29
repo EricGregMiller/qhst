@@ -1,0 +1,31 @@
+<html>
+<head><title>Search Engine</title></head>
+<BODY basefont=-1>
+<font size=+1><font color="0000ff"><b><i>Database Doctor</b></i></font></font>
+<FORM method=post action="display.cgi">
+<INPUT type="hidden"  name="pass" Value="ok">
+<INPUT type="hidden"  name="user" Value="rick">
+Choose any combination of Search terms to locate entries to edit.<p>
+SEARCH by Keywords:<BR>
+<INPUT type="text" name="searchtext" size=60 maxlength=60>
+<BR>Search for documents containing <INPUT type="radio" name="searchtype" value="any" checked> ANY or <INPUT type="radio" name="searchtype" value="all"> ALL of these words or phrases.
+<br>Search only in this Field
+<SELECT NAME = "field">
+<OPTION value="">
+<OPTION value ="0">First-Name
+<OPTION value ="1">Last-Name
+<OPTION value ="2">Business-Name
+<OPTION value ="3">State
+<OPTION value ="4">Email
+<OPTION value ="5">Web-Site
+<OPTION value ="6">Comment
+<select>
+<CENTER><BR><INPUT type="submit" name="find" value="START SEARCH"><p>
+<center><P><hr><p>
+<center><P><INPUT type="Submit"  name="startup" Value="   Enter New Items Form">
+<INPUT type="Submit"  name="edit" Value="   Edit the Database "><p>
+<INPUT type="Submit"  name="sort" Value="   Sort the Database ">
+<INPUT type="Submit"  name="search" Value="   Search the Database "><p>
+<INPUT type="Submit"  name="print" Value="   Prepare a Printout "><p>
+<a href="display.cgi" target="_new">See the Data in Display.cgi Front End</a><p>
+</body></html>

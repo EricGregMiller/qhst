@@ -1,0 +1,9 @@
+To: [re_email]
+From: robin@theology.edu
+Subject: Thanks for filling out our form!
+
+Thanks for filling out our form at [%HTTP_REFERER]!
+
+Regards,
+Quartz Hill School of Theology
+http://www.theology.edu/

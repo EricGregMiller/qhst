@@ -1,0 +1,9 @@
+blue/lefttop.jpg
+diatribes/lefttop.jpg
+graphix/frame/lefttop.jpg
+graphix/frame/lefttop3.jpg
+journal/volume1/lefttop.jpg
+journal/volume2/lefttop.jpg
+lefttop.jpg
+lefttop3.jpg
+writers/lefttop.jpg

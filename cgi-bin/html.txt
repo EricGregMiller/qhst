@@ -1,0 +1,14 @@
+<form method="post" action="af.cgi">
+<input type="hidden" name="_send_email1" value="email.txt">
+<input type="hidden" name="_send_email2" value="email2.txt">
+<input type="hidden" name="_out_file"    value="logfile.txt">
+<input type="hidden" name="_error_path"  value="error.txt">
+<input type="hidden" name="_error_path"  value="error.txt">
+<input type="hidden" name="_browser_out" value="output.txt">
+
+<pre>
+Your Age:              <input type="text" name="rd_age"><br>
+Your Email Address:    <input type="text" name="re_email"><br>
+Your Favourite Colour: <select name="r_colour"><option>Red<option>Green<option>Blue</select>
+</pre>
+<input type="submit"></form>

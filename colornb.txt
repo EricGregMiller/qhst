@@ -1,0 +1,145 @@
+12step.htm:<TD BGCOLOR="#FFFFFF">
+12step.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+12step.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+anthro01.htm:<TABLE BORDER=5 ALIGN=CENTER WIDTH=580 BGCOLOR="#FFFBF0">
+b416.htm:<TABLE BORDER=4 ALIGN=LEFT BGCOLOR="#FFFBF0">
+genbible.htm:<TD BGCOLOR="#FFFFFF">
+genbible.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+genbible.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+apocryfa.htm:<TD BGCOLOR="#FFFFFF">
+apocryfa.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+apocryfa.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+search.htm:<tr bgcolor="#000000"><th colspan="3"><img src="search.jpg" alt="Search Engine"><br>
+search.htm:<font face="arial,helvetica,swiss" color="#ffffff">Search the entire www.theology.edu site</th></tr>
+search.htm:<tr bgcolor="#8b4513"><th colspan="3"><font face="arial,helvetica,swiss" size="-1" color="#ffffff">Use the form below to search through the pages of Quartz Hill School of Theology. <b>Note:</b> Searches may take a few moments.</th></tr>
+search.htm:<tr bgcolor="#d2b48c"><th colspan="3"><font face="arial,helvetica,swiss" color="#00008b">
+search.htm:<tr bgcolor="#d2b48c"><td align="left"><font face=arial,helvetica,swiss size="-1">Find: </font>
+apologiz.htm:<TD BGCOLOR="#FFFFFF">
+apologiz.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+apologiz.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+theology/anthro01.htm:<TABLE BORDER=5 ALIGN=CENTER WIDTH=580 BGCOLOR="#FFFBF0">
+theology/appen01.htm:<TABLE BORDER=5 ALIGN=CENTER WIDTH=580 BGCOLOR="#A4C8F0">
+theology/appen01.htm:<TABLE BORDER=5 ALIGN=CENTER WIDTH=580 BGCOLOR="#A4C8F0">
+theology/appen06.htm:<TABLE BORDER=5 ALIGN=CENTER WIDTH=580 BGCOLOR="#FFFBF0"><TH ALIGN=CENTER COLSPAN=2><B>LOVE</B></TH><TR>
+theology/soter01.htm:<TABLE BORDER=5 ALIGN=CENTER WIDTH=580 BGCOLOR="#FFFBF0">
+bibles.htm:<TD BGCOLOR="#FFFFFF">
+bibles.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+bibles.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+b310.htm:<TABLE BORDER=5 ALIGN=RIGHT BGCOLOR="#FFFFE8"><CAPTION>The Number of OT Quotes in the NT</CAPTION>
+soter01.htm:<TABLE BORDER=5 ALIGN=CENTER WIDTH=580 BGCOLOR="#FFFBF0">
+jesus/temp.htm:<TABLE BORDER=2 ALIGN=CENTER BGCOLOR="#A4C8F0">
+jesus/theobook.htm:<TD BGCOLOR="#FFFFFF">
+jesus/theobook.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+jesus/theobook.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+bottomleft.html:<center><font face=arial, helvetica,swiss size=2 color="#FFFFFF">Purchase<br>Quartz Hill Journal <br>of Theology<br>  <a href="http://www.lulu.com/content/131253" target="NEW"><i>HERE</i></a></font><p>
+churhist.htm:<TD BGCOLOR="#FFFFFF">
+churhist.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+churhist.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+curtis/information.html:<tr valign="top"><td colspan=4 height=7 bgcolor="#000000"></td></tr>
+becomeachristian/indexold.html:<hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080"> 
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+becomeachristian/indexold.html:<br><hr size-1 noshade color="#000080">   
+ancient.htm:<TD BGCOLOR="#FFFFFF">
+ancient.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+ancient.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+ane.htm:<TD BGCOLOR="#FFFFFF">
+ane.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+ane.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+language.htm:<TD BGCOLOR="#FFFFFF">
+language.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+language.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+oldsearch.htm:<tr bgcolor="#000000"><th colspan="2"><img src="search.jpg" alt="Search Engine"><br>
+oldsearch.htm:<font face="arial,helvetica,swiss" color="#ffffff">Search the entire www.theology.edu site</th></tr>
+oldsearch.htm:<tr bgcolor="#8b4513"><th colspan="2"><font face="arial,helvetica,swiss" size="-1" color="#ffffff">Use the form below to search through the pages of Quartz Hill School of Theology. <b>Note:</b> Searches may take a few moments.</th></tr>
+oldsearch.htm:<tr bgcolor="#d2b48c"><td align="left"><font face="arial,helvetica,swiss" color="#00008b">
+oldsearch.htm:<tr bgcolor="#d2b48c"><td align="left"><font face="arial,helvetica,swiss" color="#00008b">Boolean: <select name="boolean"><option>AND<option>OR</select></td>
+oldsearch.htm:<td align="right"><font face="arial,helvetica,swiss" color="#00008b">Case: <select name="case"><option>Insensitive<option>Sensitive</select></td></tr>
+oldsearch.htm:<tr bgcolor="#8b4513"><td align="left"><input type=submit value="Search!"><input type=reset></td>
+oldsearch.htm:<td align="right"><font face="arial,helvetica,swiss" size="-2" color="#ffffff">
+online.htm:<TR><Th BGCOLOR="ffaaff"><A HREF="schedule.html">Chatroom</A>  
+ot.htm:<TD BGCOLOR="#FFFFFF">
+ot.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+ot.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+otha01.htm:<TABLE BORDER=2 ALIGN=CENTER BGCOLOR="#FFFFE8">
+guest.htm:<tr bgcolor="#000000"><th colspan="2"><img src="guestbok.jpg" alt="Guest Book"><br>
+guest.htm:<font face="arial,helvetica,swiss" color="#ffffff">Please take a moment to fill out our Guest Book</th></tr>
+guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#c1a37b"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#c1a37b"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#c1a37b"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#c1a37b"><th align="right" colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#e3c59d"><th align="right" colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#c1a37b"><th align="right" colspan="2"><font size="-1" face="arial,helvetica,swiss">
+guest.htm:<tr bgcolor="#000000"><th colspan="2"> 
+history.htm:<TD BGCOLOR="#FFFFFF">
+history.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+history.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+home3.htm:<TR><Th BGCOLOR="ffffff"><A HREF="online.htm">Online Courses</A>  
+home3.htm:<TR><Th BGCOLOR="ffaaff"><A HREF="schedule.html">Chatroom</A>  
+home3.htm:<TR><Th BGCOLOR="ffbbff"><A HREF="diploma.htm">One Year Diploma in Bible</A>  
+home3.htm:</Th><Th BGCOLOR="a4C8f0"><A HREF="fonts.htm">Software to Download</A>
+home3.htm:<tr><Th BGCOLOR="CDCDCD"><A HREF="stump.htm">Stump the Theologians</A></Th><th bgcolor="#ffff99"><a href="areopagus/index.html">Areopagus</a></th></tr>
+religus.htm:<TD BGCOLOR="#FFFFFF">
+religus.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+religus.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+libexam1.htm:<FONT COLOR="ff0000"> and</FONT>,
+libexam1.htm:<FONT COLOR="ff0000"> or</FONT>,
+libexam1.htm:<FONT COLOR="ff0000"> not</FONT> or the symbols
+libexam1.htm:<FONT COLOR="ff0000"> &</FONT>, 
+libexam1.htm:<FONT COLOR="ff0000"> |</FONT>, 
+libexam1.htm:<FONT COLOR="ff0000"> !</FONT> to find words and phrases inside other phrases. </B></H4><TABLE ALIGN=center cellpadding=2 border=6><TD><FONT SIZE="+1"><A HREF="/help/netpac.htm" border=0><B>Get Help!</B></A></FONT></TD></FONT></TABLE>
+science.htm:<TD BGCOLOR="#FFFFFF">
+science.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+science.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+scrap.htm:<TABLE BORDER=5 ALIGN=CENTER WIDTH=580 BGCOLOR="#FFFBF0">
+temp.htm:<TABLE BORDER=2 ALIGN=CENTER BGCOLOR="#A4C8F0">
+logphil.htm:<TD BGCOLOR="#FFFFFF">
+logphil.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+logphil.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+new-guest.htm:<tr bgcolor="#000000"><th colspan="2"><img src="guestbok.jpg" alt="Guest Book"><br>
+new-guest.htm:<font face="arial,helvetica,swiss" color="#ffffff">Please take a moment to fill out our Guest Book</th></tr>
+new-guest.htm:<tr bgcolor="#8b4513"><th colspan="2"><font face="arial,helvetica,swiss" size="-1" color="#ffffff">
+new-guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#c1a37b"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#c1a37b"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#c1a37b"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#c1a37b"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#e3c59d"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#c1a37b"><td align="left"><font size="-1" face="arial,helvetica,swiss">
+new-guest.htm:<tr bgcolor="#e3c59d"><td align="left"><INPUT TYPE="SUBMIT" VALUE="Send Now"><INPUT TYPE="RESET" VALUE="Clear"></td>
+nt.htm:<TD BGCOLOR="#FFFFFF">
+nt.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+nt.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+theobook.htm:<TD BGCOLOR="#FFFFFF">
+theobook.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+theobook.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+rpnbooks/scifi.htm:<TD BGCOLOR="#FFFFFF">
+rpnbooks/scifi.htm:<TD ROWSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#ffffff" width="55%">
+rpnbooks/scifi.htm:<TD VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+MyJournal/README.html:<table cellspacing="0" cellpadding="3" bgcolor="mediumvioletred" width="100%"><tr><td>
+writers/index_files/index.htm:  <o:colormenu v:ext="edit" strokecolor="black"/>
+writers/index2.html:<hr noshade size=5 color="#000000">
+writers/update.htm:  <o:colormenu v:ext="edit" strokecolor="black"/>
+index_060807.html:                <td bgcolor="#9999CC"><b><center>General Information</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC"><b><center>Check It Out!</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC"><b><center>Our Publications</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Quartz Hill Publishing House</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Contact Us</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Make a Contribution</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Faculty and Staff Blogs</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Other Stuff of Interest</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Student Store</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Awards</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Quartz Hill Journal of Theology</center></b></td>
+index_060807.html:                <td bgcolor="#9999CC" height="21"><b><center>Calendars</center></b></td>
