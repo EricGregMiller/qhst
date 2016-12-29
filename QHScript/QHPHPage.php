@@ -16,7 +16,7 @@ class QHPHPage extends QHPage
   function SetTopImages()
   {
     $this->homeAdd = "/QHPH";
-    $this->topImg = "QHPHLogo50.png";
+    $this->topImg = "QHPHLogoTitle.png";
     $this->topAlt = "Quartz Hill Publishing House";
     $this->tabSet = "QHPH";
   }

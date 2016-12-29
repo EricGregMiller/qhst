@@ -1,18 +1,6 @@
 table
 {
   border: solid 2px;
-  font-size: small;
-}
-#TableBalances
-{
-}
-#TableBudget
-{
-  font-size: x-small;
-}
-#ChartBalances,#ChartBudget
-{
-  max-width: 100%;
 }
 th
 {
@@ -32,17 +20,19 @@ td
 {
   text-align: left;
 }
-.QhccBalance,.MonthlyBudget,.BudgetYtd
+
+
+.BgBlue
 {
-  background-color: #FFEECA;
+  background-color: DarkSlateBlue;
 }
-.GeneralBalance,.TotalYtd
+.BgPurple
 {
-  background-color: #FEE0C6;
+  background-color: #800080; /* Purple */;
 }
-.NegativeAmount
+.ColorRed
 {
-  color: 	Red;
+  color: 	#FF0080;
 }
 .FontBold
 {

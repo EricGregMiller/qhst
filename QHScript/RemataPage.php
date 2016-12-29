@@ -17,7 +17,7 @@ class RemataPage extends QHPage
   function SetTopImages()
   {
     $this->homeAdd = "/Remata";
-    $this->topImg = "RemataLogo50.png";
+    $this->topImg = "RemataLogoTitle.png";
     $this->topAlt = "Remata";
     $this->tabSet = "Remata";
   }

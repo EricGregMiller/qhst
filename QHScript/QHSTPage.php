@@ -16,7 +16,7 @@ class QHSTPage extends QHPage
   function SetTopImages()
   {
     $this->homeAdd = "/";
-    $this->topImg = "QHSTLogo50.png";
+    $this->topImg = "QHSTLogoTitle.png";
     $this->topAlt = "Quartz Hill School of Theology";
     $this->tabSet = "QHST";
   }
@@ -30,7 +30,7 @@ class QHSTPage extends QHPage
     $this->PrintButton("/QHST/onlinecourses.html", "Courses");
     $this->PrintButton("/QHST/Library/library.html", "Library");
     $this->PrintButton("/more.htm", "The Journal");
-    //$this->PrintButton("/areopagus-3.0.7", "Areopagus");
+    $this->PrintButton("/areopagus-3.0.7", "Areopagus");
     $this->PrintButton("/QHST/contact.html", "Contact Us");
   }
 

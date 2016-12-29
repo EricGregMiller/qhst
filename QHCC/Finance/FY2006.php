@@ -64,7 +64,7 @@
   <p>
     Here is the chart showing the General Fund balances, income and expenses throughout the year.
   </p>
-  <img id="ChartBalances" src="2006 General Fund.png" alt="General Fund History">
+  <img src="2006 General Fund.png" alt="General Fund History">
   <h2>Budget</h2>
   <p>
     This table shows the how income and spending compare with the budget throughout the year.
@@ -88,7 +88,7 @@
   <p>
     This chart shows spending and income compared to the budget for the major budget categories.
   </p>
-  <img id="ChartBudget" src="2006 Budget.png" alt="Actual vs Budget">
+  <img src="2006 Budget.png" alt="Actual vs Budget">
   <?php
     $fy->PageEnd();
   ?>

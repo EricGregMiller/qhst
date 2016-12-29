@@ -235,15 +235,6 @@ class QHPage
   {
   }
 
-  // Returns true or false (0 or 1). 
-  // Child class can override
-  // If 1, pages show ads unless they indicate otherwise.
-  // If 0, pages don't show ads unless the indicate otherwise.
-  function ShowAdsDefaultValue()
-  {
-      return 1;
-  }
-
   function StyleSheet()
   {
     print (' <link rel="stylesheet" type="text/css" href="/Master/QHST.css" />'."\n");
@@ -265,7 +256,7 @@ class QHPage
   function SetTopImages()
   {
     $this->homeAdd = "/";
-    $this->topImg = "QHSTLogo50.png";
+    $this->topImg = "QHSTLogoTitle.png";
     $this->topAlt = "Quartz Hill School of Theology";
     $this->tabSet = "QHST";
   }
@@ -303,14 +294,12 @@ class QHPage
       print ("    <li>\n");
     print ("      <a href=\"/QHPH\">".$spanOpen."Publishing".$spanClose."</a>\n");
     print ("    </li>\n");
-    /* No more writers group
     if (strcasecmp("HDCWG",$this->tabSet) == 0)
       print ("    <li class=\"".$selClass."\">\n");
     else
       print ("    <li>\n");
     print ("      <a href=\"/writers\">".$spanOpen."Writers".$spanClose."</a>\n");
     print ("    </li>\n");
-    */
     if (strcasecmp("Remata",$this->tabSet) == 0)
       print ("    <li class=\"".$selClass."\">\n");
     else
@@ -333,12 +322,7 @@ class QHPage
     print ('  google_ad_client = "pub-1971528834274288";'."\n");
   }
 
-  function PrintAdSenseClientData()
-  {
-    print ('      data-ad-client="pub-1971528834274288"'."\n");
-  }
-
-  function PrintGoogleAdsTopBottom($showAds)
+  function PrintGoogleAds($showAds)
   {
     if ($showAds)
     {
@@ -360,29 +344,6 @@ class QHPage
     }
   }
   
-  function PrintGoogleAdsSideBar($showAds)
-  {
-    if ($showAds)
-    {
-      print ('<div class="AdWrapSide">'."\n");
-      print ('<div class="AdSenseSide">'."\n");
-      
-      // Wide Skyscraper (160x600)
-      print ('  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'."\n");
-      print ('  <!-- Sidebar -->'."\n");
-      print ('  <ins class="adsbygoogle"'."\n");
-      print ('       style="display:inline-block;width:160px;height:600px"'."\n");
-      $this->PrintAdSenseClientData();
-      print ('       data-ad-slot="9045468310"></ins>'."\n");
-      print ('  <script>'."\n");
-      print ('  (adsbygoogle = window.adsbygoogle || []).push({});'."\n");
-      print ('  </script>'."\n");;
-      
-      print ('</div> <!-- End AdSense -->'."\n");
-      print ('</div> <!-- End AdWrap -->'."\n");
-    }
-  }
-  
   function PageBegin($showAds = 0)
   {
     // ------------------    
@@ -393,7 +354,7 @@ class QHPage
     // Page setup
     // ------------------    
     print('<div id="PageWrap">'."\n");
-    //print('<div id="MainSidebar"></div>'."\n");
+    print('<div id="MainSidebar"></div>'."\n");
     print('<div id="PagePad">'."\n");
     print('<div id="ElementWrap">'."\n");
     
@@ -402,12 +363,7 @@ class QHPage
     // ------------------    
     print ('<div id="Header">'."\n");
     print ('  <div id="HeaderLeft">'."\n");
-    print ('    <div id="HeaderLeftLogo">'."\n");
-    print ('      <a href="'.$this->homeAdd.'"><img src="/Master/'.$this->topImg.'"/></a>'."\n");
-    print ('    </div> <!-- End HeaderLeftLogo -->'."\n");
-    print ('    <div id="HeaderLeftTitle">'."\n");
-    print ('      '.$this->topAlt."\n");
-    print ('    </div> <!-- End HeaderLeftTitle -->'."\n");
+    print ('    <a href="'.$this->homeAdd.'"><img src="/Master/'.$this->topImg.'" alt="'.$this->topAlt.'"/></a>'."\n");
     print ('  </div> <!-- End HeaderLeft -->'."\n");
     // ------------------    
     //   Header right side
@@ -452,7 +408,7 @@ class QHPage
     // ------------------    
     // Google Ads
     // ------------------    
-    //$this->PrintGoogleAdsTopBottom($showAds);
+    $this->PrintGoogleAds($showAds);
     
     // ------------------    
     // Tabs
@@ -470,14 +426,6 @@ class QHPage
     $this->SetButtons();
     print ('  </ul>'."\n");
     print ('</div>'."\n");
-    
-    print('<div id="ContentWrap">'."\n");
-    
-    // ------------------    
-    // Google Ads
-    // ------------------    
-    $this->PrintGoogleAdsSidebar($showAds);
-    
     // ------------------    
     // Begin Content
     // ------------------    
@@ -497,14 +445,9 @@ class QHPage
     print ('</div> <!-- End Content -->'."\n");
 
     // ------------------    
-    // End of content wrap
-    // ------------------    
-    print ('</div> <!-- End ContentWrap -->'."\n");
-
-    // ------------------    
     // Google Ads
     // ------------------    
-    $this->PrintGoogleAdsTopBottom($showAds);
+    $this->PrintGoogleAds($showAds);
     
     // ------------------    
     // Navigation foot
@@ -543,7 +486,7 @@ class QHPage
     // ------------------    
     print ('</div> <!-- End ElementWrap -->'."\n"); 
     print ('</div> <!-- End PagePad -->'."\n"); 
-    //print('<div id="SecondarySidebar"></div>'."\n");
+    print('<div id="SecondarySidebar"></div>'."\n");
     print ('</div> <!-- End PageWrap -->'."\n"); 
   }
 
@@ -603,15 +546,11 @@ class QHPage
     if (file_exists($fqfFile))
     { // Found input file -- process it.
     
-      // Whether or not this page should show adds
-      $showAdThisPage = $this->ShowAdsDefaultValue();
-      
       $inputLines = file($fqfFile);
       
       // Loop through lines in file.
       foreach ($inputLines as $line)
       {
-      
         // Suppress qhst lines that will be added by this script.
         $printLine = 1;
         if (preg_match("/<!DOCTYPE/i", $line) || 
@@ -626,14 +565,6 @@ class QHPage
           $printLine = 0;
         }
         
-         // Test for ad flag
-         if (preg_match_all('/show_ads_on_this_page.*(\d+)/i', $line, $matches))
-         {
-            $showAdThisPage = $matches[1][0];
-            //$line = '<p>Show ad value: '.$showAdThisPage;
-            $printLine = 0;
-         }
-         
         // Print end of head.
         if (preg_match("?</head?i", $line))
         {
@@ -643,7 +574,7 @@ class QHPage
         // Print end of page.
         if (preg_match("?\</body?i", $line))
         {
-          $this->PageEnd($showAdThisPage);
+          $this->PageEnd(1);
         }
         
         // Print file line.
@@ -672,7 +603,7 @@ class QHPage
         // Print beginning of page.
         if (preg_match("?\<body?i", $line))
         {
-          $this->PageBegin($showAdThisPage);
+          $this->PageBegin(1);
         }
       }
     }

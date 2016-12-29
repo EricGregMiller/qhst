@@ -14,21 +14,14 @@
   <script type="text/javascript">
     var gMap;
     var gHikeRouteData;
-    var gHikeVincentGapData;
 
     function LoadEricGoogleMap() 
     {
       if (GBrowserIsCompatible()) 
       {
-        // Trail start from local hikes: 34.2372, -117.76546
-        gMap = InitializeMap("map", 34.257571, -117.753525, 13, 'Satellite');
-        var routePoints = LoadRoute("BridgeToNowhere.xml");
-        gHikeRouteData = CreateRoute(routePoints);
-        SetRoute("HikeRouteOnCheck", gMap, gHikeRouteData);
-        routePoints = LoadRoute("BridgeToNowhereVincentGap.xml");
-        var color = "#FF0000";
-        gHikeVincentGapData = CreateRoute(routePoints, color);
-        SetRoute("VincentGapOnCheck", gMap, gHikeVincentGapData);
+        gMap = InitializeMap("map", 34.36856, -117.75881, 14, 'Topo');
+        var routePoints = LoadRoute("BridgeToNowhereHike.xml");
+        gHikeRouteData = CreateRoute(routePoints);        SetRoute("HikeRouteOnCheck", gMap, gHikeRouteData);
       }
     }
   </script>
@@ -36,39 +29,26 @@
 <body onload="LoadEricGoogleMap()" onunload="GUnload()">
 <h1>Bridge to Nowhere Hike Information</h1>
 <hr>
-  <p>
-    There is a bridge that goes nowhere in the middle of nowhere in the Angeles National Forest north of Claremont.
-    The bridge and the hike to it are reported as very interesting.
-    Here is more information about the bridge to nowhere on <a href="http://www.localhikes.com/HikeData.ASP?DispType=0&ActiveHike=0&GetHikesStateID=&ID=4038">Local Hikes</a>.
-  </p>
-  <p>
-    Not only is the bridge to nowhere north of Claremont, it is just south of Vincent Gap which is where we started our <a href="BadenPowellHike.html">Baden-Powell hike</a>.
-    This would be better for us since the drive is shorter -- about an hour and twenty minutes.
-    On the map below a possible route is laid out.
-    Unfortunately the hike would be 8.6 miles one way with a 2000ft. descent going in and a corresponding climb on the way out.
-    Furthermore, the first several miles appear to have no trail.
-    We would have to hike along (through?) whatever river runs through Vincent Gulch.
-    This might be more than we can handle.
-  </p>
-<h2>Map</h2>
-  <p>
-    Here is the hike on <a href="http://www.gmap-pedometer.com/?r=1601615">Gmaps Pedometer</a>.
-    Here is a possible route from Vincent Gap on <a href="http://www.gmap-pedometer.com/?r=1601655">Gmaps Pedometer</a>.
-  </p>
+<p>
+Information about Bridge to Nowhere on <a href="http://www.localhikes.com/HikeData.ASP?DispType=0&ActiveHike=0&GetHikesStateID=&ID=4038">Local Hikes</a>.
+</p>
+<!--<h2>Map</h2>
+<p>
+  Here is the hike on <a href="http://www.gmap-pedometer.com/?r=622921">Gmaps Pedometer</a>.
+"</p>
   <div style="position: relative;">
   <form>
     <input type="checkbox" name="HikeRouteOn" id="HikeRouteOnCheck" checked onclick="SetRoute(this, gMap, gHikeRouteData)">Show Hike Route</input>
-    <input type="checkbox" name="VincentGapOn" id="VincentGapOnCheck" onclick="SetRoute(this, gMap, gHikeVincentGapData)">Show Vincent Gap Hike Route</input>
   </form>
   </div>
   <div id="map" style="border:1px solid black; position: relative; width: 700px; height: 500px;">
   </div>
-<!--<p>
-Here is the map from <a href="http://www.topozone.com/map.asp?lat=34.36856&lon=-117.75881&size=l&u=5&datum=nad83&layer=DRG">TopoZone</a>.
-</p>-->
 <p>
-Here is a link to <a href="http://maps.google.com/maps?f=d&hl=en&geocode=4775764938756171272,34.332510,-117.520080%3B1571839129105504053,34.237200,-117.765460&saddr=43543+51st+St+W,+Lancaster,+CA+93536+(QHCC)&daddr=Map+Quest+Center+%4034.2372,-117.76546&mra=mr&mrcr=0&sll=34.395985,-117.99306&sspn=0.915605,1.851196&ie=UTF8&z=9&om=0">Google Maps</a>
+Here is the map from <a href="http://www.topozone.com/map.asp?lat=34.36856&lon=-117.75881&size=l&u=5&datum=nad83&layer=DRG">TopoZone</a>.
 </p>
+<p>
+Here is a link to <a href="http://maps.google.com/maps?f=q&hl=en&q=34.35866N,+117.76474W&ie=UTF8&om=1&z=11&ll=34.423337,-117.689667&spn=0.308688,0.780029">Google Maps</a>
+</p>-->
 <br>
 <br>
 </BODY>

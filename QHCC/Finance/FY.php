@@ -49,15 +49,15 @@ class FY extends QHCCPage
         if (GetNodeValue($cell0) == 'Date')
         {
           //echo "Header: ".GetNodeValue($row)."<br/>\n";
-          echo "<table id='TableBalances'><thead>\n<tr>";
+          echo "<table><thead>\n<tr>";
           $numCols = GetNodeListLength($cells);
 	  $iiCol = 0;
           foreach ($cells as $cell)
           {
             if (1 == $iiCol) // QHCC acct balance.
-              echo "<th class='QhccBalance'>".GetNodeValue($cell)."</th>";
+              echo "<th class='BgBlue'>".GetNodeValue($cell)."</th>";
             else if (2 == $iiCol) // General fund balance
-              echo "<th class='GeneralBalance'>".GetNodeValue($cell)."</th>";
+              echo "<th class='BgPurple'>".GetNodeValue($cell)."</th>";
             else
               echo "<th>".GetNodeValue($cell)."</th>";
             if (GetNodeValue($cell) == 'Temporary')
@@ -81,9 +81,9 @@ class FY extends QHCCPage
         foreach ($cells as $cell)
         {
           if (1 == $iiCol) // QHCC acct balance.
-            echo "<td class='QhccBalance'>".GetNodeValue($cell)."</td>";
+            echo "<td class='BgBlue'>".GetNodeValue($cell)."</td>";
           else if (2 == $iiCol) // General fund balance
-            echo "<td class='GeneralBalance'>".GetNodeValue($cell)."</td>";
+            echo "<td class='BgPurple'>".GetNodeValue($cell)."</td>";
           else
             echo "<td>".GetNodeValue($cell)."</td>";
           $iiCol++;
@@ -141,7 +141,6 @@ class FY extends QHCCPage
     }
     //echo "lastMonthCol = {$lastMonthCol}<br/>\n";
 
-    // Loop through table rows and display table
     $numCols = 0;
     $lastBlank = 0;
     foreach ($rows as $row) {
@@ -156,40 +155,38 @@ class FY extends QHCCPage
           //echo "Header: ".GetNodeValue($row)."<br/>\n";
           $numCols = GetNodeListLength($cells);
           //echo "numCols = {$numCols}<br/>\n";
-          echo "<table id='TableBudget'><thead>\n<tr>";
-	        $iiCol = 0;
-	        // Generate table header
+          echo "<table><thead>\n<tr>";
+	  $iiCol = 0;
           foreach ($cells as $cell)
           {
-	           $nv = GetNodeValue($cell);
+	    $nv = GetNodeValue($cell);
             //echo "<td>{$iiCol}: {$nv}</td>"; 
 
             // Skip months without data.
             if ($iiCol <= $lastMonthCol || 
                 $iiCol > $decemberCol)
             { 
-      	      if (1 == $iiCol) // Monthly Budget
-                echo "<th class='MonthlyBudget'>{$nv}</th>";
-      	      else if (14 == $iiCol) // Total YTD
-                echo "<th class='TotalYtd'>{$nv}</th>";
-      	      else if (15 == $iiCol) // Budget YTD
-      		      echo "<th class='BudgetYtd'>{$nv}</th>";
-      	      else
-      		      echo "<th>{$nv}</th>";
-	          }
+	      if (1 == $iiCol) // Monthly Budget
+		echo "<th class='BgBlue'>{$nv}</th>";
+	      else if (14 == $iiCol) // Total YTD
+		echo "<th class='BgPurple'>{$nv}</th>";
+	      else if (15 == $iiCol) // Budget YTD
+		echo "<th class='BgBlue'>{$nv}</th>";
+	      else
+		echo "<th>{$nv}</th>";
+	    }
             if (1 < $iiCol && 
-                ('Annual Budget' == $nv ||
-                 'Actual Budget' == $nv))
+                $nv == 'Annual Budget')
             {
               $numCols = $iiCol + 1;
               //echo "numCols = {$numCols}<br/>\n";
               break;
             }
-	          $iiCol++;
+	    $iiCol++;
           }
           echo "</tr></thead>\n";
         }
-      } // End if header row
+      }
       else
       {
         //echo "<tr><td>cell1: ".GetNodeValue($cell1)."</td></tr>\n";
@@ -220,7 +217,7 @@ class FY extends QHCCPage
           }
           else if (preg_match("/^\(.*\)$/", $nv))
           {
-            $nv = "<span  class='NegativeAmount'>".$nv."</span>";
+            $nv = "<span  class='ColorRed'>".$nv."</span>";
           }
           if ($isBold)
           {
@@ -238,11 +235,11 @@ class FY extends QHCCPage
                   echo "<td class='AlignLeft'>{$nv}</td>";
               }
               else if (1 == $iiCol) // Monthly Budget.
-                echo "<td class='MonthlyBudget'>{$nv}</td>";
+                echo "<td class='BgBlue'>{$nv}</td>";
               else if (14 == $iiCol) // Total YTD
-                echo "<td class='TotalYtd'>{$nv}</td>";
+                echo "<td class='BgPurple'>{$nv}</td>";
               else if (15 == $iiCol) // Budget YTD
-                echo "<td class='BudgetYtd'>{$nv}</td>";
+                echo "<td class='BgBlue'>{$nv}</td>";
               else
                 echo "<td>{$nv}</td>";
             }
@@ -266,7 +263,7 @@ class FY extends QHCCPage
     {
       echo "</table>\n";
     }
-  } // End GenerateBudgetTable
+  }
 
 }
 ?>

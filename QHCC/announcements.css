@@ -18,17 +18,233 @@ div.events
 div.annThumb
 {
   float: left;
-  text-align: center;
-  width: 130px;
-  height: 130px;
-  margin: 5px 5px 5px 5px;
+  width: 140px;
+  height: 140px;
 }
 
-img.Thumb
+div.ann1A
 {
-  width: 100px;
-  height: 100px;
-  border-width: 0px;
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+
+div.ann1B
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 150px;
+  top: 40px;
+}
+
+div.ann1C
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 300px;
+  top: 40px;
+}
+
+div.ann1D
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 450px;
+  top: 40px;
+}
+
+div.ann2A
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 0px;
+  top: 190px;
+}
+
+div.ann2B
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 150px;
+  top: 190px;
+}
+
+div.ann2C
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 300px;
+  top: 190px;
+}
+
+div.ann2D
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 450px;
+  top: 190px;
+}
+
+div.ann3A
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 0px;
+  top: 340px;
+}
+
+div.ann3B
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 150px;
+  top: 340px;
+}
+
+div.ann3C
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 300px;
+  top: 340px;
+}
+
+div.ann3D
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 450px;
+  top: 340px;
+}
+
+div.ann4A
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 0px;
+  top: 490px;
+}
+
+div.ann4B
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 150px;
+  top: 490px;
+}
+
+div.ann4C
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 300px;
+  top: 490px;
+}
+
+div.ann4D
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 450px;
+  top: 490px;
+}
+
+div.ann1A5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 75px;
+  top: 40px;
+}
+
+div.ann1B5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 225px;
+  top: 40px;
+}
+
+div.ann1C5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 375px;
+  top: 40px;
+}
+
+div.ann2A5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 75px;
+  top: 190px;
+}
+
+div.ann2B5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 225px;
+  top: 190px;
+}
+
+div.ann2C5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 375px;
+  top: 190px;
+}
+
+div.ann3A5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 75px;
+  top: 340px;
+}
+
+div.ann3B5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 225px;
+  top: 340px;
+}
+
+div.ann3C5
+{
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 375px;
+  top: 340px;
 }
 
 div.adate

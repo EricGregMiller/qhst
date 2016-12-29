@@ -17,7 +17,7 @@ class QHCCPage extends QHPage
   function SetTopImages()
   {
     $this->homeAdd = "/QHCC";
-    $this->topImg = "QHCCLogo50.png";
+    $this->topImg = "QHCCLogoTitle.png";
     $this->topAlt = "Quartz Hill Community Church";
     $this->tabSet = "QHCC";
   }

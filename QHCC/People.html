@@ -1,141 +1,110 @@
 <html>
   <head>
-    <title>QHCC People</title>
+    <title>QHCC Hello</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <style type="text/css">
-      div.LikeVideo
-      {
-        float: left;
-        width: 212px;
+<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAinTl7kIPuSmKrfJkKn85_BTXbhnmk4zPj9uwejwoA7EINiOXQBRodgoQLOGrVKKItfyl0rNck9ftYQ"></script>
+  <script type="text/javascript">
+
+      google.load("feeds", "1");
+
+      function initialize() {
+        var feedControl = new google.feeds.FeedControl();
+        feedControl.addFeed("http://hadlyville.blogspot.com/feeds/posts/default", "Patterson");
+        feedControl.addFeed("http://nettelhorst.blogspot.com/feeds/posts/default", "Nettelhorst");
+        feedControl.addFeed("http://rellimcire.blogspot.com/feeds/posts/default", "Miller");
+        feedControl.setNumEntries(4);
+        feedControl.setLinkTarget(google.feeds.LINK_TARGET_BLANK);
+        feedControl.draw(document.getElementById("feedControl"), 
+          {
+            drawMode : google.feeds.FeedControl.DRAW_MODE_TABBED
+          }
+        );
       }
-     </style>
+
+      google.setOnLoadCallback(initialize);
+
+  </script>
+<style type="text/css">
+
+.gfc-tabHeader.gfc-tabhActive {
+  border-left: 1px solid #333366;
+  border-right: 1px solid #333366;
+  border-top: 2px solid #333366;
+  font-weight: bold; 
+  color: white;
+  background: #333366;
+  }
+
+.gfc-tabHeader.gfc-tabhInactive {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 2px solid black;
+  color: white;
+  background: black;
+  }
+
+.gf-result .gf-author,
+.gf-result .gf-spacer,
+.gf-result .gf-relativePublishedDate {
+  color: LightGrey;
+  display : inline;
+  }
+  img.Left
+  {
+    float: left;
+    padding-right: 10px;
+  }
+  img.Right
+  {
+    float: right;
+    padding-left: 10px;
+  }
+  div.FeedCell
+  {
+    float: left;
+    width: 50%;
+  }
+  div.ImgCell
+  {
+    float: left;
+    padding-left: 10px;
+  }
+</style>
+
   </head>
   <body>
   <div class="spacer">
-    <h1>Why Do You Like Our Church?</h1>
+  <center>
+    <h1>Hello</h1>
+  </center>
+    <p>
+  <img src="service.jpg" alt="Scenes from QHCC" class="Left"/>
+Quartz Hill Community Church is a cozy, comfortable church.  Our focus is on people, plain and simple.  We have a friendly and accepting church and maintain an honest and open atmosphere. Our mission is to be a church for those who do not fit in elsewhere. If any of these qualities are things that you are looking for in a church, Quartz Hill Community waits for you with open arms.
+    </p>
+    <p>
+      <img src="Tabitha.jpg" alt="Scenes from QHCC" class="Right"/>
+To make it easier we want to introduce ourselves to you. We started by making some videos of us. These impromptu videos taken on a small camera are some real glimpses into who we are. 
+       You can look at the videos <a href="PeopleVideo.html">here</a>.
+    </p>
+    <p>
+      We also wanted to introduce ourselves to those in our community who have not yet seen our website.
+      For our low-tech introduction we made a flier that summarizes some of the video material and tells people about us.
+      You can see our flier <a href="PeopleFlierFront.html">here</a>.
+    </p>
+    <p>
+      Another measure of a church is its leaders. 
+      To meet those who serve us check out our <a href="deacons.html">servant's page</a>.
+    </p>
+    <p>
+      Finally some of our members maintain blogs.
+      Feeds from their blogs are below.
+      The tabs show each person who has a blog.
+      Click on a tab to see recent blog entries.
+      Feel free to visit and comment.
+    </p>
   </div>
   <div class="spacer">
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/tVDFsiVOeHc&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/tVDFsiVOeHc&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Beth</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/bXu9iQdI_d4&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/bXu9iQdI_d4&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Brittany</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/EcEIbWhn-gA&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/EcEIbWhn-gA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Bubba</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/bZl3Xs78qj8&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/bZl3Xs78qj8&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Carmen and Zoann</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-      <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/MoQdj7JpB4A&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/MoQdj7JpB4A&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>
-      </p>
-      <p align="center">Carolina</p>
-      <p align="center">"the music and the pastor."</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/LUYhXUWaHuY&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/LUYhXUWaHuY&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Corey</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/tEFP6IRLbbQ&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/tEFP6IRLbbQ&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Dana</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/I8lUcH0oofI&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/I8lUcH0oofI&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Dave</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/klf4pYsc16o&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/klf4pYsc16o&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Faye and Lucille</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/9ue9JkapTYU&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/9ue9JkapTYU&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Ivan</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/naXO8LJ_-3E&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/naXO8LJ_-3E&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Jim and Eula</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/9PlN2nq2QyQ&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/9PlN2nq2QyQ&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Judy</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/t7kpWHqTQjg&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/t7kpWHqTQjg&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Kathy</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/i6Za7FzYW5w&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/i6Za7FzYW5w&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Lupe</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/KF8ZWOWqxOw&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/KF8ZWOWqxOw&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Marla</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/PLzJUEsA-b8&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/PLzJUEsA-b8&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Marla's Girls</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/gVW7Ntgs078&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/gVW7Ntgs078&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Rex and Iris</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/zv4--q1MG1s&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/zv4--q1MG1s&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Ruth</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/wcGiRg8M_Hg&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/wcGiRg8M_Hg&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Sherman</p>
-      <p align="center">""</p>
-    </div>
-    <div class="LikeVideo">
-      <p align="center">
-        <object width="212" height="177"><param name="movie" value="http://www.youtube.com/v/UWK5Gjbp400&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/UWK5Gjbp400&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="212" height="177"></embed></object>      </p>
-      <p align="center">Wes</p>
-      <p align="center">""</p>
-    </div>
+      <div id="feedControl">Loading</div>
   </div>
   </body>
 </html>

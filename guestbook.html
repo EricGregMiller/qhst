@@ -4,12 +4,26 @@
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <link rel="shortcut icon" href="/Master/qhst.ico" />
   <link rel="stylesheet" type="text/css" href="/Master/QHST.css" />
+  <script src="/Master/NavigateButtonSupport.js"></script>
 </head>
 <body>
-<p class="CenterText"><img src="graphix/guestbook.jpg" alt="Guest Book"></p>
-<h2 class="CenterText">Please take a moment to fill out our Guest Book</h2>
+  <script src="/Master/QHSTPageBegin.js"></script>
+      <table width="75%" border="0" cellspacing="0" cellpadding="3">
+        <tr> 
+          <td width="35%" height="27"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          
+            <p>
 
-<div class="CenterBlock Backlight" style="width:70%;">
+
+
+
+<p>
 <form method="post" action="../cgi-bin/af.cgi">
 <input type="hidden" name="_send_email1" value="email3.txt">
 <input type="hidden" name="_send_email2" value="email2.txt">
@@ -19,113 +33,119 @@
 <input type="hidden" name="_browser_out" value="output.txt">
 <input type="hidden" name="form" value="Diploma Inquiry">
 
-<p>How did you discover our Web site? 
-<select name="source">
-<option>Google
-<option>Yahoo
-<option>Alta Vista
-<option>Lycos
-<option>Excite!
-<option>Goshen
-<option>Christianity.Net
-<option>Magellan
-<option>InfoSeek
-<option>Webcrawler
-<option>All-in-One
-<option>DejaNews
-<option>Eye on the Web
-<option>HotBot
-<option>MetaCrawler
-<option>SavvySearch
-<option>WiseWire
-<option>Followed a Link
-<option>Word of Mouth
-<option>Referral
-<option>Other
-</select>
-</p>
 
-<hr class="HorizontalDividerBarThinGrey">
 
-<p>What do you like about our site? (You can select more than one item!)<br/>
-<select name="Preferences" multiple size=3>
-<option>Library
-<option>Courses
-<option>Quartz Hill Journal of Theology
-<option>Quartz Hill Community Church
-<option>Quartz Hill Publishing House
-<option>High Desert Christian Writer's Guild
-<option>Links to Other Pages on the Web
-<option>None of the above
-<option>Didn't Like the Site
-<option>Other
-</select>
-</p>
+<table width=422 cellpadding="3" cellspacing="0" border="0">
+<tr bgcolor="#6F7A9E"><th colspan="2">
+<img src="../graphix/guestbook.jpg" alt="Guest Book"><br>
+<font face="arial,helvetica,swiss" color="#ffffff">Please take a moment to fill out our Guest Book</th></tr>
 
-<hr class="HorizontalDividerBarThinGrey">
 
-<p>Which Web browser(s) are you currently using?<br/> 
-Internet&nbsp;Explorer&nbsp;<input name="inetexplore" type="checkbox"> &nbsp;
-Mozilla&nbsp;Firefox&nbsp;<input name="firefox" type="checkbox"> &nbsp;
-Chrome&nbsp;<input name="chrome" type="checkbox"> &nbsp;
-Netscape&nbsp;<input name="netscape" type="checkbox"> &nbsp;
-AOL&nbsp;<input name="AOL" type="checkbox"> &nbsp;
-Other&nbsp;<input name="other" type="checkbox"> &nbsp;
-</p>
 
-<hr class="HorizontalDividerBarThinGrey">
 
-<p>Will you visit our site again? &nbsp;
-Yes<input name="visitagain" type="RADIO" value=1 CHECKED>&nbsp;&nbsp;
-No<input name="visitagain" type="RADIO" value=2>&nbsp;&nbsp;
-Not Sure<input name="visitagain" type="RADIO" value=3>
-</p>
+<tr bgcolor="#6F7A9E"><th colspan="2"><font size="-1" face="arial,helvetica,swiss">
+How did you discover our Web site? 
+<SELECT NAME="source">
+<OPTION>Yahoo
+<OPTION>Alta Vista
+<OPTION>Lycos
+<OPTION>Excite!
+<OPTION>Goshen
+<OPTION>Christianity.Net
+<OPTION>Magellan
+<OPTION>InfoSeek
+<OPTION>Webcrawler
+<OPTION>All-in-One
+<OPTION>DejaNews
+<OPTION>Eye on the Web
+<OPTION>HotBot
+<OPTION>MetaCrawler
+<OPTION>SavvySearch
+<OPTION>WiseWire
+<OPTION>Followed a Link
+<OPTION>Word of Mouth
+<OPTION>Referral
+<OPTION>Other
+</SELECT>
 
-<hr class="HorizontalDividerBarThinGrey">
+<hr noshade color="#000000">
 
-<p>
+What do you like about our site?<BR>(You can select more than one item!)<br>
+<SELECT NAME="Preferences" MULTIPLE SIZE=3>
+<OPTION>Library
+<OPTION>Courses
+<OPTION>Quartz Hill Journal of Theology
+<OPTION>Links to Other Pages on the Web
+<OPTION>None of the above
+<OPTION>Didn't Like the Site
+<OPTION>Other
+</SELECT>
+
+<hr noshade color="#000000">
+
+Which Web browser(s) are you currently using?<br> 
+AOL&nbsp;<INPUT NAME="AOL" TYPE="CHECKBOX"> &nbsp;
+Prodigy&nbsp;<INPUT NAME="prodigy" TYPE="CHECKBOX"> &nbsp;
+Netscape&nbsp;<INPUT NAME="netscape" TYPE="CHECKBOX"> &nbsp;
+IE&nbsp;<INPUT NAME="inetexplore" TYPE="CHECKBOX"> &nbsp;
+Other&nbsp;<INPUT NAME="other" TYPE="CHECKBOX"> &nbsp;
+
+<hr noshade color="#000000">
+
+Will you visit our site again? &nbsp;
+Yes<INPUT NAME="visitagain" TYPE="RADIO" VALUE=1 CHECKED>&nbsp;&nbsp;
+No<INPUT NAME="visitagain" TYPE="RADIO" VALUE=2>&nbsp;&nbsp;
+Not Sure<INPUT NAME="visitagain" TYPE="RADIO" VALUE=3>
+
+<hr noshade color="#000000">
+
 Where are you currently residing? 
-<select name="region">
-<option>North America
-<option>South America
-<option>Asia
-<option>Europe
-<option>Africa
-<option>Australia
-<option>Pacific Islands
-<option>Antarctica
-</select>
-</p>
+<SELECT NAME="region">
+<OPTION>North America
+<OPTION>South America
+<OPTION>Asia
+<OPTION>Europe
+<OPTION>Africa
+<OPTION>Australia
+<OPTION>Pacific Islands
+<OPTION>Antarctica
+</SELECT>
 
-<hr class="HorizontalDividerBarThinGrey">
+<hr noshade color="#000000">
 
-<p>Please type in the name of your country, state, province and city:<br/>
-<textarea name="Country" rows=3 cols=40 >
-</textarea></p>
+Please type in the name of your country, state, province and city:<BR>
+<TEXTAREA NAME="Country" ROWS=3 COLS=40 >
+</TEXTAREA>
 
-<hr class="HorizontalDividerBarThinGrey">
+<hr noshade color="#000000">
 
-<p>Please use this space for general comments or questions about the Quartz Hill School of Theology Web site:<br/>
-<textarea name="Comments" rows=3 cols=40 >
-</textarea></p>
+Please use this space for general comments or questions about the Quartz Hill School of Theology Web site:<BR>
+<TEXTAREA NAME="Comments" ROWS=3 COLS=40 >
+</TEXTAREA>
 
-<hr class="HorizontalDividerBarThinGrey">
+<hr noshade color="#000000">
 
-<p>Do you have a Web page? 
-<input name="URL" type="text" value="http://" SIZE=30 MAXLENGTH=60></p>
+Do you have a Web page? 
+<INPUT NAME="URL" TYPE="TEXT" VALUE="http://" SIZE=30 MAXLENGTH=60>
 
-<hr class="HorizontalDividerBarThinGrey">
+<hr noshade color="#000000">
 
-<p>Please enter your full name: 
-<input name="NAME" type="text" SIZE=30 MAXLENGTH=75></p>
+Please enter your full name: 
+<INPUT NAME="NAME" TYPE="TEXT" SIZE=30 MAXLENGTH=75>
 
-<hr class="HorizontalDividerBarThinGrey">
+<hr noshade color="#000000">
 
-<p>What is your Email address? <input name="re_email" type="text" SIZE=30></p>
+What is your Email address? <INPUT NAME="re_email" TYPE="TEXT" SIZE=30>
 
-<p><input type="submit" value="Send Form Now"> <input type="RESET" value="Reset Guestbook Form"></p>
+</td></tr><tr bgcolor="#6F7A9E"><th><INPUT TYPE="SUBMIT" VALUE="Send Form Now"> <INPUT TYPE="RESET" VALUE="Reset Guestbook Form">
+</th></tr>
 
 </FORM>
+</table>
 
+<a href="index.html"><img alt="Return to Homepage" border=0 src="../graphix/return.gif"></a>
+<P>&nbsp; &nbsp; &nbsp; &nbsp; 
+      
+  <script src="/Master/QHSTPageEnd.js"></script>
 </body>
 </html>

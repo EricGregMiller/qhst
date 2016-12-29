@@ -16,7 +16,7 @@ class AVCWGPage extends QHPage
   function SetTopImages()
   {
     $this->homeAdd = "/writers/";
-    $this->topImg = "AVCWGLogo50.gif";
+    $this->topImg = "AVCWGLogoTitle.gif";
     $this->topAlt = "Antelope Valley Christian Writers Guild";
     $this->tabSet = "AVCWG";
   }

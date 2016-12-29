@@ -21,7 +21,7 @@ function initQhcc() {
 function initQhst() {
   var feedControl = new google.feeds.FeedControl();
   feedControl.addFeed("http://nettelhorst.com/?feed=rss2", "Nettelhorst");
-  feedControl.addFeed("http://hadlyville.blogspot.com/feeds/posts/default", "Patterson");
+  //feedControl.addFeed("http://hadlyville.blogspot.com/feeds/posts/default", "Patterson");
   feedControl.addFeed("http://rellimcire.blogspot.com/feeds/posts/default", "Miller");
   feedControl.addFeed("http://zwingliusredivivus.wordpress.com/feed/", "West");
   feedControl.setNumEntries(2);
