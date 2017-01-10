@@ -11,7 +11,7 @@
   </p>
   <p>
     2015 was an awesome year financially.
-		It great improved upon a good 2014.
+		It greatly improved upon a good 2014.
     Giving continued to be decent with a total General Fund income of $85,048, just off our budget of $87,230.
     Unfortunately our pastor decided to move away in late summer.
     Financially, however, this greatly reduced expenses so that we are able to be financially ready for a new pastor.

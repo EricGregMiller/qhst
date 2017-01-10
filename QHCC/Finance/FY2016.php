@@ -9,6 +9,46 @@
     It starts with this overview of the year.
     Following the overview there is detailed information about fund balances and the budget. 
   </p>
+  <p>
+    Overall 2016 was another good year financially.
+		Giving dropped but expenses were also very low.
+    Giving to the General Fund dropped to $68,246, about $17,000 below the $85,048 we received in 2015.
+		However, expenses fell to $50,370, which is $37,000 below budget.
+    Most of the savings was due to not having a full-time pastor, but this also probably was a major factor in the reduced giving.
+    The net result is we ended the year with $30,171 in the General Fund, a huge increase over 2015.
+  </p>
+  <p>
+		The renovation project begun in 2014 continued throughout 2016, although at a slightly slower pace than previously.
+    Almost all renovation work in 2016 was on remodelling our kitchen or on work related to it.
+		The $5,556 that remained in the Renovation Fund was used on the kitchen remodel.
+		In addition about $8,800 of maintenenance budget was spent on the remodel and related work.
+    The kitchen is done and looks great.
+    The Renovation Fund balance stands at $0.
+		2017 should see a new maintenance budget more in line with our current needs.
+  </p>
+  <p>
+    A thorough inspection of the parsonage indicated that it was not sensible to spend the money needed to fix it.
+    Therefore the congregation voted to sell it as is.
+		We received a good price of $180,000.
+		After paying the outstanding mortgage and related escrow fees, we netted $129,179 from the sale.
+    Combined with the existing $385 leaves the Parsonage Fund with a balance of $129,565.
+  </p>
+  <p>
+		Selling the parsonage erased our largest debt, which was $38,640 at the time of sale.
+    In addition we paid off our church building mortgage in August.
+		The result is we are now debt free.
+  </p>
+  <p>
+		As usual we continue to reach out to our community and around the world.
+		We sent $640 to the Southern Baptist cooperative program.
+		As usual the congregation generously participated in the Angel Tree program.
+		However, this year we went above and beyond, and spent about $550 on a very nice Christmas party for Angel Tree children.
+  </p>
+  <p>
+		In summary, we are in a good financial position even though giving is down.
+		We are in the unusual (for us) position of having some financial stability and flexibility.
+		Our financial challenges as we look to 2017 revolve primarily around intelligent use of the funds which God has entrusted to us.
+  </p>
   <h2>Balances</h2>
   <p>
     The table below shows the balances of the various QHCC funds at the end of each month in 2016.
