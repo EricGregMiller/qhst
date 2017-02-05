@@ -31,11 +31,13 @@
     The Temporary Fund should normally show zero balance. 
     The Temporary Fund covers money taken in for things not budgeted, such as a sudden need, a special offering, or a short-term project.
   </p>
-  <iframe src="https://docs.google.com/spreadsheets/d/1ATZspapc1WFodez8hGV8MicE5SmQCCfO0I0WH0rPTyY/pubhtml?gid=625249806&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A2%3AK15" width="830" height="325"></iframe>
+	<!-- For new year get new link by using Google Docs File + Publish. Select tabs to publish. This is the first tab link. Should also publish chart tab so shows below. -->
+  <iframe src="https://docs.google.com/spreadsheets/d/1DI00mMQc1skEOMe3KgzF-uawP04iSMzDZK61S8cljvs/pubhtml?gid=625249806&single=true&amp;widget=true&amp;headers=false&amp;range=A2%3AK15" width="830" height="325"></iframe>
   <p>
     Here is the chart showing the General Fund balances, income and expenses throughout the year.
   </p>
-  <iframe src="https://docs.google.com/spreadsheets/d/1ATZspapc1WFodez8hGV8MicE5SmQCCfO0I0WH0rPTyY/pubchart?oid=980390974&amp;format=interactive" width="600" height="375"></iframe>
+	<!-- For new year get chart link by going to chart tab in Google Docs and using Publish Chart button. -->
+  <iframe src="https://docs.google.com/spreadsheets/d/1DI00mMQc1skEOMe3KgzF-uawP04iSMzDZK61S8cljvs/pubchart?oid=980390974&format=interactive" width="600" height="375"></iframe>
   <h2>Budget</h2>
   <p>
     This table shows the how income and spending compare with the budget throughout the year.
@@ -47,11 +49,11 @@
     The Difference Column shows the difference between actual income and spending and the budget for the year to date.
     The Annual Budget Column shows the yearly budget amounts.
   </p>
-  <iframe src="https://docs.google.com/spreadsheets/d/1eH-x7bvPB_2jLElMZArP1GKkc1jG5UiBV_UqAtqMv5k/pubhtml?gid=1991634472&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A4%3AR49" width="1500" height="900"></iframe>
+	<iframe src="https://docs.google.com/spreadsheets/d/1pkSDRvUglY9X5ucIKrm31P-qvZpf_CZyUF7-EiLEeE8/pubhtml?gid=1991634472&single=true&amp;widget=true&amp;headers=false&amp;range=A4%3AP41" width="1500" height="900"></iframe>
   <p>
     This chart shows spending compared to the budget for the major budget categories.
   </p>
-  <iframe src="https://docs.google.com/spreadsheets/d/1eH-x7bvPB_2jLElMZArP1GKkc1jG5UiBV_UqAtqMv5k/pubchart?oid=1194222153&amp;format=interactive" width="600" height="375"></iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/1pkSDRvUglY9X5ucIKrm31P-qvZpf_CZyUF7-EiLEeE8/pubchart?oid=1194222153&format=interactive" width="600" height="375"></iframe>
   <?php
     $fy->PageEnd();
   ?>
