@@ -30,6 +30,7 @@ class QHCCPage extends QHPage
     $this->PrintButton("/QHCC/PeopleVideo.html", "Videos");
     $this->PrintButton("/QHCC/deacons.html", "Servants");
     $this->PrintButton("/QHCC/announcements.html", "Announcements");
+    $this->PrintButton("/QHCC/calendar.html", "Calendar");
     $this->PrintButton("/QHCC/messages.html", "Messages");
     $this->PrintButton("/QHCC/Finance", "Financial");
     $this->PrintButton("/QHCC/contact.html", "Contact Us");
