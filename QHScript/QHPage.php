@@ -574,11 +574,12 @@ class QHPage
     $webRoot = $this->webRoot;
     $webRoot .= "/";
     //print "<p>webRoot = $webRoot</p>\n";
-  
-    $fqfFile = $this->requestUri;
-    
+
+    // Remove any parameters (strok tokenizes strings, here spilts on question mark)
+    $fqfFile = strtok($this->requestUri, '?');
+
     // Change web address to complete file path.
-    //print "<p>fqfFile = $fqfFile</p>\n";
+    // print "<p>fqfFile = $fqfFile</p>\n";
     if (preg_match("?^/?", $fqfFile))
     {
       $fqfFile = preg_replace("?^/?", $webRoot, $fqfFile);
