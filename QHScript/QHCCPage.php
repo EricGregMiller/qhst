@@ -3,6 +3,11 @@ require 'QHPage.php';
 
 class QHCCPage extends QHPage
 {
+  function InitializePage()
+  {
+    $this->useFrame = False;
+  }
+
   function ShortcutIcon()
   {
     print (' <link rel="shortcut icon" href="/Master/qhcc.ico" />'."\n");

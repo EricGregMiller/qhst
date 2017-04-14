@@ -4,7 +4,8 @@ class QHPage
 
   var $requestUri;
   var $webRoot;
-  
+
+  var $useFrame;
   var $homeAdd;
   var $topImg;
   var $topAlt;
@@ -213,6 +214,11 @@ class QHPage
                           "wznow2.gif" => "/QHST/Images/wznow2.gif", 
                           "xaudio-shadow.gif" => "/QHST/Images/xaudio-shadow.gif", 
                           "yahoo.gif" => "/QHST/Images/yahoo.gif");
+
+  function InitializePage()
+  {
+    $this->useFrame = True;
+  }
 
   function NewImageName($iImageName)
   {
@@ -549,6 +555,11 @@ class QHPage
 
   function handler()
   {
+    // ------------------
+    // Initialize page data.
+    // ------------------
+    $this->InitializePage();
+
     $ruri = $this->requestUri;
     //print "<p>filename = $ruri</p>\n";
 
@@ -602,7 +613,7 @@ class QHPage
       
     if (file_exists($fqfFile))
     { // Found input file -- process it.
-    
+
       // Whether or not this page should show adds
       $showAdThisPage = $this->ShowAdsDefaultValue();
       
@@ -635,13 +646,13 @@ class QHPage
          }
          
         // Print end of head.
-        if (preg_match("?</head?i", $line))
+        if (preg_match("?</head?i", $line) And $this->useFrame)
         {
           $this->HeadEnd();
         }
 
         // Print end of page.
-        if (preg_match("?\</body?i", $line))
+        if (preg_match("?\</body?i", $line) And $this->useFrame)
         {
           $this->PageEnd($showAdThisPage);
         }
@@ -670,7 +681,7 @@ class QHPage
         }
         
         // Print beginning of page.
-        if (preg_match("?\<body?i", $line))
+        if (preg_match("?\<body?i", $line) And $this->useFrame)
         {
           $this->PageBegin($showAdThisPage);
         }
