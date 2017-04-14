@@ -1,94 +1,94 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CardList>
-  <Setup>  
-    <FrontClue>
-      <Name>Lemma</Name>
-    </FrontClue>
-    <FrontHint>
-      <Name>GreekHint</Name>
-      <DisplayName>Hint</DisplayName>
-    </FrontHint>
-    <FrontData>
-      <Name>Lexical</Name>
-    </FrontData>
-    <BackData>
-      <Name>Gloss</Name>
-    </BackData>
-    <BackData>
-      <Name>WordType</Name>
-      <DisplayName>Word Type</DisplayName>
-    </BackData>
-    <BackData>
-      <Name>VerbStem</Name>
-      <DisplayName>Verb Stem</DisplayName>
-    </BackData>
-    <AdditionalData>
-      <Name>Frequency</Name>
-    </AdditionalData>
-  </Setup>
-	<Card>
-		<WordType>Proper Noun</WordType>
-		<Lemma>avbraa,m</Lemma>
-		<Lexical>VAbraa,m( o`</Lexical>
-		<Gloss>Abraham</Gloss>
-		<Frequency>73</Frequency>
-		<BBG>4</BBG>
-	</Card>
-	<Card>
-		<WordType>Adjective</WordType>
-		<Lemma>avgaqo,j</Lemma>
-		<Lexical>avgaqo,j( &amp;h,( &amp;o,n</Lexical>
-		<Gloss>good</Gloss>
-		<Frequency>131</Frequency>
-		<BBG>9</BBG>
-	</Card>
-	<Card>
-		<WordType>Verb</WordType>
-		<VerbStem>Present</VerbStem>
-		<Lemma>avgapa,w</Lemma>
-		<Lexical>avgapa,w</Lexical>
-		<Gloss>to love </Gloss>
-		<Frequency>147</Frequency>
-		<BBG>17</BBG>
-	</Card>
-	<Card>
-		<WordType>Noun</WordType>
-		<Lemma>yuch,</Lemma>
-		<Lexical>yuch,( &amp;h/j( h`</Lexical>
-		<Gloss>soul, life, self</Gloss>
-		<Frequency>103</Frequency>
-		<BBG>14</BBG>
-	</Card>
-	<Card>
-		<WordType>Adverb</WordType>
-		<Lemma>w-de</Lemma>
-		<Lexical>w-de</Lexical>
-		<Gloss>here, hither</Gloss>
-		<Frequency>61</Frequency>
-		<BBG>11</BBG>
-	</Card>
-	<Card>
-		<WordType>Noun</WordType>
-		<Lemma>w[ra</Lemma>
-		<Lexical>w[ra( &amp;aj( h`</Lexical>
-		<Gloss>an hour</Gloss>
-		<Frequency>106</Frequency>
-		<BBG>6</BBG>
-	</Card>
-	<Card>
-		<WordType>Conjunction</WordType>
-		<Lemma>w`j</Lemma>
-		<Lexical>w`j</Lexical>
-		<Gloss>as, that, like, how, about, now</Gloss>
-		<Frequency>504</Frequency>
-		<BBG>18</BBG>
-	</Card>
-	<Card>
-		<WordType>Conjunction</WordType>
-		<Lemma>w[ste</Lemma>
-		<Lexical>w[ste</Lexical>
-		<Gloss>so that</Gloss>
-		<Frequency>83</Frequency>
-		<BBG>7</BBG>
-	</Card>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CardList>
+  <Setup>  
+    <FrontClue>
+      <Name>Lemma</Name>
+    </FrontClue>
+    <FrontHint>
+      <Name>GreekHint</Name>
+      <DisplayName>Hint</DisplayName>
+    </FrontHint>
+    <FrontData>
+      <Name>Lexical</Name>
+    </FrontData>
+    <BackData>
+      <Name>Gloss</Name>
+    </BackData>
+    <BackData>
+      <Name>WordType</Name>
+      <DisplayName>Word Type</DisplayName>
+    </BackData>
+    <BackData>
+      <Name>VerbStem</Name>
+      <DisplayName>Verb Stem</DisplayName>
+    </BackData>
+    <AdditionalData>
+      <Name>Frequency</Name>
+    </AdditionalData>
+  </Setup>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>avbraa,m</Lemma>
+		<Lexical>VAbraa,m( o`</Lexical>
+		<Gloss>Abraham</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>avgaqo,j</Lemma>
+		<Lexical>avgaqo,j( &amp;h,( &amp;o,n</Lexical>
+		<Gloss>good</Gloss>
+		<Frequency>131</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>avgapa,w</Lemma>
+		<Lexical>avgapa,w</Lexical>
+		<Gloss>to love </Gloss>
+		<Frequency>147</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>yuch,</Lemma>
+		<Lexical>yuch,( &amp;h/j( h`</Lexical>
+		<Gloss>soul, life, self</Gloss>
+		<Frequency>103</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>w-de</Lemma>
+		<Lexical>w-de</Lexical>
+		<Gloss>here, hither</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>w[ra</Lemma>
+		<Lexical>w[ra( &amp;aj( h`</Lexical>
+		<Gloss>an hour</Gloss>
+		<Frequency>106</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>w`j</Lemma>
+		<Lexical>w`j</Lexical>
+		<Gloss>as, that, like, how, about, now</Gloss>
+		<Frequency>504</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>w[ste</Lemma>
+		<Lexical>w[ste</Lexical>
+		<Gloss>so that</Gloss>
+		<Frequency>83</Frequency>
+		<BBG>7</BBG>
+	</Card>
 </CardList>

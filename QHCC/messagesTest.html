@@ -1,93 +1,93 @@
-<html>
-  <head>
-    <title>QHCC Messages</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <script type="text/javascript" src="../Master/Element.js"></script>
-    <script type="text/javascript" src="../Master/swfobject.js"></script>
-    <script type="text/javascript" src="../Master/Video.js"></script>
-    <script type="text/javascript" src="XmlFile.js"></script>
-    <script type="text/javascript" src="MessageVideo.js"></script>
-
-    <style type="text/css">
-      div.VideoInfoDiv
-      {
-        float: left;
-        width: 440px;
-      }
-      div.VideoNotLoaded
-      {
-        width: 425px;
-        height: 355px;
-        border: dashed;
-        padding: 5px 5px 5px 5px;
-      }
-      div.VideoSelection
-      {
-        float: left;
-        width: 325px;
-        margin-right: 5px;
-      }
-      .center
-      {
-        text-align: center;
-      }
-      label,input
-      {
-	      display: block;
-	      width: 150px;
-	      float: left;
-	      margin-bottom: 10px;
-      }
-      label
-      {
-	      text-align: right;
-	      width: 50px;
-	      padding-right: 5px;
-      }
-      br
-      {
-	      clear: left;
-      }
-    </style>
-  </head>
-  <body >
-  <div class="spacer">
-    <h1 class="center">Messages</h1>
-  </div>
-  <div class="spacer">
-    <div class="VideoInfoDiv">
-      <div id="VideoDiv">
-        <div class="VideoNotLoaded">
-          <h3><center>Loading Video</center></h3>
-        </div>
-      </div>
-      <strong><p id="VideoName" class="center"></p></strong>
-      <p id="VideoDesc" class="center"></p>
-    </div>
-    <div class="VideoSelection">
-        <fieldset><legend><strong>Select a Message</strong></legend>
-          <div class="spacer">
-          <p>
-            Messages are grouped into series. 
-            Use the series list to select a series.
-            Use the message list to select a message in the selected series.
-          </p>
-          </div>
-          <form id="SeriesSelectForm">
-            <label for="SeriesSelect">Series: </label>
-            <select id="SeriesSelect" name="SeriesSelect" onchange="PickNewVideoSeries()"></select><br />
-            <label for="MessageSelect">Message: </label>
-            <select id="MessageSelect" name="MessageSelect" onchange="PickNewVideoMessage(1)"></select><br />
-          </form>
-          <hr />
-          <strong><p id="SeriesName" class="center"></p></strong>
-          <p id="SeriesTagLine" class="center"></p>
-          <p id="SeriesDesc" class="center"></p>
-        </fieldset>
-        <!--<p><b>If videos do not play, 
-          <a href="/Master/FlashHelp.html">please click here for help.</a>
-        </b></p>-->
-    </div>
-  </div>
-  </body>
-</html>
+<html>
+  <head>
+    <title>QHCC Messages</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <script type="text/javascript" src="../Master/Element.js"></script>
+    <script type="text/javascript" src="../Master/swfobject.js"></script>
+    <script type="text/javascript" src="../Master/Video.js"></script>
+    <script type="text/javascript" src="XmlFile.js"></script>
+    <script type="text/javascript" src="MessageVideo.js"></script>
+
+    <style type="text/css">
+      div.VideoInfoDiv
+      {
+        float: left;
+        width: 440px;
+      }
+      div.VideoNotLoaded
+      {
+        width: 425px;
+        height: 355px;
+        border: dashed;
+        padding: 5px 5px 5px 5px;
+      }
+      div.VideoSelection
+      {
+        float: left;
+        width: 325px;
+        margin-right: 5px;
+      }
+      .center
+      {
+        text-align: center;
+      }
+      label,input
+      {
+	      display: block;
+	      width: 150px;
+	      float: left;
+	      margin-bottom: 10px;
+      }
+      label
+      {
+	      text-align: right;
+	      width: 50px;
+	      padding-right: 5px;
+      }
+      br
+      {
+	      clear: left;
+      }
+    </style>
+  </head>
+  <body >
+  <div class="spacer">
+    <h1 class="center">Messages</h1>
+  </div>
+  <div class="spacer">
+    <div class="VideoInfoDiv">
+      <div id="VideoDiv">
+        <div class="VideoNotLoaded">
+          <h3><center>Loading Video</center></h3>
+        </div>
+      </div>
+      <strong><p id="VideoName" class="center"></p></strong>
+      <p id="VideoDesc" class="center"></p>
+    </div>
+    <div class="VideoSelection">
+        <fieldset><legend><strong>Select a Message</strong></legend>
+          <div class="spacer">
+          <p>
+            Messages are grouped into series. 
+            Use the series list to select a series.
+            Use the message list to select a message in the selected series.
+          </p>
+          </div>
+          <form id="SeriesSelectForm">
+            <label for="SeriesSelect">Series: </label>
+            <select id="SeriesSelect" name="SeriesSelect" onchange="PickNewVideoSeries()"></select><br />
+            <label for="MessageSelect">Message: </label>
+            <select id="MessageSelect" name="MessageSelect" onchange="PickNewVideoMessage(1)"></select><br />
+          </form>
+          <hr />
+          <strong><p id="SeriesName" class="center"></p></strong>
+          <p id="SeriesTagLine" class="center"></p>
+          <p id="SeriesDesc" class="center"></p>
+        </fieldset>
+        <!--<p><b>If videos do not play, 
+          <a href="/Master/FlashHelp.html">please click here for help.</a>
+        </b></p>-->
+    </div>
+  </div>
+  </body>
+</html>

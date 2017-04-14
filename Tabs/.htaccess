@@ -1,3 +1,3 @@
-<FilesMatch "\.html?$">
-  SetHandler QHSTPageNew
-</FilesMatch>
+<FilesMatch "\.html?$">
+  SetHandler QHSTPageNew
+</FilesMatch>

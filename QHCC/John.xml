@@ -1,578 +1,578 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<MessageSeries>
-  <SeriesInfo>
-    <Name>Gospel of John</Name>
-    <TagLine>A study through the Gospel written by John.</TagLine>
-    <Description>A Sunday morning series delivered by Pastor Don Patterson starting in 2013.</Description>
-  </SeriesInfo>
-  <Message>
-    <Name>The Light of the World: John 1:1-13</Name> 
-    <Link>http://www.youtube.com/v/bnKxJFsk9II</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>1</Number>
-    <Date>September 22, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Word Became Flesh: John 1:14-18</Name> 
-    <Link>http://www.youtube.com/v/lW9SJ_Amhn0</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>2</Number>
-    <Date>September 29, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Did Jesus Need Baptism? John 1:19-34</Name> 
-    <Link>http://www.youtube.com/v/aZFiv9w2lcw</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>3</Number>
-    <Date>October 6, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Whom Do You Seek? John 1:35-51</Name> 
-    <Link>http://www.youtube.com/v/CX5YDsfz34Q</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>4</Number>
-    <Date>October 13, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The First Sign: John 2:1-11</Name> 
-    <Link>http://www.youtube.com/v/Kh494MoqI3Q</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>5</Number>
-    <Date>October 27, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Sign of Jonah: John 2:12-25</Name> 
-    <Link>http://www.youtube.com/v/1z9tz9MpMOY</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>6</Number>
-    <Date>November 3, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Born Again: John 3:1-12</Name> 
-    <Link>http://www.youtube.com/v/fq3DfRUEcLc</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>7</Number>
-    <Date>November 17, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Lifted Up: John 3:13-15</Name> 
-    <Link>http://www.youtube.com/v/9PqwhH7h4Sg</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>8</Number>
-    <Date>November 24, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Love of God: John 3:16-21</Name> 
-    <Link>http://www.youtube.com/v/tamtzHHNPW4</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>9</Number>
-    <Date>December 1, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Decrease &amp; Increase: John 3:22-36</Name> 
-    <Link>http://www.youtube.com/v/uqhF1qgrKho</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>10</Number>
-    <Date>December 8, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>&#x2205; Religion: John 4:1-26</Name> 
-    <Link>http://www.youtube.com/v/-AGDHXNDzPI</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>11</Number>
-    <Date>December 22, 2013</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Harvest: John 4:27-42</Name> 
-    <Link>http://www.youtube.com/v/9u-K7oWJCyQ</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>12</Number>
-    <Date>January 5, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Believing Jesus: John 4:43-54</Name> 
-    <Link>http://www.youtube.com/v/5_pcDvFkTIM</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>13</Number>
-    <Date>January 12, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Sabbath Scandal: John 5:1-18</Name> 
-    <Link>http://www.youtube.com/v/SjB2RUcWLhE</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>14</Number>
-    <Date>January 19, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Search the Scriptures: John 5:19-47</Name> 
-    <Link>http://www.youtube.com/v/ramQr_Pxiww</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>15</Number>
-    <Date>February 2, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Feeding 5,000: John 6:1-14</Name> 
-    <Link>http://www.youtube.com/v/6lEO23fpNys</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>16</Number>
-    <Date>February 9, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Walking on Water: John 6:15-21</Name> 
-    <Link>http://www.youtube.com/v/zldJMil53Do</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>17</Number>
-    <Date>February 16, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Bread of Life: John 6:22-40</Name> 
-    <Link>http://www.youtube.com/v/rUASDXe-oVc</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>18</Number>
-    <Date>February 23, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Why the Lord&#8217;s Supper? John 6:41-58</Name> 
-    <Link>http://www.youtube.com/v/NF_c7LN50Ts</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>19</Number>
-    <Date>March 2, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Hard Words of Jesus: John 6:60-71</Name> 
-    <Link>http://www.youtube.com/v/pm7OltENSFc</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>20</Number>
-    <Date>March 9, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Going in Secret: John 7:1-13</Name> 
-    <Link>http://www.youtube.com/v/xyP228Q_Nlo</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>21</Number>
-    <Date>March 16, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Facing Facts: John 7:14-29</Name> 
-    <Link>http://www.youtube.com/v/3wtb4oRZOe8</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>22</Number>
-    <Date>March 23, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Coming and Going: John 7:28-36</Name> 
-    <Link>http://www.youtube.com/v/yZt2r26j1_M</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>23</Number>
-    <Date>March 30, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Why Go On Thirsting? John 7:37-52</Name> 
-    <Link>http://www.youtube.com/v/ZXDR9gyuQSA</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>24</Number>
-    <Date>April 6, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Go, Sin No More: John 8:1-11</Name> 
-    <Link>http://www.youtube.com/v/eILCGOwoJ2M</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>25</Number>
-    <Date>May 4, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Light of the World: John 8:12-20</Name> 
-    <Link>http://www.youtube.com/v/QSQrdtWFx0E</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>26</Number>
-    <Date>May 11, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Upstairs/Downstairs: John 8:21-30 (slides only)</Name> 
-    <Link>http://www.youtube.com/v/8gRa0l9o9MA</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>27</Number>
-    <Date>May 18, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Free or Fettered? John 8:31-47</Name> 
-    <Link>http://www.youtube.com/v/GnFEbJD1Bo8</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>28</Number>
-    <Date>June 1, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Who Do You Think You Are? John 8:48-59</Name> 
-    <Link>http://www.youtube.com/v/9GYU0p-EOjE</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>29</Number>
-    <Date>June 8, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Seeing, Yet Blind: John 9:1-41</Name> 
-    <Link>http://www.youtube.com/v/A7gLVNznXoU</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>30</Number>
-    <Date>June 15, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Good Shepherd: John 10:1-18</Name> 
-    <Link>http://www.youtube.com/v/87CE2J8QYhA</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>31</Number>
-    <Date>June 22, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>I am the Resurrection and the Life: John 11:1-44</Name> 
-    <Link>http://www.youtube.com/v/gtVwdilKWNM</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>32</Number>
-    <Date>June 29, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>All For One: John 11:45-53</Name> 
-    <Link>http://www.youtube.com/v/k4qQzQ5Up9w</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>33</Number>
-    <Date>July 6, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Priorities: John 12:1-8</Name> 
-    <Link>http://www.youtube.com/v/Xpp6vNbSZvk</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>34</Number>
-    <Date>July 13, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Homecoming: John 12:9-19</Name> 
-    <Link>http://www.youtube.com/v/kl5ulANsXB4</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>35</Number>
-    <Date>July 20, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>One Grain of Wheat: John 12:20-28</Name> 
-    <Link>http://www.youtube.com/v/nFRnnBfDxqw</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>36</Number>
-    <Date>July 27, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Sign of Healing: John 12:31-43</Name> 
-    <Link>http://www.youtube.com/v/u0kk-c-1U1c</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>37</Number>
-    <Date>August 3, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Jesus &amp; the Father: John 12:44-50</Name> 
-    <Link>http://www.youtube.com/v/CdLS6xTJxAc</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>38</Number>
-    <Date>August 10, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Call to Service: John 13:1-15</Name> 
-    <Link>http://www.youtube.com/v/597B7CqvP6M</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>39</Number>
-    <Date>August 24, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Nightfall: John 13:21-30</Name> 
-    <Link>http://www.youtube.com/v/7jOqNmUAh4U</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>40</Number>
-    <Date>August 31, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Die is Cast: John 13:31-38</Name> 
-    <Link>http://www.youtube.com/v/k82sGckUcUo</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>41</Number>
-    <Date>September 7, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Heavenly Mansions: John 14:1-9 (slides only)</Name> 
-    <Link>http://www.youtube.com/v/yVvmzEzIWo0</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>42</Number>
-    <Date>September 14, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Holy Spirit: John 14:15-26</Name> 
-    <Link>http://www.youtube.com/v/Ce6ouGCE5ws</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>43</Number>
-    <Date>September 21, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Divine Gardener: John 15:1-8</Name> 
-    <Link>http://www.youtube.com/v/wW9CjTw1dsQ</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>44</Number>
-    <Date>September 28, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Love One Another: John 15:9-17</Name> 
-    <Link>http://www.youtube.com/v/QIyxeTrCttQ</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>45</Number>
-    <Date>October 5, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Lions Vs. Christians: John 15:18-16:4</Name> 
-    <Link>http://www.youtube.com/v/f0RZE28mb5I</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>46</Number>
-    <Date>October 12, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Do You Really Believe? John 16:20-33</Name> 
-    <Link>http://www.youtube.com/v/pQvZyVnif5M</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>47</Number>
-    <Date>October 19, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>A Pastor's Heart A: John 17:1-13</Name> 
-    <Link>http://www.youtube.com/v/pTSM4r2c2gk</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>48</Number>
-    <Date>October 26, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>A Pastor's Heart B: John 17:14-26</Name> 
-    <Link>http://www.youtube.com/v/a3ej_jcyFeU</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>49</Number>
-    <Date>November 2, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Arrest of the King: John 18:1-12</Name> 
-    <Link>http://www.youtube.com/v/Q7kCPdH1yfU</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>50</Number>
-    <Date>November 9, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Kangaroo Court: John 18:12-40</Name> 
-    <Link>http://www.youtube.com/v/bTQ7cbalIqI</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>51</Number>
-    <Date>November 23, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Pilate’s Tribunal: John 19:1-16</Name> 
-    <Link>http://www.youtube.com/v/lFGF9TEX9wA</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>52</Number>
-    <Date>November 30, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Is God Dead?: John 19:17-42</Name> 
-    <Link>http://www.youtube.com/v/Khw1hQ522fQ</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>53</Number>
-    <Date>December 7, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Return of the King: John 20:1-29 (slides only)</Name> 
-    <Link>http://www.youtube.com/v/uYctRXazHnI</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>54</Number>
-    <Date>December 21, 2014</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>What Does God Want?: John 21:1-14</Name> 
-    <Link>http://www.youtube.com/v/TVYMUHfgiGM</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>55</Number>
-    <Date>January 4, 2015</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>A New Leaf: John 21:15-22</Name> 
-    <Link>http://www.youtube.com/v/Qm9-t61mKDc</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>56</Number>
-    <Date>January 11, 2015</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The True Witness: John 21:21-25</Name> 
-    <Link>http://www.youtube.com/v/AgYsfE6npv0</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>57</Number>
-    <Date>January 18, 2015</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-</MessageSeries>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>Gospel of John</Name>
+    <TagLine>A study through the Gospel written by John.</TagLine>
+    <Description>A Sunday morning series delivered by Pastor Don Patterson starting in 2013.</Description>
+  </SeriesInfo>
+  <Message>
+    <Name>The Light of the World: John 1:1-13</Name> 
+    <Link>http://www.youtube.com/v/bnKxJFsk9II</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>1</Number>
+    <Date>September 22, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Word Became Flesh: John 1:14-18</Name> 
+    <Link>http://www.youtube.com/v/lW9SJ_Amhn0</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>2</Number>
+    <Date>September 29, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Did Jesus Need Baptism? John 1:19-34</Name> 
+    <Link>http://www.youtube.com/v/aZFiv9w2lcw</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>3</Number>
+    <Date>October 6, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Whom Do You Seek? John 1:35-51</Name> 
+    <Link>http://www.youtube.com/v/CX5YDsfz34Q</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>4</Number>
+    <Date>October 13, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The First Sign: John 2:1-11</Name> 
+    <Link>http://www.youtube.com/v/Kh494MoqI3Q</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>5</Number>
+    <Date>October 27, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Sign of Jonah: John 2:12-25</Name> 
+    <Link>http://www.youtube.com/v/1z9tz9MpMOY</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>6</Number>
+    <Date>November 3, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Born Again: John 3:1-12</Name> 
+    <Link>http://www.youtube.com/v/fq3DfRUEcLc</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>7</Number>
+    <Date>November 17, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Lifted Up: John 3:13-15</Name> 
+    <Link>http://www.youtube.com/v/9PqwhH7h4Sg</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>8</Number>
+    <Date>November 24, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Love of God: John 3:16-21</Name> 
+    <Link>http://www.youtube.com/v/tamtzHHNPW4</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>9</Number>
+    <Date>December 1, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Decrease &amp; Increase: John 3:22-36</Name> 
+    <Link>http://www.youtube.com/v/uqhF1qgrKho</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>10</Number>
+    <Date>December 8, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>&#x2205; Religion: John 4:1-26</Name> 
+    <Link>http://www.youtube.com/v/-AGDHXNDzPI</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>11</Number>
+    <Date>December 22, 2013</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Harvest: John 4:27-42</Name> 
+    <Link>http://www.youtube.com/v/9u-K7oWJCyQ</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>12</Number>
+    <Date>January 5, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Believing Jesus: John 4:43-54</Name> 
+    <Link>http://www.youtube.com/v/5_pcDvFkTIM</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>13</Number>
+    <Date>January 12, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Sabbath Scandal: John 5:1-18</Name> 
+    <Link>http://www.youtube.com/v/SjB2RUcWLhE</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>14</Number>
+    <Date>January 19, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Search the Scriptures: John 5:19-47</Name> 
+    <Link>http://www.youtube.com/v/ramQr_Pxiww</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>15</Number>
+    <Date>February 2, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Feeding 5,000: John 6:1-14</Name> 
+    <Link>http://www.youtube.com/v/6lEO23fpNys</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>16</Number>
+    <Date>February 9, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Walking on Water: John 6:15-21</Name> 
+    <Link>http://www.youtube.com/v/zldJMil53Do</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>17</Number>
+    <Date>February 16, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Bread of Life: John 6:22-40</Name> 
+    <Link>http://www.youtube.com/v/rUASDXe-oVc</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>18</Number>
+    <Date>February 23, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Why the Lord&#8217;s Supper? John 6:41-58</Name> 
+    <Link>http://www.youtube.com/v/NF_c7LN50Ts</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>19</Number>
+    <Date>March 2, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Hard Words of Jesus: John 6:60-71</Name> 
+    <Link>http://www.youtube.com/v/pm7OltENSFc</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>20</Number>
+    <Date>March 9, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Going in Secret: John 7:1-13</Name> 
+    <Link>http://www.youtube.com/v/xyP228Q_Nlo</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>21</Number>
+    <Date>March 16, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Facing Facts: John 7:14-29</Name> 
+    <Link>http://www.youtube.com/v/3wtb4oRZOe8</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>22</Number>
+    <Date>March 23, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Coming and Going: John 7:28-36</Name> 
+    <Link>http://www.youtube.com/v/yZt2r26j1_M</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>23</Number>
+    <Date>March 30, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Why Go On Thirsting? John 7:37-52</Name> 
+    <Link>http://www.youtube.com/v/ZXDR9gyuQSA</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>24</Number>
+    <Date>April 6, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Go, Sin No More: John 8:1-11</Name> 
+    <Link>http://www.youtube.com/v/eILCGOwoJ2M</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>25</Number>
+    <Date>May 4, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Light of the World: John 8:12-20</Name> 
+    <Link>http://www.youtube.com/v/QSQrdtWFx0E</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>26</Number>
+    <Date>May 11, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Upstairs/Downstairs: John 8:21-30 (slides only)</Name> 
+    <Link>http://www.youtube.com/v/8gRa0l9o9MA</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>27</Number>
+    <Date>May 18, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Free or Fettered? John 8:31-47</Name> 
+    <Link>http://www.youtube.com/v/GnFEbJD1Bo8</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>28</Number>
+    <Date>June 1, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Who Do You Think You Are? John 8:48-59</Name> 
+    <Link>http://www.youtube.com/v/9GYU0p-EOjE</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>29</Number>
+    <Date>June 8, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Seeing, Yet Blind: John 9:1-41</Name> 
+    <Link>http://www.youtube.com/v/A7gLVNznXoU</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>30</Number>
+    <Date>June 15, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Good Shepherd: John 10:1-18</Name> 
+    <Link>http://www.youtube.com/v/87CE2J8QYhA</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>31</Number>
+    <Date>June 22, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>I am the Resurrection and the Life: John 11:1-44</Name> 
+    <Link>http://www.youtube.com/v/gtVwdilKWNM</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>32</Number>
+    <Date>June 29, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>All For One: John 11:45-53</Name> 
+    <Link>http://www.youtube.com/v/k4qQzQ5Up9w</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>33</Number>
+    <Date>July 6, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Priorities: John 12:1-8</Name> 
+    <Link>http://www.youtube.com/v/Xpp6vNbSZvk</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>34</Number>
+    <Date>July 13, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Homecoming: John 12:9-19</Name> 
+    <Link>http://www.youtube.com/v/kl5ulANsXB4</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>35</Number>
+    <Date>July 20, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>One Grain of Wheat: John 12:20-28</Name> 
+    <Link>http://www.youtube.com/v/nFRnnBfDxqw</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>36</Number>
+    <Date>July 27, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Sign of Healing: John 12:31-43</Name> 
+    <Link>http://www.youtube.com/v/u0kk-c-1U1c</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>37</Number>
+    <Date>August 3, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Jesus &amp; the Father: John 12:44-50</Name> 
+    <Link>http://www.youtube.com/v/CdLS6xTJxAc</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>38</Number>
+    <Date>August 10, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Call to Service: John 13:1-15</Name> 
+    <Link>http://www.youtube.com/v/597B7CqvP6M</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>39</Number>
+    <Date>August 24, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Nightfall: John 13:21-30</Name> 
+    <Link>http://www.youtube.com/v/7jOqNmUAh4U</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>40</Number>
+    <Date>August 31, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Die is Cast: John 13:31-38</Name> 
+    <Link>http://www.youtube.com/v/k82sGckUcUo</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>41</Number>
+    <Date>September 7, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Heavenly Mansions: John 14:1-9 (slides only)</Name> 
+    <Link>http://www.youtube.com/v/yVvmzEzIWo0</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>42</Number>
+    <Date>September 14, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Holy Spirit: John 14:15-26</Name> 
+    <Link>http://www.youtube.com/v/Ce6ouGCE5ws</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>43</Number>
+    <Date>September 21, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Divine Gardener: John 15:1-8</Name> 
+    <Link>http://www.youtube.com/v/wW9CjTw1dsQ</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>44</Number>
+    <Date>September 28, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Love One Another: John 15:9-17</Name> 
+    <Link>http://www.youtube.com/v/QIyxeTrCttQ</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>45</Number>
+    <Date>October 5, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Lions Vs. Christians: John 15:18-16:4</Name> 
+    <Link>http://www.youtube.com/v/f0RZE28mb5I</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>46</Number>
+    <Date>October 12, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Do You Really Believe? John 16:20-33</Name> 
+    <Link>http://www.youtube.com/v/pQvZyVnif5M</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>47</Number>
+    <Date>October 19, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>A Pastor's Heart A: John 17:1-13</Name> 
+    <Link>http://www.youtube.com/v/pTSM4r2c2gk</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>48</Number>
+    <Date>October 26, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>A Pastor's Heart B: John 17:14-26</Name> 
+    <Link>http://www.youtube.com/v/a3ej_jcyFeU</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>49</Number>
+    <Date>November 2, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Arrest of the King: John 18:1-12</Name> 
+    <Link>http://www.youtube.com/v/Q7kCPdH1yfU</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>50</Number>
+    <Date>November 9, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Kangaroo Court: John 18:12-40</Name> 
+    <Link>http://www.youtube.com/v/bTQ7cbalIqI</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>51</Number>
+    <Date>November 23, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Pilate’s Tribunal: John 19:1-16</Name> 
+    <Link>http://www.youtube.com/v/lFGF9TEX9wA</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>52</Number>
+    <Date>November 30, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Is God Dead?: John 19:17-42</Name> 
+    <Link>http://www.youtube.com/v/Khw1hQ522fQ</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>53</Number>
+    <Date>December 7, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Return of the King: John 20:1-29 (slides only)</Name> 
+    <Link>http://www.youtube.com/v/uYctRXazHnI</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>54</Number>
+    <Date>December 21, 2014</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>What Does God Want?: John 21:1-14</Name> 
+    <Link>http://www.youtube.com/v/TVYMUHfgiGM</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>55</Number>
+    <Date>January 4, 2015</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>A New Leaf: John 21:15-22</Name> 
+    <Link>http://www.youtube.com/v/Qm9-t61mKDc</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>56</Number>
+    <Date>January 11, 2015</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The True Witness: John 21:21-25</Name> 
+    <Link>http://www.youtube.com/v/AgYsfE6npv0</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>57</Number>
+    <Date>January 18, 2015</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+</MessageSeries>

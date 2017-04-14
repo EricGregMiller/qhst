@@ -1,189 +1,189 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-  <TITLE>Half Dome Hike Information</TITLE>
-  <link rel="stylesheet" type="text/css" href="HalfDome.css" />
-  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAVuUD8Ye7uzPIb5Mx3jdMVhTXbhnmk4zPj9uwejwoA7EINiOXQBQoWc8Ue4mCTG8usO7a7Sou07j1Ug" type="text/javascript"></script>
-  <script src="GoogleMapEncode.js" type="text/javascript"></script>
-  <script src="EricGoogleMap.js" type="text/javascript"></script>
-  <script src="HalfDome.js"></script>
-  <style type="text/css">
-    v\:* {
-      behavior:url(#default#VML);
-    }
-  </style>
-</head>
-<body onload="InitPage();" onunload="GUnload()">
-<h1>Half Dome Hike Information</h1>
-<h2>Our Trip</h2>
-<p>
-        We did it! We hiked Half Dome!
-        We left Wednesday, July 11, and returned Saturday, July 14.
-        We arrived at Bridalveil Creek campsite Wednesday lunchtime.
-        Wednesday afternoon we took a practice hike to Sentinel Dome and went to Glacier Point at night to view stars.
-        Thursday we took a practice hike to Taft Point and visited Yosemite Valley.
-        Friday we hiked Half Dome.
-        Pictures and videos are <a href="http://picasaweb.google.com/qhccadmin/Yosemite">here</a>.
-        For fun you can check out <a href="http://picasaweb.google.com/qhccadmin/YosemiteDanVsWild">Dan Vs Wild</a>.
-        Most of Eric and Dan's pictures are <a href="http://picasaweb.google.com/rellimcire/Yosemite">here</a> and <a href="http://picasaweb.google.com/rellimcire/HalfDomeHike">here</a>. They offer more details and a chronology of our trip but they comprise a lot of photos.
-        We are already thinking of another trip next year. Details will be posted when we have them, hopefully by the end of the summer.
-</p>
-<p>
-Most people who hike Half Dome start at Happy Isles trailhead in Yosemite valley.
-We, however, started at Glacier Point and ended at Happy Isles.
-We parked one car at Happy Isles and had to retrieve our car from Glacier Point when we were done. 
-The hike from Glacier Point is just under 2 miles longer than from Happy Isles but 
-it avoids the 2000 ft. climb from Happy Isles to Little Yosemite Valley. 
-The hike along the Panoram Trail is also very pleasant and scenic.
-</p>
-<h2>Interactive Map</h2>
-<p>
-The map below shows Half Dome and various hiking possibilities. 
-It is an interactive map, just like a Google Map (it uses shared Google technology).
-Like <a href="maps.google.com">Google maps</a>, you can drag, pan and zoom the map.
-You can view a road map, a satellite picture, or both.
-In addition, you can view a topographic map (like <a href="http://www.gmap-pedometer.com">Gmaps Pedometer</a>).
-Use the radio buttons to show the trail you want to see.
-When you move the mouse over the points of interest, they are shown on the map along with relevant information about the points.
-You may see some delay in loading the topo maps, the same as on <a href="http://www.gmap-pedometer.com">Gmaps Pedometer</a>.
-Clicking on the map shows the latitude and longitude of a point.
-</p>
-<p>
-Unfortunately there is a data error for the Half Dome topographic map (Gmaps shows the same error).
-If you zoom in more than the original zoom on this page, the Half Dome topo is shifted slightly to the north and west.
-The trail routes will be off on these maps. Lesser zooms of the topos, the satellite photos and road maps are all OK.
-All but the northern most part of our hike up Half Dome is on this topo.
-The <a href="http://www.topozone.com/map.asp?lat=37.73609&lon=-119.55425&s=100&size=l&u=4&datum=nad27&layer=DRG">TopoZone</a> maps appear to be correct.
-</p>
-<div style="position: relative; height: 530px;">
-  <div id="MapSidebar">
-  <div id="MapSelection">
-  <form>
-    <h3>Choose Trail</h3>
-    <input type="radio" name="MapChoice" id="NoTrailRadio" value="NoTrail" checked onclick="SetTrail()">No Trail</input><br/>
-    <br/><b>Half Dome</b><br/>
-    <input type="radio" name="MapChoice" id="HappyIslesRadio" value="Topo" onclick="SetTrail()">Happy Isles Roundtrip</input><br/>
-    <input type="radio" name="MapChoice" id="GlacierPointRadio" value="Trails" onclick="SetTrail()">Glacier Point to Happy Isles</input><br/>
-    <br/><b>Other</b><br/>
-    <input type="radio" name="MapChoice" id="SentinelDomeRadio" value="TopoTrails" onclick="SetTrail()">Sentinel Dome</input><br/>
-    <input type="radio" name="MapChoice" id="TaftPointRadio" value="TopoTrails" onclick="SetTrail()">Taft Point</input><br/>
-  </form>
-  </div>
-  <div id="InterestPoints">
-    <h3>Points of Interest</h3>
-    <b>Along Trail</b><br/  >
-    <ul id="InterestPointsTrail">
-    <li>
-      <a href="#" id="HappyIsles" onClick="return MouseClickButton(this);">Happy Isles</a>
-    </li>
-    <li>
-      <a href="#" id="VernalFallsBridge" onClick="return MouseClickButton(this);">Vernal Falls Bridge</a>
-    </li>
-    <li>
-      <a href="#" id="VernalFallsTop" onClick="return MouseClickButton(this);">Vernal Falls</a>
-    </li>
-    <li>
-      <a href="#" id="NevadaFalls" onClick="return MouseClickButton(this);">Nevada Falls</a>
-    </li>
-    <!--<li>
-      <a href="#" id="LittleYosemiteCampground" onClick="return MouseClickButton(this);">Little Yosemite Campground</a>
-    </li>-->
-    <li>
-      <a href="#" id="LittleYosemiteValley" onClick="return MouseClickButton(this);">Little Yosemite Valley</a>
-    </li>
-    <li>
-      <a href="#" id="JMTJunction" onClick="return MouseClickButton(this);"">JMT/Half Dome Junction</a>
-    </li>
-    <li>
-      <a href="#" id="LastWater" onClick="return MouseClickButton(this);">Last Water</a>
-    </li>
-    <li>
-      <a href="#" id="HalfDome" onClick="return MouseClickButton(this);">Half Dome</a>
-    </li>
-    </ul>
-    <br/><b>Other</b><br/>
-    <ul id="InterestPointsOther">
-    <li>
-      <a href="#" id="TaftPoint" onClick="return MouseClickButton(this);">Fissures at Taft Point</a>
-    </li>
-    <li>
-      <a href="#" id="GlacierPoint" onClick="return MouseClickButton(this);">Glacier Point</a>
-    </li>
-    <li>
-      <a href="#" id="IllilouetteFootbridge" onClick="return MouseClickButton(this);">Illilouette Footbridge</a>
-    </li>
-    <li>
-      <a href="#" id="PanoramaCliffs" onClick="return MouseClickButton(this);">Panorama Cliff</a>
-    </li>
-    <li>
-      <a href="#" id="SentinelDome" onClick="return MouseClickButton(this);">Sentinel Dome</a>
-    </li>
-    <li>
-      <a href="#" id="SentinelDomeTrailhead" onClick="return MouseClickButton(this);">Sentinel Dome Trailhead</a>
-    </li>
-    </ul>
-  </div>
-  </div>
-  <div id="Map">
-    <div id="MapGoogle" style="border:1px solid black; position: relative; width: 700px; height: 520px;">
-    </div>
-  </div>
-</div>
-<div style="position: relative;">
-<h2>Trail Notes</h2>
-<h3>John Muir Trail from Happy Isles Trailhead</h3>
-<p>
-The first route begins and ends at Happy Isles in Yosemite Valley.
-We would hike along the JMT until the junction with the Half Dome trail, 
-then along the Half Dome trail to the top of Half Dome and return along the same path.
-The main advantage of taking this route is that it is the shortest. 
-We can even make it shorter by taking the Mist trail part of the way, but that trail is steep and slippery and not usually recommended.
-The disadvantage of this path is that it starts 4800ft. below Half Dome, and starts with 2000ft. of 
-climbing in the first three miles.
-</p>
-<h3>Panorama Trail from Glacier Point</h3>
-<p>
-The second route we are considering begins on the Panorama trail at Glacier Point. 
-Much of the hike is the same -- the Panorama trail merges with the JMT after about 4.8mi. (about 3.4mi into the JMT). 
-To avoid the climb back up to Glacier Point, we plan to end the hike at Happy Isles and 
-take the shuttle bus back to Glacier Point.
-The major advantage of the Panorama trail is that we avoid the 2000ft. initial climb of the JMT. 
-Another advantage of the Panorama trail is the breathtaking views -- about 4mi of hiking along cliffs that overlook the most breath-taking valley in the world.
-A third advantage of the Panorama trail is that we can park our cars at the trailhead and 
-not be dependent on the shuttle bus to start our hike.
-Although the Panorama trail offers less of a climb and even starts only 1600ft. below Half Dome, 
-it still has climbs. 
-After leaving Glacier Point, the trail drops to 5800ft. at the Illouette footbridge, 
-then climbs back to 6600ft along the Panorama cliff, before dropping to 6000ft at its junction with the JMT.
-</p>
-<h3>Sentinel Dome and Taft Point Trails.</h3>
-<p>
-These trails are not part of our Half Dome hike. 
-However they do provide short hikes to good vista points.
-They might be interesting to hike while we acclimate ourselves.
-</p>
-<br>
-<h3>Notes</h3>
-<p>
-Here is the map on topo zone from <a href="http://www.topozone.com/map.asp?lat=37.73609&lon=-119.55425&s=100&size=l&u=4&datum=nad27&layer=DRG">TopoZone</a>.
-</p>
-<p>
-Distances are mostly from <a href="http://www.thecaliforniahikingpage.com/yosemite/halfdome/halfdome.html">California Hiking Pages</a>.
-I used the trailhead sign picuture, which I believe refers to the JMT, not the Mist trail.
-For any distances in the text I subtracted 1.2mi from points after the Mist trail. 
-</p>
-<p>
-Panorama trail distances are from <a href="http://home.znet.com/schester/fallbrook/hiking/tchikes/yosemite_panorama.html">Glacier Point to Curry Village Via Panorama Trail</a>.
-They are merged with the Happy Isles distances by assuming the Panorama trail meets the JMT at Nevada falls.
-The <a href="http://home.znet.com/schester/fallbrook/hiking/tchikes/yosemite_panorama.html">Glacier Point to Curry Village Via Panorama Trail</a> distances 
-were fudged some zince the table distances seem a little long because of walking around off the trail (using a GPS unit??).
-</p>
-<br>
-<a href="HalfDomeAdditionalInfo.html">Additional Information</a> about Half Dome and the trails is <a href="HalfDomeAdditionalInfo.html">here</a>.
-<br>
-<br>
-<br>
-</div>
-</BODY>
-</HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+  <TITLE>Half Dome Hike Information</TITLE>
+  <link rel="stylesheet" type="text/css" href="HalfDome.css" />
+  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAVuUD8Ye7uzPIb5Mx3jdMVhTXbhnmk4zPj9uwejwoA7EINiOXQBQoWc8Ue4mCTG8usO7a7Sou07j1Ug" type="text/javascript"></script>
+  <script src="GoogleMapEncode.js" type="text/javascript"></script>
+  <script src="EricGoogleMap.js" type="text/javascript"></script>
+  <script src="HalfDome.js"></script>
+  <style type="text/css">
+    v\:* {
+      behavior:url(#default#VML);
+    }
+  </style>
+</head>
+<body onload="InitPage();" onunload="GUnload()">
+<h1>Half Dome Hike Information</h1>
+<h2>Our Trip</h2>
+<p>
+        We did it! We hiked Half Dome!
+        We left Wednesday, July 11, and returned Saturday, July 14.
+        We arrived at Bridalveil Creek campsite Wednesday lunchtime.
+        Wednesday afternoon we took a practice hike to Sentinel Dome and went to Glacier Point at night to view stars.
+        Thursday we took a practice hike to Taft Point and visited Yosemite Valley.
+        Friday we hiked Half Dome.
+        Pictures and videos are <a href="http://picasaweb.google.com/qhccadmin/Yosemite">here</a>.
+        For fun you can check out <a href="http://picasaweb.google.com/qhccadmin/YosemiteDanVsWild">Dan Vs Wild</a>.
+        Most of Eric and Dan's pictures are <a href="http://picasaweb.google.com/rellimcire/Yosemite">here</a> and <a href="http://picasaweb.google.com/rellimcire/HalfDomeHike">here</a>. They offer more details and a chronology of our trip but they comprise a lot of photos.
+        We are already thinking of another trip next year. Details will be posted when we have them, hopefully by the end of the summer.
+</p>
+<p>
+Most people who hike Half Dome start at Happy Isles trailhead in Yosemite valley.
+We, however, started at Glacier Point and ended at Happy Isles.
+We parked one car at Happy Isles and had to retrieve our car from Glacier Point when we were done. 
+The hike from Glacier Point is just under 2 miles longer than from Happy Isles but 
+it avoids the 2000 ft. climb from Happy Isles to Little Yosemite Valley. 
+The hike along the Panoram Trail is also very pleasant and scenic.
+</p>
+<h2>Interactive Map</h2>
+<p>
+The map below shows Half Dome and various hiking possibilities. 
+It is an interactive map, just like a Google Map (it uses shared Google technology).
+Like <a href="maps.google.com">Google maps</a>, you can drag, pan and zoom the map.
+You can view a road map, a satellite picture, or both.
+In addition, you can view a topographic map (like <a href="http://www.gmap-pedometer.com">Gmaps Pedometer</a>).
+Use the radio buttons to show the trail you want to see.
+When you move the mouse over the points of interest, they are shown on the map along with relevant information about the points.
+You may see some delay in loading the topo maps, the same as on <a href="http://www.gmap-pedometer.com">Gmaps Pedometer</a>.
+Clicking on the map shows the latitude and longitude of a point.
+</p>
+<p>
+Unfortunately there is a data error for the Half Dome topographic map (Gmaps shows the same error).
+If you zoom in more than the original zoom on this page, the Half Dome topo is shifted slightly to the north and west.
+The trail routes will be off on these maps. Lesser zooms of the topos, the satellite photos and road maps are all OK.
+All but the northern most part of our hike up Half Dome is on this topo.
+The <a href="http://www.topozone.com/map.asp?lat=37.73609&lon=-119.55425&s=100&size=l&u=4&datum=nad27&layer=DRG">TopoZone</a> maps appear to be correct.
+</p>
+<div style="position: relative; height: 530px;">
+  <div id="MapSidebar">
+  <div id="MapSelection">
+  <form>
+    <h3>Choose Trail</h3>
+    <input type="radio" name="MapChoice" id="NoTrailRadio" value="NoTrail" checked onclick="SetTrail()">No Trail</input><br/>
+    <br/><b>Half Dome</b><br/>
+    <input type="radio" name="MapChoice" id="HappyIslesRadio" value="Topo" onclick="SetTrail()">Happy Isles Roundtrip</input><br/>
+    <input type="radio" name="MapChoice" id="GlacierPointRadio" value="Trails" onclick="SetTrail()">Glacier Point to Happy Isles</input><br/>
+    <br/><b>Other</b><br/>
+    <input type="radio" name="MapChoice" id="SentinelDomeRadio" value="TopoTrails" onclick="SetTrail()">Sentinel Dome</input><br/>
+    <input type="radio" name="MapChoice" id="TaftPointRadio" value="TopoTrails" onclick="SetTrail()">Taft Point</input><br/>
+  </form>
+  </div>
+  <div id="InterestPoints">
+    <h3>Points of Interest</h3>
+    <b>Along Trail</b><br/  >
+    <ul id="InterestPointsTrail">
+    <li>
+      <a href="#" id="HappyIsles" onClick="return MouseClickButton(this);">Happy Isles</a>
+    </li>
+    <li>
+      <a href="#" id="VernalFallsBridge" onClick="return MouseClickButton(this);">Vernal Falls Bridge</a>
+    </li>
+    <li>
+      <a href="#" id="VernalFallsTop" onClick="return MouseClickButton(this);">Vernal Falls</a>
+    </li>
+    <li>
+      <a href="#" id="NevadaFalls" onClick="return MouseClickButton(this);">Nevada Falls</a>
+    </li>
+    <!--<li>
+      <a href="#" id="LittleYosemiteCampground" onClick="return MouseClickButton(this);">Little Yosemite Campground</a>
+    </li>-->
+    <li>
+      <a href="#" id="LittleYosemiteValley" onClick="return MouseClickButton(this);">Little Yosemite Valley</a>
+    </li>
+    <li>
+      <a href="#" id="JMTJunction" onClick="return MouseClickButton(this);"">JMT/Half Dome Junction</a>
+    </li>
+    <li>
+      <a href="#" id="LastWater" onClick="return MouseClickButton(this);">Last Water</a>
+    </li>
+    <li>
+      <a href="#" id="HalfDome" onClick="return MouseClickButton(this);">Half Dome</a>
+    </li>
+    </ul>
+    <br/><b>Other</b><br/>
+    <ul id="InterestPointsOther">
+    <li>
+      <a href="#" id="TaftPoint" onClick="return MouseClickButton(this);">Fissures at Taft Point</a>
+    </li>
+    <li>
+      <a href="#" id="GlacierPoint" onClick="return MouseClickButton(this);">Glacier Point</a>
+    </li>
+    <li>
+      <a href="#" id="IllilouetteFootbridge" onClick="return MouseClickButton(this);">Illilouette Footbridge</a>
+    </li>
+    <li>
+      <a href="#" id="PanoramaCliffs" onClick="return MouseClickButton(this);">Panorama Cliff</a>
+    </li>
+    <li>
+      <a href="#" id="SentinelDome" onClick="return MouseClickButton(this);">Sentinel Dome</a>
+    </li>
+    <li>
+      <a href="#" id="SentinelDomeTrailhead" onClick="return MouseClickButton(this);">Sentinel Dome Trailhead</a>
+    </li>
+    </ul>
+  </div>
+  </div>
+  <div id="Map">
+    <div id="MapGoogle" style="border:1px solid black; position: relative; width: 700px; height: 520px;">
+    </div>
+  </div>
+</div>
+<div style="position: relative;">
+<h2>Trail Notes</h2>
+<h3>John Muir Trail from Happy Isles Trailhead</h3>
+<p>
+The first route begins and ends at Happy Isles in Yosemite Valley.
+We would hike along the JMT until the junction with the Half Dome trail, 
+then along the Half Dome trail to the top of Half Dome and return along the same path.
+The main advantage of taking this route is that it is the shortest. 
+We can even make it shorter by taking the Mist trail part of the way, but that trail is steep and slippery and not usually recommended.
+The disadvantage of this path is that it starts 4800ft. below Half Dome, and starts with 2000ft. of 
+climbing in the first three miles.
+</p>
+<h3>Panorama Trail from Glacier Point</h3>
+<p>
+The second route we are considering begins on the Panorama trail at Glacier Point. 
+Much of the hike is the same -- the Panorama trail merges with the JMT after about 4.8mi. (about 3.4mi into the JMT). 
+To avoid the climb back up to Glacier Point, we plan to end the hike at Happy Isles and 
+take the shuttle bus back to Glacier Point.
+The major advantage of the Panorama trail is that we avoid the 2000ft. initial climb of the JMT. 
+Another advantage of the Panorama trail is the breathtaking views -- about 4mi of hiking along cliffs that overlook the most breath-taking valley in the world.
+A third advantage of the Panorama trail is that we can park our cars at the trailhead and 
+not be dependent on the shuttle bus to start our hike.
+Although the Panorama trail offers less of a climb and even starts only 1600ft. below Half Dome, 
+it still has climbs. 
+After leaving Glacier Point, the trail drops to 5800ft. at the Illouette footbridge, 
+then climbs back to 6600ft along the Panorama cliff, before dropping to 6000ft at its junction with the JMT.
+</p>
+<h3>Sentinel Dome and Taft Point Trails.</h3>
+<p>
+These trails are not part of our Half Dome hike. 
+However they do provide short hikes to good vista points.
+They might be interesting to hike while we acclimate ourselves.
+</p>
+<br>
+<h3>Notes</h3>
+<p>
+Here is the map on topo zone from <a href="http://www.topozone.com/map.asp?lat=37.73609&lon=-119.55425&s=100&size=l&u=4&datum=nad27&layer=DRG">TopoZone</a>.
+</p>
+<p>
+Distances are mostly from <a href="http://www.thecaliforniahikingpage.com/yosemite/halfdome/halfdome.html">California Hiking Pages</a>.
+I used the trailhead sign picuture, which I believe refers to the JMT, not the Mist trail.
+For any distances in the text I subtracted 1.2mi from points after the Mist trail. 
+</p>
+<p>
+Panorama trail distances are from <a href="http://home.znet.com/schester/fallbrook/hiking/tchikes/yosemite_panorama.html">Glacier Point to Curry Village Via Panorama Trail</a>.
+They are merged with the Happy Isles distances by assuming the Panorama trail meets the JMT at Nevada falls.
+The <a href="http://home.znet.com/schester/fallbrook/hiking/tchikes/yosemite_panorama.html">Glacier Point to Curry Village Via Panorama Trail</a> distances 
+were fudged some zince the table distances seem a little long because of walking around off the trail (using a GPS unit??).
+</p>
+<br>
+<a href="HalfDomeAdditionalInfo.html">Additional Information</a> about Half Dome and the trails is <a href="HalfDomeAdditionalInfo.html">here</a>.
+<br>
+<br>
+<br>
+</div>
+</BODY>
+</HTML>

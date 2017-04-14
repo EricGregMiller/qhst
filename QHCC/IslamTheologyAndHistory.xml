@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<MessageSeries>
-  <SeriesInfo>
-    <Name>Islam Theology and History</Name>
-    <TagLine>What is Islam? Can we fight a religion?</TagLine>
-    <Description>Professor R.P. Nettelhorst presents his research and views on the history and theology of Islam. Currently available are the first two of four seminars he gave in September 2006.</Description>
-  </SeriesInfo>
-  <Message>
-    <Name>Seminar 1</Name> 
-    <Link>http://video.google.com/googleplayer.swf</Link>
-    <Attribute><Name>docId</Name><Value>1344514861472859754</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en</Value></Attribute>
-    <Number>1</Number>
-    <Date>Sunday Evening September 9, 2006</Date>
-    <Speaker>R. P. Nettelhorst</Speaker>
-  </Message>
-  <Message>
-    <Name>Seminar 2</Name>
-    <Link>http://video.google.com/googleplayer.swf</Link>
-    <Attribute><Name>docId</Name><Value>-3150750844460694843</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en</Value></Attribute>
-    <Number>2</Number>
-    <Date>Sunday Evening September 16, 2006</Date>
-    <Speaker>R. P. Nettelhorst</Speaker>
-  </Message>
-</MessageSeries>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>Islam Theology and History</Name>
+    <TagLine>What is Islam? Can we fight a religion?</TagLine>
+    <Description>Professor R.P. Nettelhorst presents his research and views on the history and theology of Islam. Currently available are the first two of four seminars he gave in September 2006.</Description>
+  </SeriesInfo>
+  <Message>
+    <Name>Seminar 1</Name> 
+    <Link>http://video.google.com/googleplayer.swf</Link>
+    <Attribute><Name>docId</Name><Value>1344514861472859754</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en</Value></Attribute>
+    <Number>1</Number>
+    <Date>Sunday Evening September 9, 2006</Date>
+    <Speaker>R. P. Nettelhorst</Speaker>
+  </Message>
+  <Message>
+    <Name>Seminar 2</Name>
+    <Link>http://video.google.com/googleplayer.swf</Link>
+    <Attribute><Name>docId</Name><Value>-3150750844460694843</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en</Value></Attribute>
+    <Number>2</Number>
+    <Date>Sunday Evening September 16, 2006</Date>
+    <Speaker>R. P. Nettelhorst</Speaker>
+  </Message>
+</MessageSeries>

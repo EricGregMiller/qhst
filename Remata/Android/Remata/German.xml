@@ -1,47 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<cardList>
-	<card>
-		<front>guten Tag</front>
-		<back>good day</back>
-	</card>
-	<card>
-		<front>guten Abend</front>
-		<back>good evening</back>
-	</card>
-	<card>
-		<front>gute Nacht</front>
-		<back>good night</back>
-	</card>
-	<card>
-		<front>wie geht es Ihnen?</front>
-		<back>how are you?</back>
-	</card>
-	<card>
-		<front>wie geht's</front>
-		<back>how are you (informal)</back>
-	</card>
-	<card>
-		<front>sehr geht</front>
-		<back>great</back>
-	</card>
-	<card>
-		<front>es geht</front>
-		<back>okay, So-so.</back>
-	</card>
-	<card>
-		<front>nicht so gut</front>
-		<back>not so good</back>
-	</card>
-	<card>
-		<front>auf wiedersehen</front>
-		<back>good-bye</back>
-	</card>
-	<card>
-		<front>danke</front>
-		<back>thanks, no thanks</back>
-	</card>
-	<card>
-		<front>bitte</front>
-		<back>please, yes please</back>
-	</card>
-</cardList>
+<?xml version="1.0" encoding="utf-8"?>
+<cardList>
+	<card>
+		<front>guten Tag</front>
+		<back>good day</back>
+	</card>
+	<card>
+		<front>guten Abend</front>
+		<back>good evening</back>
+	</card>
+	<card>
+		<front>gute Nacht</front>
+		<back>good night</back>
+	</card>
+	<card>
+		<front>wie geht es Ihnen?</front>
+		<back>how are you?</back>
+	</card>
+	<card>
+		<front>wie geht's</front>
+		<back>how are you (informal)</back>
+	</card>
+	<card>
+		<front>sehr geht</front>
+		<back>great</back>
+	</card>
+	<card>
+		<front>es geht</front>
+		<back>okay, So-so.</back>
+	</card>
+	<card>
+		<front>nicht so gut</front>
+		<back>not so good</back>
+	</card>
+	<card>
+		<front>auf wiedersehen</front>
+		<back>good-bye</back>
+	</card>
+	<card>
+		<front>danke</front>
+		<back>thanks, no thanks</back>
+	</card>
+	<card>
+		<front>bitte</front>
+		<back>please, yes please</back>
+	</card>
+</cardList>

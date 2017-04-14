@@ -1,110 +1,110 @@
-3john/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-3john/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-apologetics/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-apologetics/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-catalog/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-catalog/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A><hr size=1 noshade color="#999999">
-graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-greek/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-greek/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-jesus/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-jesus/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-journal/bookreviews/unbound.htm:<B>Reviewed by <A HREF="westbio.htm">Dr. Jim West</A></B>
-journal/volume1/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-journal/volume1/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-journal/volume2/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-journal/volume2/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-journal/volume3/marriage.htm:<B>by <A HREF="westbio.htm">Jim West, ThD</A></B></CENTER>
-journal/volume3/prophets.htm:by <A HREF="westbio.htm">Jim West</A></center>
-journal/volume3/sinners.htm:<B>by <A HREF="westbio.htm">Jim West</A></B></center>
-journal/volume3/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-journal/volume3/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-journal/volume3/wisjames.htm:<B>by <A HREF="westbio.htm">Jim West</A></B></CENTER>
-journal/volume4/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-journal/volume4/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-marriage.htm:<B>by <A HREF="westbio.htm">Jim West, ThD</A></B></CENTER>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor: <A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
-online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A><hr size=1 noshade color="#999999">
-onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
-prophets.htm:by <A HREF="westbio.htm">Jim West</A></center>
-revelation/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-revelation/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-sinners.htm:<B>by <A HREF="westbio.htm">Jim West</A></B></center>
-theology/wisjames.htm:<B>by <A HREF="westbio.htm">Jim West</A></B></CENTER>
-ugaritic/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-ugaritic/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
-unbound.htm:<B>Reviewed by <A HREF="westbio.htm">Dr. Jim West</A></B>
-westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
-westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+3john/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+3john/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+apologetics/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+apologetics/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+catalog/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+catalog/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A><hr size=1 noshade color="#999999">
+graphix/onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+graphix/onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+greek/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+greek/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+jesus/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+jesus/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+journal/bookreviews/unbound.htm:<B>Reviewed by <A HREF="westbio.htm">Dr. Jim West</A></B>
+journal/volume1/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+journal/volume1/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+journal/volume2/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+journal/volume2/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+journal/volume3/marriage.htm:<B>by <A HREF="westbio.htm">Jim West, ThD</A></B></CENTER>
+journal/volume3/prophets.htm:by <A HREF="westbio.htm">Jim West</A></center>
+journal/volume3/sinners.htm:<B>by <A HREF="westbio.htm">Jim West</A></B></center>
+journal/volume3/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+journal/volume3/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+journal/volume3/wisjames.htm:<B>by <A HREF="westbio.htm">Jim West</A></B></CENTER>
+journal/volume4/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+journal/volume4/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+marriage.htm:<B>by <A HREF="westbio.htm">Jim West, ThD</A></B></CENTER>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor: <A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor:<A HREF="westbio.htm"> Dr. Jim West</A><P>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
+online.htm:Professor: <A HREF="westbio.htm">Dr. Jim West</A><P>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A><hr size=1 noshade color="#999999">
+onlinecourses.html:<A HREF="westbio.htm"> Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+onlinecourses.html:<A HREF="westbio.htm">Dr. Jim West</A>
+prophets.htm:by <A HREF="westbio.htm">Jim West</A></center>
+revelation/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+revelation/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+sinners.htm:<B>by <A HREF="westbio.htm">Jim West</A></B></center>
+theology/wisjames.htm:<B>by <A HREF="westbio.htm">Jim West</A></B></CENTER>
+ugaritic/westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+ugaritic/westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">
+unbound.htm:<B>Reviewed by <A HREF="westbio.htm">Dr. Jim West</A></B>
+westbio.htm:<link rel=File-List href="westbio_files/filelist.xml">
+westbio.htm:<link rel=Edit-Time-Data href="westbio_files/editdata.mso">

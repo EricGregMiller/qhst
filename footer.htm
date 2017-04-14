@@ -1,77 +1,77 @@
-<HTML>
-<HEAD>
-<TITLE>QHST Web Footer</TITLE>
-  <link rel="shortcut icon" href="/Master/qhst.ico" />
-  <link rel="stylesheet" type="text/css" href="/Master/QHST.css" />
-  <script src="/Master/NavigateButtonSupport.js"></script>
-</HEAD>
-<body>
-  <script src="/Master/QHSTPageBegin.js"></script>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Beginning of JavaScript Applet -------------------
-/* Copyright 1996 Web Integration Systems, Inc. DBA Websys, Inc. All Rights Reserved. This applet can be re-used or modified, if credit is given in the source code. We will not be held responsible for any unwanted effects due to the usage of this applet or any derivative. No warrantees for usability for any specific application are given or implied. Chris Skinner, January 30, 1996.*/
-function scrollit_r2l(seed)
-{
-        var m1  = "Welcome to Quartz Hill School of Theology... ";
-        var m2  = "Check out the library...... ";
-        var m3  = "Read the online version of Quartz Hill Journal of Theology...... ";
-        var m4  = "Check out the Campus Bookstore, offered in association with Amazon.com, 'The Earth's Biggest Bookstore'.....";
-        var m5  = "Remember, our courses are offered as shareware: try before you buy! ";
-
-        var msg=m1+m2+m3+m4+m5;
-        var out = " ";
-        var c   = 1;
-
-        if (seed > 100)
-        {
-                seed--;
-                var cmd="scrollit_r2l(" + seed + ")";
-                timerTwo=window.setTimeout(cmd,50);
-        }
-        else if (seed <= 100 && seed > 0) 
-        {
-                for (c=0 ; c < seed ; c++) 
-                {
-                        out+=" ";
-                }
-                out+=msg;
-                seed--;
-                var cmd="scrollit_r2l(" + seed + ")";
-                window.status=out;
-                timerTwo=window.setTimeout(cmd,50);
-        }
-        else if (seed <= 0) 
-        {
-                if (-seed < msg.length) 
-                {
-                        out+=msg.substring(-seed,msg.length);
-                        seed--;
-                        var cmd="scrollit_r2l(" + seed + ")";
-                        window.status=out;
-                        timerTwo=window.setTimeout(cmd,50);
-                }
-                else 
-                {
-                        window.status=" ";
-                        timerTwo=window.setTimeout("scrollit_r2l(100)",45);
-                }
-        }
-}
-// -- End of JavaScript code -------------- -->
-</SCRIPT>
-<a href="whatis.htm" target="DisplayWnd"><IMG border="0" SRC="enuma_el.gif" align=LEFT HSPACE=2 VSPACE=2></a>
-<FONT SIZE=2>
-Copyright &#169;1996-98 Quartz Hill School of Theology &#0149;
-<A href="mailto:robin@theology.edu">Send us</A> your questions, 
-comments, or complaints.  <B>Snail mail us at:</B> 
-
-
-<I>43543 51st St. W. - Quartz Hill, CA  93536 &#0149; (805) 943-3484</I>. 
-
-
-
-<BR CLEAR=LEFT>
-</FONT>
-  <script src="/Master/QHSTPageEnd.js"></script>
-</BODY>
-</HTML>
+<HTML>
+<HEAD>
+<TITLE>QHST Web Footer</TITLE>
+  <link rel="shortcut icon" href="/Master/qhst.ico" />
+  <link rel="stylesheet" type="text/css" href="/Master/QHST.css" />
+  <script src="/Master/NavigateButtonSupport.js"></script>
+</HEAD>
+<body>
+  <script src="/Master/QHSTPageBegin.js"></script>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Beginning of JavaScript Applet -------------------
+/* Copyright 1996 Web Integration Systems, Inc. DBA Websys, Inc. All Rights Reserved. This applet can be re-used or modified, if credit is given in the source code. We will not be held responsible for any unwanted effects due to the usage of this applet or any derivative. No warrantees for usability for any specific application are given or implied. Chris Skinner, January 30, 1996.*/
+function scrollit_r2l(seed)
+{
+        var m1  = "Welcome to Quartz Hill School of Theology... ";
+        var m2  = "Check out the library...... ";
+        var m3  = "Read the online version of Quartz Hill Journal of Theology...... ";
+        var m4  = "Check out the Campus Bookstore, offered in association with Amazon.com, 'The Earth's Biggest Bookstore'.....";
+        var m5  = "Remember, our courses are offered as shareware: try before you buy! ";
+
+        var msg=m1+m2+m3+m4+m5;
+        var out = " ";
+        var c   = 1;
+
+        if (seed > 100)
+        {
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,50);
+        }
+        else if (seed <= 100 && seed > 0) 
+        {
+                for (c=0 ; c < seed ; c++) 
+                {
+                        out+=" ";
+                }
+                out+=msg;
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                window.status=out;
+                timerTwo=window.setTimeout(cmd,50);
+        }
+        else if (seed <= 0) 
+        {
+                if (-seed < msg.length) 
+                {
+                        out+=msg.substring(-seed,msg.length);
+                        seed--;
+                        var cmd="scrollit_r2l(" + seed + ")";
+                        window.status=out;
+                        timerTwo=window.setTimeout(cmd,50);
+                }
+                else 
+                {
+                        window.status=" ";
+                        timerTwo=window.setTimeout("scrollit_r2l(100)",45);
+                }
+        }
+}
+// -- End of JavaScript code -------------- -->
+</SCRIPT>
+<a href="whatis.htm" target="DisplayWnd"><IMG border="0" SRC="enuma_el.gif" align=LEFT HSPACE=2 VSPACE=2></a>
+<FONT SIZE=2>
+Copyright &#169;1996-98 Quartz Hill School of Theology &#0149;
+<A href="mailto:robin@theology.edu">Send us</A> your questions, 
+comments, or complaints.  <B>Snail mail us at:</B> 
+
+
+<I>43543 51st St. W. - Quartz Hill, CA  93536 &#0149; (805) 943-3484</I>. 
+
+
+
+<BR CLEAR=LEFT>
+</FONT>
+  <script src="/Master/QHSTPageEnd.js"></script>
+</BODY>
+</HTML>

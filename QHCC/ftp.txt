@@ -1,16 +1,16 @@
-theology
-jesus
-cd httpdocs/QHCC
-ascii
-put IslamTheologyAndHistory.xml
-put MessageVideo.js
-put NoExperienceNecessary.xml
-put OtherMessages2007.xml
-put OtherPeopleVideos.xml
-put PeopleLikeQhccVideos.xml
-put PeopleVideo.html
-put PeopleVideo.js
-put QuestionsGodAsks.xml
-put ftp.txt
-put messages.html
-quit
+theology
+jesus
+cd httpdocs/QHCC
+ascii
+put IslamTheologyAndHistory.xml
+put MessageVideo.js
+put NoExperienceNecessary.xml
+put OtherMessages2007.xml
+put OtherPeopleVideos.xml
+put PeopleLikeQhccVideos.xml
+put PeopleVideo.html
+put PeopleVideo.js
+put QuestionsGodAsks.xml
+put ftp.txt
+put messages.html
+quit

@@ -1,92 +1,92 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
-<HEAD>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-  <title>Willow Springs Hike Information</title>
-  <style type="text/css">
-    #Map 
-    {
-      background-color: LightBlue;
-      position: relative;
-      width: 683px;
-      height: 513px;
-    }
-    #Topo
-    {
-      border-style: none;
-      position: absolute;
-      left: 0px;
-      top: 0px;
-    }
-    #Trails
-    {
-      border-style: none;
-      z-index: 1; 
-      position: absolute;
-      left: 0px;
-      top: 0px;
-    }
-  </style>
-  <style type="text/css">
-    v\:* {
-      behavior:url(#default#VML);
-    }
-  </style>
-  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAVuUD8Ye7uzPIb5Mx3jdMVhTXbhnmk4zPj9uwejwoA7EINiOXQBQoWc8Ue4mCTG8usO7a7Sou07j1Ug" type="text/javascript"></script>
-  <script src="GoogleMapEncode.js" type="text/javascript"></script>
-  <script src="EricGoogleMap.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    var gMap;
-    var gHikeRouteDataSouth;
-    var gHikeRouteDataNorth;
-
-    function LoadEricGoogleMap() 
-    {
-      if (GBrowserIsCompatible()) 
-      {
-        gMap = InitializeMap("MapRoute", 34.479958, -118.316935, 12, 'Topo');
-        var routePoints = LoadRoute("WillowSprings.xml");
-        gHikeRouteDataSouth = CreateRoute(routePoints);
-        SetRoute("HikeRouteOnCheckSouth", gMap, gHikeRouteDataSouth);
-      }
-    }
-  </script>
-</head>
-<body>
-  <table><tr><td>
-  <h1>Willow Springs Hike Information</h1>
-  <table><tr><td>
-  <!--<a href="http://parks.co.la.ca.us/vasquez_narea.html"><img src="VasquezRocks.jpg"></a>-->
-  <p>
-  Saturday, April 14, we plan to hike the Pacific Crest Trail starting at Willow Springs road. 
-  We are meeting at the church at noon. 
-  However, if you live more in the Rosamond direction, feel free to meet us at the trailhead.
-  </p>
-  <p>
-    <a href="http://backpacker.trimbleoutdoors.com/ViewTrip.aspx?TripID=28639">Backpacker Magazine</a> has trail info and maps.
-  </p>
-  </td></tr>
-  <tr><td>
-  <!--<h2>Map</h2>
-  <p>
-    Here is the route south of Vasquez Rocks on <a href="http://www.gmap-pedometer.com/?r=718299">Gmaps Pedometer</a>.
-  </p>
-  <p>
-    Here is the route north of Vasquez Rocks on <a href="http://www.gmap-pedometer.com/?r=719795">Gmaps Pedometer</a>.
-  </p>
-  <div style="position: relative;">
-  <form>
-    <input type="checkbox" name="HikeRouteOnSouth" id="HikeRouteOnCheckSouth" checked onclick="SetRoute(this, gMap, gHikeRouteDataSouth)">Show South Hike Route</input>
-    <input type="checkbox" name="HikeRouteOnNorth" id="HikeRouteOnCheckNorth" checked onclick="SetRoute(this, gMap, gHikeRouteDataNorth)">Show North Hike Route</input>
-  </form>
-  </div>
-  <div id="MapRoute" style="border:1px solid black; position: relative; width: 700px; height: 500px;">
-  </div>-->
-  </td></tr></table>
-  <p>
-  Here are driving directions on <a href="http://maps.google.com/maps?daddr=PCT+Willow+Springs+%4035.052272916576634,-118.35906028747559&saddr=43543+51st+St+W,+Lancaster,+California+93536+(QHCC)&f=d&hl=en&sll=35.469618,-118.344727&sspn=1.802839,3.609009&layer=&ie=UTF8&z=10&om=1&msid=107500401730234667445.00000111e412ed056ee7f&msa=0">Google Maps</a>.
-  </p>
-  <br>
-  <br>
-</body>
-</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<HEAD>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+  <title>Willow Springs Hike Information</title>
+  <style type="text/css">
+    #Map 
+    {
+      background-color: LightBlue;
+      position: relative;
+      width: 683px;
+      height: 513px;
+    }
+    #Topo
+    {
+      border-style: none;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+    #Trails
+    {
+      border-style: none;
+      z-index: 1; 
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+  </style>
+  <style type="text/css">
+    v\:* {
+      behavior:url(#default#VML);
+    }
+  </style>
+  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAVuUD8Ye7uzPIb5Mx3jdMVhTXbhnmk4zPj9uwejwoA7EINiOXQBQoWc8Ue4mCTG8usO7a7Sou07j1Ug" type="text/javascript"></script>
+  <script src="GoogleMapEncode.js" type="text/javascript"></script>
+  <script src="EricGoogleMap.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    var gMap;
+    var gHikeRouteDataSouth;
+    var gHikeRouteDataNorth;
+
+    function LoadEricGoogleMap() 
+    {
+      if (GBrowserIsCompatible()) 
+      {
+        gMap = InitializeMap("MapRoute", 34.479958, -118.316935, 12, 'Topo');
+        var routePoints = LoadRoute("WillowSprings.xml");
+        gHikeRouteDataSouth = CreateRoute(routePoints);
+        SetRoute("HikeRouteOnCheckSouth", gMap, gHikeRouteDataSouth);
+      }
+    }
+  </script>
+</head>
+<body>
+  <table><tr><td>
+  <h1>Willow Springs Hike Information</h1>
+  <table><tr><td>
+  <!--<a href="http://parks.co.la.ca.us/vasquez_narea.html"><img src="VasquezRocks.jpg"></a>-->
+  <p>
+  Saturday, April 14, we plan to hike the Pacific Crest Trail starting at Willow Springs road. 
+  We are meeting at the church at noon. 
+  However, if you live more in the Rosamond direction, feel free to meet us at the trailhead.
+  </p>
+  <p>
+    <a href="http://backpacker.trimbleoutdoors.com/ViewTrip.aspx?TripID=28639">Backpacker Magazine</a> has trail info and maps.
+  </p>
+  </td></tr>
+  <tr><td>
+  <!--<h2>Map</h2>
+  <p>
+    Here is the route south of Vasquez Rocks on <a href="http://www.gmap-pedometer.com/?r=718299">Gmaps Pedometer</a>.
+  </p>
+  <p>
+    Here is the route north of Vasquez Rocks on <a href="http://www.gmap-pedometer.com/?r=719795">Gmaps Pedometer</a>.
+  </p>
+  <div style="position: relative;">
+  <form>
+    <input type="checkbox" name="HikeRouteOnSouth" id="HikeRouteOnCheckSouth" checked onclick="SetRoute(this, gMap, gHikeRouteDataSouth)">Show South Hike Route</input>
+    <input type="checkbox" name="HikeRouteOnNorth" id="HikeRouteOnCheckNorth" checked onclick="SetRoute(this, gMap, gHikeRouteDataNorth)">Show North Hike Route</input>
+  </form>
+  </div>
+  <div id="MapRoute" style="border:1px solid black; position: relative; width: 700px; height: 500px;">
+  </div>-->
+  </td></tr></table>
+  <p>
+  Here are driving directions on <a href="http://maps.google.com/maps?daddr=PCT+Willow+Springs+%4035.052272916576634,-118.35906028747559&saddr=43543+51st+St+W,+Lancaster,+California+93536+(QHCC)&f=d&hl=en&sll=35.469618,-118.344727&sspn=1.802839,3.609009&layer=&ie=UTF8&z=10&om=1&msid=107500401730234667445.00000111e412ed056ee7f&msa=0">Google Maps</a>.
+  </p>
+  <br>
+  <br>
+</body>
+</html>

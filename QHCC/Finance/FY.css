@@ -1,50 +1,50 @@
-table
-{
-  border: solid 2px;
-  font-size: small;
-}
-#TableBalances
-{
-}
-#TableBudget
-{
-  font-size: x-small;
-}
-#ChartBalances,#ChartBudget
-{
-  max-width: 100%;
-}
-th
-{
-  text-align : center;
-  border: solid 1px;
-  margin: 0;
-  padding: 0;
-}
-td
-{
-  text-align: right;
-  border: solid 1px;
-  margin: 0;
-  padding: 0;
-}
-.AlignLeft
-{
-  text-align: left;
-}
-.QhccBalance,.MonthlyBudget,.BudgetYtd
-{
-  background-color: #FFEECA;
-}
-.GeneralBalance,.TotalYtd
-{
-  background-color: #FEE0C6;
-}
-.NegativeAmount
-{
-  color: 	Red;
-}
-.FontBold
-{
-  font-weight: bold;
-}
+table
+{
+  border: solid 2px;
+  font-size: small;
+}
+#TableBalances
+{
+}
+#TableBudget
+{
+  font-size: x-small;
+}
+#ChartBalances,#ChartBudget
+{
+  max-width: 100%;
+}
+th
+{
+  text-align : center;
+  border: solid 1px;
+  margin: 0;
+  padding: 0;
+}
+td
+{
+  text-align: right;
+  border: solid 1px;
+  margin: 0;
+  padding: 0;
+}
+.AlignLeft
+{
+  text-align: left;
+}
+.QhccBalance,.MonthlyBudget,.BudgetYtd
+{
+  background-color: #FFEECA;
+}
+.GeneralBalance,.TotalYtd
+{
+  background-color: #FEE0C6;
+}
+.NegativeAmount
+{
+  color: 	Red;
+}
+.FontBold
+{
+  font-weight: bold;
+}

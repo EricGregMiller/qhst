@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^quartzhillcommunitychurch\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.quartzhillcommunitychurch\.org$
+RewriteRule ^/?$ "http\:\/\/www\.theology\.edu\/QHCC" [R=301,L]
+

@@ -1,3 +1,3 @@
-<FilesMatch "\.html?$">
-  SetHandler QHCCPage
-</FilesMatch>
+<FilesMatch "\.html?$">
+  SetHandler QHCCPage
+</FilesMatch>

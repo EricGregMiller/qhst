@@ -1,104 +1,104 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
-<HEAD>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-  <title>Devil's Punchbowl Hike Information</title>
-  <style type="text/css">
-    #Map 
-    {
-      background-color: LightBlue;
-      position: relative;
-      width: 683px;
-      height: 513px;
-    }
-    #Topo
-    {
-      border-style: none;
-      position: absolute;
-      left: 0px;
-      top: 0px;
-    }
-    #Trails
-    {
-      border-style: none;
-      z-index: 1; 
-      position: absolute;
-      left: 0px;
-      top: 0px;
-    }
-  </style>
-  <style type="text/css">
-    v\:* {
-      behavior:url(#default#VML);
-    }
-  </style>
-  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAVuUD8Ye7uzPIb5Mx3jdMVhTXbhnmk4zPj9uwejwoA7EINiOXQBQoWc8Ue4mCTG8usO7a7Sou07j1Ug" type="text/javascript"></script>
-  <script src="GoogleMapEncode.js" type="text/javascript"></script>
-  <script src="EricGoogleMap.js" type="text/javascript"></script>
-  <script src="DevilsPunchbowl.js"></script>
-  <script type="text/javascript">
-    var gMap;
-    var gHikeRouteData;
-
-    function LoadEricGoogleMap() 
-    {
-      if (GBrowserIsCompatible()) 
-      {
-        gMap = InitializeMap("MapRoute", 34.40992, -117.85335, 14, 'Topo');
-        var routePoints = LoadRoute("DevilsChairHike.xml");
-        gHikeRouteData = CreateRoute(routePoints);        SetRoute("HikeRouteOnCheck", gMap, gHikeRouteData);
-      }
-    }
-  </script>
-</head>
-<body onload="InitMap();LoadEricGoogleMap()" onunload="GUnload()">
-  <table><tr><td>
-  <h1>Devil's Punchbowl Hike</h1>
-  <table>
-<tr><td>
-  <p>
-    Click <a href="http://picasaweb.google.com/qhccadmin/DevilSPunchbowl">here</a> to see the <a href="http://picasaweb.google.com/qhccadmin/DevilSPunchbowl">pictures from our hike</a>.
-  </p>
-  </td></tr>
-  <tr><td>
-  <h2>Map</h2>
-  <p>
-    Before we hiked, the beginning of the trail was hard to find, either by topo map or by satellite. 
-    Here is an attempt to match a topo map with a trail map taken from the <a href="http://www.devils-punchbowl.com/">Devil's Punchbowl website</a>.
-  </p>
-  <form>
-    <input type="radio" name="MapChoice" id="TopoRadio" value="Topo" checked onclick="ShowMap()">Topo</input>
-    <input type="radio" name="MapChoice" id="TrailsRadio" value="Trails" onclick="ShowMap()">Trails</input>
-    <input type="radio" name="MapChoice" id="TopoTrailsRadio" value="TopoTrails" onclick="ShowMap()">Topo and Trails</input>
-  </form>
-  <div id="Map">
-    <div id="Topo" style="visibility: visible;"><img src="DevilsPunchbowlTopo.jpg"></div>
-    <div id="Trails" style="visibility: hidden;"><img src="DevilsPunchbowlTrailOverlay.png"></div>
-  </div>
-  <p><!--Old route 623004-->
-    Here the trail on <a href="http://www.gmap-pedometer.com/?r=642463">Gmaps Pedometer</a>.
-    The trail leaves the SE corner of the Devil's Punchbowl parking lot.
-    It travels for a little over a mile before it meets the Devil's backbone trail.
-    From there it is two miles to Devil's Chair, accoring to the trail junction sign.
-    It begins at an elevation of 4760ft, climbs almost to it's high point of 5300ft in the first mile.
-    After that the trail winds around and through small hills and valleys with minor up and down climbs.
-    Finally, in the last half mile, it drops sharply down about 300ft to Devil's Chair.
-  </p>
-  <div style="position: relative;">
-  <form>
-    <input type="checkbox" name="HikeRouteOn" id="HikeRouteOnCheck" checked onclick="SetRoute(this, gMap, gHikeRouteData)">Show Hike Route</input>
-  </form>
-  </div>
-  <div id="MapRoute" style="border:1px solid black; position: relative; width: 700px; height: 500px;">
-  </div>
-  </td></tr></table>
-  <p>
-  Here is the map from <a href="http://www.topozone.com/map.asp?lat=34.40992&lon=-117.85335&datum=nad83&u=5&layer=DRG&size=l&s=50">TopoZone</a>.
-  </p>
-  <p>
-  Here is a link to <a href="http://maps.yahoo.com/broadband/#q2=34.413885%2C-117.858627&q1=44231+Sundell+Ave%2C+LANCASTER%2C+CA%2C+93536-5956&trf=0&mvt=m&lon=-118.01548&lat=34.550963&mag=7">Yahoo Maps</a>.
-  </p>
-  <br>
-  <br>
-</body>
-</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<HEAD>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+  <title>Devil's Punchbowl Hike Information</title>
+  <style type="text/css">
+    #Map 
+    {
+      background-color: LightBlue;
+      position: relative;
+      width: 683px;
+      height: 513px;
+    }
+    #Topo
+    {
+      border-style: none;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+    #Trails
+    {
+      border-style: none;
+      z-index: 1; 
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+  </style>
+  <style type="text/css">
+    v\:* {
+      behavior:url(#default#VML);
+    }
+  </style>
+  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAVuUD8Ye7uzPIb5Mx3jdMVhTXbhnmk4zPj9uwejwoA7EINiOXQBQoWc8Ue4mCTG8usO7a7Sou07j1Ug" type="text/javascript"></script>
+  <script src="GoogleMapEncode.js" type="text/javascript"></script>
+  <script src="EricGoogleMap.js" type="text/javascript"></script>
+  <script src="DevilsPunchbowl.js"></script>
+  <script type="text/javascript">
+    var gMap;
+    var gHikeRouteData;
+
+    function LoadEricGoogleMap() 
+    {
+      if (GBrowserIsCompatible()) 
+      {
+        gMap = InitializeMap("MapRoute", 34.40992, -117.85335, 14, 'Topo');
+        var routePoints = LoadRoute("DevilsChairHike.xml");
+        gHikeRouteData = CreateRoute(routePoints);        SetRoute("HikeRouteOnCheck", gMap, gHikeRouteData);
+      }
+    }
+  </script>
+</head>
+<body onload="InitMap();LoadEricGoogleMap()" onunload="GUnload()">
+  <table><tr><td>
+  <h1>Devil's Punchbowl Hike</h1>
+  <table>
+<tr><td>
+  <p>
+    Click <a href="http://picasaweb.google.com/qhccadmin/DevilSPunchbowl">here</a> to see the <a href="http://picasaweb.google.com/qhccadmin/DevilSPunchbowl">pictures from our hike</a>.
+  </p>
+  </td></tr>
+  <tr><td>
+  <h2>Map</h2>
+  <p>
+    Before we hiked, the beginning of the trail was hard to find, either by topo map or by satellite. 
+    Here is an attempt to match a topo map with a trail map taken from the <a href="http://www.devils-punchbowl.com/">Devil's Punchbowl website</a>.
+  </p>
+  <form>
+    <input type="radio" name="MapChoice" id="TopoRadio" value="Topo" checked onclick="ShowMap()">Topo</input>
+    <input type="radio" name="MapChoice" id="TrailsRadio" value="Trails" onclick="ShowMap()">Trails</input>
+    <input type="radio" name="MapChoice" id="TopoTrailsRadio" value="TopoTrails" onclick="ShowMap()">Topo and Trails</input>
+  </form>
+  <div id="Map">
+    <div id="Topo" style="visibility: visible;"><img src="DevilsPunchbowlTopo.jpg"></div>
+    <div id="Trails" style="visibility: hidden;"><img src="DevilsPunchbowlTrailOverlay.png"></div>
+  </div>
+  <p><!--Old route 623004-->
+    Here the trail on <a href="http://www.gmap-pedometer.com/?r=642463">Gmaps Pedometer</a>.
+    The trail leaves the SE corner of the Devil's Punchbowl parking lot.
+    It travels for a little over a mile before it meets the Devil's backbone trail.
+    From there it is two miles to Devil's Chair, accoring to the trail junction sign.
+    It begins at an elevation of 4760ft, climbs almost to it's high point of 5300ft in the first mile.
+    After that the trail winds around and through small hills and valleys with minor up and down climbs.
+    Finally, in the last half mile, it drops sharply down about 300ft to Devil's Chair.
+  </p>
+  <div style="position: relative;">
+  <form>
+    <input type="checkbox" name="HikeRouteOn" id="HikeRouteOnCheck" checked onclick="SetRoute(this, gMap, gHikeRouteData)">Show Hike Route</input>
+  </form>
+  </div>
+  <div id="MapRoute" style="border:1px solid black; position: relative; width: 700px; height: 500px;">
+  </div>
+  </td></tr></table>
+  <p>
+  Here is the map from <a href="http://www.topozone.com/map.asp?lat=34.40992&lon=-117.85335&datum=nad83&u=5&layer=DRG&size=l&s=50">TopoZone</a>.
+  </p>
+  <p>
+  Here is a link to <a href="http://maps.yahoo.com/broadband/#q2=34.413885%2C-117.858627&q1=44231+Sundell+Ave%2C+LANCASTER%2C+CA%2C+93536-5956&trf=0&mvt=m&lon=-118.01548&lat=34.550963&mag=7">Yahoo Maps</a>.
+  </p>
+  <br>
+  <br>
+</body>
+</html>

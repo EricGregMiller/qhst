@@ -1,150 +1,150 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-  <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>Remata Help</title>
-  <style type="text/css">
-    #div-icon {
-     position:relative; 
-     min-height: 50px;
-    }
-    #img-brain {
-     margin: 0pt 0px 10px 10pt; 
-     float: right;
-    }
-    #img-icon {
-     margin: 5pt 5px 5px 0pt; 
-     float: left; 
-     height: 48px; 
-    }
-  </style>
-  </head>
-  <body>
-    <img id="img-brain" src="../../remata_brain.jpg"/>
-    <p><b>Getting Cards</b></p>
-    <p>
-      When Remata starts it tries to show a flashcard. 
-      The first time you run it there are no flashcards in memory.
-      Use the menu key and pick "Get cards" to get flashcards into memory.
-      When you pick "Get cards" you see a list of available card files.
-      Pick a file from the list.
-      A dialog asks if you really want to get the file.
-      Push "OK" and the cards are loaded into memory.
-    </p>
-    <p><b>Viewing Cards</b></p>
-    <p>
-      Once cards are loaded into memory you see the first card on the screen.
-      On the top you see the "front" of the card.
-      Below the front you see a question mark (?) icon. 
-      It stands in the place of the answer which is on the "back of the card.
-      At the bottom left you see something like "Card: 1/37"
-      This means you are on card number 1 and there are 37 cards in memory.
-      At the bottom right you see "Difficulty: 2".
-      Each card is given a difficulty of 2 when it is loaded into memory.
-      When you get it correct the difficulty is decreased by one.
-      When you get it wrong the difficulty is increased by one.
-      When the difficulty reaches zero the card is no longer displayed.
-    </p>
-    <p>
-      On the card view screen you can do several things with the buttons.
-    </p> 
-    <div id="div-icon">
-      <p>
-        <img id="img-icon" src="question_icon.png"/>
-        Push the question mark to show the answer on the "back" of the card.
-        Once you view the answer you can move to a new card.
-        You can also mark your answer right or wrong.
-        These are all done with the buttons described below.
-      </p>
-    </div>
-    <div id="div-icon">
-      <p>
-        <img id="img-icon" src="previous_icon.png"/>
-        Push the left arrow to display the previous card.
-        When you push the left arrow you will see the card number change.
-        For example, "Card: 8/37" will change to "Card: 7/37".
-        If some cards have difficulty zero they will be skipped.
-        In that case you will see the numbers jump.
-        For example, if card 6 and 7 have zero difficulty you will see the display change from "Card: 8/37" to "Card: 5/37".
-        Pushing the left arrow when you are on the first card will show the last card.
-      </p>
-    </div> 
-    <div id="div-icon">
-      <p>
-        <img id="img-icon" src="next_icon.png"/>
-        Push the right arrow to display the next card.
-        When you push the right arrow you will also see the card number change.
-        For example, "Card: 8/37" will change to "Card: 9/37".
-        If some cards have difficulty zero they will be skipped.
-        In that case you will see the numbers jump.
-        For example, if card 9 has zero difficulty you will see the display change from "Card: 8/37" to "Card: 10/37".
-        Pushing the right arrow when you are on the last card will show the first card.
-      </p>
-    </div>
-    <div id="div-icon">
-      <p>
-        <img id="img-icon" src="check_icon.png"/>
-        Push the check button when you get the answer correct.
-        Pushing the check button will decrease the difficulty by one.
-        For example, if a card has difficulty 2 and you push the check, the next time you see the card it will have difficulty 1.
-        Pushing the check button also moves to the next card.
-      </p>
-    </div>
-    <div id="div-icon">
-      <p>
-        <img id="img-icon" src="wrong_red_icon.png"/>
-        Push the red "x" button when you get the answer wrong.
-        When you push the "x" button it will increase the difficulty by one.
-        For example, if a card has difficulty 2 and you push the "x", the next time you see the card it will have difficulty 3.
-        Pushing the "x" button also moves to the next card.
-      </p>
-    </div>
-    <p><b>Menu</b></p>
-    <p>
-      The menu allows you to do other things. 
-      "Get cards" gets new cards into memory. 
-      It is described above. 
-      "Show card list" shows all the cards in memory in a list.
-      It is good for a quick review or checking what cards are loaded.
-      "Help" shows this help page. 
-      "About" gives brief information about Remata.
-    </p>
-    <p><b>Card Files</b></p>
-    <p>
-      Card files are stored on your phone's SD card, which is named "/sdcard". 
-      When Remata is first loaded it looks for a directory named "Remata" on the sdcard. 
-      From there it tries to load card files. 
-      Files may be downloaded from your computer to the sdcard/Remata directory. 
-    </p>
-    <p>
-      Remata card files are comma separated files. 
-      The have a ".csv" extension.
-    </p>
-    <p>
-      The simplest way to create a Remata csv card file is with a spreadsheet.
-      Both Excel and OpenOffice Calc can be used.
-      Put one card on each row.
-      Put the card fronts in Column A and the backs in Column B.
-      Save the file as a comma separated (csv) file.
-    </p>
-    <p>
-      If you don't have or don't like spreadsheets, you can create Remata csv card files with any program that creates and edits text files 
-      Notepad, WordPad, MS Word and OpenOffice Writer can make such files.
-      For many programs like Worpad, MS Word or OpenOffice Writer you need to tell the program to save the file as a text file.
-      In all programs, if you use foreign characters (like Koine Greek) you must also make sure that the file is saved as unicode text.
-      These are options on the save panel when you first save the file.
-    </p>
-    <p>
-      When you create Remata csv files with a text editing program it must follow a specific format.
-      There must be one flashcard on each line.
-      On each line put the data for the front of the card first.
-      Follow the front material by a comma.
-      After the comma put the data for the back of the card.
-      If the card data contains commas, surround the data with double quote (") marks.
-    </p>
-    <p>
-      Some files, especially for Koine Greek, can be downloaded from the <a href="http://theology.edu/Remata/Android">Remata Website.</a>
-      The <a href="http://theology.edu/Remata/Android">Remata Website</a> also provides more help in creating your own files.  
-    </p>
-  </body>
-</html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Remata Help</title>
+  <style type="text/css">
+    #div-icon {
+     position:relative; 
+     min-height: 50px;
+    }
+    #img-brain {
+     margin: 0pt 0px 10px 10pt; 
+     float: right;
+    }
+    #img-icon {
+     margin: 5pt 5px 5px 0pt; 
+     float: left; 
+     height: 48px; 
+    }
+  </style>
+  </head>
+  <body>
+    <img id="img-brain" src="../../remata_brain.jpg"/>
+    <p><b>Getting Cards</b></p>
+    <p>
+      When Remata starts it tries to show a flashcard. 
+      The first time you run it there are no flashcards in memory.
+      Use the menu key and pick "Get cards" to get flashcards into memory.
+      When you pick "Get cards" you see a list of available card files.
+      Pick a file from the list.
+      A dialog asks if you really want to get the file.
+      Push "OK" and the cards are loaded into memory.
+    </p>
+    <p><b>Viewing Cards</b></p>
+    <p>
+      Once cards are loaded into memory you see the first card on the screen.
+      On the top you see the "front" of the card.
+      Below the front you see a question mark (?) icon. 
+      It stands in the place of the answer which is on the "back of the card.
+      At the bottom left you see something like "Card: 1/37"
+      This means you are on card number 1 and there are 37 cards in memory.
+      At the bottom right you see "Difficulty: 2".
+      Each card is given a difficulty of 2 when it is loaded into memory.
+      When you get it correct the difficulty is decreased by one.
+      When you get it wrong the difficulty is increased by one.
+      When the difficulty reaches zero the card is no longer displayed.
+    </p>
+    <p>
+      On the card view screen you can do several things with the buttons.
+    </p> 
+    <div id="div-icon">
+      <p>
+        <img id="img-icon" src="question_icon.png"/>
+        Push the question mark to show the answer on the "back" of the card.
+        Once you view the answer you can move to a new card.
+        You can also mark your answer right or wrong.
+        These are all done with the buttons described below.
+      </p>
+    </div>
+    <div id="div-icon">
+      <p>
+        <img id="img-icon" src="previous_icon.png"/>
+        Push the left arrow to display the previous card.
+        When you push the left arrow you will see the card number change.
+        For example, "Card: 8/37" will change to "Card: 7/37".
+        If some cards have difficulty zero they will be skipped.
+        In that case you will see the numbers jump.
+        For example, if card 6 and 7 have zero difficulty you will see the display change from "Card: 8/37" to "Card: 5/37".
+        Pushing the left arrow when you are on the first card will show the last card.
+      </p>
+    </div> 
+    <div id="div-icon">
+      <p>
+        <img id="img-icon" src="next_icon.png"/>
+        Push the right arrow to display the next card.
+        When you push the right arrow you will also see the card number change.
+        For example, "Card: 8/37" will change to "Card: 9/37".
+        If some cards have difficulty zero they will be skipped.
+        In that case you will see the numbers jump.
+        For example, if card 9 has zero difficulty you will see the display change from "Card: 8/37" to "Card: 10/37".
+        Pushing the right arrow when you are on the last card will show the first card.
+      </p>
+    </div>
+    <div id="div-icon">
+      <p>
+        <img id="img-icon" src="check_icon.png"/>
+        Push the check button when you get the answer correct.
+        Pushing the check button will decrease the difficulty by one.
+        For example, if a card has difficulty 2 and you push the check, the next time you see the card it will have difficulty 1.
+        Pushing the check button also moves to the next card.
+      </p>
+    </div>
+    <div id="div-icon">
+      <p>
+        <img id="img-icon" src="wrong_red_icon.png"/>
+        Push the red "x" button when you get the answer wrong.
+        When you push the "x" button it will increase the difficulty by one.
+        For example, if a card has difficulty 2 and you push the "x", the next time you see the card it will have difficulty 3.
+        Pushing the "x" button also moves to the next card.
+      </p>
+    </div>
+    <p><b>Menu</b></p>
+    <p>
+      The menu allows you to do other things. 
+      "Get cards" gets new cards into memory. 
+      It is described above. 
+      "Show card list" shows all the cards in memory in a list.
+      It is good for a quick review or checking what cards are loaded.
+      "Help" shows this help page. 
+      "About" gives brief information about Remata.
+    </p>
+    <p><b>Card Files</b></p>
+    <p>
+      Card files are stored on your phone's SD card, which is named "/sdcard". 
+      When Remata is first loaded it looks for a directory named "Remata" on the sdcard. 
+      From there it tries to load card files. 
+      Files may be downloaded from your computer to the sdcard/Remata directory. 
+    </p>
+    <p>
+      Remata card files are comma separated files. 
+      The have a ".csv" extension.
+    </p>
+    <p>
+      The simplest way to create a Remata csv card file is with a spreadsheet.
+      Both Excel and OpenOffice Calc can be used.
+      Put one card on each row.
+      Put the card fronts in Column A and the backs in Column B.
+      Save the file as a comma separated (csv) file.
+    </p>
+    <p>
+      If you don't have or don't like spreadsheets, you can create Remata csv card files with any program that creates and edits text files 
+      Notepad, WordPad, MS Word and OpenOffice Writer can make such files.
+      For many programs like Worpad, MS Word or OpenOffice Writer you need to tell the program to save the file as a text file.
+      In all programs, if you use foreign characters (like Koine Greek) you must also make sure that the file is saved as unicode text.
+      These are options on the save panel when you first save the file.
+    </p>
+    <p>
+      When you create Remata csv files with a text editing program it must follow a specific format.
+      There must be one flashcard on each line.
+      On each line put the data for the front of the card first.
+      Follow the front material by a comma.
+      After the comma put the data for the back of the card.
+      If the card data contains commas, surround the data with double quote (") marks.
+    </p>
+    <p>
+      Some files, especially for Koine Greek, can be downloaded from the <a href="http://theology.edu/Remata/Android">Remata Website.</a>
+      The <a href="http://theology.edu/Remata/Android">Remata Website</a> also provides more help in creating your own files.  
+    </p>
+  </body>
+</html>

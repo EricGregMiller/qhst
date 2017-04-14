@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<MessageSeries>
-  <SeriesInfo>
-    <Name>Other Messages of 2007</Name>
-    <TagLine>Message given in 2007 that are not part of a series.</TagLine>
-    <Description></Description>
-  </SeriesInfo>
-  <Message>
-    <Name>Our Savior's Heart</Name> 
-    <Link>http://www.youtube.com/v/pH9ZMfeQiZ8</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>2</Number>
-    <Date>November 11, 2007</Date>
-    <Speaker>Don Patterson</Speaker>
-    <ExtraInfo>This is the second of a pair of messages on John 17. The first was not recorded.</ExtraInfo>
-  </Message>
-  <Message>
-    <Name>STORM</Name> 
-    <Link>http://www.youtube.com/v/0wKFKBePOn0</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Date>December 30, 2007</Date>
-    <Speaker>Don Patterson</Speaker>
-    <ExtraInfo>A look at dealing with bad events in our lives taken from the storm in Mark 4:35-41.</ExtraInfo>
-  </Message>
-</MessageSeries>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>Other Messages of 2007</Name>
+    <TagLine>Message given in 2007 that are not part of a series.</TagLine>
+    <Description></Description>
+  </SeriesInfo>
+  <Message>
+    <Name>Our Savior's Heart</Name> 
+    <Link>http://www.youtube.com/v/pH9ZMfeQiZ8</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>2</Number>
+    <Date>November 11, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+    <ExtraInfo>This is the second of a pair of messages on John 17. The first was not recorded.</ExtraInfo>
+  </Message>
+  <Message>
+    <Name>STORM</Name> 
+    <Link>http://www.youtube.com/v/0wKFKBePOn0</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Date>December 30, 2007</Date>
+    <Speaker>Don Patterson</Speaker>
+    <ExtraInfo>A look at dealing with bad events in our lives taken from the storm in Mark 4:35-41.</ExtraInfo>
+  </Message>
+</MessageSeries>

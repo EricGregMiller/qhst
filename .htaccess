@@ -1,16 +1,16 @@
-ErrorDocument 404 /Master/FileNotFound.html
-Action QHSTPage /QHScript/qhst.php
-Action QHCCPage /QHScript/qhcc.php
-Action QHPHPage /QHScript/qhph.php
-Action HDCWGPage /QHScript/hdcwg.php
-Action RemataPage /QHScript/remata.php
-<FilesMatch "\.html?$">
-  SetHandler QHSTPage
-</FilesMatch>
-<FilesMatch "^publishing.html$">
-  SetHandler QHPHPage
-</FilesMatch>
-RewriteEngine On
-RewriteCond %{HTTP_REFERER} !^http://(.+\.)?theology\.edu/ [NC]
-RewriteCond %{HTTP_REFERER} !^$
-RewriteRule .*\.(jpe?g|gif|bmp|png|jpg)$ http://www.ronpaul.com/images/bumper/ron_paul_for_president_2012_bumper_sticker-p12846633250326649783h9_325.jpg [R]
+ErrorDocument 404 /Master/FileNotFound.html
+Action QHSTPage /QHScript/qhst.php
+Action QHCCPage /QHScript/qhcc.php
+Action QHPHPage /QHScript/qhph.php
+Action HDCWGPage /QHScript/hdcwg.php
+Action RemataPage /QHScript/remata.php
+<FilesMatch "\.html?$">
+  SetHandler QHSTPage
+</FilesMatch>
+<FilesMatch "^publishing.html$">
+  SetHandler QHPHPage
+</FilesMatch>
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} !^http://(.+\.)?theology\.edu/ [NC]
+RewriteCond %{HTTP_REFERER} !^$
+RewriteRule .*\.(jpe?g|gif|bmp|png|jpg)$ http://www.ronpaul.com/images/bumper/ron_paul_for_president_2012_bumper_sticker-p12846633250326649783h9_325.jpg [R]

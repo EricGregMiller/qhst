@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<MessageSeries>
-  <SeriesInfo>
-    <Name>Christmas In The Air</Name>
-    <TagLine>A brief look at Christmas</TagLine>
-    <Description>A Sunday morning series delivered by Pastor Don Patterson in 2011.</Description>
-  </SeriesInfo>
-  <Message>
-    <Name>Prophecy &amp; Christ</Name> 
-    <Link>http://www.youtube.com/v/vr1lq6omhGI</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>1</Number>
-    <Date>December 11, 2011</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>Joseph &amp; Mary</Name> 
-    <Link>http://www.youtube.com/v/_5I9M7_j4Ho</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>2</Number>
-    <Date>December 18, 2011</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-  <Message>
-    <Name>The Perfect Gift</Name> 
-    <Link>http://www.youtube.com/v/nbREzGOHwqs</Link>
-    <Attribute><Name>version</Name><Value>3</Value></Attribute>
-    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
-    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
-    <Number>3</Number>
-    <Date>December 25, 2011</Date>
-    <Speaker>Don Patterson</Speaker>
-  </Message>
-</MessageSeries>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageSeries>
+  <SeriesInfo>
+    <Name>Christmas In The Air</Name>
+    <TagLine>A brief look at Christmas</TagLine>
+    <Description>A Sunday morning series delivered by Pastor Don Patterson in 2011.</Description>
+  </SeriesInfo>
+  <Message>
+    <Name>Prophecy &amp; Christ</Name> 
+    <Link>http://www.youtube.com/v/vr1lq6omhGI</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>1</Number>
+    <Date>December 11, 2011</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>Joseph &amp; Mary</Name> 
+    <Link>http://www.youtube.com/v/_5I9M7_j4Ho</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>2</Number>
+    <Date>December 18, 2011</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+  <Message>
+    <Name>The Perfect Gift</Name> 
+    <Link>http://www.youtube.com/v/nbREzGOHwqs</Link>
+    <Attribute><Name>version</Name><Value>3</Value></Attribute>
+    <Attribute><Name>hl</Name><Value>en_US</Value></Attribute>
+    <Attribute><Name>rel</Name><Value>0</Value></Attribute>
+    <Number>3</Number>
+    <Date>December 25, 2011</Date>
+    <Speaker>Don Patterson</Speaker>
+  </Message>
+</MessageSeries>

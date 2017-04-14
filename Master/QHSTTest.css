@@ -1,269 +1,269 @@
-body 
-{
-  margin:0 0 0 0; 
-  background-color:#6f7a9e; 
-  color:#ffffff; 
-  font-family: Arial, Helvetica, sans-serif; 
-  font-size: 12px;
-  behavior: url("hover.htc");
-}
-
-a
-{
-  color: #99ccff;
-  font-weight: bold; 
-  text-decoration: none;
-}
-
-a:visited
-{
-  color: #9999ff;
-}
-
-div.spacer
-{
-  clear: both;
-}
-
-div.TableRow
-{
-  clear: both;
-}
-
-div.TableCell
-{
-  float: left;
-}
-
-div.Header
-{
-  clear: both;
-  width: 100%;
-  height: 94px;
-  background: #8e9ccb url(TopBackground.jpg) left top repeat-x;
-}
-
-div.Header a
-{
-  border: solid 0 #6f7a9ef;
-  margin: 0;
-}
-
-div.Header img
-{
-  border: solid 0 #6f7a9e;
-  margin: 0;
-  padding: 0;
-}
-
-div.HeaderLinks
-{
-  position: absolute;
-  left: 450px;
-  width: 400px;
-  top: 0px;
-  height: 94px;
-}
-
-div.NavHead
-{
-  position: absolute;
-  left: 0px;
-  top: 5px;
-  height: 17px;
-}
-
-div.NavHead a
-{
-  color: #3c4a7e;
-  margin: 0;
-  padding: 0px 10px 0px 10px;
-}
-
-div.NavHead a:hover  {
-  background: #000066;
-  color: #99ccff;
-  margin: 0;
-  padding: 0px 10px 0px 10px;
-}
-
-div.NavHead ul
-{
-  list-style: none;
-  padding: 0px;
-  margin: 0;
-}
-
-div.NavHead li
-{
-  float: left;
-  padding: 0px;
-  margin: 0;
-}
-
-div.Search
-{
-  color: #000000;
-  position: absolute;
-  left: 10px;
-  top: 32px;
-}
-
-div.NavTab
-{
-  clear: both;
-  padding-top: 5px;
-  background: #6f7a9e;
-  width: 100%;
-  height: 17px;
-  border-bottom-style: solid;
-  border-bottom-color: #333366;
-}
-
-div.NavTab ul
-{
-  list-style: none;
-  padding: 2px 0px 0px 0px;
-  margin: 0;
-}
-
-div.NavTab li
-{
-  float: left;
-  background: #000000 url(TabLeftBlackX6f7a9e.jpg) left top no-repeat;
-  padding: 0px 0px 0px 0px;
-  margin: 0;
-}
-
-div.NavTab li:hover
-{
-  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
-}
-
-div.NavTab a
-{
-  color: #ffffff;
-  background: url(TabRightBlackX6f7a9e.jpg) right top no-repeat;
-  text-decoration: none;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-div.NavTab a:hover  {
-  color: #ffffff;
-  background: url(TabRightX333366X6f7a9e.jpg) right top no-repeat;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-div.NavTab a:hover span
-{
-  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
-} 
-
-div.NavTabSel li
-{
-  float: left;
-  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
-  padding: 0px 0px 0px 0px;
-  margin: 0;
-}
-
-div.NavTabSel a
-{
-  color: #ffffff;
-  background: url(TabRightX333366X6f7a9e.jpg) right top no-repeat;
-  text-decoration: none;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-bottom-style: solid;
-  border-bottom-color: #333366;
-}
-
-div.NavBar
-{
-  background: #333366;
-  width: 100%;
-  height: 17px;
-}
-
-div.NavBar a
-{
-  background: #333366;
-  margin: 0;
-  padding: 0px 10px 0px 10px;
-}
-
-div.NavBar a:hover  {
-  background: #000066;
-  margin: 0;
-  padding: 0px 10px 0px 10px;
-}
-
-div.NavBar ul
-{
-  list-style: none;
-  padding: 0px;
-  margin: 0;
-}
-
-div.NavBar li
-{
-  float: left;
-  padding: 0px;
-  margin: 0;
-}
-
-div.NavTab
-{
-}
-
-div.NavTabFoot a
-{
-  background: #000000;
-}
-
-div.NavTabFoot a:hover
-{
-  background: #333366;
-}
-
-div.NavTab a span
-{
-  background: #000000;
-}
-
-div.NavTab a:hover span
-{
-  background: #333366;
-} 
-
-div.CopyRight
-{
-  clear: both;
-}
-
-div.ContentAd
-{
-  clear: both;
-  padding-top: 10px;
-}
-div.AdSense
-{
-  position: relative;
-  top: 0px;
-  right: 0px;
-  float: right;
-  width: 120px;
-  height: 160px;
-}
-div.ContentBox
-{
-  position: absolute;
-  left: 0px;
-  right: 125px;
-}
-div.Content
-{
-  clear: both;
-}
+body 
+{
+  margin:0 0 0 0; 
+  background-color:#6f7a9e; 
+  color:#ffffff; 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 12px;
+  behavior: url("hover.htc");
+}
+
+a
+{
+  color: #99ccff;
+  font-weight: bold; 
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: #9999ff;
+}
+
+div.spacer
+{
+  clear: both;
+}
+
+div.TableRow
+{
+  clear: both;
+}
+
+div.TableCell
+{
+  float: left;
+}
+
+div.Header
+{
+  clear: both;
+  width: 100%;
+  height: 94px;
+  background: #8e9ccb url(TopBackground.jpg) left top repeat-x;
+}
+
+div.Header a
+{
+  border: solid 0 #6f7a9ef;
+  margin: 0;
+}
+
+div.Header img
+{
+  border: solid 0 #6f7a9e;
+  margin: 0;
+  padding: 0;
+}
+
+div.HeaderLinks
+{
+  position: absolute;
+  left: 450px;
+  width: 400px;
+  top: 0px;
+  height: 94px;
+}
+
+div.NavHead
+{
+  position: absolute;
+  left: 0px;
+  top: 5px;
+  height: 17px;
+}
+
+div.NavHead a
+{
+  color: #3c4a7e;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+div.NavHead a:hover  {
+  background: #000066;
+  color: #99ccff;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+div.NavHead ul
+{
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+}
+
+div.NavHead li
+{
+  float: left;
+  padding: 0px;
+  margin: 0;
+}
+
+div.Search
+{
+  color: #000000;
+  position: absolute;
+  left: 10px;
+  top: 32px;
+}
+
+div.NavTab
+{
+  clear: both;
+  padding-top: 5px;
+  background: #6f7a9e;
+  width: 100%;
+  height: 17px;
+  border-bottom-style: solid;
+  border-bottom-color: #333366;
+}
+
+div.NavTab ul
+{
+  list-style: none;
+  padding: 2px 0px 0px 0px;
+  margin: 0;
+}
+
+div.NavTab li
+{
+  float: left;
+  background: #000000 url(TabLeftBlackX6f7a9e.jpg) left top no-repeat;
+  padding: 0px 0px 0px 0px;
+  margin: 0;
+}
+
+div.NavTab li:hover
+{
+  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
+}
+
+div.NavTab a
+{
+  color: #ffffff;
+  background: url(TabRightBlackX6f7a9e.jpg) right top no-repeat;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+div.NavTab a:hover  {
+  color: #ffffff;
+  background: url(TabRightX333366X6f7a9e.jpg) right top no-repeat;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+div.NavTab a:hover span
+{
+  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
+} 
+
+div.NavTabSel li
+{
+  float: left;
+  background: #333366 url(TabLeftX333366X6f7a9e.jpg) left top no-repeat;
+  padding: 0px 0px 0px 0px;
+  margin: 0;
+}
+
+div.NavTabSel a
+{
+  color: #ffffff;
+  background: url(TabRightX333366X6f7a9e.jpg) right top no-repeat;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: #333366;
+}
+
+div.NavBar
+{
+  background: #333366;
+  width: 100%;
+  height: 17px;
+}
+
+div.NavBar a
+{
+  background: #333366;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+div.NavBar a:hover  {
+  background: #000066;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+div.NavBar ul
+{
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+}
+
+div.NavBar li
+{
+  float: left;
+  padding: 0px;
+  margin: 0;
+}
+
+div.NavTab
+{
+}
+
+div.NavTabFoot a
+{
+  background: #000000;
+}
+
+div.NavTabFoot a:hover
+{
+  background: #333366;
+}
+
+div.NavTab a span
+{
+  background: #000000;
+}
+
+div.NavTab a:hover span
+{
+  background: #333366;
+} 
+
+div.CopyRight
+{
+  clear: both;
+}
+
+div.ContentAd
+{
+  clear: both;
+  padding-top: 10px;
+}
+div.AdSense
+{
+  position: relative;
+  top: 0px;
+  right: 0px;
+  float: right;
+  width: 120px;
+  height: 160px;
+}
+div.ContentBox
+{
+  position: absolute;
+  left: 0px;
+  right: 125px;
+}
+div.Content
+{
+  clear: both;
+}
