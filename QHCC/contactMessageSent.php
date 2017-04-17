@@ -323,7 +323,7 @@ if (isset($_REQUEST['submitted'])) {
     // Send the email if validation passes
     if (empty($errors)) {
         $from = "QHCC Admin <admin@theology.edu>";
-        $to      = "rellimcire@gmail.com";
+        $to      = "info@theology.edu";
         $subject = "QHCC Admin - Comment from " . $name . "";
         $messageToSend = "Message from " . $name . "\nEmail: " . $email . "\nMessage: \n" . $message . "";
         $headers = "From: " . $from;
