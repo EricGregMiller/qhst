@@ -1,0 +1,26 @@
+<html>
+<body onload="myFunction()">
+
+<div id="d1">
+  <p id="p1"><b>Hello World!</b></p>
+</div>
+
+
+</body>
+</html>
+<script>
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+async function demo() {
+  console.log('Taking a break...');
+  await sleep(2000);
+  console.log('Two second later');
+  document.getElementById("d1").innerHTML = "<p><b>New div text html!</b></p>";
+}
+function myFunction() {
+    console.log('myFunction ...');
+    document.getElementById("d1").innerHTML = "<p><b>myFunction</b></p>";
+}
+demo();
+</script>
