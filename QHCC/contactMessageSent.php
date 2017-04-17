@@ -106,85 +106,11 @@
                     <div class="container background-white">
                         <div class="row margin-vert-30">
                             <!-- Main Column -->
-                            <div class="col-md-9">
+                            <div class="col-md-9" id="mainColumn">
                                 <!-- Main Content -->
-<?php
-// Initialize error array.
-$errors = array();
-$messageSuccess = <<<MESSAGE_SUCCESS
                                 <div class="headline">
-                                    <h2>Message Sent!</h2>
+                                    <h2>Sending message ...</h2>
                                 </div>
-                                <br>
-MESSAGE_SUCCESS;
-$messageFailure = <<<MESSAGE_FAILURE
-                                <div class="headline">
-                                    <h2>Message Not Sent</h2>
-                                </div>
-                                <br>
-MESSAGE_FAILURE;
-if (isset($_REQUEST['submitted'])) {
-    // Check for a proper name
-    if (!empty($_REQUEST['name'])) {
-        $name = $_REQUEST['name'];
-        $name = filter_var($name, FILTER_SANITIZE_STRING);
-    }
-    
-    // Check for a proper email
-    if (!empty($_REQUEST['email'])) {
-      $email = $_REQUEST['email'];
-      $email = filter_var($email, FILTER_SANITIZE_EMAIL);
-      if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        $errors[] = 'The email address you entered (' . $email . ') is not valid.';
-      }
-    } else {
-        $errors[] = 'You forgot to enter your email address.';
-    }
-    
-    // Check for a proper email
-    if (!empty($_REQUEST['message'])) {
-      $message = $_REQUEST['message'];
-      $message = filter_var($message, FILTER_SANITIZE_STRING);
-    } else {
-        $errors[] = 'You forgot to enter a message.';
-    }
-    
-    //End of validation 
-
-    // Send the email if validation passes
-    if (empty($errors)) {
-        $from = "QHCC Admin <admin@theology.edu>";
-        $to      = "info@theology.edu";
-        $subject = "QHCC Admin - Comment from " . $name . "";
-        $messageSent = "Message from " . $name . "\nEmail: " . $email . "\nMessage: \n" . $message . "";
-        $headers = "From: " . $from;
-        mail($to, $subject, $messageSent, $from, "-f " . $from);
-        echo $messageSuccess;
-        echo '<p>Your mail was sent. Thank you! Below is the message that you sent.</p>';
-        echo '<pre>' .$messageSent . '</pre>';
-    }
-    //End of errors array
-} else {
-    $errors[] = 'We apologize. Something went wrong and there is no message data. Please try again.';
-}
-if (!empty($errors)) {
-    // Print any error messages. 
-    echo $messageFailure;
-    echo '<p>Your email could not be sent due to the following errors.</p><ul>';
-    // Print each error. 
-    foreach ($errors as $msg) {
-        echo '<li>' . $msg . '</li>';
-    }
-    echo '</ul>';
-}
-?>
-                                <!-- Return Form -->
-                                <form name="return_form" action="contact.html" method="get">
-                                    <p>
-                                        <button type="submit" class="btn btn-primary">Return to Contact Page</button>
-                                    </p>
-                                </form>
-                                <!-- End Return Form -->
                                 <!-- End Main Content -->
                             </div>
                             <!-- End Main Column -->
@@ -363,6 +289,73 @@ if (!empty($errors)) {
                 <!-- Modernizr -->
                 <script src="assets/js/modernizr.custom.js" type="text/javascript"></script>
                 <!-- End JS -->
+<?php
+// Initialize error array.
+$errors = array();
+if (isset($_REQUEST['submitted'])) {
+    // Check for a proper name
+    if (!empty($_REQUEST['name'])) {
+        $name = $_REQUEST['name'];
+        $name = filter_var($name, FILTER_SANITIZE_STRING);
+    }
+    
+    // Check for a proper email
+    if (!empty($_REQUEST['email'])) {
+      $email = $_REQUEST['email'];
+      $email = filter_var($email, FILTER_SANITIZE_EMAIL);
+      if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        $errors[] = 'The email address you entered (' . $email . ') is not valid.';
+      }
+    } else {
+        $errors[] = 'You forgot to enter your email address.';
+    }
+    
+    // Check for a proper email
+    if (!empty($_REQUEST['message'])) {
+      $message = $_REQUEST['message'];
+      $message = filter_var($message, FILTER_SANITIZE_STRING);
+    } else {
+        $errors[] = 'You forgot to enter a message.';
+    }
+    
+    //End of validation 
+
+    // Send the email if validation passes
+    if (empty($errors)) {
+        $from = "QHCC Admin <admin@theology.edu>";
+        $to      = "rellimcire@gmail.com";
+        $subject = "QHCC Admin - Comment from " . $name . "";
+        $messageToSend = "Message from " . $name . "\nEmail: " . $email . "\nMessage: \n" . $message . "";
+        $headers = "From: " . $from;
+        mail($to, $subject, $messageToSend, $from, "-f " . $from);
+        // Need to escape line feeds to pass to Javascript
+        $messageSent = "Message from " . $name . "\\nEmail: " . $email . "\\nMessage: \\n" . $message . "";
+    }
+    //End of errors array
+} else {
+    $errors[] = 'We apologize. Something went wrong and there is no message data. Please try again.';
+}
+$sentContent = "";
+if (empty($errors)) {
+    $sentContent = '<div class="headline"><h2>Message Sent!</h2></div><br><p>Your mail was sent. Thank you! Below is the message that you sent.</p>';
+    $sentContent .= '<pre>' .$messageSent . '</pre>';
+} else {
+    $sentContent = '<div class="headline"><h2><span class="color-red">Message Not Sent</span></h2></div><br><p>Your email could not be sent due to the following errors.</p><ul>';
+    // Add each error. 
+    foreach ($errors as $msg) {
+        $sentContent .= '<li>' . $msg . '</li>';
+    }
+    $sentContent .= '</ul>';
+}
+// Add return form button
+$sentContent .= '<!-- Return Form --><form name="return_form" action="contact.html" method="get"><p><button type="submit" class="btn btn-primary">Return to Contact Page</button></p></form><!-- End Return Form -->';
+echo '<script>';
+echo 'function sent() {';
+echo '    document.getElementById("mainColumn").innerHTML = \'' . $sentContent .'\';';
+echo '}';
+echo 'sent();';
+echo '</script>';
+?>
             </body>
         </html>
 <!-- === END FOOTER === -->
