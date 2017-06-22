@@ -3,7 +3,7 @@ require 'QHPage.php';
 
 class QHSTPage extends QHPage
 {
-  function ShortcutIcon()
+  function InitializePage()  {    $this->useFrame = False;  }  function ShortcutIcon()
   {
     print (' <link rel="shortcut icon" href="/Master/qhst.ico" />'."\n");
   }
