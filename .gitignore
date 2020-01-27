@@ -1,1 +1,5 @@
 .idea
+*.bak
+*WS_FTP.LOG
+*.DS_STORE
+
